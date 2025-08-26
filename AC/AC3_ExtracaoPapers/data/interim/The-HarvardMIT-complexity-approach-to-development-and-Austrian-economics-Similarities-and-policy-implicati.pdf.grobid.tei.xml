@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_bs7peBj">The Harvard-MIT complexity approach to development and Austrian economics: Similarities and policy implications</title>
+				<funder ref="#_QQ9a8NP">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-10-26">26 October 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Vicente</forename><surname>Moreno-Casas</surname></persName>
+							<email>vimoca1999@gmail.com</email>
+							<idno type="ORCID">0000-0003-1194-4851</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">Universidad Rey Juan Carlos</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_ENre9UQ">The Harvard-MIT complexity approach to development and Austrian economics: Similarities and policy implications</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-10-26">26 October 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9F373587D4F49E49E35A07C7A1B597F6</idno>
+					<idno type="DOI">10.1007/s11138-021-00565-6</idno>
+					<note type="submission">Accepted: 15 October 2021 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-26T13:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_8CfmpMx">Complexity economics</term>
+					<term xml:id="_uymYDN7">Economic development</term>
+					<term xml:id="_bRGDJSy">Tacit knowledge</term>
+					<term xml:id="_VEQE3yE">Entrepreneurship</term>
+					<term xml:id="_4EmFFFc">Capital theory JEL classification B53</term>
+					<term xml:id="_jTnFbJ7">D80</term>
+					<term xml:id="_tZJneqh">L26</term>
+					<term xml:id="_qKDwMfx">O10</term>
+					<term xml:id="_5Tpy2eW">O43</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_Q65nHsZ"><p xml:id="_HYEbWvX"><s xml:id="_TrJMumj">In recent years, researchers from MIT and Harvard University have developed a complexity approach to economic development.</s><s xml:id="_s3Vjarv">This perspective implicitly follows some characteristic elements of the complexity scientific paradigm emerged in the second half of the twentieth century but focuses on a practical application to economic development.</s><s xml:id="_GwcCXqq">As in the more general theory of complexity economics, this Harvard-MIT approach has many points in common with Austrian economics.</s><s xml:id="_UN2sYq9">This paper highlights these similarities, concerning capital theory, entrepreneurship, a knowledge-based view of the economy, organizational capabilities, and economic growth.</s><s xml:id="_ZQcqHzh">As a result of these similarities, we also present the policy implications derived from the shared elements of the two currents, which materializes in the idea that the Harvard-MIT approach can adopt the Market Policy Pogramme (MPP), conceived by David Harper as a practical application of the fundamental theoretical principles of Austrian economics.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_Spvymmy">Introduction</head><p xml:id="_2yANPyj"><s xml:id="_mZebwm6">It was in the mid-1980s when studies of complexity gained attention in economics, as well as in other disciplines.</s><s xml:id="_EgG5kX4">It resulted from a shift in science, from a Newtonian vision to a non-mechanistic view on the universe's nature <ref type="bibr" target="#b57">(Lavoie, 1989)</ref>.</s><s xml:id="_bVY5Aw6">This revolutionary step in science is evidenced, for instance, in <ref type="bibr" target="#b18">Gleick's (1987)</ref> renowned book on chaos theory.</s><s xml:id="_9gJsezF"><ref type="bibr" target="#b3">Arthur (2015)</ref> describes this shift as follows: "All the sciences are becoming more procedural, more algorithmic, more Turingesque; and less equation-based, less continuous, less Newtonian, than before" (p.25).</s><s xml:id="_3XtD8DU">For economics, complexity entailed the study of the economy out of equilibrium, at a much more general level, where it ceases to be "deterministic, predictable, and mechanistic" and becomes "process dependent, organic, and always evolving" <ref type="bibr">(Arthur, 1999, p. 109)</ref>.</s></p><p xml:id="_SGrwVQA"><s xml:id="_2JjwZ4X">Particularly, it is common in economic literature to refer to six characteristics that, according to <ref type="bibr" target="#b4">Arthur et al. (1997)</ref>, complexity economics consists of: (1) dispersed interaction among heterogeneous agents; (2) no global controller of interactions, mechanisms of coordination and competition «control» instead; (3) cross-cutting hierarchical organization with tangled interactions across levels of organization; (4) continual adaptation of the system as the individual agents accumulate experience and adapt their behavior; (5) perpetual novelty since niches are continually created, and the very filling of a niche may create other new niches; (6) out-ofequilibrium dynamics so "the economy operates far from any optimum or global equilibrium" (p.</s><s xml:id="_65PMTdg">4).</s><s xml:id="_TpSyQfE">Even so, we must note that <ref type="bibr" target="#b4">Arthur et al. (1997)</ref> complexity perspective, labeled as Santa Fe complexity or narrow/small tent complexity <ref type="bibr">(Rosser Jr., 2009a)</ref>, is not the only theory on complexity and economics.</s><s xml:id="_kDKUnMS">Despite the vast array of complexity definitions, we can also consider the broad/big tent definition provided by <ref type="bibr" target="#b74">Rosser Jr. (1999)</ref>, who following <ref type="bibr" target="#b13">Day (1994)</ref>, states that "a dynamical system is complex if it endogenously does not tend asymptotically to a fixed point, a limit cycle, or an explosion" (p.</s><s xml:id="_mWM7cDY">170).</s><s xml:id="_FvPhYUn">We will delve into complexity's various definitions and theories later in this paper, but for the moment, we must be aware that this new approach to economics is potentially relevant for the development of this science, so much so that some economists have spoken of a new era in economic science <ref type="bibr">(Holt et al., 2011)</ref>.</s></p><p xml:id="_YdwrKhu"><s xml:id="_XTwKvzd">In recent years, researchers <ref type="bibr">(Hausmann et al., 2013)</ref> from MIT and the Center for International Development (CID) at Harvard University have introduced a new application of the economic complexity approach<ref type="foot" target="#foot_0">foot_0</ref> to the study of economic growth and development.</s><s xml:id="_Gw3uADU">They created the Atlas of Economic Complexity and the Observatory of Economic Complexity, from where they annually elaborate the Economic Complexity Index (ECI) and the Product Complexity Index (PCI), ranking around 141 countries according to their economies' degree of complexity and a great variety of products depending on the degree of complexity their production involves.</s><s xml:id="_EXh9rhA"><ref type="bibr">Hausmann et al. (2013)</ref> understand complexity as a measure of how intricate the network of interactions between firms to coordinate and produce is, and hence, of "how much productive knowledge a society mobilizes" (p.</s><s xml:id="_jkBtPwy">18).</s><s xml:id="_vsUQNUR">The accumulation of productive knowledge, as they point out, is the source of wealth as well as the path to growth and development.</s><s xml:id="_sWmYQ7Q">However, productive knowledge is not explicit but tacit, that is, hard to transfer and hard to embed in people, which thereby "constrains the process of growth and development <ref type="bibr">" (p. 16</ref>).</s><s xml:id="_E8gjGFk">This knowledge is transferred and accumulated when embedded in networks of individuals and organizations that make 1 3</s></p><p xml:id="_NXhSU7C"><s xml:id="_rCtQsQX">The Harvard-MIT complexity approach to development and Austrian… productive use of it; otherwise, that knowledge disappears.</s><s xml:id="_P7yaGCK">Therefore, the question for the economics of growth and development is to study how societies build complex networks to transfer productive knowledge so that firms and individuals can employ it and in turn continue generating and accumulating productive knowledge.</s></p><p xml:id="_5e93h8a"><s xml:id="_gYNrJGj">At this point, anyone familiar with Austrian economics may have noticed that those ideas of the Harvard-MIT approach sound similar to some Austrian arguments, for example, the critique of the idea of equilibrium in the economy <ref type="bibr">(Hayek, 1948a</ref><ref type="bibr" target="#b22">(Hayek, , 2002</ref><ref type="bibr" target="#b24">(Hayek, , 2012))</ref>,<ref type="foot" target="#foot_1">foot_1</ref> its equilibrating <ref type="bibr" target="#b37">(Kirzner, 1992</ref><ref type="bibr" target="#b38">(Kirzner, , 2013) )</ref> or disequilibrating <ref type="bibr" target="#b48">(Lachmann, 1976</ref><ref type="bibr" target="#b50">(Lachmann, , 1986) )</ref> forces; the role of tacit knowledge <ref type="bibr">(Hayek, 1952;</ref><ref type="bibr" target="#b46">Koppl, 2018;</ref><ref type="bibr" target="#b69">Oğuz, 2010)</ref> and knowhow and its implications for the socialist calculation debate (Huerta de Soto, 2010); or that idea of the spontaneous order: the order resulting from human action but not from human design <ref type="bibr" target="#b21">(Hayek, 1973)</ref>.</s><s xml:id="_MdQNr6E">Indeed, we will refer below to several authors who have compared the works of Menger, Hayek, Lachmann or Don Lavoie with complexity theory, finding many similarities and parallelisms between it and Austrian economics.</s></p><p xml:id="_Jukr37c"><s xml:id="_rXS72Jj">Despite the apparent similarities, this research arisen at MIT and Harvard and the related works have not been examined from an Austrian standpoint in search for any convergence or divergence, and, above all, implications for both Austrian and non-Austrian economics.</s><s xml:id="_jCx35Rc">This will be the task of this article, in which we also wonder if these non-Austrian economists studying development may be holding an Austrian position distinctly; concretely, a Hayekian view.</s><s xml:id="_ckvEW93">If so, we will see how researchers and departments outside Austrian economics are certainly doing economics with a clear-cut Austrian mark.</s><s xml:id="_Usr2g8j">This may be an opportunity for Austrian economics to assert itself in front of economic science as a valuable theory and, in turn, for economists outside Austrian economics can recognize the usefulness and validity of Austrian theories.</s><s xml:id="_ZffhmZm">For all these purposes, we shall first expose the previous literature on Austrian and complexity economics.</s><s xml:id="_nH2GdMR">Then, we shall proceed to study the similarities and differences between Austrian economics and the Harvard-MIT approach, ending in the last place by showing some policy implications of our analysis.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_UWFUu75">Austrian economics and complexity</head><p xml:id="_5qt5XSp"><s xml:id="_j8hdtZy">As a result of the interest generated within economic science, a considerable number of researchers realized the similarities between the novel complexity insights in economics and Austrian economics.</s><s xml:id="_MCzfFpH">Such was the case that, as <ref type="bibr" target="#b88">Vaughn (1999)</ref> relates, Brian Arthur, a famous researcher on complexity application to economics from the Santa Fe Institute, said in an interview: "Right after we published our first findings, we started getting letters from all over the country saying, 'You know, all you guys have done is rediscover Austrian economics'… I admit I wasn't familiar with Hayek and von Mises at the time.</s><s xml:id="_xG4twfR">But now that I've read them, I can see that this is essentially true" <ref type="bibr" target="#b87">(Tucker, 1996)</ref>.</s><s xml:id="_TDc9R2K">This caused the appearance of a vast number of works on Austrian economics and complexity <ref type="bibr" target="#b57">(Lavoie, 1989;</ref><ref type="bibr" target="#b42">Koppl, 2000</ref><ref type="bibr" target="#b43">Koppl, , 2006</ref><ref type="bibr" target="#b44">Koppl, , 2009;;</ref><ref type="bibr" target="#b67">Montgomery, 2000;</ref><ref type="bibr" target="#b73">Rosser Jr, 2010</ref><ref type="bibr">, 2012</ref><ref type="bibr">, 2015;</ref><ref type="bibr" target="#b10">Barbieri, 2013)</ref>, and, in particular, papers and book chapters devoted to the study of <ref type="bibr">Hayek's complexity theory (Chaumont-Chancelier, 1999;</ref><ref type="bibr" target="#b16">Fiori, 2009;</ref><ref type="bibr" target="#b17">Gaus, 2007;</ref><ref type="bibr" target="#b35">Kilpatrick Jr, 2001;</ref><ref type="bibr" target="#b61">Lewis, 2012;</ref><ref type="bibr" target="#b88">Vaughn, 1999;</ref><ref type="bibr" target="#b93">Vriend, 2002;</ref><ref type="bibr" target="#b95">Weimer, 1982)</ref>.</s></p><p xml:id="_HjMVYj8"><s xml:id="_cm6BxbA">To speak of Austrian economics and complexity in general may be bold, given that in either of them we find numerous authors with quite different views.</s><s xml:id="_PY4Yuvd">In fact, <ref type="bibr" target="#b9">Barabási (2007)</ref> affirms that there is not a complete theory of complexity yet.</s><s xml:id="_2EbjzfA">For this reason, we can find a great array of definitions of complexity.</s><s xml:id="_MRxHaHk"><ref type="bibr">Holt et al. (2011)</ref> identify three interpretations of complexity: (1) a general interpretation provided by <ref type="bibr" target="#b83">Simon (1991)</ref> in the first systematic investigation of the concept; (2) computational complexity, grounded on the information theory of <ref type="bibr" target="#b82">Shannon (1948)</ref>; and (3) dynamic complexity, based on the interaction of heterogeneous agents.</s><s xml:id="_B6edxWw">This last notion is the most used in economics in the guise of agent-based models (ABMs)<ref type="foot" target="#foot_2">foot_2</ref>  <ref type="bibr" target="#b29">(Hoefman, 2020)</ref>.</s></p><p xml:id="_4RHb6jv"><s xml:id="_yGdwEpF">In economics, Rosser Jr. (2009a) differentiates three levels of complexity: the lowest level, labeled as narrow/small tent complexity, also known as Santa Fe or agent-based complexity, which focuses on the interaction of heterogeneous agents and captures the six characteristics formulated by <ref type="bibr" target="#b4">Arthur et al. (1997)</ref>; the broad/ big tent complexity or dynamic complexity, as an intermediate level, which was also defined in the introduction as a dynamic complex system that "endogenously does not tend asymptotically to a fixed point, a limit cycle, or an explosion" <ref type="bibr">(Rosser Jr., 1999, p. 170)</ref>; and finally, the meta-complexity level, which encompasses Seth Lloyd's 45 different definitions of complexity <ref type="bibr" target="#b30">(Horgan, 1997)</ref>.</s><s xml:id="_Xu4FujW">Additionally, Rosser Jr. (2009b) mentions other complexity perspectives: structural, hierarchical, algorithmic, or stochastic.</s><s xml:id="_Xu8m5t4">Thus, when we refer to a similarity between Austrian economics and complexity economics, we shall specify the kind of complexity we are dealing with.</s><s xml:id="_NmqW79V">That said, let us make a brief literature review on the matter.</s></p><p xml:id="_weQ86v7"><s xml:id="_Rz7dbAY">At a general level, authors such as <ref type="bibr" target="#b67">Montgomery (2000)</ref>, <ref type="bibr" target="#b43">Koppl (2006</ref><ref type="bibr">, 2009</ref><ref type="bibr" target="#b73">) and Rosser Jr. (2010</ref><ref type="bibr">, 2015)</ref> have explored the connections between Austrian economics and various complexity theories.</s><s xml:id="_qfuessc">On the one hand, <ref type="bibr" target="#b43">Koppl (2006</ref><ref type="bibr" target="#b44">Koppl ( , 2009) )</ref> sees the principal similarities between Austrians and complexity in the acronym BRICE.</s><s xml:id="_4FbGN9s">The letter B represents bounded rationality, and the R stands for rule-following agents, which are elements that both Austrian and complexity economists tend to assume in their models.</s><s xml:id="_FdX6bhn">The I represents institutions since both economists compare economic performance under different institutions.</s><s xml:id="_S3kM3HF">The C represents cognition, given that Austrians and complexity theorists pay close attention to cognition.</s><s xml:id="_66NPgEt">Finally, the E stands 1 3</s></p><p xml:id="_tGMpNXk"><s xml:id="_kSFvC3z">The Harvard-MIT complexity approach to development and Austrian… for evolution because Austrian and complexity economists construct models of economic evolution.</s></p><p xml:id="_AgsaNtP"><s xml:id="_Y6fK3kY">On the other hand, <ref type="bibr" target="#b67">Montgomery (2000)</ref> understands that complexity theory appears as an alternative to general-equilibrium economics.</s><s xml:id="_NMD7ufr">The author begins his work by contrasting neoclassical and complexity theories, highlighting seven relevant points of divergence related to linearization, expectations, equilibrium, or public policy recommendations.</s><s xml:id="_ZspVggC">Then he proceeds to analyze the Austrian-complexity links, asserting that "Austrian economists have long been partial to many of complexity theory's implicit criticisms of neoclassical theory" (p.</s><s xml:id="_pqwsApK">228).</s><s xml:id="_b9Fs39z">We thereby find, <ref type="bibr" target="#b67">Montgomery (2000)</ref> argues, that Austrian economics has rejected the neoclassical representative agent for being unrepresentative of the real actors in the economy.</s><s xml:id="_hty4dyc">Austrian economics has also criticized the neoclassical dependence on the idea of equilibrium and posited that the market process is integrated by equilibrating and disequilibrating forces --depending on the author--operating through time and under conditions of limited information.</s><s xml:id="_ddQG6hm">Similarly, Austrian economics has opposed the unrealistic assumption of rational expectations and the simplistic and sometimes misleading neoclassical arguments for free-market public policies.</s></p><p xml:id="_kv3kBMd"><s xml:id="_WJEnmuS">For his part, Rosser Jr. (2015) concludes that <ref type="bibr" target="#b4">Arthur et al. (1997)</ref> six characteristics of narrow/small or agent-based complexity can be associated with many Austrian theories.</s><s xml:id="_8bFq3Tc">The first one, the existence of dispersed interaction among heterogeneous agents, Rosser Jr. (2015) adds, has been a very appealing idea to many Austrians.</s><s xml:id="_SbVFSEZ">The second characteristic, which sets out that no global controller can exploit all opportunities, coincides with the Austrian position in the socialist calculation debate (see Huerta de Soto (2010) for a comprehensive view of the socialist calculation debate).</s><s xml:id="_xhKJzXk">The third, which entails cross-cutting hierarchical organization with tangled relations, is not such an evident element in traditional Austrian theories, but as Rosser Jr. (2015) asserts, it gained attention in more recent Austrian works such as <ref type="bibr" target="#b94">Wagner's (2010)</ref>.</s><s xml:id="_vAXvZdw">The fourth and the fifth emphasize central components of the Austrian school's entrepreneurial theory, namely: the continual adaptation and evolution of the system as agents learn and accumulate experience and the perpetual novelty that results when new markets, technologies, or institutions create new niches in the system.</s><s xml:id="_VhYUmq2">The last point stresses out-of-equilibrium dynamics, thus being the most controversial aspect of the six, since there are Austrians who see the market process either equilibrating or disequilibrating, insofar as many of them reject the notion of equilibrium.</s></p><p xml:id="_TfMvvSd"><s xml:id="_r9E2P3n">In the same way that complexity is not made up of a homogeneous theory, neither does the Austrian school.</s><s xml:id="_F67n9Dx">Regarding the Austrian-complexity links, it is quite different to deal with Böhm-Bawerk than with Hayek.</s><s xml:id="_qcUpuez">Those authors we have just cited, and several more, examine prominent Austrians searching for similarities with some complexity theories.</s><s xml:id="_7amqPsM">Therefore, <ref type="bibr">while Rosser Jr. (2010</ref><ref type="bibr">, 2015)</ref> considers Böhm-Bawerk, Wieser, and Mises as Austrians less close to the complexity approach, <ref type="bibr" target="#b44">Koppl (2009)</ref> argues that Menger was a precursor of complexity theory and that Hayek was a complexity theorist.</s><s xml:id="_KdchkBv">Similarly, Kirzner, Lachmann <ref type="bibr" target="#b10">(Barbieri, 2013)</ref> and Don <ref type="bibr" target="#b57">Lavoie (1989)</ref> worked on theories compatible with complexity economics.</s></p><p xml:id="_EcsR8KJ"><s xml:id="_Qe8pQA8">Menger introduced an evolutionary perspective and the concept of spontaneous order, subsequently extended by Hayek, and regarded as the most relevant Austrian notion for complexity theory <ref type="bibr" target="#b44">(Koppl, 2009)</ref>.</s><s xml:id="_U7VwePG">Hayek adopted the evolutionary view and the compositive method of Menger, improving the spontaneous order theory.</s><s xml:id="_3YkAJEC">Hayek's spontaneous order, <ref type="bibr" target="#b44">Koppl (2009)</ref> contends, is a complex adaptive system.</s><s xml:id="_YKQTJzd">His theory is very similar to Santa Fe complexity, but also to the algorithmic theory of <ref type="bibr" target="#b40">Kolmogorov (1968</ref><ref type="bibr" target="#b41">Kolmogorov ( , 1983))</ref>, <ref type="bibr">Solomonoff (1964a</ref><ref type="bibr" target="#b85">, 1964b</ref><ref type="bibr" target="#b11">), and Chaitin (1987)</ref>.</s><s xml:id="_cPSm542">Even more, Koppl argues, following <ref type="bibr" target="#b65">Markose (2005)</ref>, that Hayek anticipated computable economics. <ref type="foot" target="#foot_3">4</ref></s><s xml:id="_3mkFyg7">In addition, as Rosser Jr. (2012) holds, Hayek combined the emergentism of dynamic complexity with that of computational complexity, foreshadowing evolutionary-complex recent works of figures such as <ref type="bibr" target="#b55">Langton (1992)</ref>, <ref type="bibr" target="#b96">Wolfram (1984)</ref>, <ref type="bibr" target="#b33">Kaufmann (1993), and</ref><ref type="bibr" target="#b66">Mirowski (2007)</ref>.</s></p><p xml:id="_XrmvYey"><s xml:id="_MnnXgA6">This brief literature review enabled us to present some substantive links between complexity and Austrian economics, and provided us with a frame of reference to locate theories discussed below.</s><s xml:id="_UfkaB8k">As we have seen, complexity theory contains diverse perspectives sharing similarities with multiple Austrian theories.</s><s xml:id="_Txh788r">This is true to an even greater degree for one of the latest applications of the complexity approach to economic development: the Harvard-MIT approach.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_m73kktA">The Harvard-MIT approach to economic growth and development</head><p xml:id="_KHHYBQT"><s xml:id="_dKN58bm">The Harvard-MIT approach constitutes a complexity perspective to study economic development and growth.</s><s xml:id="_hZ9YrZp">It is primary focused on measuring economic complexity through indicators, such as the ECI and the PCI, to search for differences in the degree of complexity of the productive structure among countries.</s><s xml:id="_9na9k5h">According to the Harvard-MIT approach, these differences in complexity can explain countries' growth and development level.</s><s xml:id="_3BFyXTk">This vision crystallized in the publication of the Atlas of Economic Complexity <ref type="bibr">(Hausmann et al., 2013)</ref> and the launch of the Observatory of Economic Complexity.</s></p><p xml:id="_wPFGVQA"><s xml:id="_ABDax9A">The Atlas of Economic Complexity, as well as the data provided by the Observatory of Economic complexity, is based on the works of <ref type="bibr" target="#b28">Hausmann et al. (2007</ref><ref type="bibr">), Hausmann and Hidalgo (2011</ref><ref type="bibr">), Hausmann and Rodrik (2003)</ref>, <ref type="bibr" target="#b28">Hidalgo et al. (2007)</ref>, and <ref type="bibr" target="#b25">Hidalgo and</ref><ref type="bibr">Hausmann (2008, 2009)</ref>.</s><s xml:id="_UHwXDjW">Throughout those works, the authors built a complexity approach to development that finally appeared in <ref type="bibr">Hausmann et al. (2013)</ref>.</s><s xml:id="_Q26XPt8">After that, they have continued to develop some ideas that appeared in the first publication of the Atlas of Economic Complexity, with <ref type="bibr" target="#b25">Hidalgo's (2015)</ref> and Hausmann's (2016) contributions.</s><s xml:id="_TAqtg9q">In order to understand the entire set of ideas and contributions, we will explain the general view contained in <ref type="bibr">Hausmann et al. (2013)</ref>.</s><s xml:id="_bb4KKDH"><ref type="bibr">Hausmann et al. (2013)</ref> assert that the accumulation of productive knowledge, dispersed throughout society, is the source of economic prosperity.</s><s xml:id="_837cKPP">Thus, development does not depend on how brilliant individual minds are but on how much 1 3</s></p><p xml:id="_M2bvVG5"><s xml:id="_XucknUQ">The Harvard-MIT complexity approach to development and Austrian… diversity of knowledge a society can amass across its members.</s><s xml:id="_x87NcA6">Also, it is important to remark here that by productive knowledge they mean "the knowledge that goes into making the products" (p. 7).</s><s xml:id="_eN8BjKK">Consequently, productive knowledge manifests itself through products.</s><s xml:id="_Evgxuec">For them, this knowledge is tacit and hard to transmit and acquire, which ultimately constrains growth and development.</s><s xml:id="_JUGpfHq">Moreover, they argue, it is not sufficient to hold that knowledge but to make use of it through organizations and markets; otherwise, this knowledge disappears.</s><s xml:id="_ZBA63tM">For those reasons, the process of specialization becomes crucial.</s><s xml:id="_x4Jhctj">Given the high cost of embedding tacit knowledge and the need to use it, individuals and organizations specialize in certain activities.</s><s xml:id="_BjXy9hn">This leads us to another relevant concept in this approach; that of capabilities.</s><s xml:id="_gFSCCnD">Productive knowledge is allocated to individuals through specialization, which means that every individual and organization possesses modularized chunks of knowledge.</s><s xml:id="_NKavBu4">Those modularized chunks of embedded knowledge are what they call capabilities.</s></p><p xml:id="_G7K7S6f"><s xml:id="_U5duv2z">The fact that organizations and individuals specialize and acquire capabilities leads them to interact with other organizations and individuals specialized in other activities required for creating a final product.</s><s xml:id="_GYqnPra">Hence, a large set of networks and markets emerges to allow firms to cooperate efficiently with others.</s><s xml:id="_Gswq5F8">In this way, the diversity of knowledge scattered throughout society is utilized and transmitted through different networks, usually called markets.</s><s xml:id="_4x8hQ96">From this follows that the more intricate the network of interactions, the more diversity of knowledge a society will hold, meaning more economic growth.</s><s xml:id="_A7QHF9a">Given that scheme, economic complexity is understood as a measure of how intricate this network of interactions is and, hence, of how much productive knowledge a society amasses and utilizes.</s></p><p xml:id="_fpgYMCQ"><s xml:id="_Nsm2Fp9">Several implications follow from this approach.</s><s xml:id="_4U2CZ3H">First, it is logical that differences in wealth among diverse economies result from differences in the amount of knowledge they mobilize and from differences in the degree of complexity of the networks between the interacting agents of each economy.</s><s xml:id="_genmJGw">Second, it is evident that it is necessary to increase the diversity of knowledge and the complexity of the economy to obtain growth.</s><s xml:id="_mnNU9U2">However, the authors identify here what they call a chicken-egg problem: increasing the amount of productive knowledge requires expanding the network of interactions, the set of activities that an economy is able to do.</s><s xml:id="_eanJVMU">Yet, firms cannot produce unless they possess productive knowledge.</s><s xml:id="_BUP6ush">So, what comes first, knowledge or the network of interactions?</s><s xml:id="_PS8vFRF">To the authors, the question deserves special attention since they argue this chicken-egg problem slows down the accumulation of productive knowledge and growth.</s><s xml:id="_uD7sGNn">However, Hausmann et al. do not provide an explanation for this chicken-egg problem but refer to what economies do to avoid or handle it: add knowledge to what they already know.</s></p><p xml:id="_Zqndse3"><s xml:id="_Up2mnvV">Following an apparently logical deduction, Hausmann et al. argue that it is far less complicated for an economy to move into industries compatible with the current set of capabilities than into any other productive process requiring a distinct set of capabilities.</s><s xml:id="_ypVvxnF">In fact, they observe empirically that countries specialize in products related in terms of productive knowledge to those they previously created.</s><s xml:id="_MaM5eKp">Given this analytical framework, which explains how development occurs, the authors draw a policy recommendation for development: the easiest way for a country to develop is to specialize and keep producing goods related in terms of productive knowledge already possessed.</s><s xml:id="_X4kdbjx">This shift from the analytical to a policy recommendation is one of the ultimate goals of the Atlas of Economic Complexity, meaning that it not only focuses on theory but is oriented toward offering practical solutions to economic issues.</s></p><p xml:id="_dwr4uEj"><s xml:id="_d8S6geP">In light of this theoretical background and the aim to provide policy recommendations for economic development, Hausmann et al. introduce measurement as a tool for the effective application of their theory.</s><s xml:id="_A7tfxMz">So far, they have developed a theory to understand development from a complexity and knowledge perspective, from which in turn have obtained a policy recommendation.</s><s xml:id="_w9GDzQv">To implement their theory and elaborate a realistic policy recommendation, they first need tools to identify real conditions.</s><s xml:id="_6FnV4eG">These tools include indicators.</s><s xml:id="_JBuC4Pk">Hence, Hausmann et al. design indicators to measure the amount of knowledge or the degree of complexity of an economy (ECI, PCI, COI), and also to show related products over which a country possesses more capabilities (product space), to indicate how an economy can growth thanks to the production of certain goods.</s><s xml:id="_ed2KGu7">Behind these indicators there is also an economic rationale.</s><s xml:id="_nmCJaWJ">Let us dig in it.</s></p><p xml:id="_N5PjjGx"><s xml:id="_6gf52QP">As we previously emphasize, Hausmann et al. remark that products are vehicles of knowledge.</s><s xml:id="_QpkWnjY">They implicitly comprise all the productive knowledge required to produce them, although their use or consumption do not require to know how to produce them.</s><s xml:id="_w2mX4Bm">Hence, to Hausmann et al., one can infer the amount of knowledge an economy possesses by looking at which products it makes, concretely, what it exports.</s><s xml:id="_xuCsNnj">For that, they introduce the concepts of diversity and ubiquity.</s><s xml:id="_VA4hTVR">The former refers to how many types of products a country can make.</s><s xml:id="_XKCWK3X">The more different products, the more diversity a country reaches.</s><s xml:id="_WRkexFT">The latter is related to the number of countries that can make a product.</s><s xml:id="_r67Xzd8">The more countries able to make a product, the more ubiquitous that product is.</s><s xml:id="_EhjxrAY">The two concepts have a direct and indirect relation with the number of capabilities, respectively.</s><s xml:id="_9RxCqcG">Countries with more capabilities can create more diverse products, and less ubiquitous products require more capabilities to be produced.</s><s xml:id="_U9nDjUx">By focusing on the diversity of products and the ubiquity of those products that a country makes, we can infer the country's capabilities and thus the amount of productive knowledge it holds.</s></p><p xml:id="_uMWT9zh"><s xml:id="_j72Wtb4">Based on this rationale, they create two indicators to measure the complexity of economies, Economic Complexity Index (ECI), and products, Product Complexity Index (PCI).</s><s xml:id="_hdGPz5r">With these two indicators, they can establish a ranking of complexity among products and countries, which enables to see the divergences among countries in terms of complexity and development, as well as study correlations with other economic indicators.</s><s xml:id="_C66D2Ge">For instance, they find a strong correlation between income per capita and economic complexity, which supports the central idea of their approach.</s><s xml:id="_bMPAJsD">From 2010 data, Hausmann et al. ( <ref type="formula">2013</ref>) find that their ECI accounted for 78% of the variance in income per capita of seventy five countries exporting less than 10% of GDP in terms of natural resources.</s></p><p xml:id="_Zr6Gaze"><s xml:id="_CS2RMbN">Furthermore, Hausmann et al. not only highlight the explanatory power of their but also claim the predictive character of their indicators, assuming that countries' income levels should tend to converge to their level of productive knowledge.</s><s xml:id="_nfNn4u2">This is because, in the long run, countries with an income level lower/ higher than their corresponding level of productive knowledge should grow/ decrease until convergence.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_wDmaHtH">3</head><p xml:id="_j8aunyK"><s xml:id="_kwDbTg9">The Harvard-MIT complexity approach to development and Austrian… Hausmann et al. include another complexity indicator, the Complexity Outlook Index (COI).</s><s xml:id="_EkbDstc">In regard to the chicken-egg problem mentioned above, they point out that countries find it easier to develop similar products in terms of capabilities than moving into other products for which they do not possess any capability.</s><s xml:id="_yMy8TXC">This obviously affects the process of growth.</s><s xml:id="_zA7yJPy">Growing is harder for countries with distant products; even for countries with a high ECI, since they are already making the most of their capabilities and products, growing becomes more difficult unless they introduce technological innovations and create new products.</s><s xml:id="_uTGGkPd">The COI aims to measure the number of products close to a country's set of capabilities, grounded on the distance among products that the country makes and those it does not make, weighted by the complexity of the products it does not produce.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_sRFSrjb">3</head><p xml:id="_vfnYK2V"><s xml:id="_jF49w6e">The links between similar products form a network, which Hausmann et al. call the product space (Fig. <ref type="figure" target="#fig_0">1</ref>).</s><s xml:id="_s3MTVtq">The product space represents the productive structure of a country.</s><s xml:id="_4qGvpqv">If a country's product space is heavily connected, it will be easier to add new products similar in capabilities.</s><s xml:id="_gvbzzjj">In the end, the product space "gives us a glimpse of the embedded knowledge countries have by highlighting the productive capabilities they possess and the opportunities these imply" <ref type="bibr">(Hausmann et al., 2013, p. 56)</ref>.</s></p><p xml:id="_3j5hbg7"><s xml:id="_kykU8SW">Looking at the product space of a country at a point in time and contrasting its shape over time provide us with information about a country's present and past state, and future evolution <ref type="bibr" target="#b28">(Hidalgo et al., 2007)</ref>.</s><s xml:id="_Bg85DWX">It is more likely, although not necessary, that a country grows by producing goods more related and interconnected in terms of capabilities than producing goods for which it barely possesses any capabilities.</s><s xml:id="_vSNFCEQ">Moreover, if one identifies a set of capabilities allowing the country to make a product that has so far been made in other more developed and complex countries but not in the former, one can assert that it is likely that this country may begin to produce a new product.</s><s xml:id="_ECRuK2P">In the same way, the product space can be used to compare countries with different degrees of complexity.</s><s xml:id="_aGMV8c5">A more developed and complex economy will show a product space with more tangled and dense networks than a less developed country.</s><s xml:id="_eHu2Qp5">This can be seen in Fig. <ref type="figure" target="#fig_1">2</ref>, where industrialized countries show a more interconnected, and dense network, with bigger nodes representing similar products in terms of capabilities, compared to the Sub-Saharan Africa product space, which is the least dense and the most dispersed of the four.</s></p><p xml:id="_XtE5eYA"><s xml:id="_F6ADdS9">Finally, Hausmann et al. conclude their work with a policy recommendation.</s><s xml:id="_yjpFCv7">They point out that the best policy that countries can implement to attain development is creating an environment that allows the most complex productive activities to thrive, attract more complex processes, and become more complex in turn.</s><s xml:id="_WrUPCKf">Moreover, they emphasize that given the process of development requires the involvement of many people, it cannot be exclusively reserved for a few economic planners.</s><s xml:id="_eFtKVsA">Their maps and tools must be open to all; it must not be something only for politicians but also for entrepreneurs because the map also shows relevant information for their projects.</s><s xml:id="_buJd7rN">1 3</s></p><p xml:id="_tVbQMHk"><s xml:id="_rPcBn7B">The Harvard-MIT complexity approach to development and Austrian…</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_atnSveA">Similarities with Austrian economics</head><p xml:id="_pRKYuk5"><s xml:id="_YmkXjFY">It is not surprising that the Harvard-MIT approach has some similarities with the Austrians insofar as Austrian economics has already been connected to complexity theory, as shown in section 2. However, the Harvard-MIT approach, as we have presented it, should not appeal to Austrian economics because of its complexity theory.</s><s xml:id="_H2vRkTk">Indeed, it does not develop any novel complexity theory.</s><s xml:id="_6ywU6am">As such, it can be regarded as a <ref type="bibr" target="#b9">Barabási (2007)</ref> style complexity since, among other things, Albert-László Barabási is one of the co-authors of The Atlas of Economic Complexity (2013), also of <ref type="bibr" target="#b28">Hidalgo et al. (2007)</ref>, and network science tools are a relevant part of the approach, with the product space.</s><s xml:id="_TPfqUu5">Moreover, Hausmann et al. ( <ref type="formula">2013</ref>) seems to share some features with Santa Fe complexity. <ref type="foot" target="#foot_4">5</ref></s><s xml:id="_D7gCT7U">Be that as it may, the Harvard-MIT approach does not constitute a new complexity theory.</s><s xml:id="_asQjdmq">Rather, it represents an application of the complexity perspective to economic growth and development, in which innovation lies in the creation of complexity indicators (ECI, PCI, and COI) and the product space.</s><s xml:id="_r8fG3kv">Even so, what Austrians may find appealing is the economic theory underlying this complexity approach to development.</s></p><p xml:id="_v6WsUkN"><s xml:id="_Mjuehrx">The Harvard-MIT approach can first appear Hayekian because at its core is <ref type="bibr">Hayek's (1945)</ref> knowledge problem.</s><s xml:id="_g9WfGYC">In asserting that economic development depends on the accumulation of productive knowledge, Hausmann et al. assume that the central problem of economics, of economic development in this case, is a knowledge problem.</s><s xml:id="_hmCCm2y">Contrary to traditional economic theory, they do not hold that growth depends on the accumulation of physical capital <ref type="bibr" target="#b86">(Solow, 1956)</ref>, technology or human capital <ref type="bibr" target="#b64">(Lucas, 1988;</ref><ref type="bibr" target="#b72">Romer, 1986)</ref> The degree of similarity increases as the Harvard-MIT approach understands development as a social learning process <ref type="bibr">(Hausmann et al., 2013)</ref>; redefines the concept of division of labor as division of knowledge <ref type="bibr">(Hausmann et al., 2013;</ref><ref type="bibr" target="#b25">Hidalgo, 2015)</ref>; or emphasizes the tacit nature of the knowledge accumulated in society <ref type="bibr">(Hausmann, 2016;</ref><ref type="bibr">Hausmann et al., 2013;</ref><ref type="bibr" target="#b25">Hidalgo, 2015)</ref>.</s><s xml:id="_PyTtXrG"><ref type="bibr">Hayek (1937</ref><ref type="bibr">Hayek ( , 1945</ref>) already used the term division of knowledge as a modern redefinition of division of labor.</s><s xml:id="_8JcvNDx">He regarded knowledge as the central problem of economics by criticizing that many economists have introduced the assumption of perfect knowledge so that equilibrium can be reached.</s><s xml:id="_YSwagNm"><ref type="bibr">Hayek (1937</ref><ref type="bibr">Hayek ( , 1945) )</ref> contends that knowledge cannot be treated as a mere assumption, but must be the very question that economics explains, because, in the real world, the relevant knowledge for coordination of individuals' plans is not given beforehand to a single mind.</s><s xml:id="_HN5gZX2">For him, the knowledge of the particular circumstances of time and place exists as dispersed bits that individuals possess in an incomplete and even contradictory way.</s><s xml:id="_CgZMNF4">Therefore, economics must study how this dispersed knowledge is used, created, and communicated through complex social processes, mechanisms, and institutions such as the price system or the market <ref type="bibr">(Hayek, 1945)</ref>.</s><s xml:id="_7qenC6z">Here, the market is conceived as a social learning process <ref type="bibr" target="#b34">(Kiesling, 2015)</ref>.</s><s xml:id="_SjJRrsV">Similarly, Hausmann et al. ( <ref type="formula">2013</ref>) assert: "Markets allow us to access the vast amounts of knowledge that are scattered among people of the world" (p.</s><s xml:id="_xeJFG9D">15).</s><s xml:id="_2ZgqEUQ">However, despite how Hayekian they sound, we could not find any reference to Hayek.</s><s xml:id="_WueQPHj">Only <ref type="bibr" target="#b25">Hidalgo (2015)</ref> quotes <ref type="bibr">Hayek (1945)</ref> to refer to the coordinating power of the price system, despite all those ideas of division of knowledge and of knowledge transmission mechanisms have been set out before by <ref type="bibr">Hayek.</ref></s><s xml:id="_3VS7BxZ">Tacit knowledge is also a central element in  <ref type="formula">2013</ref>) state that economic development depends on the accumulation of productive knowledge, Hausmann (2016) states that it depends on the accumulation of knowhow.</s><s xml:id="_rPvg5wb">Even they talk about productive knowhow, which denotes that productive knowledge and knowhow are not the same.</s><s xml:id="_m2EkUn3">Although <ref type="bibr">Hausmann et al. (2013)</ref> do not specify the difference between knowhow and productive knowledge, <ref type="bibr" target="#b25">Hidalgo (2015)</ref> distinguishes between knowledge and knowhow, and Hausmann (2016) between tools or embodied knowledge, recipes or codified knowledge, and knowhow or tacit knowledge.</s><s xml:id="_j2qv6EB"><ref type="bibr" target="#b25">Hidalgo (2015)</ref> finds the source of prosperity in the accumulation of both knowledge and knowhow.</s><s xml:id="_wtmg2bd">He regards knowhow as different from knowledge because the former involves the capacity to act, whereas the latter concerns relationships between entities in which the individual plays the role of a mere observer.</s><s xml:id="_VADDn5U">More concretely, according to Hidalgo (2015, p. 17), knowhow "is the tacit computational capacity that allows us to perform actions".</s><s xml:id="_u76Rj8k">Likewise, Hausmann (2016) emphasizes the tacit nature of knowhow, in contrast to the explicit character of knowledge or productive knowledge.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_FqX8tEN">3</head><p xml:id="_Xyc2ZTx"><s xml:id="_RqNGTU5">The Harvard-MIT complexity approach to development and Austrian… It is true that when <ref type="bibr">Hayek (1937)</ref> talks about dispersed knowledge, including skills, he does not refer to the impossibility of the articulation characterizing tacit knowledge.</s><s xml:id="_6n2Ktnz">This is because he shaped his concept of knowledge throughout his works until he finally referred to tacit knowledge as such <ref type="bibr" target="#b69">(Oğuz, 2010)</ref>.</s><s xml:id="_2433scC">However, after Hayek, several Austrians have developed alternative theories of growth rooted in his insight on the relevance of knowledge.</s><s xml:id="_KGZRPEx">Among them, we find <ref type="bibr" target="#b7">Baetjer (1998</ref><ref type="bibr" target="#b8">Baetjer ( , 2000))</ref>, <ref type="bibr" target="#b49">Lachmann (1978)</ref>, <ref type="bibr" target="#b58">Lewin (2011)</ref> and <ref type="bibr" target="#b58">Lewin and</ref><ref type="bibr">Baetjer (2011, 2015)</ref>.</s><s xml:id="_Fzc7unv">Like Hausmann et al., they assert that "economic growth and development entails the increasing complexity of knowledge" <ref type="bibr">(Lewin &amp; Baetjer, 2011, p. 346)</ref>, also that "the most significant aspect of accumulation is in fact the (…) accumulation of knowledge" <ref type="bibr">(Lewin, 2011, p. 240)</ref>, or even that capital development constitutes a social learning process too <ref type="bibr" target="#b8">(Baetjer, 2000)</ref>.</s><s xml:id="_6HPNTUC">Moreover, they see the crucial parts of the knowledge involved in the process of development as tacit and speak of division of knowledge rather than division of labor <ref type="bibr" target="#b8">(Baetjer, 2000)</ref>.</s><s xml:id="_phT6amy">These Austrians have even more in common with Hausmann et al. than Hayek since they take the subjectivist point on the relevance of knowledge introduced by Hayek, and followed by Lachmann, to deal with capital and growth theories.</s></p><p xml:id="_NgdXaMv"><s xml:id="_Dde4UmF">Furthermore, a recent paper by <ref type="bibr" target="#b14">Dekker and Kuchar (2021)</ref> presents Carl Menger's theory as a knowledge theory of economic development.</s><s xml:id="_qcPEACt">These authors argue that for Menger the growth of knowledge causes the increase in the wealth of nations, just as Hausmann et al. and Austrians such as Baetjer and Lewin assert.</s><s xml:id="_b8ze7mP">Thus, Menger already regarded knowledge as central to the economic process, long before many economists such as Hayek, Hausmann, or Hidalgo.</s><s xml:id="_kGmfwqh">In this sense, Menger's view of development can be placed in the evolutionary endogenous growth tradition, which conceives development as an open-ended process, far away from traditional growth theories anchored in the equilibrium tradition <ref type="bibr" target="#b14">(Dekker &amp; Kuchar, 2021)</ref>.</s><s xml:id="_eu8qZAk">Consequently, we can identify a certain degree of similarity not only between the Harvard-MIT approach and contemporary or more recent Austrian economists, but also with the very founder of the Austrian School, Carl Menger.</s></p><p xml:id="_F6NGkhx"><s xml:id="_ppyzbBd">In the same way that Hausmann et al. ( <ref type="formula">2013</ref>) hold that knowledge manifests through products, assuming products contain all knowledge necessary to produce them, <ref type="bibr" target="#b7">Baetjer (1998</ref><ref type="bibr" target="#b8">Baetjer ( , 2000) )</ref> and <ref type="bibr" target="#b58">Lewin and</ref><ref type="bibr">Baetjer (2011, 2015)</ref> also regard goods as embodied knowledge.</s><s xml:id="_V3QccNP">However, they focus on capital goods rather than exports.</s><s xml:id="_K27Q5YN">That being so, they define capital goods as "embodied knowledge of productive processes and how they may be carried out" <ref type="bibr">(Baetjer, 2000, p. 148)</ref> or, what is the same, "embodied knowledge of how to accomplish productive processes" (p.</s><s xml:id="_nfdCzDX">152).</s><s xml:id="_a6yWYM7">On the other hand, consumption goods "embody knowledge of what will directly satisfy our wants" (p.</s><s xml:id="_a3ggTgV">171).</s><s xml:id="_XtJMfZE">Logically, the authors focus on capital, given that they find themselves within the Austrian tradition and capital theory is one of the most relevant contributions of Austrian economics to economic science.</s><s xml:id="_Hr8n52v">Starting with Menger (2007), the Austrian school founder, many Austrian economists have developed capital theories, improving past theories, and nuancing them.</s><s xml:id="_t3SBhCm">Precisely, this knowledge-based approach constitutes one of the latest innovations in Austrian capital theory.</s><s xml:id="_DGteVBe">Let us take a closer look to it.</s><s xml:id="_HN9jD3W"><ref type="bibr" target="#b7">Baetjer (1998</ref><ref type="bibr" target="#b8">Baetjer ( , 2000) )</ref> and <ref type="bibr" target="#b58">Lewin and</ref><ref type="bibr">Baetjer (2011, 2015)</ref> base their approach on Lachmann's (1978) and <ref type="bibr" target="#b58">Lewin's (2011)</ref> capital theories.</s><s xml:id="_zqxpWJr">Although <ref type="bibr" target="#b49">Lachmann (1978)</ref> differs in some ideas and concepts to traditional Austrian capital theory <ref type="bibr" target="#b23">(Hayek, 2009;</ref><ref type="bibr">Menger, 2007;</ref><ref type="bibr" target="#b90">von Böhm-Bawerk, 1890;</ref><ref type="bibr" target="#b92">von Mises, 1998)</ref>, it goes without saying that he holds previous Austrian ideas such as the heterogeneity 7 of capital or the time-consuming aspect of production.</s><s xml:id="_Ujcmj4P">However, his contribution stands out for having conceived a capital theory out of traditional equilibrium analysis, that is, in disequilibrium.</s><s xml:id="_3R9zMJy">He introduces the figure of the entrepreneur as the agent who makes decisions regarding capital allocation, creation, and innovation, according to a production plan and expectations in an uncertain, dynamic world.</s><s xml:id="_maaaSE3">His subjectivist insight on capital theory, which <ref type="bibr" target="#b58">Lewin (2011)</ref> places within the Mengerian tradition, focuses on the study of the capital structure and capital combinations.</s><s xml:id="_hQ2xcAp">It understands that the various components of capital stand related in order to perform specific functions together, given that capital goods can also perform different functions or specificities.</s><s xml:id="_RFBpPgN">Thus, the concepts of complementarity and substitutability of capital, namely, how capital goods complement/substitute each other given the success/failure of a production plan, become central.</s></p><p xml:id="_4aXcCcK"><s xml:id="_v5p4qyS">The fact that <ref type="bibr" target="#b49">Lachmann (1978)</ref> redefines capital theory out of equilibrium is consistent with complexity theory's foundations, as we saw above.</s><s xml:id="_usW4fk3">Moreover, following <ref type="bibr" target="#b58">Lewin (2011)</ref>, this approach leads him to point out that it will be more appropriate to replace the concept of period of production with the concept of degree of complexity.</s><s xml:id="_Z3S8aCZ">That means that, whereas von Böhm-Bawerk (1890) contended that the period of production increased with capital accumulation, <ref type="bibr" target="#b49">Lachmann (1978)</ref> argues that the production process's complexity increases with capital accumulation.</s><s xml:id="_7FjHCpR">For him, capital accumulation implies an evolving capital structure, namely, a capital structure that becomes more complex.</s><s xml:id="_4SPrFKP">Hence, capital is no more viewed as a stock, which increases with the accumulation of homogeneous goods, but as a structure, made up of interconnected heterogeneous goods performing complementary and substitutive functions, whose complexity increases with more complex patterns of capital complementarity <ref type="bibr" target="#b58">(Lewin, 2011)</ref>.</s></p><p xml:id="_jpgVAgx"><s xml:id="_yXVkseN">For the two approaches, the increasing complexity of the productive structure is the source of economic progress.</s><s xml:id="_wHBTYu4"><ref type="bibr" target="#b49">Lachmann (1978)</ref> had already posited what <ref type="bibr" target="#b27">Hidalgo and Hausmann (2009)</ref> first presented in their paper and subsequently developed in other works; namely, the study of the complexity of the economy and the productive structure, in contrast to the mainstream trend believing that capital reproduces itself and accumulates as a homogeneous stock. 8</s><s xml:id="_gxxwf3R"> Hidalgo et al. ( <ref type="formula">2007</ref>) emphasize the heterogeneity of the product space compared to traditional development theories which treat it as homogeneous.</s><s xml:id="_kBGFphs">They ask the reader to think of a product as a tree and then a forest as a set of products (trees).</s><s xml:id="_KSWPwyj">In that forest, which represents what they call the product space, live monkeys, which correspond to a country's firms, that jump from tree to tree 7 Lachmann wrote that capital goods are heterogeneous because of their use and not due to their physical properties or appearance.</s><s xml:id="_vCXXdjx">Even from a knowledge-based view on capital, <ref type="bibr" target="#b59">Baetjer and Lewin (2011)</ref> point out that capital goods are heterogeneous because knowledge embedded in them is it so too. 8</s><s xml:id="_C7pB2ts">For the differences between the neoclassical theory and the Austrian theory regarding capital and macroeconomics see Huerta de Soto (1998).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_j92zMuE">3</head><p xml:id="_rHrupzs"><s xml:id="_NvR9c8H">The Harvard-MIT complexity approach to development and Austrian… searching for the best fruits to exploit.</s><s xml:id="_2ttZnpR">This implies that firms are continually restructuring and reallocating resources, physical and human capital, as they turn to produce from a certain good to another.</s><s xml:id="_BUq2tWG">Moreover, they point out, the forest is not homogeneous but has some dense areas and other deserted.</s><s xml:id="_MeZ6cNY">Hence, "the structure of this space and a country's orientation within it become of great importance to the development of countries" <ref type="bibr">(Hidalgo et al., 2007, p. 482)</ref>.</s><s xml:id="_GKjTteN">Indeed, they do not allude to the heterogeneity of capital as such but to that of the product space.</s><s xml:id="_vzYQBFB">Even so, they treat the product space as a reflection of the productive structure.</s><s xml:id="_VxfWr9j">This means that they see heterogeneity in the productive structure, which is precisely one of the central characteristics of the Austrian capital theory.</s><s xml:id="_3K3r796">Coherently, Hausmann and <ref type="bibr">Hidalgo (2011)</ref> affirm that they resort to network science to eschew aggregation, thereby focusing on the study of the complexity of productive structures rather than elaborating aggregative models.</s><s xml:id="_jS3k8Pt">This point is again in line with <ref type="bibr" target="#b49">Lachmann (1978)</ref> and other Austrians such as <ref type="bibr" target="#b36">Kirzner (1966)</ref>, who took a firm stance against capital measurement by pointing out that capital cannot be aggregated as if it were made up of homogeneous goods.</s></p><p xml:id="_BeE55Na"><s xml:id="_UNubZN6">Furthermore, the product space is founded on the idea that goods are interconnected according to the capabilities necessary to produce them, understanding, at the same time, that the productive structure can evolve to produce other goods for which firms possess capabilities.</s><s xml:id="_VsnZgub">In that sense, <ref type="bibr" target="#b28">Hidalgo et al. (2007)</ref> introduce the concept of relatedness, which refers to how related products are in terms of capabilities.</s><s xml:id="_sF5W3W6">In that, we can find the concepts of complementarity, substitutivity, and the phenomenon of multiple specificities that <ref type="bibr" target="#b49">Lachmann (1978)</ref> spoke about.</s><s xml:id="_QByDZPb">That a firm possesses capabilities to produce different but related products implies that its heterogeneous capital can be applied to multiple specificities, and because of that, that capital goods complement together to produce a specific good.</s><s xml:id="_xEyYm8k">Moreover, if a firm wants to replace the product they do with other similar good for which it possesses capabilities, the firm can substitute some of its capital goods, thus obtaining a different capital combination.</s><s xml:id="_QZ7YdHQ">In that sense, it is true that Hausmann and <ref type="bibr">Hidalgo (2011)</ref> and <ref type="bibr" target="#b27">Hidalgo and Hausmann (2009)</ref> refer to the complementarity of capabilities rather than of capital, which derives from their approach on capabilities addressed below.</s><s xml:id="_h8cqQek">Even so, the most important point is that the two theories include these concepts of complementarity, substitutivity, and multiple specificity of inputs, and that both characterize the productive structure as a complex evolving system.</s></p><p xml:id="_M28dzpV"><s xml:id="_fxxjQHE">Another interesting element in the Harvard-MIT approach is the role attributed to the entrepreneur in the process of development and, above all, what concerns firms' capabilities.</s><s xml:id="_tezPZSf">In preliminary works such as Hasmann et al. <ref type="bibr">(2007)</ref> and <ref type="bibr">Hausmann and Rodrik (2003)</ref>, the authors focus on entrepreneurs' and investment's role as driving forces of development.</s><s xml:id="_G94dezj">Despite some possible discrepancies with the Austrian theory of entrepreneurship, the fact of considering entrepreneurship and investment as essential for development is aligned with Austrian theory <ref type="bibr" target="#b15">(Espinosa et al., 2020;</ref><ref type="bibr" target="#b19">Harper, 2003)</ref>.</s><s xml:id="_WGvfvQR">In subsequent works, they change their view from an entrepreneurial scale to an organizational scale, thus concentrating on firms' capabilities and, ultimately, on countries' capabilities <ref type="bibr">(Hausmann, 2016;</ref><ref type="bibr">Hausmann et al., 2013;</ref><ref type="bibr">Hausmann &amp; Hidalgo, 2011;</ref><ref type="bibr" target="#b27">Hidalgo &amp; Hausmann, 2009)</ref>.</s><s xml:id="_YJBGPgG">For them, the accumulation of capabilities is tantamount 1 3 to the increase in the complexity of the economy.</s><s xml:id="_PxET2Sp">The more diverse capabilities a country possesses, the more complex its products will be.</s><s xml:id="_u9DaFup"><ref type="bibr" target="#b27">Hidalgo and Hausmann (2009)</ref> argue that development economics have overlooked the significance of detailed capabilities and their patterns of complementarity by having focused on aggregates measures of physical and human capital instead.</s><s xml:id="_NKf9g7s">In contrast to this view, they propose the study of detailed and heterogeneous capabilities and how they can be combined to produce complex goods, thus leading to development.</s><s xml:id="_a7WheBQ">Therefore, capabilities, conceived as chunks of tacit knowledge embedded in individuals and organizations <ref type="bibr">(Hausmann et al., 2013)</ref>, which makes them a nontradeable input <ref type="bibr">(Hausmann &amp; Hidalgo, 2011;</ref><ref type="bibr" target="#b27">Hidalgo &amp; Hausmann, 2009)</ref>, become a crucial part of the analysis of development.</s><s xml:id="_NpYJYUC"><ref type="bibr" target="#b52">Langlois (1992)</ref> points out that the study of capabilities constitutes a way of looking at the firm that should appeal to scholars in the Austrian tradition.</s><s xml:id="_MuAX9pP">This is because it implies the rejection of the neoclassical standpoint that sees the firm's knowledge as explicit and easily transferable, as it were, he states, "a matter of blueprints" (p.</s><s xml:id="_kAq3Sjs">176).</s><s xml:id="_FZ2qn64">Moreover, Langlois contends that to regard firms as possessing detailed and limited capabilities coincides with Hayek's writings on the decentralized nature of knowledge and cultural evolution.</s><s xml:id="_bUFZSy7">It seems that here we go back to the first similarity we outlined above regarding the knowledge-based view of economic matters.</s><s xml:id="_dddFeUd">Indeed, Langlois (1995) defines capabilities as the knowledge (often tacit) embodied in the rules or routines that agents follow within an organization.</s><s xml:id="_ny2qJDy">Although Langlois's perspective is more related to institutions and rules than Hausman's et al. approach, it also concludes that capabilities are knowledge, often tacit, embedded in organizations and markets.</s><s xml:id="_pwgxZSP">Likewise, <ref type="bibr" target="#b54">Langlois and Robertson (1995)</ref> acknowledge the role played by capabilities in economic growth by concluding that growth comes about as a result of the development of capabilities internal and external to the firm.</s><s xml:id="_UYzrKbT">As we previously mentioned, Hausmann et al. also make this last point about capabilities and growth.</s></p><p xml:id="_8wDr3FG"><s xml:id="_Efcb3qn">Similarly, <ref type="bibr" target="#b62">Loasby (1996</ref><ref type="bibr" target="#b63">Loasby ( , 1999))</ref>, who was present at many Austrian revival meetings, combines the concepts of division of labor, division of knowledge, specialization, capabilities, tacit knowledge, and know how.</s><s xml:id="_tsdKcxX">As Hausmann et al. and Hayek, Loasby argues that the division of labor is analogous to and connected with the division of knowledge and, insofar as this knowledge grows and the division of labor deepens, people set limits on what they seek to know, which is known as specialization.</s><s xml:id="_GDJgPeK">Furthermore, the process of specialization brings about the idea of capabilities, also conceived as knowhow, mainly tacit, and complimentary by Loasby.</s></p><p xml:id="_HRtjPNx"><s xml:id="_6AHMjZr">So far, we have shown that the Harvard-MIT approach may take a substantially Austrian position: a knowledge-based view, even using identical terms; similar attributes of the productive structure; focus on the entrepreneur as the driving force of development; and the role of capabilities, specialization, and tacit knowledge.</s><s xml:id="_YjZVyxf">Consequently, it would not be unreasonable to regard it as Hayekian or Austrian.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_2YRzZPu">3</head><p xml:id="_mutmebu"><s xml:id="_AZ58pVG">The Harvard-MIT complexity approach to development and Austrian…</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_J9drkUg">Policy implications</head><p xml:id="_4rVfmVj"><s xml:id="_CwnKHrr">The wide variety of similarities between the Harvard-MIT approach and some Austrian economics theories may give rise to several implications for both.</s><s xml:id="_ZEYDSSH">This article focuses on the policy implications since the rest of possible implications will require more in-depth analysis to be expanded in subsequent works on the matter.</s><s xml:id="_T9EM3vY">Even so, we can raise some of them here briefly to encourage further investigations.</s></p><p xml:id="_km5mQBy"><s xml:id="_9DCuyrR">On the one hand, we may say that, given the similarities between Austrian economics and the Harvard-MIT approach regarding notions on capital theory, it will be very enriching for Hausmann et al. to ground their perspective on Austrian capital theory to have more consistent theoretical foundations to develop complexity indicators.</s><s xml:id="_pFRtbwg">On the other hand, the concept of product space may entail an innovation for Austrian theory.</s><s xml:id="_QxYBu5x">In examining the similarities between Austrian economics and complexity theory, <ref type="bibr">Barbieri (2013, p. 56</ref>) asserts: "Perhaps some aspects of the pattern of connections between the elements of the structure of capital could be represented as networks in computer models".</s><s xml:id="_tPaBEvv">The product space represents precisely that pattern of connections between products, from which we can deduce how capital goods and capabilities are connected.</s><s xml:id="_2EDCQYB">The Austrians may use the product space as such, or may redefine it as, for example, the capital space, which could illustrate the connections between capital goods as a network reflecting the complexity of the productive structure.</s><s xml:id="_fWGJVFM">This will depend on how Austrians consider Hausmann's et al. idea of deducing the productive structure's complexity by looking at exports.</s></p><p xml:id="_87R9rdQ"><s xml:id="_yekDqzE">Austrian economists can also take some concepts of Hausmann et al., such as those of diversity, ubiquity, or relatedness, and integrate them into their capital theory.</s><s xml:id="_jap4MD6">Here, it must be noted that the concept of diversity, as used by Hausmann et al., is already used from evolutionary, institutionalist, complexity perspectives.</s><s xml:id="_McJWKep"><ref type="bibr" target="#b47">Koppl et al. (2015)</ref> coined the concept of cambiodiversity, which refers to the increase in the number of traded goods.</s><s xml:id="_kcJEPHz"><ref type="bibr">Thus, both Hausmann et al. and Koppl et al.</ref> believe that cambiodiversity, or the diversity of products, is the cause of wealth.</s><s xml:id="_ZnbfnaW">Also, both believe that increases in wealth are parallel to more goods, greater complexity, and larger exchange networks, which are represented in the product space.</s><s xml:id="_r3Thrbx">Moreover, <ref type="bibr">Koppl et al.</ref> believe in networks as an adequate way for representing the creative economics they propose, which fits well with the network approach of the Harvard-MIT.</s><s xml:id="_74uW2qx"><ref type="bibr">Koppl's et al. proposal, although</ref> not Austrian as such but institutionalist or evolutionary, is still coherent and compatible with Austrian economics, given the link through the complexity perspective.</s><s xml:id="_VCWtXUr">Therefore, either Hausmann's et al. diversity or <ref type="bibr">Koppl's et al. cambiodiversity</ref>, may be appealing for Austrian economics.</s></p><p xml:id="_wsQbNwG"><s xml:id="_WaKk2xZ">What is more, Austrians can make use of the indicators and formulas that Hausmann et al. design as a way of measuring economic complexity, given that they share some fundamental conceptions on capital theory such as the heterogeneity of capital or its complementarity.</s><s xml:id="_KUX9shN">Those ideas can be addressed in further investigations.</s><s xml:id="_9wJ6XKq">For the moment, let us proceed to delve into the policy implications.</s></p><p xml:id="_2WjD5aB"><s xml:id="_Qcp4c8B">Throughout all the works of Hausmann et al., the entrepreneur is seen as an important actor of development.</s><s xml:id="_6FkSD6B">As remarked above, this certainly brings them closer to Austrians.</s><s xml:id="_e78SbkY">However, their policy recommendations change throughout their works as well.</s><s xml:id="_CT6SzSX">Hausmann et al. suggested a more interventionist development policy in early works, shifting to a more free-market friendly policy in their subsequent papers.</s><s xml:id="_eQeVSnE">In those first papers, <ref type="bibr">Hausmann and</ref><ref type="bibr">Rodrik (2003) and</ref><ref type="bibr" target="#b28">Hausmann et al. (2007)</ref> think that laissez-faire policies lead to an underprovision of innovation; therefore, governments need to play a relevant role in encouraging entrepreneurship and investment in new activities ex-ante, at the same time that they push out unproductive sectors and firms ex-post.</s><s xml:id="_Ttec994">They indeed detect what they regard as a market failure or a laissez-faire policy problem 9 : too little investment and entrepreneurship ex-ante and too much production diversification ex-post, in relation to a new economic activity.</s><s xml:id="_b2XTFfQ">Hence, government policy becomes highly relevant to promote development.</s></p><p xml:id="_UNhcYB8"><s xml:id="_mDyYEH6">Contrary to these earlier works and conclusions, in their more recent works, Hausmann et al. ( <ref type="formula">2013</ref>) stress that since development is a social learning process, then it necessarily requires the implication of many explorers -in which they include entrepreneurs, investors, and policymakers-not just a few planners.</s><s xml:id="_vjY8f6V">That being so, the policy recommendation is to create an environment where a wider range of productive activities can prosper.</s><s xml:id="_fY7sW9p">It seems that as they emphasize the relevance of tacit knowledge, knowhow, and the complex networks between firms and organizations, they assign more weight to entrepreneurs and investors and less to politicians and planners.</s><s xml:id="_e4SubHM">This focus on tacit knowledge, taken to the extreme, can lead us to the Austrian theory on the impossibility of economic calculation under socialism.</s><s xml:id="_bVc4UnZ">Here, for instance, there is scope for mutual learning, for the Harvard-MIT approach to get to know the essence of the problem of any political centralized intervention in the economy, based on the economic calculation problem which von <ref type="bibr" target="#b91">Mises (1935</ref><ref type="bibr" target="#b92">Mises ( , 2012) )</ref> developed, then deepened by a considerable amount of his followers: <ref type="bibr">Hayek (1963)</ref>, <ref type="bibr" target="#b36">Kirzner (1988)</ref>, <ref type="bibr" target="#b56">Lavoie (1985)</ref>, Huerta de Soto (2010), among others.</s></p><p xml:id="_BPUxvbp"><s xml:id="_gFbnnKZ">The theory on the impossibility of economic calculation under socialism is one of the most characteristic theories of Austrian economics.</s><s xml:id="_H4F4Q3a">Although this theory comprises various arguments of different authors who see the problem from alternative perspectives, one of the main ideas is that socialism is impossible because a central body cannot collect or even create the knowledge relevant to the working of an economy, just due to the very tacit and dispersed nature of that knowledge (Huerta de Soto, 2010).</s><s xml:id="_h8jsZ8K"><ref type="bibr" target="#b88">Vaughn (1999)</ref> already highlighted that complexity theory can support Hayek's argument against central planning because both portray the economy as a complex adaptive system not run by a central controller and made up of heterogeneous agents with imperfect information.</s><s xml:id="_zBufNTe">So, how does the Austrian theory on economic calculation under socialism apply to the Harvard-MIT approach?</s></p><p xml:id="_zkMvMHe"><s xml:id="_A55ndxB">9 <ref type="bibr" target="#b0">Arthur (1989)</ref> holds that a laissez-faire policy can be inefficient to achieve that a superior technology reveals itself and survives in the long run in cases of increasing returns, and therefore proposes the intervention of a central authority.</s><s xml:id="_WCk9S2Q">However, it is important to note that while Arthur makes this point within his agent-based complexity framework, <ref type="bibr">Hausmann and Rodrik (2003)</ref> reach their conclusion within a general-equilibrium framework, which is epistemologically inconsistent when viewed from a complexity perspective.</s><s xml:id="_wyRsHKC">See <ref type="bibr" target="#b88">Vaughn (1999)</ref> for an Austrian, Hayekian, perspective on the market-failure issue as it was raised by some complexity theorists.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_NKr2522">3</head><p xml:id="_9FAfzVc"><s xml:id="_EKBTG6M">The Harvard-MIT complexity approach to development and Austrian… To the extent that Hausmann et al. ( <ref type="formula">2013</ref>) spotlight tacit and dispersed knowledge, policymakers cannot plan the process of development due to a knowledge problem.</s><s xml:id="_WDJsPRM">Therefore, it is not only that tacit knowledge, in their words, can become a binding constraint on the development process <ref type="bibr">(Hausmann, 2016)</ref>, but also on policymaking and economic planning.</s><s xml:id="_EdbW5G6">Bounded rationality, as one of the principles of complexity economics <ref type="bibr" target="#b2">(Arthur, 1999;</ref><ref type="bibr" target="#b83">Simon, 1957)</ref>, applies equally to policymakers.</s><s xml:id="_aFuXmww">This raises serious difficulties to the idea that policymakers can make better decisions in terms of resource-allocation than market agents operating in a decentralized way.</s><s xml:id="_k8JPbxx">In fact, as soon as Hausmann et al. ( <ref type="formula">2013</ref>) recognize the importance of tacit knowledge in economics, they have no choice but to abandon the more interventionist pretensions of the first works in favor of a policy that merely seeks to create an environment where entrepreneurs or "many explorers" can thrive.</s><s xml:id="_RVYXQZP">However, Hausmann et al. do not specify how this environment allowing prosperity should look like or in which rules or institutions should this environment be based.</s><s xml:id="_WGCtVs7">Austrian economists, who assume that economic development cannot be centrally planned, have already made some proposals about that environment where entrepreneurship can flourish.</s><s xml:id="_9AmU39R">Thus, the Harvard-MIT approach can benefit from Austrian economics by taking some of its policy proposals and frameworks that introduce rules to create and protect an environment suitable for economic development, such as <ref type="bibr" target="#b19">Harper's (2003)</ref> market-process policy pogramme.</s><s xml:id="_9Z3kGWE"><ref type="bibr" target="#b19">Harper's (2003)</ref> conceives a market-process approach to public policy based on the theory of entrepreneurial discovery, which he calls the market-process policy programme (MPP).</s><s xml:id="_e3m2zxB">Harper stresses that regarding the MPP as a mere laissez-faire approach is an oversimplified conclusion because, among other things, laissez-fare is a rule that has never provided a criterion of what the functions of government must be.</s><s xml:id="_FSvjcXN">However, the MPP also differs from the public policy frameworks grounded on the market-failure and the perfect-market paradigms.</s></p><p xml:id="_2ZbJzK8"><s xml:id="_UCHxpZK">The MPP provides a public policy program, that is, a set of ideas that policymakers can use as a starting point to design public policies,<ref type="foot" target="#foot_5">foot_5</ref> founded on the Austrian theory of entrepreneurship and dynamic competition.</s><s xml:id="_e4aBNm7">It is made up of several hard-core propositions about the nature of the policy environment and the elemental principles of Austrian policy analysis, and a set of heuristics to guide policy analysis.</s><s xml:id="_GeRvx7U">The hard-core propositions include ideas such as the market as a spontaneous, self-organized order, or the competitive market as a dynamic process of entrepreneurial discovery instead of an equilibrium state, to mention two of them.</s><s xml:id="_WKrt2KW">Therefore, some heuristics related will be examine outcomes patterns rather than concrete results, assess rules of games and institutional design, explain complex phenomena in terms of spontaneous orders, or regard the market as an open-ended process, not as a closed model or system <ref type="bibr" target="#b19">(Harper, 2003)</ref>.</s><s xml:id="_bHNSpR9">An institutions-centered perspective clearly marks those hard-core propositions and heuristics.</s><s xml:id="_eD4tDZH">Note that the MPP does not deal with a particular policy because the specific policy to apply will depend on the situation and will have to comply, at least, with the hardcore principles and the use of the heuristics for its design.</s><s xml:id="_nmQHNmy">Concrete public policy measures are beyond the scope of this paper.</s><s xml:id="_PFftGpT">That is to say, <ref type="bibr" target="#b19">Harper (2003)</ref> presents the principles which policymakers should follow to create or protect an institutional environment where entrepreneurship, and hence development, can flourish.</s><s xml:id="_uUpMJSb">Thus, Hausmann et al. can adopt the MPP<ref type="foot" target="#foot_6">foot_6</ref> as a still general but more concrete guideline to create the environment they refer to in their work.</s></p><p xml:id="_gAzsB2n"><s xml:id="_KsGCYzU">It is true that <ref type="bibr" target="#b19">Harper's (2003)</ref> approach may be far more open-ended than Hausmann et al. due to its Popperian foundations.</s><s xml:id="_JcbV3Zt">Thanks to the product space, it may appear that Hausmann et al. believe they can identify in which areas governments of poor countries should invest to promote development.</s><s xml:id="_Bt69rnb">In this sense, Hausmann et al. may be advocating some sort of more effective policymaking.</s><s xml:id="_snRkxtB">Contrariwise, from an Austrian viewpoint, the product space cannot be used as a tool for development policy.</s><s xml:id="_nWJJ3pw">Its employment clashes with Harper's approach, which highlights the growth of knowledge and the logical impossibility of having future knowledge today.</s><s xml:id="_R5ybGFw">Policymaking is indeed based on the assumption that future knowledge is available to policymakers.</s><s xml:id="_5eaFcYg">Thus, the product space and other tools designed by Hausmann et al. such as the complexity indices cannot be conceived as tools for policymaking.</s><s xml:id="_7sGXqTp">This does not mean they are useless at all.</s><s xml:id="_Qds5KAn">As any other economic indicator, complexity indices and the product space capture information about moments of an economy, like a picture.</s><s xml:id="_7hUPVTT">As such, they are part of economic history <ref type="bibr" target="#b92">(von Mises, 1998)</ref>, and thus can be helpful for historical analysis.</s><s xml:id="_rwmbksP">Even they can assist in creating pattern predictions <ref type="bibr" target="#b20">(Hayek, 1967)</ref>.</s><s xml:id="_sY5hk6B">Hence, the Harvard-MIT approach does not necessarily conflict with Harper's Popperian view.</s><s xml:id="_HaPCdYA">The product space is open to emergence depending on future economic relations.</s><s xml:id="_nsd5agM">If any, it stresses the existence of path dependencies in the productive structure.</s><s xml:id="_Ckd6td2">Even so, this does not contradict an open-ended view such as that of Harper, given that path dependencies in knowledge are compatible and implied in Hayek's theory <ref type="bibr" target="#b71">(Rizzello, 2004)</ref>, on which Harper's approach is based.</s></p><p xml:id="_pybvrPV"><s xml:id="_SaRGExY">Additionally, it is not only that the application of the Austrian theory in a policy program, namely, the MPP, can serve as a policy framework to the Harvard-MIT approach; but that Austrian theory may trigger Hausmann et al. to embrace a freemarket policy view and avoid possible, future deviations to more interventionist proposals such as the first presented by <ref type="bibr">Hausmann and</ref><ref type="bibr">Rodrik (2003) and</ref><ref type="bibr" target="#b28">Hausmann et al. (2007)</ref>.</s><s xml:id="_Q4aegNy">That is because, on a deeper level, Austrian theory on the impossibility 1 3</s></p><p xml:id="_kt2g3hn"><s xml:id="_AG5RCUt">The Harvard-MIT complexity approach to development and Austrian… of economic calculation under socialism, which ultimately lies in the recognition of the limitations of human cognitive capacity, the nature of knowledge and prices, and the role of property rights, can help Hausmann et al. avoid what Hayek called the pretense of knowledge.</s><s xml:id="_Bwzf5nD">For Hausmann et al., policymakers are no longer the main actors in development, even they can be the problem of many countries.</s><s xml:id="_84BUBS4">Contrariwise, entrepreneurs become the driving force of the development process.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6" xml:id="_RNvhs3F">Conclusion</head><p xml:id="_QSwaKxP"><s xml:id="_7rCFjNk">Many authors have already highlighted the similarities and some derived implications of the points in common between Austrian economics' theory and the complexity paradigm emerged in science during the second half of the twentieth century.</s><s xml:id="_8MGqarX">In the same way, we have outlined in this paper the main similarities between Austrian economics and a complexity perspective of development, which we called the Harvard-MIT approach, and the policy implications following logically these similarities.</s></p><p xml:id="_HCFaRmU"><s xml:id="_raENUrB">In addition to the conclusion that Austrian economics can provide a policy program (MPP), a general guideline por public policy for the Harvard-MIT approach, which derives from the fact that both the Austrians and Hausmann et al. share notions on capital theory, entrepreneurship and a knowledge-based view on growth and development, it follows a more general conclusion concerning the relation between non-Austrian economics and Austrian economics.</s><s xml:id="_SBV63Cu">This conclusion is that, from having found many similarities and an interesting overlap between Austrian economics and the Harvard-MIT approach, it appears a good opportunity for non-Austrian or even mainstream economics to consider the validity and usefulness of the Austrian theories.</s><s xml:id="_SYNHYhJ">Austrian economics has been disregarded by the more orthodox economists during years.</s><s xml:id="_smTENQH">However, many of its theories can be useful for new approaches and paradigms in non-Austrian currents, as we have shown in this paper.</s></p><p xml:id="_ehd4ktj"><s xml:id="_XKv3mAC">The Harvard-MIT approach can find in the long-tradition of Austrian economics a wide and profound range of literature and theories on which strengthen and base their knowledge-based and complexity perspective of development: the Austrian approach to development, its capital theory, Austrian theories of entrepreneurship, capabilities theory, knowledge theory, or even policy general guidelines such as Harper's MPP.</s><s xml:id="_tgM6GQ6">Likewise, Austrian economics can adopt important concepts such as those of diversity, ubiquity, or relatedness from the Harvard-MIT approach, or include alternative tools such as network theory applications, exemplified in the product space, as new means of doing economic theory.</s></p><p xml:id="_ftWdkEw"><s xml:id="_yv9NfX7">When Austrian economics was connected to complexity theory several years ago, authors such as <ref type="bibr" target="#b43">Koppl (2006)</ref> asserted that Austrian economics was certainly at the cutting edge.</s><s xml:id="_B7F9B8g">Hence, if we consider that the Harvard-MIT approach is one of the latest innovations in the field of economic development in economic science, we may affirm that Austrian economics can return to be at the cutting edge, given the similarities and implications between the two.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc><div><p xml:id="_G2Xgqu5"><s xml:id="_mSqWKK7">Fig. 1 Network Representation of the Product Space.</s><s xml:id="_qPFXmaZ">Source: Originally Elaborated by Hidalgo et al. (2007).</s></p></div></figDesc><graphic coords="9,60.93,58.11,317.52,348.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc><div><p xml:id="_rJbY3Dd"><s xml:id="_udg7F7F">Fig. 2 The Product Space for Different Regions of the World.</s><s xml:id="_Dy9NBU6">Source: Originally Elaborated by Hidalgo et al. (2007).</s></p></div></figDesc><graphic coords="10,53.85,58.11,331.68,108.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc><div><p xml:id="_K4sk8yZ"><s xml:id="_U6aHsXv">. For Hausmann et al., growth and development are economic problems of how society can accumulate, transfer, and use knowledge.</s><s xml:id="_4ZDeT3u">In this sense, Hausmann et al. introduce a knowledge-based view of economic development, paralleling the comprehensive knowledge-based view elaborated by Hayek.</s><s xml:id="_qsaC3Sa">Ultimately, a knowledge-based view consists in interpreting the tangible or physical part of economics in terms of information and knowledge.</s><s xml:id="_rMvYA4N">This is what Hausmann et al. and Hayek do, and for which we recognize a core similarity between them.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc><div><p xml:id="_sKMhCsz"><s xml:id="_XJ5egMN">both Hayek and Hausmann et al.</s><s xml:id="_J7eFmyS">It is true that Hausmann et al. does not detail what they call productive knowledge but seem to regard it as tacit knowledge or knowhow. 6</s><s xml:id="_Cnz82RK">Even so, Hausmann (2016) asserts that the accumulation of tacit knowledge, in the form of knowhow, triggers the process of development.</s><s xml:id="_Vwd2s2z">That Hausmann et al. (2013), Hausmann (2016), and Hidalgo (2015) consider tacit knowledge as a crucial part of the knowledge involved in the process of development brings them closer to Hayek's work again. 6</s><s xml:id="_R5yjB2Q">The concept of productive knowledge is not clear in Hausmann et al. (2013).</s><s xml:id="_zaq4rK6">It is unclear whether the authors mean productive knowledge by the term knowhow or refer to any other concept.</s><s xml:id="_WtY4hW8">They do not define knowhow as such but use productive knowledge and knowhow interchangeably throughout their work.</s><s xml:id="_fHP7xpg">Moreover, whereas Hausmann et al. (</s></p></div></figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_HKBQS8b"><s xml:id="_tUzkNgY">Hereinafter we will refer to this approach as "the Harvard-MIT approach" and because it comprises many authors, we will use the term "Hausmann et al." to mention all of them.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_zubnTGx"><s xml:id="_sDFGvNG"><ref type="bibr" target="#b73">Rosser Jr. (2010)</ref> states that Hayek held on the idea of equilibrium until 1981, abandoning it in<ref type="bibr" target="#b24">Hayek (2012)</ref>.</s><s xml:id="_RwBSreY">However, as<ref type="bibr" target="#b39">Kolev (2010)</ref> points out, Hayek moved away from static equilibrium after 1936(Hayek, 1937), and especially after 1946(Hayek, 1948b).</s><s xml:id="_597z2Tx">Therefore, we can place the abandonment of the concept before1981, specifically, in 1936.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p xml:id="_XGfURKC"><s xml:id="_KHFYGJe">It is worth noting that authors such as<ref type="bibr" target="#b68">Nell (2010)</ref> and<ref type="bibr" target="#b81">Seagren (2011)</ref> have found ABMs compatible with Austrian economics.</s><s xml:id="_BTWjj2Y">Indeed, relevant works such as those of<ref type="bibr" target="#b5">Axelrod (1984</ref><ref type="bibr" target="#b6">Axelrod ( , 1997) )</ref> using computer simulations display a certain affinity to Austrian economics, more concretely Hayek's works, regarding the focus on cooperative, evolutionary strategies in competition.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p xml:id="_GVyHRd8"><s xml:id="_6paxYkM">It is important not to confuse computational economics with computable economics.</s><s xml:id="_TTB7CPs">The former deals with the logical foundations of using computers in economics while the latter focuses on particular applications and methods(Rosser Jr., 2009b).</s><s xml:id="_j4Neyx3">In this case, since<ref type="bibr" target="#b65">Markose (2005)</ref> and<ref type="bibr" target="#b44">Koppl (2009)</ref> refer to the similarities between<ref type="bibr" target="#b89">Velupillai (2000)</ref> and Hayek, we must use the term computable.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p xml:id="_tDMxfaR"><s xml:id="_mBgXgu2">It assumes heterogeneity among agents, for example, concerning the differences among firms or countries in terms of capabilities(Hausmann &amp; Hidalgo, 2011).</s><s xml:id="_g8HJjTF">There is no global controller in their model, but many dispersed interactions between firms through a great variety of entangled networks exemplified in the product space<ref type="bibr" target="#b28">(Hidalgo et al., 2007)</ref>.</s><s xml:id="_75Kh359">They conceive development as a diffusion process over a network of products<ref type="bibr" target="#b26">(Hidalgo &amp; Hausmann, 2008)</ref>.</s><s xml:id="_CKSnRJm">That network is permanently subject to change which entails agents (firms) continually adapt their behavior (production) according to the changing endowment of capabilities, the introduction of new technology, or the demand for different but related products.</s><s xml:id="_X35jsds">Moreover, development implies path-dependencies on the previous structure of the heterogeneous product space<ref type="bibr" target="#b27">(Hidalgo &amp; Hausmann, 2009)</ref> or the previous state of productive knowledge(Hausmann  et al., 2013), and increasing returns as a country accumulates more capabilities(Hausmann &amp; Hidalgo,  2011).</s><s xml:id="_8xCcWWJ">Precisely,<ref type="bibr" target="#b0">Arthur (1989</ref><ref type="bibr" target="#b1">Arthur ( , 1994))</ref>, as one of the leading figures of the Santa Fe complexity, highly emphasizes both notions of path-dependency and increasing returns.</s><s xml:id="_zM4tvgT">Additionally, the Harvard-MIT approach escapes from traditional views on economic development and creates an out-of-equilibrium model involving nonlinearities: the network changes as a reflection of the market processes underlying the product space.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_5"><p xml:id="_JEADTJm"><s xml:id="_PcUUXRD">The idea of a public policy programme is an adaptation of<ref type="bibr" target="#b51">Lakatos's (1999)</ref> concept of scientific research programme.</s><s xml:id="_C4bQ7Mg">The hard-core propositions deal with the nature of the world, thus these propositions are regarded as irrefutable by scientists working within the programme.</s><s xml:id="_BuHECV4">Moreover, these hard-core propositions include positive heuristics, which are sets of instructions to develop the research programme and decision rules for handling problems.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_6"><p xml:id="_ysAkxNe"><s xml:id="_49cm36A">Similar to the MPP,<ref type="bibr" target="#b70">Potts (2019)</ref> speaks about innovation commons, which are systems of rules to incentivize cooperation to pool distributed knowledge and other inputs, thus facilitating the entrepreneurial discovery of economic opportunities.</s><s xml:id="_HuXfcHf">From his point of view, innovation is the source of economic growth, and for innovation to take place, an innovation commons is necessary as a governance institution.</s><s xml:id="_SgQkcga">These commons are more than simply the market; they are institutions spontaneously emerged from cooperation in particular groups, so they do not cover the entire market but certain groups of agents.</s><s xml:id="_QAAt4v4">In this sense, they take a smaller and more concrete form than the market, which can be seen as a more general and vague term.</s><s xml:id="_cP3DYdz">The environment to which Hausmann et al. refer can also crystalize in Potts's innovation commons, which also constitute an Austrian and Hayekian theory of growth.</s></p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_NdmJjyN">Acknowledgements</head><p xml:id="_xWDdCes"><s xml:id="_VcMGbHp">The author wishes to thank two anonymous referees and, especially, <rs type="person">Dr. Erwin Dekker</rs>, for their thoughtful comments and suggestions.</s><s xml:id="_VqTPBGK">The usual caveat applies.</s></p><p xml:id="_Z9H2scD"><s xml:id="_kYHSYnY">Funding Not applicable.</s></p></div>
+<div><head n="1" xml:id="_uKSeyRa">3</head><p xml:id="_qj9Tnb5"><s xml:id="_Jp6dGPv">The <rs type="projectName">Harvard-MIT complexity</rs> approach to development and Austrian…</s></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_QQ9a8NP">
+					<orgName type="project" subtype="full">Harvard-MIT complexity</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_YrdHGrw"><p xml:id="_Yk4vKP2"><s xml:id="_8Y9vxvF">Data Availability Not applicable.</s></p><p xml:id="_QvBQkua"><s xml:id="_MPy3EgX">Code availability Not applicable.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gNPhnvE">Declarations</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_SEbgD7F"><p xml:id="_etwR9Fx"><s xml:id="_EjYbFGS">Conflict of interest Not applicable.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_wzK2CZN">3</head><p xml:id="_PtTEVr3"><s xml:id="_KYjk5Xn">The Harvard-MIT complexity approach to development and Austrian… Hausmann, R. <ref type="bibr">(2016)</ref>.</s><s xml:id="_YDMRVTV">Economic development and the accumulation of know-how.</s><s xml:id="_vgdwCB3">Welsh Economic <ref type="bibr">Review,</ref><ref type="bibr">24,</ref><ref type="bibr">[13]</ref><ref type="bibr">[14]</ref><ref type="bibr">[15]</ref><ref type="bibr">[16]</ref>  <ref type="bibr">Hidalgo, C. A., Bustos, S., et al. (2013)</ref>.</s><s xml:id="_K6rebpE">The atlas of economic complexity.</s><s xml:id="_QzAckqw">MIT Press.</s><s xml:id="_vnzjnKk"><ref type="bibr">Hayek, F. A. (1937)</ref>.</s><s xml:id="_MQjgUar">Economics and knowledge.</s><s xml:id="_7kbWN5W">Economica, 4, 33-54.</s><s xml:id="_8BA69N3"><ref type="url" target="https://doi">https:// doi</ref>.</s><s xml:id="_c37H3xe">org/ 10. 2307/ 25487 86 <ref type="bibr">Hayek, F. A. (1945)</ref>.</s><s xml:id="_sYNpzz5">The use of knowledge in society.</s><s xml:id="_RmeCzkK">The American Economic <ref type="bibr">Review, 35, 519-530. Hayek, F. A. (1948a)</ref>.</s><s xml:id="_u9dZMpd">Individualism and economic order.</s><s xml:id="_KKrKWAP">The University of Chicago Press.</s><s xml:id="_HVkdxtD"><ref type="bibr">Hayek, F. A. (1948b)</ref>.</s><s xml:id="_gNsuPyV">The meaning of competition.</s><s xml:id="_HCHusKk">In Individualism and economic order <ref type="bibr">(pp. 92-106)</ref>.</s></p><p xml:id="_kaQDxnZ"><s xml:id="_FRdMnhC">The University of Chicago Press.</s><s xml:id="_Uj8Ge7B"><ref type="bibr">Hayek, F. A. (1952)</ref>.</s><s xml:id="_JmmPy2v">The sensory order: An inquiry into the foundations of theoretical psychology.</s><s xml:id="_NRvSyAx">The University of Chicago Press.</s><s xml:id="_ksaze28"><ref type="bibr">Hayek, F. A. (1963)</ref>.</s><s xml:id="_VdXqTvu">Collectivist economic planning.</s><s xml:id="_UT3465A">Routledge &amp; Kegan Paul.</s></p><p xml:id="_35FjkpA"><s xml:id="_bnuzXqH">Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_4qb5QEW">Competing Technologies, Increasing Returns, and Lock-In by Historical Events</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2234208</idno>
+		<ptr target="https://doi.org/10.2307/22342" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_c9kUdyK">The Economic Journal</title>
+		<title level="j" type="abbrev">The Economic Journal</title>
+		<idno type="ISSN">0013-0133</idno>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">394</biblScope>
+			<biblScope unit="page">116</biblScope>
+			<date type="published" when="1989-03">1989</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arthur, W. B. (1989). Competing technologies, increasing returns, and lock-in by historical events. The Economic Journal, 99, 116-131. https:// doi. org/ 10. 2307/ 22342</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</author>
+		<title level="m" xml:id="_vCRv7XY">Increasing returns and path dependence in the economy</title>
+		<imprint>
+			<publisher>University of Michigan Press</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arthur, W. B. (1994). Increasing returns and path dependence in the economy. University of Michigan Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_cbSaU8X">Complexity and the Economy</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.284.5411.107</idno>
+		<ptr target="https://doi.org/10.1126/science.284.5411.107" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3PmJSfk">Science</title>
+		<title level="j" type="abbrev">Science</title>
+		<idno type="ISSN">0036-8075</idno>
+		<idno type="ISSNe">1095-9203</idno>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="issue">5411</biblScope>
+			<biblScope unit="page" from="107" to="109" />
+			<date type="published" when="1999-04-02">1999</date>
+			<publisher>American Association for the Advancement of Science (AAAS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arthur, W. B. (1999). Complexity and the economy. Science, 284, 107-109. https:// doi. org/ 10. 1126/ scien ce. 284. 5411. 107</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_gcnzXQt">Complexity economics: A different framework for economic thought</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_8RsHns9">Complexity and the economy</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1" to="29" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arthur, W. B. (2015). Complexity economics: A different framework for economic thought. In W. B. Arthur (Ed.), Complexity and the economy (pp. 1-29). Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_VeKeN8t">Introduction</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Durlauf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_rE4bsZZ">The economy as an evolving complex system II</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Arthur</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Durlauf</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lane</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Addison-Wesley</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arthur, W. B., Durlauf, S. N., &amp; Lane, D. A. (1997). Introduction. In W. B. Arthur, S. N. Durlauf, &amp; D. A. Lane (Eds.), The economy as an evolving complex system II (pp. 1-14). Addison-Wesley.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_sNyuSGA">The evolution of cooperation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Axelrod</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Basic Books</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Axelrod, R. M. (1984). The evolution of cooperation. Basic Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_zcPK437">The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Axelrod</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781400822300</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_HPmB7JQ">The complexity of cooperation : Agent-based models of competition and collaboration</title>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1997-12-31">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Axelrod, R. M. (1997). The complexity of cooperation : Agent-based models of competition and collabo- ration. Princeton University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main" xml:id="_ydFbDZV">Software as capital: An economic perspective on software engineering</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baetjer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>IFEE Computer Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baetjer, H. (1998). Software as capital: An economic perspective on software engineering. IFEE Com- puter Society.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_3S7tQdG">Capital as embodied knowledge: Some implications for the theory of economic growth</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baetjer</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/a:1007808618703</idno>
+		<ptr target="https://doi.org/10.1023/a:1007808618703" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jZgBVs5">The Review of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="147" to="174" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baetjer, H. (2000). Capital as embodied knowledge: Some implications for the theory of economic growth. The Review of Austrian Economics, 13, 147-174. https:// doi. org/ 10. 1023/a: 10078 08618 703</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_GbafnDQ">From network structure to human dynamics</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Barabási</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/MCS.2007.384127</idno>
+		<ptr target="https://doi.org/10.1109/MCS.2007.384127" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y7AhDbm">IEEE Control Systems</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="33" to="42" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barabási, A. L. (2007). From network structure to human dynamics. IEEE Control Systems, 27, 33-42. https:// doi. org/ 10. 1109/ MCS. 2007. 384127</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_w6h3deW">Complexity and the Austrians</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barbieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_S2YXa2e">Filosofía de la Economía</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="47" to="69" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barbieri, F. (2013). Complexity and the Austrians. Filosofía de la Economía, 1, 47-69.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main" xml:id="_bPk8bq6">Algorithmic information theory</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Chaitin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaitin, G. J. (1987). Algorithmic information theory. Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_CN2eTNt">Hayek&apos;s Complexity</title>
+		<author>
+			<persName><forename type="first">Frederique</forename><surname>Chaumont-Chancelier</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/jeeh-1999-0405</idno>
+		<ptr target="https://doi.org/10.1515/jeeh-1999-0405" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3zQ7NDS">Journal des Économistes et des Études Humaines</title>
+		<idno type="ISSN">2194-5799</idno>
+		<idno type="ISSNe">2153-1552</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="543" to="564" />
+			<date type="published" when="1999-12-01">1999</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaumont-Chancelier, F. (1999). Hayek&apos;s complexity. Journal des Économistes et des Études Humaines, 9, 543-564. https:// doi. org/ 10. 1515/ jeeh-1999-0405</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_vzFtcWr">Complex economic dynamics, volume 1: An introduction to dynamical systems and market mechanisms</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Day</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0164-0704(95)80108-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8hPNQP2">Journal of Macroeconomics</title>
+		<title level="j" type="abbrev">Journal of Macroeconomics</title>
+		<idno type="ISSN">0164-0704</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">369</biblScope>
+			<date type="published" when="1994">1994</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Day, R. H. (1994). Complex economic dynamics, volume 1: An introduction to dynamical systems and market mechanisms. MIT Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_7ABKna6">A Mengerian theory of knowledge and economic development</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kuchar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TsFkU74">Cosmos and Taxis</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dekker, E., &amp; Kuchar, P. (2021). A Mengerian theory of knowledge and economic development. Cosmos and Taxis.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_uBFCXJy">Israel Kirzner on dynamic efficiency and economic development</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Espinosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JZSECkq">Procesos de Mercado: Revista Europea de Economía Política</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="283" to="310" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Espinosa, V. I., Wang, W. H., &amp; Zhu, H. (2020). Israel Kirzner on dynamic efficiency and economic development. Procesos de Mercado: Revista Europea de Economía Política, 17, 283-310.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_uYxE7sy">Hayek&apos;s theory on complexity and knowledge: Dichotomies, levels of analysis, and bounded rationality</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fiori</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13501780903128548</idno>
+		<ptr target="https://doi.org/10.1080/135017809031285" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_s3mU9hN">Journal of Economic Methodology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="265" to="285" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fiori, S. (2009). Hayek&apos;s theory on complexity and knowledge: Dichotomies, levels of analysis, and bounded rationality. Journal of Economic Methodology, 16, 265-285. https:// doi. org/ 10. 1080/ 13501 78090 31285</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_xyvvZWZ">Social Complexity and Evolved Moral Principles</title>
+		<author>
+			<persName><forename type="first">Gerald</forename><forename type="middle">F</forename><surname>Gaus</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/9780230609228_8</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tdgsGHF">Liberalism, Conservatism, and Hayek’s Idea of Spontaneous Order</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Hunt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Mcnamara</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Palgrave Macmillan US</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="149" to="176" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gaus, G. F. (2007). Social complexity and evolved moral principles. In L. Hunt &amp; P. McNamara (Eds.), Liberalism, conservatism, and Hayek&apos;s idea of spontaneous order (pp. 149-176). Palgrave Mac- millan US.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_DChMeht">Chaos: Making a new science</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gleick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Viking Penguin</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gleick, J. (1987). Chaos: Making a new science. Viking Penguin.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_7DnzXVw">Foundations of entrepreneurship and economic development</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Harper</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Harper, D. A. (2003). Foundations of entrepreneurship and economic development. Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_HEnMGB9">The theory of complex phenomena</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FJUMvBw">Studies in philosophy, Politics and Economics</title>
+		<imprint>
+			<publisher>Routledge &amp; Kegan Paul</publisher>
+			<date type="published" when="1967">1967</date>
+			<biblScope unit="page" from="22" to="42" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. A. (1967). The theory of complex phenomena. In Studies in philosophy, Politics and Econom- ics (pp. 22-42). Routledge &amp; Kegan Paul.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_9Jx52da">Law, Legislation and Liberty, Volume 1</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<idno type="DOI">10.7208/chicago/9780226321233.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_GMhpYnr">Law, legislation and liberty</title>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">I</biblScope>
+		</imprint>
+	</monogr>
+	<note>Rules and Order</note>
+	<note type="raw_reference">Hayek, F. A. (1973). Law, legislation and liberty. Vol. I: Rules and Order. Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_777uPjU">Competition as a discovery procedure</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sCzYUK5">The Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="9" to="23" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. A. (2002). Competition as a discovery procedure. The Quarterly Journal of Austrian Econom- ics, 5, 9-23.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_2NdadR4">The pure theory of capital</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. A. (2009). The pure theory of capital. Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_Nks76pk">Business Cycles</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hansjoerg</forename><surname>Klausinger</surname></persName>
+		</author>
+		<idno type="DOI">10.7208/chicago/9780226320496.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_8akt8gV">Business cycles, Part II. The Collected Works</title>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="331" to="346" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. A. (2012). The flow of goods and services. In H. Klausinger (Ed.), Business cycles, Part II. The Collected Works of F.A. Hayek (pp. 331-346). University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_SrAKyuD">Why information grows: The evolution of order, from atoms to economies</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hidalgo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kRdwm7P">Basic Books</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hidalgo, C. A. (2015). Why information grows: The evolution of order, from atoms to economies. Basic Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_dRHbdwm">A network view of economic development</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hidalgo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hausmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Pub99Zm">Developing Alternatives</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="5" to="10" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hidalgo, C. A., &amp; Hausmann, R. (2008). A network view of economic development. Developing Alterna- tives, 12, 5-10.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_nUHfgr6">The building blocks of economic complexity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hidalgo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hausmann</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/40483593</idno>
+		<ptr target="https://doi.org/10.2307/40483593" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fupFZNH">Proceedings of the National Academy of Sciences of the United States of America</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="10570" to="10575" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hidalgo, C. A., &amp; Hausmann, R. (2009). The building blocks of economic complexity. Proceedings of the National Academy of Sciences of the United States of America, 106, 10570-10575. https:// doi. org/ 10. 2307/ 40483 593</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_ExNqdQM">The product space conditions the development of nations</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hidalgo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Winger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Barabási</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hausmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1144581</idno>
+		<ptr target="https://doi.org/10.1126/science.11445" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YQnu79A">Science</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="482" to="487" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hidalgo, C. A., Winger, B., Barabási, A. L., &amp; Hausmann, R. (2007). The product space conditions the development of nations. Science, 317, 482-487. https:// doi. org/ 10. 1126/ scien ce. 11445</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZzSfjzB">The complexity era in economics</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hoefman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P F</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Colander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/09538259.2011.583820</idno>
+		<ptr target="https://doi.org/10.1080/09538259.2011.583820" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CvaFRfG">Review of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="357" to="369" />
+			<date type="published" when="2011">2020. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Live agent-based models Holt</note>
+	<note type="raw_reference">Hoefman, K. (2020). Live agent-based models Holt, R. P. F., Rosser Jr., J. B., &amp; Colander, D. (2011). The complexity era in economics. Review of Politi- cal Economy, 23, 357-369. https:// doi. org/ 10. 1080/ 09538 259. 2011. 583820</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main" xml:id="_8XK9RcM">The end of science: Facing the limits of knowledge in the twilight of the scientific age</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Horgan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Broadway Books</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Horgan, J. (1997). The end of science: Facing the limits of knowledge in the twilight of the scientific age. Broadway Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_5gUpF6y">The ongoing Methodenstreit of the Austrian school</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huerta De Soto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BTYsxWg">Journal des Economistes et des Etudes Humaines</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="75" to="113" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huerta de Soto, J. (1998). The ongoing Methodenstreit of the Austrian school. Journal des Economistes et des Etudes Humaines, 8, 75-113.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huerta De Soto</surname></persName>
+		</author>
+		<title level="m" xml:id="_VyRfJpY">Socialism, economic calculation and entrepreneurship</title>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huerta de Soto, J. (2010). Socialism, economic calculation and entrepreneurship. Edward Elgar Publishing.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<title level="m" xml:id="_7kmhGA6">The origins of order: Self-organization and selection in evolution</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kaufmann, S. A. (1993). The origins of order: Self-organization and selection in evolution. Oxford Uni- versity Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_kJTGZ9N">The knowledge problem</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kiesling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_WsZkd9E">The Oxford handbook of Austrian economics</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Coyne</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Boettke</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="45" to="64" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kiesling, L. (2015). The knowledge problem. In C. J. Coyne &amp; P. J. Boettke (Eds.), The Oxford handbook of Austrian economics (pp. 45-64). Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_pGSyrH3">Complexity, spontaneous order, and Friedrich Hayek: Are spontaneous order and complexity essentially the same thing?</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Kilpatrick</surname><genName>Jr</genName></persName>
+		</author>
+		<idno type="DOI">10.1002/cplx.1035</idno>
+		<ptr target="https://doi.org/10.1002/cplx.1035" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nbaDfNk">Complexity</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="16" to="20" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kilpatrick Jr., H. E. (2001). Complexity, spontaneous order, and Friedrich Hayek: Are spontaneous order and complexity essentially the same thing? Complexity, 6, 16-20. https:// doi. org/ 10. 1002/ cplx. 1035</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_tBRKW36">The economic calculation debate: Lessons for Austrians</title>
+		<author>
+			<persName><forename type="first">Israel</forename><forename type="middle">M</forename><surname>Kirzner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Augustus</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Israel</forename><forename type="middle">M</forename><surname>Kirzner</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01539296</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2svhTxH">The Review of Austrian Economics</title>
+		<title level="j" type="abbrev">Rev Austrian Econ</title>
+		<idno type="ISSN">0889-3047</idno>
+		<idno type="ISSNe">1573-7128</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="1966">1966. 1988</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note>An Essay on Capital</note>
+	<note type="raw_reference">Kirzner, I. M. (1966). An Essay on Capital. Augustus M. Kelley. Kirzner, I. M. (1988). The economic calculation debate: Lessons for Austrians. The Review of Austrian Economics, 2, 1-18.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main" xml:id="_6Tx6R5R">The meaning of the market process: Essays in the development of modern Austrian economics</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Kirzner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner, I. M. (1992). The meaning of the market process: Essays in the development of modern Austrian economics. Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main" xml:id="_x87XzAA">Competition and Entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Israel</forename><forename type="middle">M</forename><surname>Kirzner</surname></persName>
+		</author>
+		<idno type="DOI">10.7208/chicago/9780226375489.001.0001</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner, I. M. (2013). Competition and entrepreneurship. Liberty Fund.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_XwYZqKd">F. A. Hayek as an Ordo-Liberal</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Kolev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2888693</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zEeN8sW">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kolev, S. (2010). F. A. Hayek as an ordo-liberal. HWWI Research Papers.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_CZ9u3A7">Three approaches to the quantitative definition of information</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Kolmogorov</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00207166808803030</idno>
+		<ptr target="https://doi.org/10.1080/002071668088030" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kBSt4DY">International Journal of Computer Mathematics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="157" to="168" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kolmogorov, A. N. (1968). Three approaches to the quantitative definition of information. International Journal of Computer Mathematics, 2, 157-168. https:// doi. org/ 10. 1080/ 00207 16680 88030</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_EtWY2VQ">Combinatorial foundations of information theory and the calculus of probabilities</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Kolmogorov</surname></persName>
+		</author>
+		<idno type="DOI">10.1070/RM1983V038N04ABEH004203</idno>
+		<ptr target="https://doi.org/10.1070/RM1983V038N04ABEH004203" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5rF397W">Russian Mathematical Surveys</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="29" to="40" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kolmogorov, A. N. (1983). Combinatorial foundations of information theory and the calculus of prob- abilities. Russian Mathematical Surveys, 38, 29-40. https:// doi. org/ 10. 1070/ RM198 3V038 N04AB EH004 203</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_x4EFyCW">Complexity and Austrian Economics</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Koppl</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9781781952665.00026</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_WPbtMyP">Handbook of Research on Complexity</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Colander</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koppl, R. (2000). Teaching complexity: An Austrian approach. In D. Colander (Ed.), The complexity vision and the teaching of economics. Edward Elgar.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_DmFP9ky">Austrian economics at the cutting edge</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koppl</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11138-006-9246-y</idno>
+		<ptr target="https://doi.org/10.1007/s11138-006-9246-y" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3JqRS9H">The Review of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="231" to="241" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koppl, R. (2006). Austrian economics at the cutting edge. The Review of Austrian Economics, 19, 231- 241. https:// doi. org/ 10. 1007/ s11138-006-9246-y</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_npNmqBz">Complexity and Austrian economics</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koppl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_mv42nMu">Handbook of research on complexity</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="393" to="408" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koppl, R. (2009). Complexity and Austrian economics. In J. B. Rosser Jr. (Ed.), Handbook of research on complexity (pp. 393-408).</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Elgar</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Edward Elgar.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koppl</surname></persName>
+		</author>
+		<title level="m" xml:id="_uBT8QbK">Expert Failure</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koppl, R. (2018). Expert Failure. Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_McXyHnu">Economics for a creative world</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Koppl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kauffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Felin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Longo</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1744137414000150</idno>
+		<ptr target="https://doi.org/10.1017/S1744137414000150" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NjxcS72">Journal of Institutional Economics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="31" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Koppl, R., Kauffman, S., Felin, T., &amp; Longo, G. (2015). Economics for a creative world. Journal of Insti- tutional Economics, 11, 1-31. https:// doi. org/ 10. 1017/ S1744 13741 40001 50</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_JUSzKpQ">From Mises to shackle: An essay on Austrian economics and the Kaleidic society</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_N6W2ZeD">Journal of Economic Literature</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="54" to="62" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lachmann, L. M. (1976). From Mises to shackle: An essay on Austrian economics and the Kaleidic soci- ety. Journal of Economic Literature, 14, 54-62.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</author>
+		<title level="m" xml:id="_X8ATMVa">Capital and its structure</title>
+		<imprint>
+			<publisher>Sheed Andrews and McMeel</publisher>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lachmann, L. M. (1978). Capital and its structure. Sheed Andrews and McMeel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main" xml:id="_5BcuMZY">The market as an economic process</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Basil Blackwell</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lachmann, L. M. (1986). The market as an economic process. Basil Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_EHZ5CBK">Realism, Rationalism and Scientific Method. By P. K. Feyerabend. (Pp. 353; £8.95.) Cambridge University Press: Cambridge. 1985. - Problems of Empiricism. By P. K. Feyerabend. (Pp. 255; £7.95.) Cambridge University Press: Cambridge. 1985. - The Methodology of Scientific Research Programmes. By I. Lakatos. (Pp. 250; £25.00 hb, £8.50 pb.) Cambridge University Press: Cambridge. 1978. - Mathematics, Science and Epistemology. By I. Lakatos. (Pp. 285; £27.50 hb, £8.95 pb.) Cambridge University Press: Cambridge. 1978.</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lakatos</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0033291700010837</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XZPTjZW">Psychological Medicine</title>
+		<title level="j" type="abbrev">Psychol. Med.</title>
+		<idno type="ISSN">0033-2917</idno>
+		<idno type="ISSNe">1469-8978</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="724" to="724" />
+			<date type="published" when="1999">1999</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lakatos, I. (1999). The methodology of scientific research Programmes, volume I. Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_v9YMz9E">Orders and organizations: Toward an Austrian theory of social institutions</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Langlois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_TcFnDnn">Austrian economics: Tensions and new directions</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Caldwell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Boehm</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="165" to="192" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Langlois, R. N. (1992). Orders and organizations: Toward an Austrian theory of social institutions. In B. J. Caldwell &amp; S. Boehm (Eds.), Austrian economics: Tensions and new directions (pp. 165-192). Springer Netherlands.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_WTpKEXJ">Do firms plan?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Langlois</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF01303405</idno>
+		<ptr target="https://doi.org/10.1007/BF01303405" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VZmUNpF">Constitutional Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="247" to="261" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Langlois, R. N. (1995). Do firms plan? Constitutional Political Economy, 6, 247-261. https:// doi. org/ 10. 1007/ BF013 03405</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_w2rbSAb">Firms, Markets and Economic Change</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">N</forename><surname>Langlois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">L</forename><surname>Robertson</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203199237</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KBzmxdS">Firms, markets and economic change</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1995-07-06">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Langlois, R. N., &amp; Robertson, P. L. (1995). Firms, markets and economic change. Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_8TYbz9x">Life at the edge of chaos</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Langton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_2ysxcHx">Artificial Life II</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Langton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Taylor</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Farmer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">S</forename><surname>Rasmussen</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Addison-Wesley</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="41" to="91" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Langton, C. G. (1992). Life at the edge of chaos. In C. G. Langton, C. Taylor, J. D. Farmer, &amp; S. Rasmus- sen (Eds.), Artificial Life II (pp. 41-91). Addison-Wesley.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lavoie</surname></persName>
+		</author>
+		<title level="m" xml:id="_WUYVEJH">Rivarly and central planning: The socialist calculation debate reconsidered</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lavoie, D. (1985). Rivarly and central planning: The socialist calculation debate reconsidered. Cam- bridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main" xml:id="_2XH35md">Economic Chaos or spontaneous order implications for political economy of the new view of science</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lavoie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RmdU4Fg">Cato Journal</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="613" to="640" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lavoie, D. (1989). Economic Chaos or spontaneous order implications for political economy of the new view of science. Cato Journal, 8, 613-640.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main" xml:id="_TBsdwTy">Capital in Disequilibrium: The role of capital in a changing world</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lewin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+		<respStmt>
+			<orgName>Ludwig von Mises Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Lewin, P. (2011). Capital in Disequilibrium: The role of capital in a changing world. Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_uyuJeSK">The capital-based view of the firm</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Lewin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Howard</forename><surname>Baetjer</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11138-011-0149-1</idno>
+		<ptr target="https://doi.org/10.1007/s11138-011-0149-1" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Q3U8hZs">The Review of Austrian Economics</title>
+		<title level="j" type="abbrev">Rev Austrian Econ</title>
+		<idno type="ISSN">0889-3047</idno>
+		<idno type="ISSNe">1573-7128</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="335" to="354" />
+			<date type="published" when="2011-04-09">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lewin, P., &amp; Baetjer, H. (2011). The capital-based view of the firm. The Review of Austrian Economics, 24, 335-354. https:// doi. org/ 10. 1007/ s11138-011-0149-1</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main" xml:id="_xY5dCUu">The capital-using economy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lewin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baetjer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_n3retJK">The Oxford handbook of Austrian economics</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Coyne</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Boettke</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="144" to="163" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lewin, P., &amp; Baetjer, H. (2015). The capital-using economy. In C. J. Coyne &amp; P. Boettke (Eds.), The Oxford handbook of Austrian economics (pp. 144-163). Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_Zq3pDFK">Emergent properties in the work of Friedrich Hayek</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Lewis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jebo.2011.04.009</idno>
+		<ptr target="https://doi.org/10.1016/j.jebo.2011.04.009" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4fPxgq2">Journal of Economic Behavior &amp; Organization</title>
+		<title level="j" type="abbrev">Journal of Economic Behavior &amp; Organization</title>
+		<idno type="ISSN">0167-2681</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="368" to="378" />
+			<date type="published" when="2012-05">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lewis, P. (2012). Emergent properties in the work of Friedrich Hayek. Journal of Economic Behavior and Organization, 82, 368-378. https:// doi. org/ 10. 1016/j. jebo. 2011. 04. 009</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main" xml:id="_PdCMFrr">The division of labour</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Loasby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qSVwC9D">History of Economic Ideas</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="299" to="323" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Loasby, B. J. (1996). The division of labour. History of Economic Ideas, 4, 299-323.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main" xml:id="_mVzPQAR">Knowledge, institutions, and evolution in economics</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Loasby</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Loasby, B. J. (1999). Knowledge, institutions, and evolution in economics. Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main" xml:id="_GcgY3Za">On the mechanics of economic development</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Lucas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0304-3932(88)90168-7</idno>
+		<ptr target="https://doi.org/10.1016/0304-3932(88)90168-7" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mgDkfTU">Journal of Monetary Economics</title>
+		<title level="j" type="abbrev">Journal of Monetary Economics</title>
+		<idno type="ISSN">0304-3932</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="42" />
+			<date type="published" when="1988-07">1988</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lucas, R. E. (1988). On the mechanics of economic development. Journal of Monetary Economics, 22, 3-42. https:// doi. org/ 10. 1016/ 0304-3932(88) 90168-7</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_FXzVYzG">Computability and evolutionary complexity: Markets as complex adaptive systems (CAS)*</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Markose</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/J.1468-0297.2005.01000.X</idno>
+		<ptr target="https://doi.org/10.1111/J.1468-0297.2005.01000.XMenger" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A6s8nBd">The Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="159" to="F192" />
+			<date type="published" when="2005">2005. 2007</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<pubPlace>, C.</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Principles of economics</note>
+	<note type="raw_reference">Markose, S. M. (2005). Computability and evolutionary complexity: Markets as complex adaptive sys- tems (CAS)*. The Economic Journal, 115, F159-F192. https:// doi. org/ 10. 1111/J. 1468-0297. 2005. 01000.X Menger, C. (2007). Principles of economics. Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_67Vwy6s">Markets come to bits: Evolution, computation and markomata in economic science</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mirowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/J.JEBO.2005.03.015</idno>
+		<ptr target="https://doi.org/10.1016/J.JEBO.2005.03.015" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_djyVgbd">Journal of Economic Behavior &amp; Organization</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="209" to="242" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mirowski, P. (2007). Markets come to bits: Evolution, computation and markomata in economic science. Journal of Economic Behavior &amp; Organization, 63, 209-242. https:// doi. org/ 10. 1016/J. JEBO. 2005. 03. 015</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main" xml:id="_4zyBHpb">Complexity theory: An Austrian perspective</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Montgomery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_YypJ4pQ">Complexity and the history of economic thought</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Colander</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="227" to="240" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Montgomery, M. R. (2000). Complexity theory: An Austrian perspective. In D. Colander (Ed.), Complex- ity and the history of economic thought (pp. 227-240). Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main" xml:id="_VUKeAMs">Competition as market progress: An Austrian rationale for agent-based modeling</title>
+		<author>
+			<persName><forename type="first">Guinevere</forename><forename type="middle">L</forename><surname>Nell</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11138-009-0088-2</idno>
+		<ptr target="https://doi.org/10.1007/s11138-009-0088-2" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SSdbdPf">The Review of Austrian Economics</title>
+		<title level="j" type="abbrev">Rev Austrian Econ</title>
+		<idno type="ISSN">0889-3047</idno>
+		<idno type="ISSNe">1573-7128</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="145" />
+			<date type="published" when="2010">2010</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nell, G. L. (2010). Competition as market progress: An Austrian rationale for agent-based modeling. The Review of Austrian Economics, 23, 127-145. https:// doi. org/ 10. 1007/ s11138-009-0088-2</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main" xml:id="_3y6z8AG">Hayek on tacit knowledge</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Oğuz</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s1744137409990312</idno>
+		<ptr target="https://doi.org/10.1017/s1744137409990312" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NAsRwUM">Journal of Institutional Economics</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="145" to="165" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oğuz, F. (2010). Hayek on tacit knowledge. Journal of Institutional Economics, 6, 145-165. https:// doi. org/ 10. 1017/ s1744 13740 99903 12</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main" xml:id="_s4wwJSk">Innovation Commons</title>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Potts</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oso/9780190937492.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_yCpBzN7">Innovation commons: The origin of economic growth</title>
+		<imprint>
+			<publisher>Oxford University PressNew York</publisher>
+			<date type="published" when="2019-08-22">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Potts, J. (2019). Innovation commons: The origin of economic growth. Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main" xml:id="_nyC4uZv">Knowledge as a path-dependence process</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rizzello</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/S10818-004-2925-5</idno>
+		<ptr target="https://doi.org/10.1007/S10818-004-2925-5" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5u94fWv">Journal of Bioeconomics</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="255" to="274" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rizzello, S. (2004). Knowledge as a path-dependence process. Journal of Bioeconomics, 6, 255-274. https:// doi. org/ 10. 1007/ S10818-004-2925-5</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZkMP6nU">Increasing Returns and Long-Run Growth</title>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">M</forename><surname>Romer</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261420</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zHh2png">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1002" to="1037" />
+			<date type="published" when="1986-10">1986</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Romer, P. M. (1986). Increasing returns and long-run growth. Journal of Political Economy, 94, 1002-1037.</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main" xml:id="_4WHRZSG">How complex are the Austrians?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_EVW3DZv">What is so Austrian about Austrian Economics? Advances in Austrian Economics</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Koppl</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Horwitz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Desrochers</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="165" to="179" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosser Jr., J. B. (2010). How complex are the Austrians? In R. Koppl, S. Horwitz, &amp; P. Desrochers (Eds.), What is so Austrian about Austrian Economics? Advances in Austrian Economics (pp. 165-179). Emerald Group Publishing Limited.</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main" xml:id="_eCJj6fD">On the complexities of complex economic dynamics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+		<idno type="DOI">10.1257/jep.13.4.169</idno>
+		<ptr target="https://doi.org/10.1257/jep.13.4.169" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sVjYXJH">Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="169" to="192" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosser Jr., J. B. (1999). On the complexities of complex economic dynamics. Journal of Economic Per- spectives, 13, 169-192. https:// doi. org/ 10. 1257/ jep. 13.4. 169</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main" xml:id="_JyKauaM">Introduction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kQsrR46">Handbook of research on complexity</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="3" to="11" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosser Jr., J. B. (2009a). Introduction. In J. B. Rosser Jr. (Ed.), Handbook of research on complexity (pp. 3-11).</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Elgar</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Edward Elgar.</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main" xml:id="_nknRxFB">Computational and dynamic complexity in economics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_a6G37xD">Handbook of research on complexity</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="22" to="35" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosser Jr., J. B. (2009b). Computational and dynamic complexity in economics. In J. B. Rosser Jr. (Ed.), Handbook of research on complexity (pp. 22-35).</note>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Elgar</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Edward Elgar.</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main" xml:id="_XZwMxNb">Emergence and complexity in Austrian economics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jebo.2011.09.001</idno>
+		<ptr target="https://doi.org/10.1016/j.jebo.2011.09.001" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eAgPAEW">Journal of Economic Behavior and Organization</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="122" to="128" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosser Jr., J. B. (2012). Emergence and complexity in Austrian economics. Journal of Economic Behav- ior and Organization, 81, 122-128. https:// doi. org/ 10. 1016/j. jebo. 2011. 09. 001</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main" xml:id="_9WuBF6q">Complexity and Austrian Economics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Rosser</surname><genName>Jr</genName></persName>
+		</author>
+		<idno type="DOI">10.1093/oxfordhb/9780199811762.013.27</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9tCnDr9">The Oxford handbook of Austrian economics</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Coyne</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Boettke</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2015-11-01">2015</date>
+			<biblScope unit="page" from="593" to="611" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosser Jr., J. B. (2015). Complexity and Austrian economics. In C. J. Coyne &amp; P. J. Boettke (Eds.), The Oxford handbook of Austrian economics (pp. 594-611). Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main" xml:id="_nfDfxa3">Examining social processes with agent-based models</title>
+		<author>
+			<persName><forename type="first">Chad</forename><forename type="middle">W</forename><surname>Seagren</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11138-010-0128-y</idno>
+		<ptr target="https://doi.org/10.1007/s11138-010-0128-y" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sY4VQSv">The Review of Austrian Economics</title>
+		<title level="j" type="abbrev">Rev Austrian Econ</title>
+		<idno type="ISSN">0889-3047</idno>
+		<idno type="ISSNe">1573-7128</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2011">2011</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Seagren, C. W. (2011). Examining social processes with agent-based models. The Review of Austrian Economics, 24, 1-17. https:// doi. org/ 10. 1007/ s11138-010-0128-y</note>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main" xml:id="_qKfUty6">A mathematical theory of communication</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/J.1538-7305.1948.TB01338.X</idno>
+		<ptr target="https://doi.org/10.1002/J.1538-7305.1948.TB013" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SZUwsBm">Bell System Technical Journal</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="379" to="423" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shannon, C. E. (1948). A mathematical theory of communication. Bell System Technical Journal, 27, 379-423. https:// doi. org/ 10. 1002/J. 1538-7305. 1948. TB013</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main" xml:id="_HCcRj33">The architecture of complexity</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/J.1538-7305.1948.TB01338.X</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_srjXgDt">Facets of systems science</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1957">1957. 1991</date>
+			<biblScope unit="page" from="457" to="476" />
+		</imprint>
+	</monogr>
+	<note>Models of man</note>
+	<note type="raw_reference">X Simon HA (1957) Models of man. John Wiley &amp; Sons Ltd Simon, H. A. (1991). The architecture of complexity. In Facets of systems science (pp. 457-476). Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main" xml:id="_an5ncvp">A formal theory of inductive inference</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Solomonoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0019-9958(64)90223-2</idno>
+		<ptr target="https://doi.org/10.1016/S0019-9958(64)90223-2" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VEQqR4B">Part I. Information and Control</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Solomonoff, R. J. (1964a). A formal theory of inductive inference. Part I. Information and Control, 7, 1-22. https:// doi. org/ 10. 1016/ S0019-9958(64) 90223-2</note>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main" xml:id="_3EBc7Fj">A formal theory of inductive inference. Part II</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Solomonoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0019-9958(64)90131-7</idno>
+		<ptr target="https://doi.org/10.1016/S0019-9958(64)90131-7" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NGVvUYA">Information and Control</title>
+		<title level="j" type="abbrev">Information and Control</title>
+		<idno type="ISSN">0019-9958</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="224" to="254" />
+			<date type="published" when="1964-06">1964b</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Solomonoff, R. J. (1964b). A formal theory of inductive inference. Part II. Information and Control, 7, 224-254. https:// doi. org/ 10. 1016/ S0019-9958(64) 90131-7</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main" xml:id="_vKgygMM">A Contribution to the Theory of Economic Growth</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Solow</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1884513</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mNBCGTq">The Quarterly Journal of Economics</title>
+		<title level="j" type="abbrev">The Quarterly Journal of Economics</title>
+		<idno type="ISSN">0033-5533</idno>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">65</biblScope>
+			<date type="published" when="1956-02">1956</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Solow, R. M. (1956). A contribution to the theory of economic growth. The Quarterly Journal of Eco- nomics, 70, 65-94.</note>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main" xml:id="_dVcQ4V8">Complex questions: The new science of spontaneous order</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tucker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ScSNhN6">Reason</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tucker, W. (1996). Complex questions: The new science of spontaneous order. Reason.</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main" xml:id="_BsQfUYx">Hayek&apos;s theory of the market order as an instance of the theory of complex, Adaptative systems</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">I</forename><surname>Vaughn</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/jeeh-1999-2-304</idno>
+		<ptr target="https://doi.org/10.1515/jeeh-1999-2-304" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dSYtc6Q">Journal des Économistes et des Études Humaines</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="241" to="256" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vaughn, K. I. (1999). Hayek&apos;s theory of the market order as an instance of the theory of complex, Adap- tative systems. Journal des Économistes et des Études Humaines, 9, 241-256. https:// doi. org/ 10. 1515/ jeeh-1999-2-304</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m" type="main" xml:id="_qDNJVh9">Computable economics</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Velupillai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Velupillai, K. (2000). Computable economics. Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title level="m" type="main" xml:id="_z9Fvz3d">Capital and interest: A critical history of economical theory</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Von Böhm-Bawerk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1890">1890</date>
+			<publisher>Macmillan and Co</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Böhm-Bawerk, E. (1890). Capital and interest: A critical history of economical theory. Macmillan and Co..</note>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main" xml:id="_RQutUE8">Economic calculation in the socialist commonwealth</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_AqfAgN9">Collectivist economic planning</title>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge &amp; Kegan Paul</publisher>
+			<date type="published" when="1935">1935</date>
+			<biblScope unit="page" from="87" to="130" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Mises, L. (1935). Economic calculation in the socialist commonwealth. In F. A. Hayek (Ed.), Collec- tivist economic planning (pp. 87-130). Routledge &amp; Kegan Paul.</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main" xml:id="_tqSeZ9z">Human action: A treatise on economics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_fCtcjD3">Socialism: An economic and sociological analysis</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Liberty Fund</publisher>
+			<date type="published" when="1998">1998. 2012</date>
+		</imprint>
+	</monogr>
+	<note>Ludwig von Mises Institute</note>
+	<note type="raw_reference">von Mises, L. (1998). Human action: A treatise on economics. Ludwig von Mises Institute. von Mises, L. (2012). Socialism: An economic and sociological analysis. Liberty Fund.</note>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main" xml:id="_NWhrteF">Was Hayek an ace?</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Vriend</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1061494</idno>
+		<ptr target="https://doi.org/10.2307/1061494" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QcctEsW">Southern Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="811" to="840" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vriend, N. J. (2002). Was Hayek an ace? Southern Economic Journal, 68, 811-840. https:// doi. org/ 10. 2307/ 10614 94</note>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main" xml:id="_EDuGvKW">Mind, society, and human action: Time and knowledge in a theory of social economy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wagner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wagner, R. E. (2010). Mind, society, and human action: Time and knowledge in a theory of social econ- omy. Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main" xml:id="_h5HAnrU">Hayek&apos;s approach to the problems of complex phenomena: An introduction to the theoretical psychology of the sensory order</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Weimer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_YRzppk4">Cognition and the symbolic processes</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Weimer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Palermo</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="241" to="285" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weimer, W. B. (1982). Hayek&apos;s approach to the problems of complex phenomena: An introduction to the theoretical psychology of the sensory order. In W. B. Weimer &amp; D. S. Palermo (Eds.), Cognition and the symbolic processes (pp. 241-285).</note>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main" xml:id="_ces55Xr">Universality and complexity in cellular automata</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Wolfram</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0167-2789(84)90245-8</idno>
+		<ptr target="https://doi.org/10.1016/0167-2789(84)90245-8" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4FgyzdA">Physica D: Nonlinear Phenomena</title>
+		<title level="j" type="abbrev">Physica D: Nonlinear Phenomena</title>
+		<idno type="ISSN">0167-2789</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="1984-01">1984</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wolfram, S. (1984). Universality and complexity in cellular automata. Physica D: Nonlinear Phenomena, 10, 1-35. https:// doi. org/ 10. 1016/ 0167-2789(84) 90245-8</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
