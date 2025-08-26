@@ -1,0 +1,2815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_eXa8m25">Entrepreneurship research: mapping intellectual structures and research trends</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-06-09">9 June 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Joa</forename><surname>˜o</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ferreira</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Management and Economics Department</orgName>
+								<orgName type="institution">University of Beira Interior &amp; NECE -Research Unit in Business Sciences</orgName>
+								<address>
+									<settlement>Covilha ˜</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cristina</forename><forename type="middle">I</forename><surname>Fernandes</surname></persName>
+							<email>kristina.fernandes81@gmail.com</email>
+							<affiliation key="aff1">
+								<orgName type="institution">Intituto Polite ´cnico de Castelo Branco &amp; NECE -Research Unit in Business Sciences</orgName>
+								<address>
+									<addrLine>Estrada do Sineiro Po ´lo IV</addrLine>
+									<postCode>6200-209</postCode>
+									<settlement>Covilha ˜</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sascha</forename><surname>Kraus</surname></persName>
+							<email>sascha@prof-dr-kraus.de</email>
+							<affiliation key="aff2">
+								<orgName type="department">Institute for Entrepreneurship</orgName>
+								<orgName type="institution">Fu ¨rst-Franz-Josef</orgName>
+								<address>
+									<addrLine>-Strasse</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Liechtenstein</orgName>
+								<address>
+									<postCode>9490</postCode>
+									<settlement>Vaduz</settlement>
+									<country key="LI">Liechtenstein</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_SXakrZz">Entrepreneurship research: mapping intellectual structures and research trends</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2017-06-09">9 June 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">092392A6DF5F9DC653C4D2616F4E2F5C</idno>
+					<idno type="DOI">10.1007/s11846-017-0242-3</idno>
+					<note type="submission">Received: 4 June 2016 / Accepted: 29 May 2017 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-26T13:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_qyT99sW">Entrepreneurship theories</term>
+					<term xml:id="_PUfYTsa">Bibliometrics</term>
+					<term xml:id="_uJHzsqh">Citation analysis</term>
+					<term xml:id="_9hUWSSd">Multidimensional scaling analysis</term>
+					<term xml:id="_KPAxj7E">Cluster analysis</term>
+					<term xml:id="_d6A9ahs">Co-citations</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_duU4bmY"><p xml:id="_nt5P8R4"><s xml:id="_r4CKZQC">Using bibliometric techniques to identify connections between existing entrepreneurship studies, this article seeks to understand the scientific structure of entrepreneurship research and how entrepreneurship scholarship is organized.</s><s xml:id="_X77sB8P">Cocitation data and quantitative approach were used to identify scientific publications, intellectual structures, and research trends interrelated with theories of innovative entrepreneurship.</s><s xml:id="_DHrWZM4">Data were gathered from the citations and co-citations found in the Science Citation Index Expanded, Social Science Citation Index, and Arts and Humanities Citation Index.</s><s xml:id="_GszxGc9">Our research reveals six groups of underlying entrepreneurship theories: (1) knowledge spillover theory of entrepreneurship, (2) creation and networks theory, (3) decision-making theory, (4) specialization of labor, (5) social entrepreneurship theory, and (6) entrepreneurship in the informal economy.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_mEGg9UT">JEL Classification L26 Á M10 Á M13 1 Introduction</head><p xml:id="_nfhQPvb"><s xml:id="_kD2beg5">Entrepreneurship is an emerging field of research that has received special attention in recent decades <ref type="bibr" target="#b80">(Landstro ¨m et al. 2012;</ref><ref type="bibr" target="#b19">Aldrich 2012;</ref><ref type="bibr" target="#b21">Alvarez et al. 2016)</ref>.</s><s xml:id="_qdunn4w">Correspondingly, entrepreneurial activities and the factors underpinning their existence and influence on regional economic development have been explored by a wide range of authors <ref type="bibr" target="#b33">(Birley 1985</ref>; <ref type="bibr" target="#b68">Kirchoff and Phillips 1988;</ref><ref type="bibr" target="#b96">Storey 1994;</ref><ref type="bibr" target="#b23">Arauzo and Manjo ´n 2004)</ref>.</s><s xml:id="_xypUaG8">Many researchers have concluded that entrepreneurship is a fundamental factor in economic development, making it important to understand how entrepreneurs successfully contribute to the creation of employment and the production and implementation of innovative technologies <ref type="bibr" target="#b99">(Thurik and Wennekers 2004;</ref><ref type="bibr" target="#b101">van Stel 2006;</ref><ref type="bibr" target="#b108">Welter and Lasch 2008)</ref>.</s></p><p xml:id="_nn93dHC"><s xml:id="_bGn8B6a">The field of entrepreneurship has evolved from studying startups and small firms to embracing theories from other fields and developing new theories of entrepreneurial behavior within large/established enterprises <ref type="bibr" target="#b73">(Kraus and Rigtering 2010;</ref><ref type="bibr" target="#b19">Aldrich 2012;</ref><ref type="bibr" target="#b52">Frank and Landstro ¨m 2015)</ref>.</s><s xml:id="_QUYHmmm">It has gained more attention in disciplines such as strategic management, economics, and social psychology.</s><s xml:id="_cFdKjEK"><ref type="bibr" target="#b21">Alvarez et al. (2016)</ref> organized a special issue of the Strategic Entrepreneurship Journal where seven articles were selected to promote a provocative and critical work directly addressing some nascent theories of entrepreneurship or that have implications for their development.</s><s xml:id="_YRaDvH3">According to the authors, the papers showcase the efforts of those in the field of entrepreneurship in developing a theory.</s></p><p xml:id="_zW5S5aD"><s xml:id="_gwG6f7E">There is a need to learn from ''past'' theories and approaches to entrepreneurship and to develop new theories that are applicable to the current phase.</s><s xml:id="_VqbcauX">With this in mind, this article attempts to take entrepreneurship discourse further.</s></p><p xml:id="_3kfTagf"><s xml:id="_G8PJ5Yb">One of the most suitable methods for analyzing past research works is bibliometric analysis.</s><s xml:id="_7nsEwqP">Some bibliometric studies have attempted to delineate the fields most related to entrepreneurship <ref type="bibr" target="#b98">(Teixeira 2011;</ref><ref type="bibr" target="#b80">Landstro ¨m et al. 2012;</ref><ref type="bibr" target="#b42">Carlsson et al. 2013;</ref><ref type="bibr" target="#b34">Bouncken et al. 2015;</ref><ref type="bibr" target="#b112">Xi et al. 2015)</ref> or specific sub-fields/intersecting areas of entrepreneurship such as marketing, international or social entrepreneurship <ref type="bibr" target="#b72">(Kraus 2011;</ref><ref type="bibr" target="#b74">Kraus et al. 2012</ref><ref type="bibr" target="#b75">Kraus et al. , 2014))</ref>.</s><s xml:id="_8ZbXnHa"><ref type="bibr" target="#b56">Gartner et al. (2006)</ref> published a special issue of Entrepreneurship: Theory and Practice dedicated to understanding the scientific structure of research on entrepreneurship.</s><s xml:id="_QYnXH6S">Papers in the issue use bibliometric techniques to identify connections between already-published entrepreneurship studies.</s><s xml:id="_Myfuvpe">These articles provide rich opportunities for the identification of insightful, influential, and creative research in the field.</s><s xml:id="_vyjp8rU"><ref type="bibr" target="#b39">Busenitz et al. (2014)</ref> examined the research here that has been published in major management journals, identifying trends for future research in this context, and finding a growing convergence around several domains in most entrepreneurship research.</s><s xml:id="_3XnVanA">There is no prior evidence of a bibliometric study using co-citations analysis in this area.</s></p><p xml:id="_6Cj7XaH"><s xml:id="_gTwuUzf">With regard to data on co-citations and the quantitative approach, the bibliometric analysis applied in this study mapped the scientific publications, intellectual structure, and research trends in innovative entrepreneurship.</s><s xml:id="_SXKN2wD">Applying multi-dimensional scaling, the analysis revealed the existence of six distinct groups of theories in an internally consistent fashion.</s><s xml:id="_mv9VPUm">The following focuses on the implications each of these theoretical groups have on the effectiveness of entrepreneurship in different settings.</s><s xml:id="_GvRJY8K">This article contributes to knowledge on the kind of hybrid multidisciplinary theories that can address the actual challenges facing the field of entrepreneurship.</s><s xml:id="_fNJAV4e">More specifically, an emerging distinctive domain of entrepreneurship research and the implications of boundary and interplay issues in entrepreneurship were examined.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_KM8ufax">Historical development of the entrepreneurship research field</head><p xml:id="_hu6Khza"><s xml:id="_mehryww">Entrepreneurship as an academic discipline is a relatively new field of research with a long tradition <ref type="bibr" target="#b79">(Landstro ¨m 2005)</ref>.</s><s xml:id="_dPMqXTr">One of the first definitions of entrepreneurship was put forward by <ref type="bibr" target="#b41">Cantillon (1755)</ref> who attributed an economic meaning to it (the discrepancies between supply and demand enabling purchases at lower prices before selling the goods at higher prices).</s></p><p xml:id="_ygCcCxH"><s xml:id="_69bFS8H">In the 19th century, with the advancement of the United States as the world's major industrial power, discussions on entrepreneurship crossed the Atlantic.</s><s xml:id="_wqMNp7b">Although some economists attempted to develop the debate evolving around entrepreneurship at this time (Walker, <ref type="bibr">Hawley and Clark)</ref>, it was in the 20th century when <ref type="bibr" target="#b71">Knight (1921)</ref> first proposed the distinction between risk and uncertainty.</s><s xml:id="_NDyyuW7">In his view, entrepreneurial capacity stemmed directly from the ability to handle the uncertainty that exists in any society.</s><s xml:id="_y7xwMs3"><ref type="bibr" target="#b90">Schumpeter (1934)</ref> also was the first economist to clearly highlight the importance of entrepreneurship in economic development as he attempted to develop a new economic theory based on change in opposition to equilibrium.</s><s xml:id="_6Z4VGFf">According to him, the entrepreneur is somebody who distorts the equilibrium through the introduction of innovations, which are understood as new combinations of factors, into the system <ref type="bibr" target="#b91">(Schumpeter 1942)</ref>.</s></p><p xml:id="_mrEf3C5"><s xml:id="_9hKfK5X">In 1953, Peter Drucker held the first course in entrepreneurship and innovation at New York University.</s><s xml:id="_ASrVzHr">In Switzerland in 1948, and for the first time in Europe, the problems of small sized companies were specifically addressed by the National Council for Small Business Management Development (renamed in 1977 as the International Council for Small Business, ICSB).</s><s xml:id="_nuRAwbP">Thereafter, conferences and research dedicated to entrepreneurial issues flourished worldwide (for example: the Babson Research Conference was set up in 1981, in addition to the Entrepreneurship Division of the Academy of Management in 1987).</s></p><p xml:id="_MYpfyzk"><s xml:id="_uhEBUqt">Between the 1980s and 1990s, major corporations encountered serious difficulties in making necessary adaptations in the light of new market demands, whereas small companies proved themselves flexible.</s><s xml:id="_Uk5rJE6">This increased the relevance of the study of entrepreneurial characteristics and entrepreneurship itself <ref type="bibr" target="#b103">(Vesper 1982)</ref> as new research on entrepreneurship and small companies emerged <ref type="bibr" target="#b32">(Birch 1979)</ref>.</s><s xml:id="_pGUpP8a"><ref type="bibr" target="#b54">Gartner (1990)</ref> conducted research that did not directly approach the entrepreneurial concept, but instead allowed room for the emergence of concepts such as entrepreneur, innovation, organization, value creation, profitable versus nonprofitable activities, growth, and owner-managers.</s></p><p xml:id="_GqnnWDr"><s xml:id="_PmPGCgF">From the 1990s onwards, entrepreneurship studies, albeit considered highly fragmented by some, experienced a phase of rapid growth and were well-funded in institutions <ref type="bibr" target="#b65">(Katz 2003;</ref><ref type="bibr" target="#b80">Landstro ¨m et al. 2012)</ref>.</s><s xml:id="_UBhZhX6">At present, research in entrepreneurship has grown quickly, covering multiple theoretical and methodological traditions <ref type="bibr" target="#b56">(Gartner et al. 2006)</ref>.</s></p><p xml:id="_6rmraKK"><s xml:id="_jVyKJew">The field of entrepreneurship research remains fragmented.</s><s xml:id="_9hs9E3E"><ref type="bibr" target="#b93">Shane and Venkataraman (2000)</ref> defend how research here has become so broad that it gives the impression of being a ''mishmash <ref type="bibr">'' or, as Low (2001)</ref> puts it, a ''potpourri.''</s><s xml:id="_2sEjquK">According to these authors, one of the main challenges facing entrepreneurship stems precisely from defining its own domain.</s><s xml:id="_Kj96KSN"><ref type="bibr" target="#b63">Hjorth et al. (2008)</ref> go even further to conclude that entrepreneurship requires re-invention and re-creation with greater theoretical robustness.</s><s xml:id="_a8RavCx">They emphasize that entrepreneurship should be defined within the social and cultural context in which it operates, develop relationships based on those found in the ''real world,'' and be based on the very foundations of the social and human sciences.</s><s xml:id="_XUJGVaA">Attention has recently been given to the recognition of new opportunities <ref type="bibr" target="#b97">(Suddaby et al. 2014)</ref>.</s><s xml:id="_qEZPk38"><ref type="bibr">Alvarez and Barney (2007)</ref> identify two alternative theories applicable in the fields of entrepreneurship and strategic management-discovery and creation.</s><s xml:id="_JeX4ztq">They also describe the several implications of the theory in some entrepreneurial actions.</s><s xml:id="_Fuvm8ts"><ref type="bibr" target="#b109">Welter et al. (2016)</ref> address questions that have surfaced with the new theoretical work in the entrepreneurship domain: (1) Are bricolage, the creation view of opportunities, and effectuation concepts interrelated or are they the same?</s><s xml:id="_uk8TdUp">(2) Precisely how do they relate to and complement one another?</s><s xml:id="_XBbG9EK">and (3) Where do they diverge?</s><s xml:id="_HR78GA7">The authors examine the roots of each of these concepts and their underlying assumptions, organizing them within a unifying conceptual frame.</s><s xml:id="_v4zQek3"><ref type="bibr" target="#b77">Kuechle et al. (2016)</ref> suggest that prediction and control strategies underlie the two main hypotheses of how entrepreneurs deal with uncertainty in theories of entrepreneurship.</s><s xml:id="_SyJMepe">Prediction-based strategies focus on estimating unknowns via sampling methods, whereas control-based strategies focus on shaping unknowns via proactive behavior.</s><s xml:id="_rZARhME">These strategies may lead to different propensities to undertake uncertain prospects because they differ in terms of cognition and involvement.</s><s xml:id="_tbGaAzV">Using an experimental test, the article examines the conditions under which prediction-and control-based strategies lead subjects to accept bets in ambiguous environments.</s><s xml:id="_DtQq8Qg">Individuals who use control methods to mitigate uncertainty are more likely to accept the bet after a favorable outcome compared to those who use predictive methods.</s><s xml:id="_TnFprgs"><ref type="bibr" target="#b88">Pryor et al. (2016)</ref> also address the theory of opportunities by examining the cognitive processes explaining why entrepreneurs may seemingly pursue activities at random.</s><s xml:id="_XuscQgN">The authors present a framework that integrates sense-making and structuration perspectives to specify the cognitive and behavioral influences on the entrepreneurship process.</s><s xml:id="_dXt9VWx"><ref type="bibr" target="#b66">Keyhani and Le ´vesque (2016)</ref> review existing theoretical propositions on the equilibrating and disequilibrating effects of entrepreneurship in the market process.</s><s xml:id="_wKKBGms">They identify specific conditions that produce counterexamples to the generic equilibration and disequilibration propositions previously considered to be the central premises of entrepreneurship research.</s><s xml:id="_zaY66BZ">Furthermore, <ref type="bibr" target="#b100">Van Ness and Seifert (2016)</ref> examine the body of knowledge associated with entrepreneurial characteristics.</s></p><p xml:id="_5mty2ZP"><s xml:id="_uRPcAcg">Existing theories and observations regarding effect and personality as characteristics of entrepreneurs are reviewed, and a new three-dimensional taxonomy of personal characteristics for predicting entrepreneurial propensity is introduced.</s><s xml:id="_kubHGve"><ref type="bibr" target="#b37">Burns et al. (2016)</ref> address the need of entrepreneurs to acquire resources controlled by other stakeholders to form and exploit opportunities.</s><s xml:id="_MwwWhzq">While many of these resources can be acquired through simple contracts, the acquisition of some may require efforts on the part of stakeholders that go beyond what can be specified contractually.</s></p><p xml:id="_PdnHDJ4"><s xml:id="_GqbPgRf">Over the past 15 years, the field of entrepreneurship has been relentlessly pursuing theories that enable researchers to study entrepreneurial phenomena.</s><s xml:id="_h3EnmeA">A systematic review of the progress in entrepreneurship studies from their origin to the contemporary perspective is summarized in Fig. <ref type="figure">1</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_YrW6wJa">Methodology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_3rpMpm6">Bibliometric analysis</head><p xml:id="_4xUYrTE"><s xml:id="_pdsAWD9">Bibliometric analysis comprises a set of quantitative methodologies based on statistical analytical methods which considers the analysis of the citations made of articles in academic journals.</s><s xml:id="_PWEXpsu">Its goal is to evaluate the impact of publications in accordance with the respective extent of their dissemination <ref type="bibr" target="#b81">(Lawani 1981)</ref>.</s></p><p xml:id="_MWmhNX8"><s xml:id="_WKtCxmF">Analysis of co-citations is one methodology for mapping the relationship between the key ideas of a specific scientific domain in detail <ref type="bibr" target="#b94">(Small 1973)</ref>.</s><s xml:id="_RnfbnNj">It serves to identify the fundamental scientific articles in a particular field <ref type="bibr" target="#b115">(Zitt and Bassecoulard 1994;</ref><ref type="bibr" target="#b50">Ferreira et al. 2016)</ref>.</s><s xml:id="_rQNgAYa"><ref type="bibr">White and Grifith (1981)</ref> pioneered the analysis of author co-citations in their study of the existing research on decisionmaking and judgement.</s><s xml:id="_ryxSZfP">Two documents are regarded as co-cited when they are -Period of company stagnation and institutional growth.</s></p><p xml:id="_eugvfaj"><s xml:id="_ThxZxxK">-Advance in the theory of attribution: Importance of the processes by which individuals explain their behaviours.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_kh2dPfA">Stagnation / Growth</head><p xml:id="_QZVyAkh"><s xml:id="_pQmxxGX">"Heider and the theory of attribution" <ref type="bibr" target="#b90">Schumpeter 1934</ref><ref type="bibr" target="#b91">Schumpeter 1942</ref><ref type="bibr" target="#b60">Hayek, 1945</ref><ref type="bibr" target="#b86">and Mises, 1949</ref><ref type="bibr" target="#b85">McClelland, 1961</ref><ref type="bibr">Chandler, 1962</ref><ref type="bibr" target="#b57">Geertz, 1963;</ref><ref type="bibr" target="#b30">Barth, 1963;</ref><ref type="bibr" target="#b83">Lipset, 1967</ref> Difference in the dynamics of societies.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NsEYZu5">Entrepreneurship</head><p xml:id="_GzezMvZ"><s xml:id="_KnysR5S">takes on a multidisciplinary character.</s><s xml:id="_6VqSS72"><ref type="bibr">Baumol, 1968;</ref><ref type="bibr" target="#b82">Leibenstein, 1968;</ref><ref type="bibr" target="#b69">Kirzner, 1973;</ref><ref type="bibr">Birch, 1979. Kihlstrom and</ref><ref type="bibr" target="#b67">Laffont, 1979</ref> Importance of analyzing the successes and failures of companies.</s><s xml:id="_tFqpbEQ"><ref type="bibr" target="#b43">Casson, 1982;</ref><ref type="bibr" target="#b103">Vesper, 1982;</ref><ref type="bibr" target="#b17">Acs, 1984;</ref><ref type="bibr" target="#b87">Piore and</ref><ref type="bibr">Sabel, 1984 Gartner, 1985;</ref><ref type="bibr" target="#b35">Brockhaus and Horwitz, 1985</ref> -Great importance to the characteristics of the entrepreneur and entrepreneurial actions.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gaAatCU">Theory of market equilibrium</head><p xml:id="_9KzHepR"><s xml:id="_NdKWYeR">-Scepticism regarding the past because study assumptions always remain the same.</s><s xml:id="_CdyEtMy"><ref type="bibr" target="#b44">Chandler, 1990;</ref><ref type="bibr" target="#b54">Gartner, 1990;</ref><ref type="bibr">Carlsson, 1992;</ref><ref type="bibr" target="#b110">Westhead and Wright, 2000;</ref><ref type="bibr" target="#b93">Shane and Venkataraman 2000;</ref><ref type="bibr" target="#b107">Welsch, 2004;</ref><ref type="bibr" target="#b113">Zahra, 2005;</ref><ref type="bibr" target="#b27">Audretsch et al, 2008;</ref><ref type="bibr">Landström et al, 2012;</ref><ref type="bibr" target="#b42">Carlsson et al, 2013</ref> After pointing to disparity in entrepreneurship theories, authors attempt to render the field more consistent based upon strong social and human science foundations.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_uc6ugb2">Maturity</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_BbJ4rqf">Institutional</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_exA9jq8">Growth / Fragmented Knowledge</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YMQs9Ut">Fig. 1 Systematic review in entrepreneurship studies</head><p xml:id="_zZ898tE"><s xml:id="_X6qsgaV">Entrepreneurship research: mapping intellectual… cited in one or more published articles <ref type="bibr" target="#b95">(Smith 1981)</ref>.</s><s xml:id="_7f2kcJ6">The accumulated number of citations helps visualize a representative sample of the literature on a field of knowledge, thereby identifying the most influential authors and tracing their interrelationships <ref type="bibr" target="#b111">(White and McCain 1998)</ref>.</s><s xml:id="_wTjBDhU">According to <ref type="bibr" target="#b102">Verbeek et al. (2002)</ref>, co-citation assumes that: (1) citation implies usage, (2) citation reflects merit, meaning, and impact, (3) citations are provided in order to improve research, (4) a cited document bears relevance to the document citing it, and (5) all citations are equal.</s><s xml:id="_hKJNfm4">Various studies attest to the validity of co-citation analysis in understanding the intellectual structure of any specific field of research (Di <ref type="bibr" target="#b46">Guardo and Harrigan 2012)</ref>.</s></p><p xml:id="_5JxnWrp"><s xml:id="_tfNrD2T">To achieve the objectives of this study, a descriptive analysis of the selected articles was first carried out.</s><s xml:id="_PhGtqaE">Then, the bibliometric methodology of co-citation analysis as set out in the study by <ref type="bibr" target="#b111">White and McCain (1998)</ref> for publications on theories of entrepreneurship was applied.</s><s xml:id="_bJC3M5R">The number of times two papers working with entrepreneurship theories were jointly cited within the universe of publications is subject to analysis, and has the objective of ( <ref type="formula">1</ref>) reporting the citation relationships, and ( <ref type="formula">2</ref>) mapping the dominant trends in research on the theories of entrepreneurship.</s><s xml:id="_bJ3pryt">Considering the objective of producing a bi-dimensional table portraying the interconnections between the co-citations in the articles, multidimensional scaling was used to graphically map the articles.</s></p><p xml:id="_GuQm6zp"><s xml:id="_rHFuJuz">After multidimensional scaling, hierarchical cluster analysis was applied, taking into consideration the articles related to the distinct groups, and applying the graph drafted by multidimensional scaling.</s><s xml:id="_bF8CKt3">This was done to set out a Venn diagram that (1) displays the mutually exclusive groups, (2) enables the identification of and positions the article in relation to its axes and the groups representing the theoretically dominant lines of research, (3) all while locating each group in relation to the remainder and the proximity of the articles within each group alongside the articles on the borders of the group.</s><s xml:id="_r6RCCvs">The ultimate outcome here is the establishment of the connections between the groups.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_G3qfrSm">Data</head><p xml:id="_Gy9RYUU"><s xml:id="_6H5WqsV">Data was collected on citations and co-citations from the Science Citation Index Expanded (SCI-Expanded), the Social Science Citation Index (SSCI), and the Arts and Humanities Citation Index (A&amp;H CI), compiled by the Thompson/Reuters-ISI online database.</s><s xml:id="_Kx9rrhf">The database contains thousands of academic publications along with bibliographic information on their authors, affiliations, and citations.</s><s xml:id="_jRYsaft">The research incorporated the ISI Web of Science database, and the articles published in journals were taken from the categories of management, business, and economics without any chronological filter when applying the terms ''entrepreneurship theories'', ''entrepreneurship theory'', ''theories of entrepreneurship'', or ''theory of entrepreneurship'' to any part of the article.</s><s xml:id="_abswNAn">This study's unit of analysis contains the articles and their respective authors along with the variables gathered in relation to the number of citations in the first database phases and the number of co-citations in a second phase.</s><s xml:id="_UT84mtG">124 articles were gathered from this research process with publication dates ranging from 1962 (1 article) to 2013 (11 articles).</s></p><p xml:id="_Q4p6uGg"><s xml:id="_PGYNFxp">An analysis of which references were jointly co-cited by the set of 124 publications resulting from the research process was done in a second phase.</s><s xml:id="_3k7Ngz4">A total of 5,578 citations were noted.</s><s xml:id="_ukF2MVh">Of these, 79 had at least 5 co-citations (the number opted for as a cut-off point in an effort to encapsulate a reasonable number of publications).</s><s xml:id="_E5tcTyH">For this set of 79 references, a bi-dimensional mapping was done to determine the clusters and their respective networks in accordance with the methodologies applied by <ref type="bibr" target="#b104">Waltman et al. (2010)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_Tak7gEw">Results</head><p xml:id="_Ts8gA8b"><s xml:id="_tQwRHaS">In the first phase, selected journals for the research were characterized based on the chronology, number of articles published, number of publications and citations, as well the relevance of cited articles.</s><s xml:id="_KGYgG2j">In the second phase, an analysis of the cocitations of articles with the largest number of citations was carried out.</s><s xml:id="_Jy4dxw2">And in the final phase, the references returned by the research process that represent the core foundations of entrepreneurship theories were analyzed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_NWhYHV3">Article characteristics</head><p xml:id="_9xZ8U9z"><s xml:id="_bmyuPaG">There were 124 articles researched using the search terms described above.</s><s xml:id="_kVeBqu2">The trend in annual numbers of published articles are shown in Fig. <ref type="figure" target="#fig_0">2</ref>, with the annual publication average of 2006.1 ± 7.5, thus demonstrating that this is in fact a relatively recent field of research.</s><s xml:id="_vZTJM2Q">The articles on this topic were published in the 1980s, with only a few of them being available at the beginning of the 21st century.</s><s xml:id="_bCkWtCd">This was followed by a steady and sustained increase in the annual numbers of articles published on entrepreneurship theories.</s><s xml:id="_W6VDReA">And since 2007, with the exception of 2008, the yearly number of publications has been equal to or greater than 10 articles.</s><s xml:id="_X5Qw5Mc"><ref type="table" target="#tab_6">1</ref> presents the journals in which the 124 articles were published.</s><s xml:id="_Z6hW2b3">12.1% of the articles were published in the Journal of Business Venturing while 8.1% were in Small Business Economics, similar to Entrepreneurship Theory and Practice.</s><s xml:id="_YZ6fKPh">These journals prove the most influential when it comes to topics relating to theories of entrepreneurship.</s><s xml:id="_eEUXHba">In terms of the average number of citations per article included, the Journal of Management represents the reference journal on this topic, correspondingly returning the largest average number of citations per article (103) and the greatest average number of citations per article in a year (10.4).</s></p><p xml:id="_TTkxjSv"><s xml:id="_B4SuRMW">The five articles reporting the largest number of citations are as follows:</s></p><p xml:id="_MnePweT"><s xml:id="_3jdfqhf">1.</s><s xml:id="_ytxb57Z">The most commonly-cited article <ref type="bibr" target="#b38">(Busenitz et al. 2003)</ref> evaluates 97 articles on entrepreneurship published in management journals between 1985 and 1999.</s><s xml:id="_NU7AzzA">According to <ref type="bibr" target="#b38">Busenitz et al. (2003)</ref>, the entrepreneurial research focus lies at the crossroads of the constructions and opportunities of individuals, the means of organization, and the surrounding environment.</s><s xml:id="_gKytw8K">Theories on decisions, new production factors, processing of information and networks, as well as temporal dynamics are presented as the four theoretical perspectives upon which substantial contributions may be made to the field of entrepreneurship.</s><s xml:id="_svHTeKw"><ref type="bibr">Alvarez and Barney (2007)</ref> explore two internally consistent theories on how business opportunities take shape: the theory of discovery and the theory of creation.</s><s xml:id="_qQZqSAN">These describe some of the broader-reaching theoretical implications of these two theories in the fields of entrepreneurship and strategic management.</s><s xml:id="_jpVvYYn"><ref type="bibr">Markman et al. (2005)</ref> analyse the success of company incubators and technological parks under the auspices of universities.</s><s xml:id="_SkGY9up">Technology transfer offices and how these technologies are actually transferred to startups are proposed as determinants of the success of entrepreneurship.</s><s xml:id="_9VvHfSg">In the article, <ref type="bibr">Markman et al. (2005)</ref> deploy a grounded theory for developing their theory of entrepreneurship, indicating the role of technology transfer offices and company incubators in the formation of new companies.</s></p><p xml:id="_9EQGvKc"><s xml:id="_CZNV44k">In their contribution to the literature, <ref type="bibr">Holmes and Schmitz (1990)</ref> propose a theory of entrepreneurship based on the idea that entrepreneurs are individuals responding to opportunities for the creation of new products emerging out of technological progress.</s><s xml:id="_vM79sbK">They also noted that individuals differ in their capacity to actually pursue such opportunities.</s><s xml:id="_kQgGNge">Among the implications highlighted by this theory are changes in employment, specialization of work, and the sale of companies.</s><s xml:id="_3EnBBqd"><ref type="bibr">Acs et al. (2009)</ref> used the fundamentals of the micro-economic theory of endogenous growth to propose the knowledge spillover theory of entrepreneurship.</s><s xml:id="_QnYEWbQ">In this approach, the knowledge endogenously generated results in spillovers, enabling entrepreneurs to identify and explore opportunities.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_gRqH44g">Analysis of article co-citations</head><p xml:id="_pStSYG5"><s xml:id="_CzRZvbJ">The initial sample of 124 articles was subsequently reduced to those that had at least ten citations, bringing the sample down to 57 articles.</s><s xml:id="_5XgqpGs">A frequency matrix was drafted to cross-reference the citations by placing each article parallel to another.</s><s xml:id="_jPMS9Bn">Here, the cells represent the number of times that each pair of articles was jointly cited.</s><s xml:id="_nUSdcgz">A cell reporting zero indicates that one of the articles was never cited in conjunction with another article, and a line of zeros in the matrix of co-citations indicates that the article was never referenced in other articles.</s><s xml:id="_s99VAUg">The sample size was reduced to the 18 most-cited articles (Table <ref type="table" target="#tab_7">2</ref>) by eliminating the rest of the articles that reported a low level of co-citations.</s><s xml:id="_gUFensk">This group of articles contained at least 30 citations.</s><s xml:id="_e76U4ys">The appendix presents the citations and the average number of citations by year for this set of articles.</s></p><p xml:id="_GRbg3W8"><s xml:id="_QQAAn9m">Multi-dimensional scaling analysis involves graphically mapping the articles and displaying the proximity between the articles in terms of their co-citations.</s></p><p xml:id="_8SqNbaq"><s xml:id="_Ws7Szrf">The following groups of theories were identified based on the map produced: (1) knowledge spillover theory of entrepreneurship, (2) creation and networks theory, (3) decision-making theory, (4) specialization of labor, (5) social entrepreneurship theory, and (6) entrepreneurship in the informal economy.</s><s xml:id="_rngG9BD">The articles within the scope of any particular group share the co-citation profile and hence approach similar topics without any other concordance necessarily existing between them.</s></p><p xml:id="_qvdTYbh"><s xml:id="_RPeVBHu">The similarities between the articles belonging to any group depend above all on the way they were perceived by the authors who cited the articles together (Table <ref type="table" target="#tab_8">3</ref>).</s></p><p xml:id="_BZJk99P"><s xml:id="_QgjANn5">The proximity between the boundaries of the groups refers to the intellectual relationships occurring between the research trends.</s><s xml:id="_b8XVu2Z">Group 1 (knowledge spillover theory of entrepreneurship) is the one most concentrated in the bi-dimensional field, reflecting the strong tendency of these articles to be cited in conjunction with the theory.</s><s xml:id="_47mqhum">This on the other hand is not the case for the articles falling within Group 2 (creation and networks theory) and Group 3 (decision-making theory), where the articles are more dispersed throughout the multi-dimensional space, thereby conveying how these groups span academic contributions from less well-associated research currents.</s><s xml:id="_WhKzt5y">The extent of the space existing in Group 3 may equally show how these approaches are experiencing a process of (necessary) consolidation with further research.</s><s xml:id="_JyjNss7">Group 6, the entrepreneurship in the informal economy group, is comprised exclusively of the article by <ref type="bibr">Webb et al. (2009)</ref>.</s><s xml:id="_7AzSwUX">This group has a high level of proximity to Group 1 (knowledge spillover theory of entrepreneurship).</s><s xml:id="_8cTKDhG">Group 4 (specialization of labor) that includes the article by <ref type="bibr">Holmes and Schmitz (1990)</ref> shows some proximity to Group 3 (decision-making theory) as well as the article by <ref type="bibr">Weerawardena and Mort (2006)</ref> (Group 4) that is located on the boundary to Group 2.</s></p><p xml:id="_yaxDWvZ"><s xml:id="_vnJhNZ6">Figure <ref type="figure">3</ref> shows the results of the bi-dimensional mapping resulting from the multi-dimensional scaling analysis.</s><s xml:id="_p5KrTgz">The data adjustment (stress = 0.19) and the explained variance (RSQ = 0.81) returns a reasonable approximation of reality.</s><s xml:id="_547xGhe">After the multi-dimensional scaling, hierarchical cluster analysis was applied to the data in order to group the interrelated articles.</s></p><p xml:id="_aEUFf6X"><s xml:id="_42Jt23k">The cluster analysis revealed the existence of six distinct groups, three of which are made up of one single article.</s><s xml:id="_bYZEJRA">This suggests the need to investigate more deeply into these not well-developed topics in an effort to allow them to contribute to a greater knowledge and explanation of the theories of entrepreneurship.</s></p><p xml:id="_vRPnBQX"><s xml:id="_KuBGatv">The clusters were then superimposed onto the multi-dimensional scaling graph for better visualization and contextual framing.</s><s xml:id="_bqbEMFW">The mapping reveals the relative positions of the articles regarding the map axes, the groups portraying the main theoretical currents, the proximity of articles within the groups, and the respective group boundaries.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3" xml:id="_QVr53mV">Analysis of the cluster co-citation references</head><p xml:id="_4FSzaB2"><s xml:id="_y26b32m">In this section, an analysis of references to the authors of the 18 aforementioned articles will be carried out to determine the most relevant in each of the respective clusters.</s><s xml:id="_Au48nXk">Each grouping and which references are co-cited (with at least two citations) will be studied to help achieve this.</s><s xml:id="_JdquMy3">In the case of clusters containing only a single article (specialization of labor, social entrepreneurship theory, and entrepreneurship in the informal economy), the analytical scope covers the cocitations of the authors (authors returning more than one cited reference).</s></p><p xml:id="_aykNzbC"><s xml:id="_YJrJXbx">In Fig. <ref type="figure">4</ref>, details of the eleven references co-cited in the knowledge spillover theory of entrepreneurship cluster as well as their connections and grouping pattern are presented.</s><s xml:id="_6T8ThTr"><ref type="bibr" target="#b24">Audretsch (1995)</ref> is the leading reference here, co-cited by three out of the four articles in this cluster.</s></p><p xml:id="_QPKf8wg"><s xml:id="_jwUTkdM">Authors who use this theory and its assumptions in explaining the creation of entrepreneurial activities argue that the crucial factor of entrepreneurship is the ability to access knowledge created at universities and R&amp;D institutions, as well as the professionals trained by these institutions.</s><s xml:id="_bes8Tkd">Factor dissemination and access to knowledge are crucial in the emergence of new entrepreneurial activities.</s></p><p xml:id="_zeCthbd"><s xml:id="_Jh9P8Se">There were a total of 24 co-cited references in the creation and networks theory group (Fig. <ref type="figure" target="#fig_1">5</ref>), with the following co-cited by three out of the four articles in this cluster: <ref type="bibr" target="#b71">Knight (1921)</ref>, <ref type="bibr" target="#b92">Shane (2000)</ref>, <ref type="bibr" target="#b93">Shane and Venkataraman (2000)</ref>, <ref type="bibr" target="#b28">Barney (1986</ref><ref type="bibr" target="#b29">Barney ( , 1991))</ref>, <ref type="bibr" target="#b43">Casson (1982)</ref>, and <ref type="bibr" target="#b47">Dierickx and Cool (1989)</ref>.</s></p><p xml:id="_cE4j42T"><s xml:id="_Xfa3NXr">This theory defends two key features of creating entrepreneurial activity: the intrinsic characteristics of individuals and the extrinsic knowledge that can be Fig. <ref type="figure">3</ref> Map resulting from the multi-dimensional scaling analysis and cluster analysis Fig. <ref type="figure">4</ref> Network and grouping of co-cited references by articles in the ''Knowledge Spillover Theory of Entrepreneurship'' cluster achieved through networking.</s><s xml:id="_KhYddZ5">This is why it is important to analyze two variables when the phenomenon of entrepreneurship: the personality of the individuals which leads them to decide to undertake work or to transfer it to third parties, and the fact that individuals prefer the synergistic effect of networking (collaboration with others) to working in isolation.</s></p><p xml:id="_3BjNvA5"><s xml:id="_pwJjkgD">The co-cited references to articles in the decision-making theory cluster are shown in Fig. <ref type="figure" target="#fig_2">6</ref>.</s><s xml:id="_mwqRBEJ">The articles published by <ref type="bibr" target="#b70">Kirzner (1985)</ref>, <ref type="bibr">Baumol (1993)</ref>, <ref type="bibr" target="#b71">Knight (1921)</ref>, <ref type="bibr" target="#b91">Schumpeter (1942)</ref>, <ref type="bibr" target="#b49">Drucker (1985), and</ref><ref type="bibr" target="#b85">McClelland (1961)</ref> received three co-citations each.</s></p><p xml:id="_BN7KkJ5"><s xml:id="_hkVhtkH">Unlike the knowledge spillover theory where the starting point of the emergence of entrepreneurial activities is the existence and dissemination of knowledge, in this case the reason for the existence of entrepreneurship lies in decision-making.</s><s xml:id="_DfV8GBj">However, this decision-making is also influenced by the personal characteristics of individuals; decision-making can therefore never be separated from their intrinsic characteristics.</s><s xml:id="_s5kxDhz">In evaluating the creation and emergence of entrepreneurship, both the decisions taken to establish the company, as well as the entrepreneurial characteristics behind them must be accommodated.</s></p><p xml:id="_qE4gN35"><s xml:id="_E3ur9fJ">With the seven authors receiving co-citations in the articles categorized into the specialization of labor cluster (Fig. <ref type="figure" target="#fig_3">7</ref>), Rosen stands out with four cited publications in conjunction with Churchill, Jovanovic, and Shultz.</s></p><p xml:id="_N4Bu84W"><s xml:id="_axkSP6W">If the ability to observe the market and respond to its needs is a gift for entrepreneurs only, then there is another factor explaining the creation of companies: the intrinsic characteristic of the spatial work which translates the responses to the market needs, and in turn explains the appearance of entrepreneurial activities.</s></p><p xml:id="_AUWaxSy"><s xml:id="_5WfjtBH">In the article on social entrepreneurship theory, there is only one co-citation of the author Dees.</s><s xml:id="_aHKN66p">This theory claims that the intrinsic characteristics of individuals determine the kind of entrepreneurial action they are dedicated to.</s><s xml:id="_xmuZGqc">People who create non-profit companies must be detached from the creation income and wealth because their objective is to make others' lives a little easier.</s><s xml:id="_4aARMSA">In this case the  Finally, in terms of entrepreneurship in the informal economy (Fig. <ref type="figure" target="#fig_4">8</ref>), Portes is highlighted in accordance with the three references in the article in this group.</s></p><p xml:id="_kR53QQD"><s xml:id="_ScFDHXf">When observing the distinctive characteristics of these businesses and the environment(s) in which they are created, and because psychological profiles can be critical in understanding people's motivations, it is also necessary to study the intrinsic characteristics of individuals.</s><s xml:id="_8dEhtBU">The way people relate with their community and institutional influences are factors that describe the kind of entrepreneurs they will be.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_YV24Seq">Contributions and research opportunities</head><p xml:id="_baTR4pG"><s xml:id="_thFNwJ6">This article makes two main contributions.</s><s xml:id="_RvChMHQ">First, it offers a quantitative-based approach to the current trends in entrepreneurship research.</s><s xml:id="_x5yWuXa">This is a step forward in identifying the impetus, growth, and changes in the world of entrepreneurship research, and where future research can be focused to better advance the field <ref type="bibr" target="#b39">(Busenitz et al. 2014;</ref><ref type="bibr" target="#b80">Landstro ¨m et al. 2012</ref>).</s><s xml:id="_TxdzPg3">Second, this paper provides a new perspective in observing entrepreneurship: recognizing new developments and trends within theories of entrepreneurship, motivating scholars as a result to better understand how they see their analysis spreading into the entrepreneurship domain <ref type="bibr">(Alvarez and Barney 2007;</ref><ref type="bibr" target="#b114">Zahra 2007;</ref><ref type="bibr" target="#b21">Alvarez et al. 2016)</ref>.</s></p><p xml:id="_hm8zP9A"><s xml:id="_BQCM9Jy">This paper explores the scientific structure of entrepreneurship research, and focuses on how entrepreneurship scholarship is organized through the use of 1. Knowledge spillover theory <ref type="bibr">Markman et al. (2005)</ref> state how the success of company incubators and technology parks stems from the transfer of knowledge from universities to these institutions.</s><s xml:id="_mHqBNZ4">In the same vein, <ref type="bibr">Acs et al. (2009)</ref> argue that entrepreneurial opportunities result from knowledge spillovers.</s><s xml:id="_h6uhWqp">Thus, knowledge generated exogenously drives the management of disseminating this same knowledge, leading to the knowledge spillover theory of entrepreneurship.</s><s xml:id="_XrVDuCY"><ref type="bibr" target="#b26">Audretsch and Lehmann (2005)</ref> similarly affirm that the transfer of knowledge from universities to companies fosters not only the competitiveness of the companies but also the regions in which the respective relations are taking place.</s><s xml:id="_zWRzWZQ"><ref type="bibr" target="#b25">Audretsch and Keilbach (2007)</ref> argue that far beyond individual capacities and characteristics, the transfer of knowledge generates entrepreneurial opportunities.</s><s xml:id="_hT7zdkw">So scholars following this line of thought believe that constant investment in knowledge, and not exogenous characteristics, bring about entrepreneurially propitious opportunities.</s><s xml:id="_hRgv8b8">2. Creation and networks theory <ref type="bibr" target="#b38">Busenitz et al. (2003)</ref> posit that theories on decision-making, emergence of startups, processing of information, and network theory should all be considered when approaching the entrepreneurship field of research.</s><s xml:id="_2xgwe6T"><ref type="bibr">Alvarez and Barney (2007)</ref> also hold that the theories of creation and discovery are fundamental to explaining the generation of entrepreneurial opportunities.</s><s xml:id="_XhabBMK">From the perspective of <ref type="bibr">Douglas and Shepherd (2000)</ref>, entrepreneurs take this pathway due to questions of utility, which is the main motivation for deciding between being an entrepreneur or an employee.</s><s xml:id="_RpP5mHC"><ref type="bibr" target="#b51">Foss et al. (2008)</ref> describe the entrepreneurial phenomenon as a team of creative minds uniting around the objective of coming up with something new.</s><s xml:id="_UHVkdpG">3. Decision-making Theory <ref type="bibr">Amit et al. (1993)</ref> suggest that generating a single theory to explain all the processes leading to the success and failure of entrepreneurs proves overly ambitious because everything stems from the decision-making processes.</s><s xml:id="_n2yvrp3">Similarly, <ref type="bibr">Baumol (1993)</ref> proposes that the success of innovation essentially relates to the decision-making process of launching the product or service onto the market.</s><s xml:id="_7dUx5dX">Decisions in terms of the right sense of timing may prove critical to attaining success or otherwise.</s><s xml:id="_9hRkGUt"><ref type="bibr">Bull and Willard (1993)</ref> define entrepreneurship as a phenomenon developed by an individual who decides to implement a diverse range of combinations, with these poised to cause discontinuity in the surrounding environment.</s><s xml:id="_UuCUwEY"><ref type="bibr" target="#b11">Miner and Raju (2004)</ref> maintain that hesitation in decision-making because of risk is far higher with entrepreneurs than has been defended in other studies.</s><s xml:id="_8pprA4k">Furthermore, <ref type="bibr">Herron and Robinson (1993)</ref> identify the psychological characteristics of entrepreneurs as the key focus of studies on entrepreneurship.</s><s xml:id="_Q5PXnf3">These authors emphasize that their study makes all the difference when confirming variances in industrial structures, with the process of decision-making strictly dependent on these characteristics.</s><s xml:id="_fjDX2Ak"><ref type="bibr">Gartner and Shane (1995)</ref> carried out a study on the characteristics of entrepreneurs and the factors motivating their decision-making processes.</s><s xml:id="_RUUpaA3"><ref type="bibr">Bygrave (1993)</ref> considers entrepreneurship and the factors that lead to entrepreneurs undertaking specific decisions, some of which are inclined towards observations beyond mathematical modelling.</s><s xml:id="_umYGwCT">4. Specialization of labor <ref type="bibr">Holmes and Schmitz (1990)</ref> posit that entrepreneurs are people who respond to the needs and requirements of the market.</s><s xml:id="_Q9eP4Nn">These authors further explain that the capacity to pick out opportunities derives from entrepreneurs' ability to be specialists in their tasks.</s><s xml:id="_3NK5kxx">5. Social entrepreneurship theory <ref type="bibr">Weerawardena and Mort (2006)</ref> propose that there is an urgent need to develop a theory of social entrepreneurship.</s><s xml:id="_EdkeF4w">Only by doing this can entrepreneurial processes occurring in non-governmental organizations be explained.</s><s xml:id="_RMjBCQG">Furthermore, these cases of entrepreneurship are driven by motivations different from profit-seeking companies.</s><s xml:id="_c8kvjQs">6. Entrepreneurship in the informal economy <ref type="bibr">Webb et al. (2009)</ref> studied entrepreneurship in the informal economy as economic activities that may be considered illegal but that receive the legitimacy of various stakeholders.</s><s xml:id="_Khz5aHp">They finding that entrepreneurial processes in this sector are different from those prevailing in the formal economy.</s><s xml:id="_3fEmpSK">They further emphasize that there is a need to integrate theories on entrepreneurship, collective identities, and institutions.</s><s xml:id="_ujA8HVt">The study of these three theories is necessary to grasp the complexity of social entrepreneurship.</s></p><p xml:id="_a4Yu2cy"><s xml:id="_4m2tdE5">The bibliometric analysis shows that research in entrepreneurship comprises the following: multiple but connected topics; leading topics that reveal the discipline and lens of their authors; and substantial dynamism and change in key research subjects over time.</s><s xml:id="_mqWxtsp">Most entrepreneurship research (as can be expected) brings other disciplines with it <ref type="bibr" target="#b56">(Gartner et al. 2006)</ref>.</s><s xml:id="_y57TkfY">And as analysis shows, the entrepreneurship field is in fact embedded in other disciplines <ref type="bibr" target="#b58">(Gre ´gorie et al. 2006</ref>).</s><s xml:id="_8QVtZbN">This idea is also highlighted by <ref type="bibr">Gartner et al. (2006: 325)</ref>: ''Entrepreneurship scholars borrow heavily from their disciplines because doing so enhances their intellectual enterprise and promote effective dialogue with their peers.''</s><s xml:id="_DrRhBzB">This interplay between disciplines can also encourage greater innovation and advancement of entrepreneurship research as an autonomous or distinctive academic field.</s><s xml:id="_DSJZywk">As <ref type="bibr">Gartner et al. (2006, 326)</ref> point out, ''the phenomenon of multiple publications by an author or set of coauthors, then, is actually rarer than we would like to believe.''</s><s xml:id="_nE4sBvg">The first two articles most quoted (as determined by the bibliometric analysis) are <ref type="bibr" target="#b38">Busenitz et al. (2003)</ref>, a review paper involving past trends and future directions of entrepreneurship research, and <ref type="bibr">Alvarez and Barney (2007)</ref>, which discusses alternative theories of entrepreneurial action.</s></p><p xml:id="_FPsAd5Y"><s xml:id="_DT3ypty">This study indicates hybrid multidisciplinary theories of entrepreneurship used from literature to study the entrepreneurship phenomenon and helps disclose avenues for future research.</s><s xml:id="_P8TerMw">Interplay between some disciplines is clearly important for a better understanding of the entrepreneurship field.</s><s xml:id="_xnfxEde">With this, some important boundaries and exchange implications for the entrepreneurship conversations become clear.</s><s xml:id="_PChMgEd">For instance, the knowledge spillover theory and decision-making theory are not exclusive to entrepreneurship; they are however put forward by entrepreneurship scholars to explore essential research questions.</s><s xml:id="_jsHXvTh"><ref type="bibr" target="#b56">Gartner et al. (2006)</ref> suggest that researchers in the field of entrepreneurship should look beyond their immediate cluster(s) of interest to the many different topics/groups that comprise such a dynamic and growing community.</s><s xml:id="_Dq8Rt8K">Supporting this, <ref type="bibr" target="#b38">Busenitz et al. (2003)</ref> state that extensive theoretical is still needed to map a course of study and adequately develop boundaries unique to the entrepreneurship domain.</s><s xml:id="_5xAMb2y">Various issues remain open to future analysis, with particular interest stemming from examinations of more recent publications that have correspondingly fewer citations (and were excluded from this study).</s><s xml:id="_kkHxVEc">This might enable the reporting and/or identification of alternative groups of theories.</s><s xml:id="_f5FXMNJ">Applying alternative methodologies might also complement the results obtained here.</s><s xml:id="_PHsy3Bk">With this in mind, future studies should consider alternative means of analyzing the articles published exclusively within the scope of entrepreneurship-dedicated journals while also integrating specific analysis of the most recent references.</s><s xml:id="_V5c5ePJ">These and other alternative methodological approaches may very well further enrich the understanding of research on entrepreneurship theories and the interrelationships between various academics, universities, and theoretical perspectives.</s></p><p xml:id="_4pCVZpp"><s xml:id="_mSezyst">Without neglecting economic realism, the theory of entrepreneurship should serve as a bridge between economies and the social sciences.</s><s xml:id="_V5p4wEX">The incorporation of the social sciences may indeed be based upon the principles of rational actions when considering how rationality is built upon and supported by social beliefs, cultures, and values.</s><s xml:id="_n7DhcGJ">Institutions, networks, and histories have a fundamental role to play in the integration of these theories for building the conceptual foundation of entrepreneurship.</s></p><p xml:id="_PmxzUFu"><s xml:id="_5x4VCMm">It is important to note that some difficulties were encountered in structuring this theoretical foundation.</s><s xml:id="_y3TBn8G">The dialogue has just begun concerning the right questions for defining entrepreneurship <ref type="bibr" target="#b93">(Shane and Venkataraman 2000)</ref>.</s><s xml:id="_GBcVTmr">Additionally, entrepreneurship commonly manifests itself as a multi-level phenomenon <ref type="bibr" target="#b56">(Gartner et al. 2006;</ref><ref type="bibr" target="#b78">Kuskova et al. 2011;</ref><ref type="bibr" target="#b19">Aldrich 2012)</ref>, making it more problematic for academics to focus solely on the entrepreneurship domain.</s></p><p xml:id="_f4k5avC"><s xml:id="_cSGNWSD">In sum, we suggest that those in the field of entrepreneurship who are developing theory continue their efforts to foster discussions and debates aimed at expanding and developing entrepreneurship theories, all in the spirit of moving the field forward.</s><s xml:id="_cJKAGVh">Our work integrates entrepreneurship research from different perspectives, fields, and backgrounds as a means to provide future trends for understanding the entrepreneurship process.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6" xml:id="_szsBJMk">Conclusions</head><p xml:id="_AH9FB8u"><s xml:id="_JUAGxdP">Bibliometric analysis provides an interesting insight into the works of academics.</s><s xml:id="_9PHabx9">Considering the well-recognized diversity of the field of entrepreneurship, different and alternative stories are proposed for different recipients <ref type="bibr" target="#b56">(Gartner et al. 2006;</ref><ref type="bibr" target="#b89">Schildt et al. 2006)</ref>.</s><s xml:id="_9y4GfBB">The results of this study enable alternative interpretations to be achieved in accordance with the perspectives specific to academia.</s></p><p xml:id="_w7cbwdh"><s xml:id="_bGnR7Ru">Given the importance of studying entrepreneurship within contemporary society, this study provides relevant materials that are applicable to research in this field.</s><s xml:id="_SFmsq3w">Based on our bibliometric and respective literature review which maintains that this field contains a diverse range of concepts, six underlying theories of entrepreneurship could be discovered.</s><s xml:id="_uGcf3xk">This demonstrates that entrepreneurial-related phenomena and everything encapsulated therein are far from attaining a consensus.</s><s xml:id="_36k4tzz">Despite this, these ''sub-theories'' clearly display strong interconnections with the market, companies, and now even historical concepts such as innovation and change, verifying the plurality and multi-disciplinarity of the field.</s><s xml:id="_urSvUdp"><ref type="bibr" target="#b90">Schumpeter (1934</ref><ref type="bibr" target="#b91">Schumpeter ( , 1942) )</ref> argues that the entrepreneur is a force in boosting economic development, and can create profitable innovations.</s><s xml:id="_qSyEXJ7">For him, development means the introduction of new combinations in the circular flow of economic life.</s><s xml:id="_nRbrBac">In other words, the entrepreneur can introduce innovative measures in a way that causes discontinuities in the cyclical economy.</s><s xml:id="_rH9z84j">These combinations introduced by entrepreneurs develop new forms of production, products, technologies, forms of organization, markets, and resources for their productions, thus defining the economic development and the future of capitalism.</s><s xml:id="_M2GUpJq">Associated with all these components is the intrinsic characteristic of entrepreneurs which is present in all of the theories.</s><s xml:id="_8XW4GcN">The decisions and impulses that lead individuals to undertake a particular activity are always accompanied by their motivations and deeper cognitive characteristics.</s></p><p xml:id="_2BqD498"><s xml:id="_J2uAuuT">It is important to bear in mind that the analysis presented in this study covers a variety of studies and thus a variety of methods for analyzing intellectual structures and research trends relating to the entrepreneurship phenomenon.</s><s xml:id="_wnn9T2P">This creates potential result generalization threats.</s><s xml:id="_HnC5wrw">So careful consideration should be given to the ways in which the data were obtained (the data were collected from citation and co-citations from the ISI Web of Science database and involved articles published in journals exclusively dealing with the categories of management, business, and economics).</s><s xml:id="_EQVkhQ2">This should be kept in mind as an important limitation.</s><s xml:id="_DKauTCy">After all, if we had used a different database and/or included books, proceedings, and other published material, the results could have been different.</s><s xml:id="_PjvtNXc">Nevertheless, this study without question brings new insights to the field of entrepreneurship.</s></p><p xml:id="_KppgX6n"><s xml:id="_R4gqsVv">This article proposes that for future research, a truly complete theory of entrepreneurship should prove its ability to combine all the concepts bound up with each of the respective sub-theories.</s><s xml:id="_kfmyhap">Despite the limitations that underlie all research (this study is of course no exception), our work bears important implications for the field of entrepreneurship given its examination of co-citation data and recourse to a quantitative approach that results in the mapping of the scientific publications and their intellectual structure.</s><s xml:id="_juCVFu3">As an additional feature, trends in the field of entrepreneurship theoretical research were also outlined.</s></p><p xml:id="_EUhaR2r"><s xml:id="_Hyf9D4r">As a result of this theoretical examination, theories emerged that are embedded in different areas, but which were shaped to contribute to the study of entrepreneurship (Fig. <ref type="figure" target="#fig_6">9</ref>).</s></p><p xml:id="_T5dBeYq"><s xml:id="_GTYRT64">Figure <ref type="figure" target="#fig_6">9</ref> shows the chronological evolution of the approaches to entrepreneurship research that resulted from the clusters analysis carried out.</s><s xml:id="_mNq48Bc">Here, we can graphically verify the chronological gap between the three clusters that contain only one article: ''Specialization Labor <ref type="bibr">'' in 1990</ref><ref type="bibr">, ''Social Entrepreneurship Theory'' in 2006</ref><ref type="bibr">, and ''Entrepreneurship in the Informal Economy'' in 2009</ref>.</s><s xml:id="_NknqrDz">It currently appears essential to return to the considerations of specialization theory in an effort to verify the evolution in the level of these contributions to the field of entrepreneurship.</s><s xml:id="_4GrevZ4">We can justify the existence of only one article cited in the two most recent clusters because they are relatively recent approaches and consequently need more research on and development in their respective areas.</s></p><p xml:id="_Ar5YaG5"><s xml:id="_q25sDDw">The six underlying theories that our study identified are indicative of the heterogeneity that the field of entrepreneurship presents.</s><s xml:id="_dz5nebZ">Although they require more development and future empirical applications (as well as most recently the rising use of experimental methods, see e.g.</s><s xml:id="_CAM2qzp"><ref type="bibr" target="#b76">Kraus et al. 2016)</ref>, the dominant theories in entrepreneurship today have unquestionably resulted from this literature systematization.</s></p><p xml:id="_hyfpGJ8"><s xml:id="_7xhRJSm">We hope that this research will stimulate discussion and further work in support of continual expansion of the entrepreneurship field.</s><s xml:id="_BqyW3va"><ref type="bibr">Holmes and Schmitz (1990)</ref> The capacity to pick out opportunities derives from entrepreneurs' ability to be specialists in their tasks.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_wN4jDG4">Specialization of Labour Theory</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_J3RZ5DU">Decision Making Theory</head><p xml:id="_P9bVeWh"><s xml:id="_N9j6dRB">Decisions in terms of the right sense of timing may prove critical to attaining success or otherwise.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2</head><label>2</label><figDesc><div><p xml:id="_xXjwtZV"><s xml:id="_T4SWdcv">Fig. 2 Number of articles by year of publication</s></p></div></figDesc><graphic coords="7,53.85,427.56,331.68,158.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 5</head><label>5</label><figDesc><div><p xml:id="_GUCyeXZ"><s xml:id="_GGFkVpE">Fig. 5 Network and grouping of co-cited references by articles in the ''Creation and Networks Theory'' cluster</s></p></div></figDesc><graphic coords="13,53.85,58.68,331.68,178.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 6</head><label>6</label><figDesc><div><p xml:id="_dUqPReC"><s xml:id="_UZyMT6y">Fig. 6 Network and grouping of co-cited references by articles in the ''Decision-making Theory'' cluster</s></p></div></figDesc><graphic coords="14,53.85,58.68,331.68,130.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 7</head><label>7</label><figDesc><div><p xml:id="_XP55E8P"><s xml:id="_N5hD7v8">Fig. 7 Network of co-cited references by articles in the ''Specialization of Labor'' cluster</s></p></div></figDesc><graphic coords="14,53.85,231.59,331.68,294.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 8</head><label>8</label><figDesc><div><p xml:id="_rSTXdyP"><s xml:id="_4s4JA9B">Fig. 8 Network of co-cited references by articles in the ''Entrepreneurship in the Informal Economy'' cluster</s></p></div></figDesc><graphic coords="15,77.98,369.66,283.44,207.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 9</head><label>9</label><figDesc><div><p xml:id="_xDguZvQ"><s xml:id="_wW5SPjR">Fig. 9 Approaches to research in entrepreneurship</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc><div><p xml:id="_cE6k4cV"></p></div></figDesc><graphic coords="12,53.85,58.68,331.68,321.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>12th Cen. 18th Cen. 1750 1770 19th Cen. 20th Cen. 1920 1930 1940 1945 1950 1960 1970 1980 1990 2000 2013</head><label></label><figDesc xml:id="_URaSsdq"></figDesc><table><row><cell></cell><cell></cell><cell>"</cell></row><row><cell>"Entrepreneur"</cell><cell>Founding of</cell><cell>Cantillon (1755)</cell></row><row><cell>in France.</cell><cell>different</cell><cell>1 st definition of</cell></row><row><cell></cell><cell>companies and</cell><cell>entrepreneurship.</cell></row><row><cell></cell><cell>the banking</cell><cell></cell></row><row><cell></cell><cell>system in: Italy,</cell><cell></cell></row><row><cell></cell><cell>France, and</cell><cell></cell></row><row><cell></cell><cell>southern</cell><cell></cell></row><row><cell>Feudalism</cell><cell>Germany.</cell><cell></cell></row><row><cell>prevents</cell><cell></cell><cell></cell></row><row><cell>advances in the</cell><cell></cell><cell></cell></row><row><cell>concept.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Cantillon and risk"</head><label></label><figDesc xml:id="_WG75TTU"></figDesc><table><row><cell></cell><cell></cell><cell>Classical</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Theory</cell><cell>"</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Walker,</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Adam Smith (1776)</cell><cell>1876; Hawley, 1892;</cell><cell>Knight, 1921</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Clark, 1892</cell><cell></cell></row><row><cell></cell><cell></cell><cell>No importance</cell><cell></cell><cell>Entrepreneu</cell></row><row><cell></cell><cell></cell><cell>attributed to</cell><cell></cell><cell>rship</cell></row><row><cell>Feudalism ends.</cell><cell>Holding only an economic meaning. selling. for buying and the best options able to observe Entrepreneurs</cell><cell>entrepreneurship. Economists beginning to show Stuart Mill. Bentham, and John Say, Jeremy include: Jean Baptist interest in its study</cell><cell>With growth in the USA, discussion on the researchers. various the interest of begins eliciting entrepreneurship importance of</cell><cell>involves the capacity to deal with uncertainty.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Knight and uncertainty" "Schumpeter and the heroic entrepreneur. Hayek, and von Mises and the calculating entrepreneur."</head><label></label><figDesc xml:id="_kXTgjFS"></figDesc><table><row><cell></cell><cell>New York</cell></row><row><cell></cell><cell>University (1953),</cell></row><row><cell>World War II: Change to the economic, political and technological</cell><cell>1 st entrepreneurship and innovation program -Peter Drucker.</cell></row><row><cell>environment</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table</head><label></label><figDesc xml:id="_FxqGybY"></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 1</head><label>1</label><figDesc><div><p xml:id="_bA5JYDc"><s xml:id="_dtnETTN">Journals publishing the articles</s></p></div></figDesc><table><row><cell>Journal</cell><cell>No. of</cell><cell>%</cell><cell>Article mean</cell><cell>Article mean citations</cell></row><row><cell></cell><cell>articles</cell><cell></cell><cell>citations</cell><cell>by year</cell></row><row><cell>Journal Of Business Venturing</cell><cell>15</cell><cell>12.1</cell><cell>37.1</cell><cell>3.2</cell></row><row><cell>Small Business Economics</cell><cell>10</cell><cell>8.1</cell><cell>16.5</cell><cell>2.8</cell></row><row><cell>Entrepreneurship Theory and Practice</cell><cell>10</cell><cell>8.1</cell><cell>13.1</cell><cell>2.3</cell></row><row><cell>Strategic Entrepreneurship Journal</cell><cell>5</cell><cell>4.0</cell><cell>44.4</cell><cell>6.9</cell></row><row><cell>Journal of Business Ethics</cell><cell>4</cell><cell>3.2</cell><cell>7.3</cell><cell>1.5</cell></row><row><cell>Entrepreneurship and Regional</cell><cell>4</cell><cell>3.2</cell><cell>1.3</cell><cell>0.7</cell></row><row><cell>Development</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Journal of Management Studies</cell><cell>3</cell><cell>2.4</cell><cell>41.3</cell><cell>3.6</cell></row><row><cell>Journal of Small Business Management</cell><cell>3</cell><cell>2.4</cell><cell>10.0</cell><cell>2.0</cell></row><row><cell>International Entrepreneurship and</cell><cell>3</cell><cell>2.4</cell><cell>0.7</cell><cell>0.2</cell></row><row><cell>Management Journal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Journal of Management</cell><cell>2</cell><cell cols="2">1.6 103.0</cell><cell>10.4</cell></row><row><cell>Research Policy</cell><cell>2</cell><cell>1.6</cell><cell>38.5</cell><cell>4.3</cell></row><row><cell>Journal of World Business</cell><cell>2</cell><cell>1.6</cell><cell>38.0</cell><cell>4.8</cell></row><row><cell>Journal of Organizational Change</cell><cell>2</cell><cell>1.6</cell><cell>12.5</cell><cell>1.1</cell></row><row><cell>Management</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Organization Studies</cell><cell>2</cell><cell>1.6</cell><cell>8.5</cell><cell>1.3</cell></row><row><cell>Management Decision</cell><cell>2</cell><cell>1.6</cell><cell>7.5</cell><cell>3.8</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 2</head><label>2</label><figDesc><div><p xml:id="_VbhU7p7"><s xml:id="_hC3tH9P">Eighteen article samples ranked by citation frequency (from the most to the least cited)</s></p></div></figDesc><table><row><cell>P1: Busenitz et al. (2003)</cell><cell>P10: Bull and Willard (1993)</cell></row><row><cell>P2: Alvarez and Barney (2007)</cell><cell>P11: Miner and Raju (2004)</cell></row><row><cell>P3: Markman et al. (2005)</cell><cell>P12: Douglas and Shepherd (2000)</cell></row><row><cell>P4: Holmes and Schmitz (1990)</cell><cell>P13: Herron and Robinson (1993)</cell></row><row><cell>P5: Acs et al. (2009)</cell><cell>P14: Gartner and Shane (1995)</cell></row><row><cell>P6: Audretsch and Lehmann (2005)</cell><cell>P15: Audretsch and Keilbach (2007)</cell></row><row><cell>P7: Weerawardena and Mort (2006)</cell><cell>P16: Webb et al. (2009)</cell></row><row><cell>P8: Amit et al. (1993)</cell><cell>P17: Bygrave (1993)</cell></row><row><cell>P9: Baumol (1993)</cell><cell>P18: Foss et al. (2008)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 3</head><label>3</label><figDesc><div><p xml:id="_g7NcP9J"><s xml:id="_v49bJB6">Grouping resulting from multi-dimensional scaling and cluster analyses</s></p></div></figDesc><table><row><cell>Knowledge</cell><cell>Creation</cell><cell>Decision-</cell><cell>Specialization</cell><cell>Social</cell><cell>Entrepreneurship</cell></row><row><cell>spillover theory</cell><cell>and</cell><cell>making</cell><cell>of labor</cell><cell>entrepreneurship</cell><cell>in the informal</cell></row><row><cell>of</cell><cell>networks</cell><cell>theory</cell><cell></cell><cell>theory</cell><cell>economy</cell></row><row><cell>entrepreneurship</cell><cell>theory</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>P3: Markman</cell><cell>P1:</cell><cell>P8: Amit</cell><cell>P4: Holmes</cell><cell>P7:</cell><cell>P16: Webb et al.</cell></row><row><cell>et al. (2005)</cell><cell>Busenitz</cell><cell>et al.</cell><cell>and Schmitz</cell><cell>Weerawardena</cell><cell>(2009)</cell></row><row><cell></cell><cell>et al.</cell><cell>(1993)</cell><cell>(1990)</cell><cell>and Mort</cell><cell></cell></row><row><cell></cell><cell>(2003)</cell><cell></cell><cell></cell><cell>(2006)</cell><cell></cell></row><row><cell>P5: Acs et al.</cell><cell>P2: Alvarez</cell><cell>P9: Baumol</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(2009)</cell><cell>and</cell><cell>(1993)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Barney</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>(2007)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>P6: Audretsch</cell><cell>P12:</cell><cell>P10: Bull</cell><cell></cell><cell></cell><cell></cell></row><row><cell>and Lehmann</cell><cell>Douglas</cell><cell>and</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(2005)</cell><cell>and</cell><cell>Willard</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Shepherd</cell><cell>(1993)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>(2000)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>P15: Audretsch</cell><cell>P18: Foss</cell><cell>P11: Miner</cell><cell></cell><cell></cell><cell></cell></row><row><cell>and Keilbach</cell><cell>et al.</cell><cell>and Raju</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(2007)</cell><cell>(2008)</cell><cell>(2004)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>P13: Herron</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>and</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Robinson</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(1993)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>P14:</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Gartner</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>and Shane</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(1995)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>P17:</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Bygrave</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(1993)</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_7WUb2Ng"><s xml:id="_tsWV29p">J. J. M.Ferreira et al.</s></p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_YAVJqxn" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_nEw3ymN">Discovery and creation: alternative theories of entrepreneurial action</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Barney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_J2Scnnb">Strategic Entrepreneurship Journal</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">138</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alvarez SA. Barney J.B. 2007. Discovery and creation: alternative theories of entrepreneurial action. Strategic Entrepreneurship Journal. 26 (3): 11-26. 138</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_JjY4v3q">Entrepreneurship and university-based technology transfer</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Markman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Phan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Balkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Gianiodis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xnqjmhh">Journal of Business Venturing</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">96</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Markman GD. Phan PH. Balkin DB. Gianiodis PT. 2005. Entrepreneurship and university-based technology transfer. Journal of Business Venturing. 20(2): 241-263. 96</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_KgG5quV">A Theory of Entrepreneurship and Its Application to the Study of Business Transfers</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">J</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Schmitz,</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261678</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RaxFjea">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="265" to="294" />
+			<date type="published" when="1990-04">1990</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Holmes TJ. Schmitz JA. 1990. A Theory of Entrepreneurship and Its Application to the Study of Business Transfer, Journal of Political Economy. 98(2): 265. 86</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_hSzYmJj">The knowledge spillover theory of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Zoltan</forename><forename type="middle">J</forename><surname>Acs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pontus</forename><surname>Braunerhjelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>Carlsson</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11187-008-9157-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rYpJHPk">Small Business Economics</title>
+		<title level="j" type="abbrev">Small Bus Econ</title>
+		<idno type="ISSN">0921-898X</idno>
+		<idno type="ISSNe">1573-0913</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="30" />
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Acs, ZJ. Braunerhjelm P. Audretsch DB. Carlsson B. 2009. The knowledge spillover theory of entrepreneurship. Small Business Economics. 32 (1): 15-30. 83</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_8p3DwNd">Does the knowledge spillover theory of entrepreneurship hold for regions?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Lehmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jRFfXNr">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">77</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">6 Audretsch DB. Lehmann EE. 2005. Does the knowledge spillover theory of entrepreneurship hold for regions? Research Policy. 34 (8): 1191-1202. 77</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_7zed33N">Investigating social entrepreneurship: A multidimensional model</title>
+		<author>
+			<persName><forename type="first">Jay</forename><surname>Weerawardena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gillian</forename><forename type="middle">Sullivan</forename><surname>Mort</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jwb.2005.09.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Auj6yzY">Journal of World Business</title>
+		<title level="j" type="abbrev">Journal of World Business</title>
+		<idno type="ISSN">1090-9516</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="35" />
+			<date type="published" when="2006-02">2006</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weerawardena J. Mort GS. 2006. Investigating social entrepreneurship: A multidimensional model. Journal of World Business. 41(1): 21-35. 76</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_TTu6tvU">Challenges to theory development in entrepreneurship research</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Amit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Glosten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Muller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_S5ytsDC">Journal of Management Studies</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">73</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amit R. Glosten L. Muller E. 1993. Challenges to theory development in entrepreneurship research. Journal of Management Studies. 30 (5): 815-834. 73</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_2PzgyYg">Formal entrepreneurship theory in economicsexistence and bounds</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Baumol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uUsfhsn">Journal of Business Venturing</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">72</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">5 Baumol WJ. 1993. Formal entrepreneurship theory in economics- existence and bounds. Journal of Business Venturing. 8(3):197-210. 72</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_qcjGPbj">Towards a theory of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Ivan</forename><surname>Bull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><forename type="middle">E</forename><surname>Willard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0883-9026(93)90026-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7DKwFwv">Journal of Business Venturing</title>
+		<title level="j" type="abbrev">Journal of Business Venturing</title>
+		<idno type="ISSN">0883-9026</idno>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="183" to="195" />
+			<date type="published" when="1993-05">1993</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bull I. Willard GE. 1993. Towards a theory of entrepreneurship. Journal of Business Venturing. 8(3): 183-195. 68</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_hMZNw3S">Entrepreneurship as a utility maximizing response</title>
+		<author>
+			<persName><forename type="first">Evan</forename><forename type="middle">J</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dean</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0883-9026(98)00008-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PZ6zctB">Journal of Business Venturing</title>
+		<title level="j" type="abbrev">Journal of Business Venturing</title>
+		<idno type="ISSN">0883-9026</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="251" />
+			<date type="published" when="2000-05">2000</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Douglas EJ. Shepherd DA. 2000. Entrepreneurship as a utility maximizing response. Journal of Business Venturing. 15(3): 231-251. 53</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_HstxRPB">A structural model of the effects of entrepreneurial characteristics on venture performance</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Herron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YEFQwhm">Journal of Business Venturing</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">53</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herron L. Robinson RB. 1993. A structural model of the effects of entrepreneurial characteristics on venture performance. Journal of Business Venturing. 8(3): 281-294. 53</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_eF5NMRf">Risk propensity differences between managers and entrepreneurs and between low-and high-growth entrepreneurs: A reply in a more conservative vein</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Miner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Raju</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dNBcgrt">Journal of Applied Psychology</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">53</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miner JB. Raju NS. 2004. Risk propensity differences between managers and entrepreneurs and between low-and high-growth entrepreneurs: A reply in a more conservative vein. Journal of Applied Psychology. 89(1): 3-13. 53</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_rdrTESQ">Measuring entrepreneurship over time</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Shane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_f4H4JX8">Journal of business venturing</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">51</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gartner WB. Shane SA. 1995. Measuring entrepreneurship over time. Journal of business venturing. 10(4): 283-301. 51</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_f4xrYmd">The Theory of Knowledge Spillover Entrepreneurship*</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Keilbach</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-6486.2007.00722.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SjUtuCm">Journal of Management Studies</title>
+		<title level="j" type="abbrev">J Management Studies</title>
+		<idno type="ISSN">0022-2380</idno>
+		<idno type="ISSNe">1467-6486</idno>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1242" to="1254" />
+			<date type="published" when="2007-11">2007</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">7 Audretsch DB. Keilbach M. 2007. The theory of knowledge spillover entrepreneurship, Journal of Management Studies. 44 (7): 1242-1254. 44</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_DUPhCtC">You say illegal, I say legitimate: entrepreneurship in the informal economy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tihanyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Ireland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Sirmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HmC8ADE">Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="492" to="510" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Webb JW. Tihanyi L. Ireland RD. Sirmon DG. 2009. You say illegal, I say legitimate: entrepreneurship in the informal economy. Academy of Management Review. 34(3): 492-510 41</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_Zr6m86z">Theory building in the entrepreneurship paradigm</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bygrave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FUcqCVG">Journal of Business Venturing</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">40</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bygrave WD. 1993. Theory building in the entrepreneurship paradigm. Journal of Business Venturing. 8(3): 255-280. 40</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_S4szefe">ELECTRONIC REFERENCES</title>
+		<idno type="DOI">10.2307/j.ctv19prr39.16</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qtfJtbk">Mapping Intellectual Building and the Construction of Thought and Reason</title>
+		<imprint>
+			<publisher>International Institute of Islamic Thought</publisher>
+			<date type="published" when="2020-09-29" />
+			<biblScope unit="page" from="249" to="251" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">9 Entrepreneurship research: mapping intellectual… 201 References</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main" xml:id="_kzsu3yE">The changing structure of the US economy: lessons from the steel industry</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">J</forename><surname>Acs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Praeger</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Acs ZJ (1984) The changing structure of the US economy: lessons from the steel industry. Praeger, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_PeSMZ68">The knowledge spillover theory of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Zoltan</forename><forename type="middle">J</forename><surname>Acs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pontus</forename><surname>Braunerhjelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>Carlsson</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11187-008-9157-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_U4yuxEF">Small Business Economics</title>
+		<title level="j" type="abbrev">Small Bus Econ</title>
+		<idno type="ISSN">0921-898X</idno>
+		<idno type="ISSNe">1573-0913</idno>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="30" />
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Acs ZJ, Braunerhjelm P, Audretsch DB, Carlsson B (2009) The knowledge spillover theory of entrepreneurship. Small Bus Econ 32(1):15-30</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_DeZ7CEH">The emergence of entrepreneurship as an academic field: A personal essay on institutional entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Howard</forename><forename type="middle">E</forename><surname>Aldrich</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.respol.2012.03.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gB7zhVw">Research Policy</title>
+		<title level="j" type="abbrev">Research Policy</title>
+		<idno type="ISSN">0048-7333</idno>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1240" to="1248" />
+			<date type="published" when="2012-09">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aldrich H (2012) The emergence of entrepreneurship as an academic field: a personal essay on institutional entrepreneurship. Res Policy 41:1240-1248</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_zbbduhk">Discovery and creation: alternative theories of entrepreneurial action</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Barney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5uXFVZ6">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="11" to="26" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alvarez SA, Barney JB (2007) Discovery and creation: alternative theories of entrepreneurial action. Strateg Entrep J 26(3):11-26</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_jEPETsx">Advancing Our Understanding of Theory in Entrepreneurship</title>
+		<author>
+			<persName><forename type="first">Sharon</forename><forename type="middle">A</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albert</forename><forename type="middle">N</forename><surname>Link</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/sej.1216</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gen55Gr">Strategic Entrepreneurship Journal</title>
+		<title level="j" type="abbrev">Strategic Entrepreneurship</title>
+		<idno type="ISSN">1932-4391</idno>
+		<idno type="ISSNe">1932-443X</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="4" />
+			<date type="published" when="2016-03">2016</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alvarez SA, Audretsch D, Link A (2016) Advancing our understanding of theory in entrepreneurship. Strateg Entrep J 10(3-4):3-4</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_aWKMW39">CHALLENGES TO THEORY DEVELOPMENT IN ENTREPRENEURSHIP RESEARCH*</title>
+		<author>
+			<persName><forename type="first">Raphael</forename><surname>Amit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><surname>Glosten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eitan</forename><surname>Muller</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-6486.1993.tb00327.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JCRymwX">Journal of Management Studies</title>
+		<title level="j" type="abbrev">J Management Studies</title>
+		<idno type="ISSN">0022-2380</idno>
+		<idno type="ISSNe">1467-6486</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="815" to="834" />
+			<date type="published" when="1993-09">1993</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amit R, Glosten L, Muller E (1993) Challenges to theory development in entrepreneurship research. J Manag Stud 30(5):815-834</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_Dwas4ax">Firm size and geographical aggregation: an empirical appraisal in industrial location</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Arauzo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Manjo ´n Mc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wCYxrBS">Small Bus Econ</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="299" to="312" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arauzo JM, Manjo ´n MC (2004) Firm size and geographical aggregation: an empirical appraisal in industrial location. Small Bus Econ 22:299-312</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main" xml:id="_Jh365sw">Innovation and industry evolution</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch DB (1995) Innovation and industry evolution. MIT Press, Cambridge</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_rDFjw7T">The theory of knowledge spillover entrepreneurship</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keilbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jPBKs3S">J Manag Stud</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1242" to="1254" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch DB, Keilbach M (2007) The theory of knowledge spillover entrepreneurship. J Manag Stud 44(7):1242-1254</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_p4AZRNp">Does the Knowledge Spillover Theory of Entrepreneurship hold for regions?</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erik</forename><forename type="middle">E</forename><surname>Lehmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.respol.2005.03.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jzc4N6t">Research Policy</title>
+		<title level="j" type="abbrev">Research Policy</title>
+		<idno type="ISSN">0048-7333</idno>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1191" to="1202" />
+			<date type="published" when="2005-10">2005</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch DB, Lehmann EE (2005) Does the knowledge spillover theory of entrepreneurship hold for regions? Res Policy 34(8):1191-1202</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_337BRvm">Entrepreneurship capital and its impact on knowledge diffusion and economic performance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Keilbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Z26nj8x">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="687" to="698" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch DB, Bo ¨nte W, Keilbach M (2008) Entrepreneurship capital and its impact on knowledge diffusion and economic performance. J Bus Ventur 23(6):687-698</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_BDMsCXm">Strategic factor markets: expectations, luck, and business strategy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Barney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_R56R8qS">Manag Sci</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1231" to="1241" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barney JB (1986) Strategic factor markets: expectations, luck, and business strategy. Manag Sci 32(10):1231-1241</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_y9xqzpq">Firm resources and sustained competitive advantage</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Barney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DW6nx2z">J Manag</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="99" to="120" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barney JB (1991) Firm resources and sustained competitive advantage. J Manag 17:99-120</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_xgz6arJ">The role of the entrepreneur of social changes in northern Norway. Universitetsforlaget, Oslo Baumol WJ</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y8btzH4">Am Econ Rev Pap Proc</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="64" to="71" />
+			<date type="published" when="1963">1963. 1968</date>
+		</imprint>
+	</monogr>
+	<note>Entrepreneurship in economic theory</note>
+	<note type="raw_reference">Barth F (1963) The role of the entrepreneur of social changes in northern Norway. Universitetsforlaget, Oslo Baumol WJ (1968) Entrepreneurship in economic theory. Am Econ Rev Pap Proc 58(2):64-71</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_yk9XcMN">Formal entrepreneurship theory in economics -existence and bounds</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Baumol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4Xt5qFj">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="197" to="210" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baumol WJ (1993) Formal entrepreneurship theory in economics -existence and bounds. J Bus Ventur 8(3):197-210</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_9yDb82D">The job generation process</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Birch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_j7aDqbg">MIT Program on Neighborhood and Regional Change</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Birch DL (1979) The job generation process. MIT Program on Neighborhood and Regional Change, Cambridge</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_dd8B3AY">The role of networks in the entrepreneurial process</title>
+		<author>
+			<persName><forename type="first">Sue</forename><surname>Birley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0883-9026(85)90010-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vFRTWwN">Journal of Business Venturing</title>
+		<title level="j" type="abbrev">Journal of Business Venturing</title>
+		<idno type="ISSN">0883-9026</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="117" />
+			<date type="published" when="1985-12">1985</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Birley S (1985) The role of networks of cities and growth in regional urban. J Bus Ventur 1:107-117</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_sGCzrVW">Coopetition: a systematic review, synthesis, and future research directions</title>
+		<author>
+			<persName><forename type="first">Ricarda</forename><forename type="middle">B</forename><surname>Bouncken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johanna</forename><surname>Gast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sascha</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcel</forename><surname>Bogers</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11846-015-0168-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_E9F2Ncg">Review of Managerial Science</title>
+		<title level="j" type="abbrev">Rev Manag Sci</title>
+		<idno type="ISSN">1863-6683</idno>
+		<idno type="ISSNe">1863-6691</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="577" to="601" />
+			<date type="published" when="2015-03-24">2015</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bouncken RB, Gast J, Kraus S, Bogers M (2015) Coopetition: a systematic review, synthesis, and future research directions. RMS 9(3):577-601</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_X55VR8j">The psychology of the entrepreneur</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Brockhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Horwitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_nPsu9gN">The art and science of entrepreneurship</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Sexton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Smilor</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ballinger, Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brockhaus RH, Horwitz PS (1985) The psychology of the entrepreneur. In: Sexton DL, Smilor RW (eds) The art and science of entrepreneurship. Ballinger, Cambridge</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_CzFKGyT">Towards a theory of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Willard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TG9rb7g">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="183" to="195" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bull I, Willard GE (1993) Towards a theory of entrepreneurship. J Bus Ventur 8(3):183-195</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_HhuYebz">Enrolling stakeholders under conditions of risk and uncertainty</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Barney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Angus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Herrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rjUeMhZ">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="97" to="106" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Burns BL, Barney JB, Angus RW, Herrick HN (2016) Enrolling stakeholders under conditions of risk and uncertainty. Strateg Entrep J 10(1):97-106</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_vAH83Ag">Entrepreneurship Research in Emergence: Past Trends and Future Directions</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Busenitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Chandler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zacharakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0149-2063_03_00013-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yy4E9rz">Journal of Management</title>
+		<title level="j" type="abbrev">Journal of Management</title>
+		<idno type="ISSN">0149-2063</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="285" to="308" />
+			<date type="published" when="2003-06-01">2003</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Busenitz LW, West GP, Shepherd D, Nelson T, Chandler GN, Zacharakis A (2003) Entrepreneurship research in emergence: past trends and future directions. J Manag 29(3):285-308</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_2rN3bzD">Entrepreneurship Research (1985–2009) and the Emergence of Opportunities</title>
+		<author>
+			<persName><forename type="first">Lowell</forename><forename type="middle">W</forename><surname>Busenitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lawrence</forename><forename type="middle">A</forename><surname>Plummer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">C</forename><surname>Klotz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Shahzad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Rhoads</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/etap.12120</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Uh85qVq">Entrepreneurship Theory and Practice</title>
+		<title level="j" type="abbrev">Entrepreneurship Theory and Practice</title>
+		<idno type="ISSN">1042-2587</idno>
+		<idno type="ISSNe">1540-6520</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2014-09">2014</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Busenitz LW, Plummer LA, Klotz AC, Shahzad A, Rhoads K (2014) Entrepreneurship research (1985-2009) and the emergence of opportunities. Entrep Theory Pract 38(5):981-1245</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_X9R5x3C">Theory building in the entrepreneurship paradigm</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bygrave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xX32Ams">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="255" to="280" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bygrave WD (1993) Theory building in the entrepreneurship paradigm. J Bus Ventur 8(3):255-280</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main" xml:id="_k5tEkR3">Essay on the nature of trade in general. Henry Higgs</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cantillon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1755">1755. 1959</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>edition and translation</note>
+	<note type="raw_reference">Cantillon R (1755) Essay on the nature of trade in general. Henry Higgs, London (edition and translation 1959)</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_vRe2QGb">The evolving domain of entrepreneursip research</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Braunerhjelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mckelvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Olofsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Persson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JnJyaTm">Small Bus Econ</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="913" to="930" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Ylinenpa ¨a ¨H</note>
+	<note type="raw_reference">Carlsson B, Braunerhjelm P, McKelvey M, Olofsson C, Persson L, Ylinenpa ¨a ¨H (2013) The evolving domain of entrepreneursip research. Small Bus Econ 41:913-930</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_hBPKUBc">The entrepreneur: an economic theory</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Casson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kweXdRB">Strategy and structure: chapters in the history of the industrial enterprise</title>
+		<meeting><address><addrLine>Totowa Chandler AD; Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>The MIT Press</publisher>
+			<date type="published" when="1962">1982. 1962</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Casson M (1982) The entrepreneur: an economic theory. Barnes &amp; Noble Books, Totowa Chandler AD (1962) Strategy and structure: chapters in the history of the industrial enterprise. The MIT Press, Boston</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Chandler</surname></persName>
+		</author>
+		<title level="m" xml:id="_bv3q7HW">Scale and scope: the dynamics of industrial capitalism</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chandler AD (1990) Scale and scope: the dynamics of industrial capitalism. Harvard University Press, Cambridge</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_xQ738DX">Insurance and business profits</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yAPJpEj">Q J Econ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="45" to="54" />
+			<date type="published" when="1892">1892</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clark JB (1892) Insurance and business profits. Q J Econ 7:45-54</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_W7VQc3m">Mapping research on strategic alliances and innovation: a co-citation analysis</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Guardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Harrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rH87egf">J Technol Transf</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="789" to="811" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Di Guardo MC, Harrigan KR (2012) Mapping research on strategic alliances and innovation: a co-citation analysis. J Technol Transf 37:789-811</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_j8bYykw">Asset stock accumulation and sustainability of competitive advantage</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dierickx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cool</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JT9bbgr">Manag Sci</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1504" to="1511" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dierickx I, Cool K (1989) Asset stock accumulation and sustainability of competitive advantage. Manag Sci 35:1504-1511</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_nPTTaHb">Entrepreneurship as a utility maximizing response</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Douglas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JHw7NSf">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="251" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Douglas EJ, Shepherd DA (2000) Entrepreneurship as a utility maximizing response. J Bus Ventur 15(3):231-251</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main" xml:id="_2eeEfcK">Innovarion and enrrepreneurship</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Drucker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Harper &amp; Row</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Drucker PF (1985) Innovarion and enrrepreneurship. Harper &amp; Row, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main" xml:id="_Bv5svEu">A co-citation bibliometric analysis of strategic management research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ratten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HAsNtsm">Scientometrics</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="32" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ferreira J, Fernandes C, Ratten V (2016) A co-citation bibliometric analysis of strategic management research. Scientometrics 109(1):1-32</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_fMNfZjV">Entrepreneurship, subjectivism, and the resource-based view: toward a new synthesis</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Foss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Kor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Mahoney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ASyUmrB">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="94" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Foss NJ, Klein PG, Kor YY, Mahoney JT (2008) Entrepreneurship, subjectivism, and the resource-based view: toward a new synthesis. Strateg Entrep J 2(1):73-94</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_QsrdSU2">What makes entrepreneurship research interesting? Reflections on strategies to overcome the rigour-relevance gap</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Landstro ¨m H</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xkbbt74">Entrep Reg Dev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="51" to="75" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frank H, Landstro ¨m H (2015) What makes entrepreneurship research interesting? Reflections on strategies to overcome the rigour-relevance gap. Entrep Reg Dev 28(1-2):51-75</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_32PYcjx">A conceptual framework for describing the phenomenon of new venture creation</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mnbKpaa">Acad Manag Rev</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="696" to="706" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gartner WB (1985) A conceptual framework for describing the phenomenon of new venture creation. Acad Manag Rev 10(4):696-706</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_sTaR8JJ">What are we talking about when we talk about entrepreneurship?</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7cXcFkW">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="15" to="28" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gartner WB (1990) What are we talking about when we talk about entrepreneurship? J Bus Ventur 5:15-28</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_XjGq9nN">Measuring entrepreneurship over time</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Shane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MRnfaRr">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="283" to="301" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gartner WB, Shane SA (1995) Measuring entrepreneurship over time. J Bus Ventur 10(4):283-301</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main" xml:id="_Xz2Qf72">Are you talking to me? The nature of community in entrepreneurship scholarship</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Davidsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zahra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eCYxvZU">Entrep Theory Pract</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="321" to="331" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gartner WB, Davidsson P, Zahra S (2006) Are you talking to me? The nature of community in entrepreneurship scholarship. Entrep Theory Pract 30(3):321-331</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Geertz</surname></persName>
+		</author>
+		<title level="m" xml:id="_H8tDc4R">Peddlers and princes</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chicago University Press</publisher>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Geertz C (1963) Peddlers and princes. Chicago University Press, Chicago</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main" xml:id="_ejPDV4C">Is there conceptual convergence in entrepreneurship research? a co-citation analysis of frontiers of entrepreneurship research, 1981-2004</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gre ´gorie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noe</forename><surname>¨l</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De ´ry R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-P</forename><surname>Be</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ryvyv6p">Entrep Theory Pract</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="333" to="373" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gre ´gorie D, Noe ¨l M, De ´ry R, Be ´chard J-P (2006) Is there conceptual convergence in entrepreneurship research? a co-citation analysis of frontiers of entrepreneurship research, 1981-2004. Entrep Theory Pract 30(3):333-373</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_Hxqndh8">The fundamental error of Kapital and Kapitalzins</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hawley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TTTgEE5">Q J Econ</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="280" to="307" />
+			<date type="published" when="1892">1892</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hawley FB (1892) The fundamental error of Kapital and Kapitalzins. Q J Econ 6:280-307</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main" xml:id="_QeAywqq">The use of knowledge in society</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cN3pxPU">Am Econ Rev</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="519" to="530" />
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek FA (1945) The use of knowledge in society. Am Econ Rev 35(4):519-530</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main" xml:id="_mu4SJ3P">The psychology of interpersonal relations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Heider</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heider F (1958) The psychology of interpersonal relations. Wiley, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main" xml:id="_eWauNeK">A structural model of the effects of entrepreneurial characteristics on venture performance</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Herron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pTNR7cp">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="281" to="294" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herron L, Robinson RB (1993) A structural model of the effects of entrepreneurial characteristics on venture performance. J Bus Ventur 8(3):281-294</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main" xml:id="_9vXdepH">Introduction for recreating/recontextualising entrepreneurship</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hjorth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_X8s7Axk">Scand J Manag</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="81" to="84" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hjorth D, Jones C, Gartner WB (2008) Introduction for recreating/recontextualising entrepreneurship. Scand J Manag 24:81-84</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main" xml:id="_wJvGzey">A theory of entrepreneurship and its application to the to the study of business transfers</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schmitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MdA8TkN">J Polit Econ</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="265" to="294" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Holmes TJ, Schmitz JA (1990) A theory of entrepreneurship and its application to the to the study of business transfers. J Polit Econ 98(2):265-294</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_Vf9zByq">The chronology and intellectual trajectory of American entrepreneurship education 1876-1999</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MTVAjDm">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="293" to="300" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Katz J (2003) The chronology and intellectual trajectory of American entrepreneurship education 1876-1999. J Bus Ventur 18:293-300</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_wg5CJwH">The equilibrating and disequilibrating effects of entrepreneurship: revisiting the central premises</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Keyhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pHNGYBs">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="65" to="88" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Keyhani M, Le ´vesque M (2016) The equilibrating and disequilibrating effects of entrepreneurship: revisiting the central premises. Strateg Entrep J 10(1):65-88</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main" xml:id="_raAR6DA">A general equilibrium entrepreneurial theory of firm formation based on risk aversion</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kihlstrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laffont</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qBS7Gyu">J Polit Econ</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="719" to="748" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kihlstrom RE, Laffont J (1979) A general equilibrium entrepreneurial theory of firm formation based on risk aversion. J Polit Econ 87(4):719-748</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main" xml:id="_rJc3ykf">The effect of firm formation and growth on job creation in the United States</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Kirchoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5msTdhV">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="133" to="149" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirchoff BA, Phillips BD (1988) The effect of firm formation and growth on job creation in the United States. J Bus Ventur 11:133-149</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kirzner</surname></persName>
+		</author>
+		<title level="m" xml:id="_HeKXXtk">Competition and entrepreneurship</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner I (1973) Competition and entrepreneurship. University of Chicago Press, Chicago</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kirzner</surname></persName>
+		</author>
+		<title level="m" xml:id="_Cf2nVG4">Discovery and the capitalist process</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner I (1985) Discovery and the capitalist process. University of Chicago Press, Chicago</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main" xml:id="_b3fHuRY">Book Review Plymouth and the Pilgrims . By Arthur Lord. Boston: Houghton Mifflin Company. 1920.</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Knight</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/nejm192101131840207</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VqgBJ3v">The Boston Medical and Surgical Journal</title>
+		<title level="j" type="abbrev">The Boston Medical and Surgical Journal</title>
+		<idno type="ISSN">0096-6762</idno>
+		<idno type="ISSNe">1533-4406</idno>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="48" to="48" />
+			<date type="published" when="1921-01-13">1921</date>
+			<publisher>Massachusetts Medical Society</publisher>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Knight FH (1921) Risk, uncertainty and profit. Houghton Mifflin Company, Boston</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main" xml:id="_8jej7ju">State-of-the-art of current research in international entrepreneurship: a citation analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zhSEmnU">Afr J Bus Manag</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1020" to="1038" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kraus S (2011) State-of-the-art of current research in international entrepreneurship: a citation analysis. Afr J Bus Manag 5(3):1020-1038</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main" xml:id="_ENKQW5H">Corporate entrepreneurship as a company philosophy: the case of &apos;&apos;&amp;Samhoud</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rigtering</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CSSuDpz">Int J Entrep Innov</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="245" to="249" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kraus S, Rigtering C (2010) Corporate entrepreneurship as a company philosophy: the case of &apos;&apos;&amp;Samhoud&apos;&apos;. Int J Entrep Innov 11(3):245-249</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main" xml:id="_xNFEf9B">The entrepreneurial marketing domain: a citation and co‐citation analysis</title>
+		<author>
+			<persName><forename type="first">Sascha</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Filser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fabian</forename><surname>Eggers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerald</forename><forename type="middle">E</forename><surname>Hills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claes</forename><forename type="middle">M</forename><surname>Hultman</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/14715201211246698</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_vpBbQut">Journal of Research in Marketing and Entrepreneurship</title>
+		<idno type="ISSN">1471-5201</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="6" to="26" />
+			<date type="published" when="2012-07-06">2012</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kraus S, Filser M, Eggers F, Hills GE, Hultman CM (2012) The entrepreneurial marketing domain: a citation and co-citation analysis. J Res Mark Entrep 14(1):6-26</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main" xml:id="_fwGccJ8">Social entrepreneurship: an exploratory citation analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Filser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nxGKxmX">RMS</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="275" to="292" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kraus S, Filser M, O&apos;Dwyer M, Shaw E (2014) Social entrepreneurship: an exploratory citation analysis. RMS 8(2):275-292</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main" xml:id="_kr72bjf">Experimental methods in entrepreneurship research: the status quo</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Niemand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ZGGR7nK">Int J Entrep Behav Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="958" to="983" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kraus S, Meier F, Niemand T (2016) Experimental methods in entrepreneurship research: the status quo. Int J Entrep Behav Res 22(6):958-983</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main" xml:id="_upqrBDU">Prediction-and control-based strategies in entrepreneurship: the role of information</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kuechle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boulu-Reshef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Carr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M4WjbSJ">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="64" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kuechle G, Boulu-Reshef B, Carr SD (2016) Prediction-and control-based strategies in entrepreneurship: the role of information. Strateg Entrep J 10(1):43-64</note>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main" xml:id="_WCq7TS3">Effects of theoretical contribution, methodological rigor, and journal quality, on the impact of scale development articles in the field of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Kuskova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Podsakoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Podsakoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_b8KrmQE">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="10" to="36" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kuskova VV, Podsakoff NP, Podsakoff PM (2011) Effects of theoretical contribution, methodological rigor, and journal quality, on the impact of scale development articles in the field of entrepreneurship. Strateg Entrep J 5(1):10-36</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Landstro ¨m</surname></persName>
+		</author>
+		<title level="m" xml:id="_Hq35YXS">Pioneers in entrepreneurship and small business research</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Landstro ¨m H (2005) Pioneers in entrepreneurship and small business research. Springer, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main" xml:id="_XgqzQaR">Entrepreneurship: exploring the knowledge base</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Landstro ¨m</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Harirchi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Astro ¨m F</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_p3E7sd8">Res Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1154" to="1181" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Landstro ¨m H, Harirchi G, Astro ¨m F (2012) Entrepreneurship: exploring the knowledge base. Res Policy 41(7):1154-1181</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main" xml:id="_x4MuvFr">Bibliometrics: Its Theoretical Foundations, Methods and Applications</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lawani</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/libr.1981.31.1.294</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_HfYNjA2">Libri</title>
+		<idno type="ISSN">0024-2667</idno>
+		<idno type="ISSNe">1865-8423</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="294" to="315" />
+			<date type="published" when="1981">1981</date>
+			<publisher>Walter de Gruyter GmbH</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lawani S (1981) Bibliometrics: its theoretical foundations, methods and applications. Libri 31(4):294-315</note>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main" xml:id="_sCND89x">Entrepreneurship and development</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Leibenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MPM7XYH">Am Econ Rev</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="72" to="83" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leibenstein H (1968) Entrepreneurship and development. Am Econ Rev 58(2):72-83</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main" xml:id="_y4AXvHG">The adolescence of entrepreneurship research: specification of purpose</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lipset</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uVVqz8e">Entrep Theory Pract</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lipset</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Solari</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="17" to="39" />
+			<date type="published" when="1967">1967. 2001</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>London Low MB</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Values, education, and entrepreneurship</note>
+	<note type="raw_reference">Lipset SM (1967) Values, education, and entrepreneurship. In: Lipset SM, Solari A (eds) Elites in Latin America. Oxford University Press, London Low MB (2001) The adolescence of entrepreneurship research: specification of purpose. Entrep Theory Pract 24(4):17-39</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main" xml:id="_xFnshAJ">Entrepreneurship and university-based technology transfer</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Markman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Phan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Balkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Gianiodis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Mjv3E6f">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="263" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Markman GD, Phan PH, Balkin DB, Gianiodis PT (2005) Entrepreneurship and university-based technology transfer. J Bus Ventur 20(2):241-263</note>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main" xml:id="_ScRAdvR">Risk propensity differences between managers and entrepreneurs and between low-and high-growth entrepreneurs: a reply in a more conservative vein</title>
+		<author>
+			<persName><forename type="first">Dc ; Princeton</forename><surname>Mcclelland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Miner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Raju</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9fddFS3">J Appl Psychol</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="13" />
+			<date type="published" when="1961">1961. 2004</date>
+			<publisher>Nostrand Company Inc</publisher>
+		</imprint>
+	</monogr>
+	<note>The achieving society. D. Van</note>
+	<note type="raw_reference">McClelland DC (1961) The achieving society. D. Van Nostrand Company Inc, Princeton Miner JB, Raju NS (2004) Risk propensity differences between managers and entrepreneurs and between low-and high-growth entrepreneurs: a reply in a more conservative vein. J Appl Psychol 89(1):3-13</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main" xml:id="_sW6rEhJ">Human action: a treatise on economics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mises</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_JbeCskp">Laissez Faire</title>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises L (1949) Human action: a treatise on economics. Laissez Faire, San Francisco</note>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title level="m" type="main" xml:id="_t9pAueB">The second industrial divide</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sabel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Basic Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Piore M, Sabel C (1984) The second industrial divide. Basic Books, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main" xml:id="_smZRDX5">Toward an integration of the behavioral and cognitive influences on the entrepreneurship process</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pryor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Ireland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ketchen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M9Jzey6">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="42" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pryor C, Webb JW, Ireland RD, Ketchen D (2016) Toward an integration of the behavioral and cognitive influences on the entrepreneurship process. Strateg Entrep J 10(1):21-42</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main" xml:id="_n9YFekr">Scholarly communities in entrepreneurship research: a co-citation analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Schildt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Henri</forename><forename type="middle">A</forename><surname>Zahra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antti</forename><surname>Sillanpa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>¨a</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1540-6520.2006.00126.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3ejaz8t">Entrep Theory Pract</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="399" to="415" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schildt HA, Henri A, Zahra S, Antti Sillanpa ¨a ¨A (2006) Scholarly communities in entrepreneurship research: a co-citation analysis. Entrep Theory Pract 30(3):399-415. doi:10.1111/j.1540-6520.2006. 00126.x</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schumpeter</surname></persName>
+		</author>
+		<title level="m" xml:id="_pfVF2nB">The theory of economic development</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schumpeter JA (1934) The theory of economic development. Harvard University Press, Cambridge</note>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main" xml:id="_46R9hZQ">Capitalism, socialism and democracy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schumpeter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1942">1942</date>
+			<publisher>Harper &amp; Row</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schumpeter JA (1942) Capitalism, socialism and democracy. Harper &amp; Row, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main" xml:id="_6g6CKu5">Prior knowledge and the discovery of entrepreneurial opportunities</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Shane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YSUbXym">Organ Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="448" to="469" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shane SA (2000) Prior knowledge and the discovery of entrepreneurial opportunities. Organ Sci 11(4):448-469</note>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main" xml:id="_3yjXdvK">The promise of entrepreneurship as a field of research</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkataraman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jnkrMY9">Acad Manag Rev</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="217" to="226" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shane S, Venkataraman S (2000) The promise of entrepreneurship as a field of research. Acad Manag Rev 25(1):217-226</note>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main" xml:id="_bWgk4Tz">Co‐citation in the scientific literature: A new measure of the relationship between two documents</title>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>Small</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/asi.4630240406</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Eqyc6Qj">Journal of the American Society for Information Science</title>
+		<title level="j" type="abbrev">J. Am. Soc. Inf. Sci.</title>
+		<idno type="ISSN">0002-8231</idno>
+		<idno type="ISSNe">1097-4571</idno>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="265" to="269" />
+			<date type="published" when="1973-07">1973</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Small H (1973) Co-citation in the scientific literature: a new measure of the relationship between two documents. J Am Soc Inf Sci 24:265-269</note>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main" xml:id="_6THhhbz">An Inquiry into the Nature and Causes of the Wealth of Nations</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oseo/instance.00043218</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_yzZFMNj">The Glasgow Edition of the Works and Correspondence of Adam Smith, Vol. 2: An Inquiry into the Nature and Causes of the Wealth of Nations, Vol. 1</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1776-01-01">1776. 1981</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="83" to="106" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Smith A (1776) An inquiry into the nature and causes of the wealth of nations. Methuen and Co, London Smith LC (1981) Citation analysis. Libr Trends 30(1):83-106</note>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main" xml:id="_dXp6Na9">Employment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Storey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KaaJgMg">Understanding the small business sector</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Storey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="160" to="203" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Storey DJ (1994) Employment, Chap. 6. In: Storey DJ (ed) Understanding the small business sector. Routledge, London, pp 160-203</note>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main" xml:id="_5TRRdf9">Entrepreneurship through a qualitative lens: insights on the construction and/or discovery of entrepreneurial opportunity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Suddaby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bruton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Si</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CkS7R7A">J Bus Ventur</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Suddaby R, Bruton G, Si S (2014) Entrepreneurship through a qualitative lens: insights on the construction and/or discovery of entrepreneurial opportunity. J Bus Ventur 30(1):1-10</note>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main" xml:id="_8qqckS8">Mapping the (in)visible col-lege(s) in the field of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Teixeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AMhxJdM">Scientometrics</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="1" to="36" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Teixeira AC (2011) Mapping the (in)visible col-lege(s) in the field of entrepreneurship. Scientometrics 89:1-36</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main" xml:id="_AMGQr5e">Entrepreneurship, small business and economic growth</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Thurik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wennekers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3kXN8dp">J Small Bus Enterp Dev</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="140" to="149" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thurik AR, Wennekers A (2004) Entrepreneurship, small business and economic growth. J Small Bus Enterp Dev 11(1):140-149</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main" xml:id="_nqGMhSn">A theoretical analysis of the role of characteristics in entrepreneurial propensity</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Van Ness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Seifert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_35QRKNT">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="96" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van Ness RK, Seifert CF (2016) A theoretical analysis of the role of characteristics in entrepreneurial propensity. Strateg Entrep J 10(1):89-96</note>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main" xml:id="_kp2z7cs">Empirical analysis of entrepreneurship and economic growth</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Stel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_HyyB6Jv">International studies in entrepreneurship series</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Stel AJ (2006) Empirical analysis of entrepreneurship and economic growth. International studies in entrepreneurship series, 13. Springer, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main" xml:id="_kzf7Tpq">Measuring progress and evolution in science and technology -I: the multiple uses of bibliometric indicators</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Verbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Debackere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Luwel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zimmermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FA7M2bY">Int J Manag Rev</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="179" to="211" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Verbeek A, Debackere K, Luwel M, Zimmermann E (2002) Measuring progress and evolution in science and technology -I: the multiple uses of bibliometric indicators&apos;&apos;. Int J Manag Rev 4(2):179-211</note>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main" xml:id="_3zRKjSj">Introduction and summary of entrepreneurial research</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vesper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_UtTzPK7">Encyclopedia of entrepreneurship</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Kent</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Sexton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Vesper</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Englewood Cliffs; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Henry Holt</publisher>
+			<date type="published" when="1876">1982. 1876</date>
+		</imprint>
+	</monogr>
+	<note>The wages question</note>
+	<note type="raw_reference">Vesper K (1982) Introduction and summary of entrepreneurial research. In: Kent CA, Sexton DL, Vesper KH (eds) Encyclopedia of entrepreneurship (pp xxxi-xxxviii). Englewood Cliffs: Prentice-Hall Walker FA (1876) The wages question. Henry Holt, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main" xml:id="_U54ZaYh">A unified approach to mapping and clustering of bibliometric networks</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Waltman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Eck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Noyons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ecm</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JkcdzrQ">J Informetr</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="629" to="635" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Waltman L, Van Eck NJ, Noyons ECM (2010) A unified approach to mapping and clustering of bibliometric networks. J Informetr 4(4):629-635</note>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main" xml:id="_3Ne5hRV">You say illegal, I say legitimate: entrepreneurship in the informal economy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tihanyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Ireland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Sirmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pmasbuj">Acad Manag Rev</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="492" to="510" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Webb JW, Tihanyi L, Ireland RD, Sirmon DG (2009) You say illegal, I say legitimate: entrepreneurship in the informal economy. Acad Manag Rev 34(3):492-510</note>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main" xml:id="_VkaS7A9">Investigating social entrepreneurship: a multidimensional model</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weerawardena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Mort</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Chupj5q">J World Bus</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="35" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weerawardena J, Mort GS (2006) Investigating social entrepreneurship: a multidimensional model. J World Bus 41(1):21-35</note>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<monogr>
+		<title level="m" type="main" xml:id="_Q8rNXhD">Entrepreneurship: the way ahead</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Welsch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Welsch HP (2004) Entrepreneurship: the way ahead. Routledge, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title level="a" type="main" xml:id="_5hCkreN">Entrepreneurship research in Europe: taking stock and looking forward</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Welter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lasch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gdcrpvG">Entrep Theory Pract</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="248" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Welter F, Lasch F (2008) Entrepreneurship research in Europe: taking stock and looking forward. Entrep Theory Pract 32(2):241-248</note>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main" xml:id="_YtV2AFG">Bridging behavioral models and theoretical concepts: effectuation and bricolage in the opportunity creation framework</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Welter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wuebker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cCqcvsE">Strateg Entrep J</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="20" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Welter C, Mauer R, Wuebker R (2016) Bridging behavioral models and theoretical concepts: effectuation and bricolage in the opportunity creation framework. Strateg Entrep J 10(1):5-20</note>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main" xml:id="_GquM4JX">Advances in entrepreneurship, vol I. Elgar, Cheltenham White HD, Grifith BC</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Westhead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7SXS7EW">J Am Soc Inf Sci</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="163" to="171" />
+			<date type="published" when="1981">2000. 1981</date>
+		</imprint>
+	</monogr>
+	<note>Author cocitation: a literature measure of intellectual structure</note>
+	<note type="raw_reference">Westhead P, Wright M (2000) Advances in entrepreneurship, vol I. Elgar, Cheltenham White HD, Grifith BC (1981) Author cocitation: a literature measure of intellectual structure. J Am Soc Inf Sci 32(3):163-171</note>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main" xml:id="_jndpsfz">Visualizing a discipline: an author co-citation analysis of information science, 1972-1995</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Mccain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CxutRNN">J Am Soc Inf Sci</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="327" to="355" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">White HD, McCain KW (1998) Visualizing a discipline: an author co-citation analysis of information science, 1972-1995. J Am Soc Inf Sci 49(4):327-355</note>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main" xml:id="_pPXtX38">Mapping the field of family business research: past trends and future directions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Xi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kellermanns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Filser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GfWa8nh">Int Entrep Manag J</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="113" to="132" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Xi JM, Kraus S, Kellermanns F, Filser M (2015) Mapping the field of family business research: past trends and future directions. Int Entrep Manag J 11(1):113-132</note>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<analytic>
+		<title level="a" type="main" xml:id="_m6gDZhg">Entrepreneurship and Disciplinary Scholarship: Return to the Fountainhead</title>
+		<author>
+			<persName><forename type="first">Shaker</forename><forename type="middle">A</forename><surname>Zahra</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/0-387-23622-8_12</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_eGeSZpz">International Handbook Series on Entrepreneurship</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Alvarez</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Agarwal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">O</forename><surname>Sorenson</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="253" to="268" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zahra SA (2005) Entrepreneurship and disciplinary scholarship: return to the fountainhead. In: Alvarez SA, Agarwal R, Sorenson O (eds) Handbook of entrepreneurship research. Interdisciplinary Perspectives, Springer, pp 253-268</note>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main" xml:id="_UGSYWNz">Contextualizing theory building in entrepreneurship research</title>
+		<author>
+			<persName><forename type="first">Shaker</forename><forename type="middle">A</forename><surname>Zahra</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jbusvent.2006.04.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_H9dqjeq">Journal of Business Venturing</title>
+		<title level="j" type="abbrev">Journal of Business Venturing</title>
+		<idno type="ISSN">0883-9026</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="443" to="452" />
+			<date type="published" when="2007-05">2007</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zahra SA (2007) Contextualizing theory building in entrepreneurship research. J Bus Ventur 22:443-452</note>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main" xml:id="_3mwM8R7">Development of a method for detection and trend analysis of research fronts built by lexical or cocitation analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bassecoulard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_t6s8BRx">Scientometrics</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="333" to="351" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zitt M, Bassecoulard E (1994) Development of a method for detection and trend analysis of research fronts built by lexical or cocitation analysis. Scientometrics 30:333-351</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
