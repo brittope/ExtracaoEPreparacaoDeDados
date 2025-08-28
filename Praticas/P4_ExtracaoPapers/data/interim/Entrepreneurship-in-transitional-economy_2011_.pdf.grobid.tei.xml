@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_AnnX2am">Entrepreneurship in transitional economy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-06-08">8 June 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Janusz</forename><forename type="middle">K</forename><surname>Tanas</surname></persName>
+							<email>jtanas@swin.edu.au</email>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Australian Graduate School of Entrepreneurship</orgName>
+								<orgName type="department" key="dep2">Faculty of Business and Enterprise</orgName>
+								<orgName type="institution">Swinburne University of Technology</orgName>
+								<address>
+									<postBox>P O Box 218</postBox>
+									<postCode>3122</postCode>
+									<settlement>Hawthorn</settlement>
+									<region>Victoria</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Institute of Development Strategies</orgName>
+								<orgName type="institution">Indiana University</orgName>
+								<address>
+									<settlement>Bloomington</settlement>
+									<region>IN</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">WHU Otto-Bresheim School of Management</orgName>
+								<orgName type="institution">King Saud University</orgName>
+								<address>
+									<settlement>Riyadh</settlement>
+									<country key="SA">Saudi Arabia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_RnrzP3G">Entrepreneurship in transitional economy</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2011-06-08">8 June 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8BB6A15D8A188E5C148FF0C23677C075</idno>
+					<idno type="DOI">10.1007/s11365-011-0189-9</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_BByfarD">Entrepreneurship</term>
+					<term xml:id="_bsup9M5">Economy</term>
+					<term xml:id="_VXG5Ej2">Politics</term>
+					<term xml:id="_QME5xfB">Culture</term>
+					<term xml:id="_PcnzxxR">History</term>
+					<term xml:id="_Xkx3HDd">Free market economy</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_uWzFfq3"><p xml:id="_zeTYDtK"><s xml:id="_Mj5vnxc">This paper explores the relationship among socio-political culture and the economic environment.</s><s xml:id="_uB2Yw8V">It places the entrepreneur at the forefront of the Transitional Economy and identifies the entrepreneur as a catalyst for change and progress.</s><s xml:id="_gRgYmYS">Within wider world changes, this discussion and interrogation of entrepreneurial development in the Transitional Economy provides new knowledge from the perspective of both the authors and the perceptions of 638 respondents who contributed to the research.</s><s xml:id="_Qj4f4Gb">The concluding model makes explicit that the constructs Freedom and History serve as moderators for entrepreneurial development in the Transitional Economy and suggests that the strength of an individual is created by societal construct.</s><s xml:id="_JfBrrkh">The progress of entrepreneurs is enhanced where there is political and economic freedom to operate, informed by historical knowledge.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_aMutRZH">Introduction</head><p xml:id="_RqPGjyK"><s xml:id="_UMNxC3T">The complexity of change means that such a task is much broader than just presenting the state and development of economics as usually understood or taught.</s><s xml:id="_7UgFzuz">Transitional change in any society happens via the integration of socio-political culture and the economic environment <ref type="bibr" target="#b9">(Birley and Cromie 1988;</ref><ref type="bibr" target="#b16">Butler and Hansen 1991;</ref><ref type="bibr" target="#b30">Greve and Salaraff 2003;</ref><ref type="bibr" target="#b31">Hansen 1995;</ref><ref type="bibr" target="#b54">Powell 1990;</ref><ref type="bibr" target="#b60">Stevenson and Jarillo-Mossi 1990;</ref><ref type="bibr" target="#b62">Timmons 1994)</ref>.</s><s xml:id="_BKUp84D">Transition is a historic process of change from state ownership and bureaucratic regulation to a free market economy.</s></p><p xml:id="_46ZxU73"><s xml:id="_4RwVafU">The transformation requires the development of integrated independent institutions, regulated pace of privatization and overall entrepreneurial characteristics of the society <ref type="bibr" target="#b42">(Kołodko 2000)</ref>.</s><s xml:id="_PTmz6FR">Entrepreneurial operation and market competition is an essential driving force in producing efficient results.</s><s xml:id="_7GpyB9e">The success of this change is largely dependent on the integration of economic, social and political dimensions.</s></p><p xml:id="_aGhRdUA"><s xml:id="_WykUgnQ">There is little empirical evidence on the relationships among socio-political culture and the economic environment.</s><s xml:id="_HES4Vgd">However, this might be due to the fact that little research has been dedicated.</s><s xml:id="_XVKhGXq">There is little research that has been dedicated to investigating the factors that either inhibit or promote the growth of an entrepreneurial culture or spirit within a country.</s><s xml:id="_4jz5r8a">Supported by <ref type="bibr" target="#b28">George and Zahra (2002)</ref> culture bears a profound impact on all faces on entrepreneurship in societies.</s><s xml:id="_2mBS7Wc">In an effort to shed more light on this, we have begun an empirical study which explores the correlation of these factors and its role in creating progressive and successful transitional change.</s></p><p xml:id="_d2DbeZw"><s xml:id="_KmuSCW5">Successful transitional change is the readiness of society to confront challenging, uncomfortable or even threatening situations, and finding ways to cope with the changing environment.</s><s xml:id="_Xzmsg9j">Entrepreneurs in transitional economies bring genuine welfare gains through their drive and persistence in creating new ways of thinking.</s><s xml:id="_HgdeKwW">However, this is not just an economic phenomenon, as it is fundamental to the creation, as well as the stabilisation of democracy.</s><s xml:id="_upRbycf"><ref type="bibr" target="#b44">(Kowalik 2001)</ref></s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gYsgU6H">Purpose and methodology</head><p xml:id="_zymhXPZ"><s xml:id="_AzfjjRY">The main purpose of this paper is to examine the relationship among socio-political culture and the economic environment.</s><s xml:id="_3KmWdtN">In order to achieve this aim the questionnaire was developed consisting of 3 categories; General Information, Political and Social Issues; and Entrepreneurship.</s><s xml:id="_zABKTVb">Category 2 and 3 comprised further detailed questions identifying issues from the past and present, across an additional 100 questions, and was distributed in the fall of 2007, to 700 business, governmental organizations, and individual respondents.</s><s xml:id="_tSAwzxb">A total of 638 completed questionnaires were collected out of 700 that were originally distributed representing a response rate of 91%.</s><s xml:id="_2un6gfM">The responses reflect two distinct areas and were designed to reveal responses to set characteristics from both the past and the present: the past system of Communism and the current Free Market Economy.</s></p><p xml:id="_hjV85mD"><s xml:id="_3ZSvFDF">In addition, we were able to establish connections with many parties, namely 7 major universities within the country, as well as past and present political leaders, whom we surveyed.</s><s xml:id="_GsPYTPk">This vast selection of the diversified respondents provided an excellent opportunity to gain crisper knowledge about the entrepreneurial activities in the country of the past politico/economic settings and of its present economic position.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_Qp2sdFk">Implications</head><p xml:id="_GXFuJMR"><s xml:id="_BeBf57t">We believe that this paper will make three significant contributions.</s></p><p xml:id="_mZqKqWn"><s xml:id="_dFGyQCj">&amp; First, it will add substance to understanding the needs of an entrepreneur when operating in a transitional economy, or indeed any other economic system.</s><s xml:id="_zF3gvnh">&amp; Second, essential elements and factors within a transitional economy are identified informing entrepreneurial progress.</s><s xml:id="_UGvM2DM">&amp; Thirdly, a unique model was constructed and is presented depicting the relationship between the past, the present and the influence of various factors on entrepreneurial development.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_gB3KaXs">Literature review</head><p xml:id="_PU2Rv5W"><s xml:id="_fy6qqJS">There are three distinct intellectual traditions propagating entrepreneurship: (i) the Austrian tradition, based on von Mises (1949), <ref type="bibr" target="#b38">Kirzner (1973), and</ref><ref type="bibr">Schumpeter (1911)</ref>, focussing on disequilibrium and human action (ii) the German tradition with a focus on innovation and change with protagonists von Thünen ( <ref type="formula">1826</ref>) and (iii) the Chicago tradition focusing on uncertainty based on <ref type="bibr" target="#b40">Knight (1921)</ref>.</s><s xml:id="_5zKXGjM">As noted by <ref type="bibr" target="#b33">Hébert and Link (1989)</ref> entrepreneurship, represents a multidimensional concept of vision, drive, and supply of finances, innovation and decision-making.</s><s xml:id="_PVuZWnq">Entrepreneurship is both stimulating and imperative in times of economic stability and transitional change.</s><s xml:id="_dZjGrqu">It is one of the most fascinating and one of the most Indescribable concepts in the subject of economic analysis <ref type="bibr" target="#b15">(Brock and Evans 1989;</ref><ref type="bibr" target="#b24">Freiling 2005)</ref>.</s></p><p xml:id="_kXut9bp"><s xml:id="_DH6pJ8D">The impact of entrepreneurship on economic development is quite often portrayed as controversial and its role may substantially differ <ref type="bibr" target="#b6">(Baumol 1990;</ref><ref type="bibr" target="#b61">Thurik 1996;</ref><ref type="bibr">Audretsch and Thurik 2000 and 200;</ref><ref type="bibr" target="#b18">Carree et al. 2002)</ref>.</s><s xml:id="_5q6CvF2">However, what has been agreed by scholars is that the level of entrepreneurial activity varies systematically both across countries and over time <ref type="bibr" target="#b55">(Rees and Shah 1986;</ref><ref type="bibr" target="#b10">Blanchflower 1999;</ref><ref type="bibr" target="#b11">Blanchflower and Meyer 1994)</ref>.</s></p><p xml:id="_5uAZpX6"><s xml:id="_yHDShH9">The classic contributors to the economic theory of entrepreneurship, such as Cantillon, Say, Schumpeter, Knight, Mises, Kirzner, treat entrepreneurship as ubiquitous; and a attribute of the market mechanism that can never be absent.</s><s xml:id="_z3bWbWB">According to modern economic theory, an entrepreneur is an individual who takes on particular tasks based exclusively on the perception of market opportunities and how such opportunities may be executed to create a business.</s><s xml:id="_gT3Z3PW">Thus, the entrepreneur is (i) a person who accepts the risk associated with uncertainty; (ii) an innovator, who undertakes to introduce on a commercial basis new products, new productive techniques, or new forms of businesses (iii) a decision maker, who sets the course of the business; (iv) an industrial leader; (v) a manager or superintendent; (vi) an organiser or coordinator, (vii) a proprietor of an enterprise, (viii) an employer of factors of production, (ix) a contractor, (x) an arbitrageur, (xi) a person who directs resources to alternative uses, and (xii) quite often a supplier of initial financial capital <ref type="bibr" target="#b23">(Dilts et al. 1997;</ref><ref type="bibr" target="#b32">Hébert and Link 1982)</ref>.</s></p><p xml:id="_hVb2TSZ"><s xml:id="_jevba8K">Thus, one may draw the conclusion that entrepreneurs in all cultures are those who are willing to accept a level of risk for the opportunity and future prospects of independence and internal satisfaction.</s><s xml:id="_hAZpNJt">William <ref type="bibr" target="#b6">Baumol (1990</ref><ref type="bibr">Baumol ( , 1993) )</ref> compared the impact of direct economic institutions in ancient Rome, Medieval China and the Dark and high Middle Ages in Europe.</s><s xml:id="_9njgAWv">He concluded that entrepreneurial individuals are gifted with initiative and creativity and have existed in every historical period.</s><s xml:id="_evCCF2R"><ref type="bibr" target="#b23">(Dilts et al. 1997;</ref><ref type="bibr" target="#b32">Hébert and Link 1982)</ref>.</s></p><p xml:id="_sTwsNuv"><s xml:id="_H7EStt7">Entrepreneurs were perceived as robbers ever since Aristotle introduced the persistent idea of economic activity as a zero-sum game, indicating that one man's gain is another man's loss.</s><s xml:id="_AfNGxGZ">However, there are contradicting views to that.</s><s xml:id="_ZevQyGd">Jean-Baptiste Say's theory of the entrepreneur arises from his explicit rejection of the zero-sum game economy (van Praag 1999).</s></p><p xml:id="_2sG9ZGS"><s xml:id="_KTd2pmK">The new theories of industry evolution propagate that entrepreneurs stimulate economies and generate growth by introducing and implementing innovative ideas.</s><s xml:id="_6U97y6p">These ideas include product, process, market innovation, and organizational innovations.</s><s xml:id="_85ZAgV5">The successful implementation, initiated by entrepreneurs, of these new ideas gives rise to the market stimulation and the economic progress of the nation (van Praag 1999).</s><s xml:id="_CeydgQE">For <ref type="bibr" target="#b57">Schumpeter (1934)</ref>, the entrepreneur opens up new opportunity by turning their dreams into reality, placing stress on innovation, not on the invention.</s><s xml:id="_jVvx6H3">The entrepreneurial function consists not of inventing but rather of bringing knowledge to life and into the market.</s><s xml:id="_A9jrfAy">The entrepreneurial function precludes inventing, but includes the bringing of knowledge to life, which eventually reaches the market.</s><s xml:id="_RMabmxw">In addition, Schumpeter believed that with innovation, existing structures are destroyed.</s><s xml:id="_5MyDYrK">With better and more efficient allocation of resources, competition arises.</s><s xml:id="_gb6yGPn">This results in the innovations of entrepreneurs destroying the existing market equilibrium.</s><s xml:id="_FCw4CM2">(van Praag 1999).</s><s xml:id="_nH3gpDQ">Entrepreneurs in varying degrees are risk takers, resource managers, innovators, arbitragers, Are both creators and destroyers, albeit creators of new businesses, and destroyers of some conventional business models.</s><s xml:id="_kdBhWmu">Entrepreneurs perceive opportunities based on personal judgements and visions that others within the society either cannot see, or are unable to take and manage risks.</s><s xml:id="_WGSfDBP">Entrepreneurs serve as the stimulants who reshape economic growth around the world, as well as contributors as well as to the flexibility of the economy particularly in terms of innovation and the necessary adaptation to the rapid changes of demand and supply.</s><s xml:id="_PmWwDA7">Such an approach was clearly visible in the Transitional Economy context where entrepreneurs served as the most dynamic element in the progress of transition <ref type="bibr" target="#b8">(Birch 1987;</ref><ref type="bibr" target="#b29">Goffee and Scase 1987;</ref><ref type="bibr" target="#b36">Karwowska and Mroźińska 1993)</ref>.</s></p><p xml:id="_7Xwv7Ex"><s xml:id="_QrCg3Rg">The economic transformations experienced by industrialised countries and transitional economies of Europe, Asia and South America during the last decades have led to a re-evaluation of the entrepreneur's role in economic progress.</s><s xml:id="_FuP58ec">With a number of theories on entrepreneurs and their roles within economies they remain focused on two main issues: (i) opportunity recognition, and (ii) new venture creation <ref type="bibr" target="#b69">(Wennekers and Thurik 1999;</ref><ref type="bibr" target="#b63">Ucbasaran et al. 2001)</ref>.</s></p><p xml:id="_ZnrmF7v"><s xml:id="_hTPsXps">It is needless to say that world market's have progressed from the "regulated" economy of the fifties and sixties which, was dominated by the managerial firms to the entrepreneurial economy of the eighties and nineties dominated by the small companies.</s><s xml:id="_EnRJDrJ">Since the end of the seventies, beliefs about entrepreneurs began to move from the concept of greed, exploitation, selfishness, and disloyalty towards new and a more forward-looking approach.</s><s xml:id="_pCD5jCb">Today, entrepreneurship is associated with vision, creativity, enhanced economic growth, job creation, profitability, innovativeness, and generosity <ref type="bibr" target="#b4">(Bangs and Pinson 1999;</ref><ref type="bibr" target="#b5">Baumol 1968;</ref><ref type="bibr" target="#b7">Berkowitz and DeJong 2005;</ref><ref type="bibr" target="#b66">Vesper and Gartner 1997)</ref> Entrepreneurship is evident today inside or outside companies, in profit or notfor-profit companies, and in business or non-business activities in order to propagate creative ideas.</s><s xml:id="_UX5e26P">Therefore, one may argue that Entrepreneurship today is an integrated concept permeating businesses in an innovative way.</s><s xml:id="_mXrBnZc">Consequently, This has resulted in the revolutionisation of business conducted at every level worldwide <ref type="bibr" target="#b46">(Kuratko and Hodgetts 2004)</ref>.</s></p><p xml:id="_NzbxEa3"><s xml:id="_mXVNqbU">European politicians who recently reached agreement on entrepreneurship and its value stated that the new entrepreneurial economy is superior to the old management economy <ref type="bibr" target="#b3">(Audretsch and Thurik 2001)</ref>.</s><s xml:id="_gqMNZfX">As a result, documents published by the Organization for Economic Cooperation and Development (OECD) (1994) have emphasized the importance of entrepreneurship In order to raise developmental prospects of their member countries.</s></p><p xml:id="_ecBZDW8"><s xml:id="_qpdYWc9">The 20th century has been described as the "century of the entrepreneur" <ref type="bibr" target="#b1">(Audretsch and Thurik 1999;</ref><ref type="bibr">CEC 2001;</ref><ref type="bibr">Organization for Economic Cooperation and Development OECD 1994)</ref>.</s><s xml:id="_EgNwRjB">Entrepreneurs and their actions can no longer be viewed as "different" or "insignificant" but, need to be accepted as an integral part of the world economy.</s><s xml:id="_CDgZ4uH">Perhaps, entrepreneurs should be recognised as the single most powerful force creating social end economic progress.</s></p><p xml:id="_gJGFphK"><s xml:id="_33ukQQx">An economic system is a product of history and society.</s><s xml:id="_H37DESc">While the beginning of the transition in Poland commenced in the 1990s some, of the undertakings commenced in the late 1980s when Poland began to experiment with significant reforms that notably contributed to change.</s><s xml:id="_JTVaEDw">This included simultaneous change of both the political and economic aspects.</s><s xml:id="_P9fr4Hx">This in turn served as a foundation for the successful "Shock Therapy", implemented as the Balcerowicz Plan.</s><s xml:id="_MCk6SgJ">As a result, a new sequence of change has emerged in Poland in which broad democracy came first and a free-market economy developed later.</s><s xml:id="_cm3a8wj">This path is the reverse of the classic sequence of "capitalism first and broad democracy later" <ref type="bibr" target="#b45">(Koźmiński 1998;</ref><ref type="bibr" target="#b47">Lipton and Sachs 1990)</ref>.</s></p><p xml:id="_RtzzDqh"><s xml:id="_KyqHMFH">Published research on entrepreneurs has ranged from psychological to demographic studies and, includes aspects of start-up obstacles.</s><s xml:id="_VK6sqjc">Overall, the research has focused on economic backgrounds, motivations, and techniques.</s><s xml:id="_6phZvdc">The literature on entrepreneurial competencies argues that people with certain behavioural characteristics are able to perceive the opportunities available in the environment and seize such opportunities to eventually convert them into a profitable venture.</s><s xml:id="_uVaePZA">Furthermore, psychological character of a nation has been shown to have some relationship to the predisposition to initiate a business.</s><s xml:id="_ETKYvJQ">It may be suggested that many people in various cultures possess sufficient entrepreneurial characteristics to undertake the process of business creation.</s><s xml:id="_AsMXEUN">In the contexts of Poland, a successful transitional period would be indicated by Polish entrepreneurs possessing some unique predispositions.</s><s xml:id="_cyYBMUa">This may be further supported by the fact that the actual rate of business formation involves several factors, including the historical path, strength of the existing culture and business climate <ref type="bibr" target="#b12">(Blanchflower and Oswald 1998;</ref><ref type="bibr" target="#b25">Gartner 1988;</ref><ref type="bibr" target="#b53">Piasecki and Rogut 1993;</ref><ref type="bibr" target="#b70">Wyznikiewicz et al. 1993)</ref>.</s></p><p xml:id="_CGcZGnZ"><s xml:id="_p5cSUJX">The spontaneous and forward-looking approach of the Polish society in the nineties has remained under the influence of the new market reality when compared to the previous social and political system.</s><s xml:id="_hEGZsba">With changing circumstances in the politico-economic environment, both new and existing entrepreneurs adjusted quickly without the need to be taught, thus suggesting that entrepreneurship has been a long-standing phenomenon within Polish society.</s></p><p xml:id="_nY5Mty2"><s xml:id="_XfXbDcF">The post-socialist systemic transformation is a historic process of gradual transition from a centrally-planned socialist economy based on the domination of state ownership and bureaucratic regulation, to a capitalist Free Market Economy based on the domination of private ownership of the means of production and on liberal deregulation.</s><s xml:id="_DmhXaaT">This exceedingly complex process depends on economic, social and political factors.</s><s xml:id="_8xETpzP">One may raise the question, how strongly did politics and history influence and possibly harden Polish entrepreneurs?</s><s xml:id="_pCHRjGc">And if the answer to the question is true, how then was entrepreneurship perceived prior to these changes?</s><s xml:id="_5ZncpUE">Transformation is a simultaneous process of social, political and economic changes, and entrepreneurship is more than just economic undertakings.</s><s xml:id="_mzGG5tk">It may be argued that entrepreneurship serves as a foundation in the creation and stabilisation of democracy <ref type="bibr" target="#b42">(Kołodko 2000)</ref>.</s></p><p xml:id="_8YpG3jG"><s xml:id="_t2hAXaM">The economic transformation of the 1990's resulted in a rapid development of entrepreneurship within the Polish society leading to the creation of thousands of small, private-owned firms.</s><s xml:id="_U5q3h3x">These firms created new jobs by employing new people and those which exited the restructured state-owned enterprises.</s><s xml:id="_bVE2bJE"><ref type="bibr" target="#b17">(Bywalec 1995;</ref><ref type="bibr" target="#b22">Czyzewski 2002)</ref> The entrepreneurial undertakings played a critical and significant role in the transformation.</s><s xml:id="_jCJRQkM">Furthermore, entrepreneurs delivered new habits and behaviour consequently serving as new models for action in a changing economical environment.</s><s xml:id="_SkmR4Rn">Moreover, with the progress of transition, entrepreneurs are more willing to adapt their businesses and products to fit the existing and changing circumstances.</s><s xml:id="_eJvYVuM">Consequently, they create fast paced competitions to both large and small organizations, which serves as a stimulant for change <ref type="bibr" target="#b26">(Gatian and Gilbert 1996;</ref><ref type="bibr" target="#b36">Karwowska and Mroźińska 1993)</ref> Politico-economic changes may lead to unique circumstances where entrepreneurial undertaking may be initiated.</s><s xml:id="_qRQfXvD">This seems to be true in both historical and contemporary society.</s><s xml:id="_F7JwEh3">In essence, it may be stated that the entrepreneurial eagerness has long been associated with Polish society, only to be unveiled during the significant events this country has faced (Fig. <ref type="figure" target="#fig_0">1</ref>) Schumpeter, through Theorie der wirtschaftlichen Entwicklung (1912), was the first to assert that entrepreneurship is an important factor that spurs economic growth <ref type="bibr" target="#b13">(Blaug 1994)</ref>.</s><s xml:id="_UfxwwAf">Furthermore, entrepreneurship serves as a catalyst in the development of transitional economies, as without the participation of risk takers, economic growth would be significantly limited <ref type="bibr" target="#b35">(Kao 1991;</ref><ref type="bibr" target="#b59">Shane and Venkataraman 2000)</ref>.</s></p><p xml:id="_cPpdJWE"><s xml:id="_8p5wXnh">Prior to the 1980s, the centrally planned Polish economy was dominated by large government organizations producing limited consumer goods.</s><s xml:id="_4GJVyBU">The incentives for entrepreneurial activities were lacking due to legal restrictions and limited business flexibility.</s><s xml:id="_CBaeAfW">Examples include limits imposed on access to financial credit, the number of workers employed, and the restrictions of sectors of operations.</s><s xml:id="_HmA9XaG">Entrepreneurs operating their businesses were dependent upon the state sector for resources and in many cases, served as cooperating subdivisions of the larger state-run companies.</s><s xml:id="_JD2sRB4">Despite these government restrictions, a large number of entrepreneurs of that era survived <ref type="bibr" target="#b41">(Kołodko 1998;</ref><ref type="bibr" target="#b52">Paradiso 1990</ref>).</s></p><p xml:id="_59NSCC2"><s xml:id="_VjMETr2">Throughout history, the Polish people have undertaken an immense challenge, which has created social cohesion and resilience.</s><s xml:id="_ha67ke2">Since the 1980s, Polish society was greatly stimulated by encouraging an entrepreneurially minded population to seek new opportunities outside the state sector, which lead to the expansion of entrepreneurial potential and, the start of both human and financial capital accumulation in the private sector.</s><s xml:id="_yrMbr3G">Moreover, the reform driven attempts carried out in the eighties were made to implement elements of the market economy into the socialist system, and not necessarily replacing the latter with the market economy <ref type="bibr" target="#b41">(Kołodko 1998;</ref><ref type="bibr" target="#b52">Paradiso 1990)</ref> By the 1990s, entrepreneurs and their businesses managed to rapidly fill the niches that were ignored under socialism in a majority of existing industries.</s><s xml:id="_F7f8cpt">With sweeping reforms, greater flexible prices and wages, Polish entrepreneurs responded by starting-up new businesses at a rapid rate.</s><s xml:id="_uRpkNkk">In 1995, small and medium size entrepreneurial companies accounted for 99% of all registered private sector organizations.</s><s xml:id="_7SGafRg">They produced one-third of the Gross Domestic Product (GDP) in excess of US$180 billion, and employed 60% of the workforce <ref type="bibr" target="#b19">(CASE 1999)</ref>.</s><s xml:id="_Kdec9uf">It is also to be mentioned, that employment in the public sector has drastically diminished by 4.2 million people between <ref type="bibr">1990</ref><ref type="bibr">and 1997</ref><ref type="bibr" target="#b19">(CASE 1999))</ref>.</s><s xml:id="_NUV99eg">This eventually led to the growth of privately undertaken business initiatives.</s></p><p xml:id="_JCbqWQn"><s xml:id="_bXBuBQQ">The entrepreneurial activities not only created jobs for the unemployed but, also provided incentives to expand the private sector which is in-line with <ref type="bibr" target="#b65">Venkatraman's (1997)</ref> arguments.</s><s xml:id="_qRdp5a9">More importantly, entrepreneurs brought the new management skills and private funds that were necessary for the working capital and new investments.</s><s xml:id="_KwjrycT"><ref type="bibr" target="#b19">(CASE 1999;</ref><ref type="bibr" target="#b34">Kakiet-Springer and Ludwig 1998;</ref><ref type="bibr" target="#b65">Venkatraman 1997)</ref>.</s></p><p xml:id="_7zjfTEp"><s xml:id="_bNjpfUQ">Although most existing small businesses were in the hands of private entrepreneurs in the times of socialism, the politico-economical change of the nineties enabled these entrepreneurs to attract new capitals and invest in lucrative undertakings.</s><s xml:id="_kq9hb63">The rapid growth of entrepreneurial companies contributed to accomplish the recovery and growth of Poland in a relative short time frame.</s><s xml:id="_5JRkgnN">It is apparent that the development of entrepreneurship had a permanent feature in Poland and other Central European transitional economies.</s><s xml:id="_8C2JBwE">In effect, this has led to a successful movement from one stage of market development to another.</s><s xml:id="_9a8a7CD">Further, market transition was fully guided through government intervention in the form of privatisation.</s><s xml:id="_C26fZa7">This is unique to Poland where government intervention added value and a free fall in the market economy was avoided, Which was seen through Russia's severe adjustment problems.</s><s xml:id="_xRtVF3P">In the Polish case, the government in Poland fostered entrepreneurship by building market-supporting Infrastructure, and encouraging robust patterns of entrepreneurial developments at the same time, resulting in high rates of economic growth, in contrast, Russia endured a period of economic stagnation during transition, which resulted in relatively sluggish entrepreneurial development <ref type="bibr" target="#b49">(McMillan, and Woodruff 2001)</ref>.</s></p><p xml:id="_Su5ZhHc"><s xml:id="_Zqj2f64">It can be shown that the entrepreneurial development in Russia has been held back by a combination of factors such, as permanent resistance to change in the prevailing bureaucratic-administrative business culture, underdeveloped legal and financial infrastructure, considerable administrative discretion and corruption in various government offices, restrictive taxation, high interest rates, sky rocking inflation, and lack of management expertise and skills <ref type="bibr" target="#b21">(Connor 1991;</ref><ref type="bibr" target="#b37">Kaser 1995;</ref><ref type="bibr" target="#b43">Kornai 1995)</ref>.</s></p><p xml:id="_RwzD7qK"><s xml:id="_a7YrVZJ">In comparison, this may further suggest that the specific environmental factors such as family and support systems, financing sources, employees, customers, suppliers, strength of local communities, viable and uncorrupted government agencies, strong culture, political and economic environment significantly affect entrepreneurial progress <ref type="bibr" target="#b14">Bloodgood et al. (1995)</ref>.</s><s xml:id="_zUbTPMZ"><ref type="bibr" target="#b0">Aldrich and Wiedenmayer (1993)</ref> suggest that the socio-political environment may be so powerful that it creates or destroys entrepreneurship in a country as seen by the comparison of Russian failure and Poland's progress.</s></p><p xml:id="_MqtNEq6"><s xml:id="_mUA7V99">Undoubtedly, entrepreneurs fill niches that help to improve societal existence and as a result overall progress.</s><s xml:id="_E3tgUMk">This is particularly relevant in the context of transitional economies and especially Poland where entrepreneurs successfully facilitated this contribution <ref type="bibr" target="#b48">(McMillan and Woodruff 2002)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_g2bwsde">Discussion</head><p xml:id="_e3CkFfu"><s xml:id="_HEpRgEh">It may be suggested that many people in various cultures possess sufficient entrepreneurial characteristics to undertake the process of business creation.</s><s xml:id="_WkwVeku">In the contexts of Poland, a successful transitional period indicates that the Polish entrepreneurs possess these unique predispositions.</s><s xml:id="_AVrdvve">This may be further supported by the fact that the actual rate of business formation involves several factors, including the historical path, strength of the existing culture and business climate <ref type="bibr" target="#b12">(Blanchflower and Oswald 1998;</ref><ref type="bibr" target="#b25">Gartner 1988;</ref><ref type="bibr" target="#b53">Piasecki and Rogut 1993;</ref><ref type="bibr" target="#b70">Wyznikiewicz et al. 1993)</ref>.</s></p><p xml:id="_tbwfp7C"><s xml:id="_fKYtvfM">The spontaneous and forward-looking approach of the Polish society in the nineties has remained under the influence of the new market reality in comparison to the previous social and political system.</s><s xml:id="_ptYrEGq">With changing circumstances in the politico-economic environment, both the existing and the new entrepreneurs adjusted quickly without the need to be taught thus suggesting that the entrepreneurship as such was a long-standing phenomenon within Polish society.</s></p><p xml:id="_Qvse9Ag"><s xml:id="_y4Tewv6">The post-socialist systemic transformation is a historic process of gradual transition from a centrally-planned socialist economy based on the domination of state ownership and bureaucratic regulation, to a capitalist Free Market Economy based on the domination of private ownership of the means of production and on liberal deregulation.</s><s xml:id="_ewbeXWS">This exceedingly complex process depends on economic, social and political factors.</s><s xml:id="_TbyZbHY">One may raise the question how strongly did politics and history influence and possibly harden Polish entrepreneurs?</s><s xml:id="_jnZ5vvm">And if the answer to the question is true, how then, was entrepreneurship perceived prior to these changes?</s><s xml:id="_s5QFB6a">Transformation is a simultaneous process of social, political and economic changes, and entrepreneurship is more than just economic undertakings.</s><s xml:id="_rGwV4D5">It may be argued that entrepreneurship serves as a foundation in the creation and stabilisation of democracy <ref type="bibr" target="#b42">(Kołodko 2000)</ref>.</s></p><p xml:id="_7ePXTuJ"><s xml:id="_BzrX7q3">The economic transformation of the nineties resulted in a rapid development of entrepreneurship within the Polish society leading to the creation of thousands of small, private-owned firms.</s><s xml:id="_2N3Q8vG">These firms created new jobs by employing new people and those which exited the restructured state-owned enterprises.</s><s xml:id="_M6DtZaa"><ref type="bibr" target="#b17">(Bywalec 1995;</ref><ref type="bibr" target="#b22">Czyzewski 2002)</ref> The entrepreneurial undertakings played a critical and significant role in the transformation.</s><s xml:id="_Mpfvpeq">Furthermore, entrepreneurs delivered new habits and behaviour consequently serving as new models for action in a changing economical environment.</s><s xml:id="_eRQAp8D">Moreover, with the progress of transition entrepreneurs are more willing to adapt their businesses and products to fit the existing and changing circumstances.</s><s xml:id="_fwMeyJ3">Consequently, they create fast pace competitions to both large and small organizations serving as a stimulant for change <ref type="bibr" target="#b26">(Gatian and Gilbert 1996;</ref><ref type="bibr" target="#b36">Karwowska and Mroźińska 1993)</ref> Politico-economic changes may lead to unique circumstances where entrepreneurial undertaking may be initiated.</s><s xml:id="_Hc9M8gx">This seems to be true in both historical and contemporary society.</s><s xml:id="_RfG4ENd">In essence it may be stated that the entrepreneurial eagerness has long been associated with Polish society, only to be unveiled during the significant events this country has faced.</s></p><p xml:id="_yEZrK2n"><s xml:id="_avASpuF">This was followed by an investigation into a Free Market Economy setting of Poland when need based entrepreneurship appeared, especially at its early stages of transformation, leading to a more established market economy when innovation based entrepreneurship could prevail.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_VuxUXHa">Concluding remarks</head><p xml:id="_wpjxak4"><s xml:id="_FdNry52">The aim of this study was to explore the relationships among socio-political culture and the economic environment of Transitional Economy of Poland.</s><s xml:id="_YwEGr66">Our findings seem to suggest that the entrepreneurs serve as catalysts for economic advancements as they promote new ideas and new market structure <ref type="bibr" target="#b50">(Minniti 1999</ref>).</s><s xml:id="_sjC77eJ">It appears that the fundamental aspect of any economy is how to promote entrepreneurial activity.</s><s xml:id="_JEYxmWf">As argued by <ref type="bibr" target="#b57">Schumpeter (1934</ref><ref type="bibr">Schumpeter ( /1963))</ref>, the key to the success of market lies in the spirit of entrepreneurs who persist with their idea and vision.</s><s xml:id="_eat7Ptt">It may therefore be stated that entrepreneurial operation and ultimate success plays a fundamental role <ref type="bibr" target="#b39">(Kirzner 1997)</ref> in the creation of healthy and well functioning change to market economy <ref type="bibr" target="#b39">(Kirzner 1997;</ref><ref type="bibr" target="#b50">Minniti 1999;</ref><ref type="bibr" target="#b57">Schumpeter 1934</ref><ref type="bibr">Schumpeter /1963))</ref>.</s></p><p xml:id="_pQW5yMa"><s xml:id="_D3yAuRC">The investigation of the Free Market Economy parameters was supported by the perception of the respondents of the political economic and social aspects of the Polish society to produce the model that informs the understanding of entrepreneurship at a more comprehensive level.</s><s xml:id="_D8mTuCC">What makes this model unique is the discovery of the new moderators: Freedom and History impacting upon entrepreneurial development.</s></p><p xml:id="_c8aGD4P"><s xml:id="_scGkQ3K">Freedom represents the political settings of a Free Market Economy with the consequential freedom of individuals to operate and expand without the political doctrines that inhibit business operation under Communism.</s><s xml:id="_DKuxcka">In addition, the free flow of information legislation and institutions contribute to one's progress.</s></p><p xml:id="_GvhtjFP"><s xml:id="_9jdcZbP">The Historical events of constant wars the geographical position, partition, and the influence of foreign occupiers of Poland, as well as the disappearance of Poland as an entity, formed societal strength and unity in times of need.</s></p><p xml:id="_egjPynq"><s xml:id="_2g4AE3S">The model makes explicit that both Freedom and History serve as the moderators for entrepreneurial development in the Transitional Economy of Poland.</s><s xml:id="_VGyKT2A">This construct tends to suggest that the strength of an individual is created by the societal construct, and when aided by historical knowledge, the progress of entrepreneurs are enhanced when there is political and economic freedom to operate in.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc><div><p xml:id="_xmCWrEu"><s xml:id="_TMCXpUA">Fig. 1 Conceptual model.</s><s xml:id="_3pXeDGn">Source: © J.K Tanas 2011.</s><s xml:id="_QKKXkKb">The model shows interrelationships between the political, economic social variables as examined in this study.</s><s xml:id="_QGeDzdV">The model emerged from the investigation of aspects related to the past market economy of Poland with the political economic and social constraints of Communism and its influence on Entrepreneurship that existed as a survival and a need based mode</s></p></div></figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p xml:id="_bz2SXfg"><s xml:id="_rVxWzkK">Int Entrep Manag J (2011) 7:431-442</s></p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_ypBtWbD">Chapter 4 From Traits to Rates: An Ecological Perspective on Organizational Foundings</title>
+		<author>
+			<persName><forename type="first">Howard</forename><forename type="middle">E</forename><surname>Aldrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gabriele</forename><surname>Wiedenmayer</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/s1074-754020190000021010</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_DZ5tzct">Advances in Entrepreneurship, Firm Emergence and Growth</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Katz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Brockhaus</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Greenwich</addrLine></address></meeting>
+		<imprint>
+			<publisher>Emerald Publishing Limited</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="61" to="97" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aldrich, H. E., &amp; Wiedenmayer, G. (1993). From traits to rates: An ecological perspective on organizational foundings. In J. A. Katz &amp; R. H. Brockhaus (Eds.), Advances in entrepreneurship, firm emergence, and growth, Vol. 1 (pp. 145-195). Greenwich: JAI Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_PZnYYt8">La nuova organizzazione industriale. Dalla economia gestita all&apos;economia imprenditioriale</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Thurik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nqTBh5j">L&apos;industria: Revista di Economia e Politica Industriale</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="637" to="656" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch, D. B., &amp; Thurik, A. R. (1999). La nuova organizzazione industriale. Dalla economia gestita all&apos;economia imprenditioriale, L&apos;industria: Revista di Economia e Politica Industriale, 20(4), 637-656.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q2WvkhM">Capitalism and democracy in the 21st Century: from the managed to the entrepreneurial economy *</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Roy</forename><surname>Thurik</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s001910050003</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TeBYKUa">Journal of Evolutionary Economics</title>
+		<title level="j" type="abbrev">Journal of Evolutionary Economics</title>
+		<idno type="ISSN">0936-9937</idno>
+		<idno type="ISSNe">1432-1386</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="17" to="34" />
+			<date type="published" when="2000-01-07">2000</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch, D. B., &amp; Thurik, A. R. (2000). Capitalism and democracy in the 21st century: from the managed to the entrepreneurial economy. Journal of Evolutionary Economics, 10(1), 17-34.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_6TT5q7H">What&apos;s New about the New Economy? Sources of Growth in the Managed and Entrepreneurial Economies</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Audretsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Thurik</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/icc/10.1.267</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FqhaDqy">Industrial and Corporate Change</title>
+		<idno type="ISSNe">1464-3650</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="267" to="315" />
+			<date type="published" when="2001-03-01">2001</date>
+			<publisher>Oxford University Press (OUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Audretsch, D. B., &amp; Thurik, A. R. (2001). What is new about the new economy: Sources of growth in the managed end entrepreneurial economies. Industrial and Corporate Change, 10(1), 25-48.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_G9xeqWA">Chapter 20: From Start-up to Upstart to the Most International Company in the World</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Bangs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9781501507557-024</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Gm9D8UG">DHL</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="169" to="172" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bangs, D. H., &amp; Pinson, L. (1999). The real world entrepreneur. Chicago: Upstart Publishing Company.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_Vaj8Wkt">Entrepreneurship in economic theory</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Baumol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tumzsZF">The American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="64" to="71" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baumol, W. J. (1968). Entrepreneurship in economic theory. The American Economic Review, 58, 64-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_g6TMyEQ">Entrepreneurship: Productive, Unproductive, and Destructive</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Baumol</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261712</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_25fzUHe">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">5, Part 1</biblScope>
+			<biblScope unit="page" from="893" to="921" />
+			<date type="published" when="1990-10">1990</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baumol, W. J. (1990). Entrepreneurship: Productive, unproductive, and destructive. Journal of Political Economy, 98(5), 893-921.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_eawH49F">Entrepreneurship and Post‐socialist Growth*</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Berkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">N</forename><surname>Dejong</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0084.2005.00108.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bFJSp9e">Oxford Bulletin of Economics and Statistics</title>
+		<title level="j" type="abbrev">Oxf Bull Econ Stat</title>
+		<idno type="ISSN">0305-9049</idno>
+		<idno type="ISSNe">1468-0084</idno>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="46" />
+			<date type="published" when="2005-02">2005. 02</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berkowitz, D., &amp; DeJong, D. N. (2005), Entrepreneurship and post-socialist growth, Oxford Bulletin of Economics and Statistics, Department of Economics, University of Oxford, Vol. 67, No. 1 pp. 25-46, 02.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_9tRegtW">Job creation in America</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Birch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>The Free Press/MacMillan Publishing Company</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Birch, D. (1987). Job creation in America. New York: The Free Press/MacMillan Publishing Company.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_HMAHNC5">Entrepreneurial Networks: Their Emergence in Ireland and Overseas</title>
+		<author>
+			<persName><forename type="first">Sue</forename><surname>Birley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stan</forename><surname>Cromie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Myers</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/026624269100900404</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WmKKjqd">International Small Business Journal: Researching Entrepreneurship</title>
+		<title level="j" type="abbrev">International Small Business Journal: Researching Entrepreneurship</title>
+		<idno type="ISSN">0266-2426</idno>
+		<idno type="ISSNe">1741-2870</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="56" to="74" />
+			<date type="published" when="1988-09">1988. September</date>
+			<publisher>SAGE Publications</publisher>
+			<pubPlace>Belfast, Ireland</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Birley, S., &amp; Cromie, S. (1988), Social networks and entrepreneurship in Northern Ireland, Enterprise in Action Conference, September, Belfast, Ireland.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_8Pp6sKE">Self-employment in OECD countries</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">G</forename><surname>Blanchflower</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0927-5371(00)00011-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2umGa7x">Labour Economics</title>
+		<title level="j" type="abbrev">Labour Economics</title>
+		<idno type="ISSN">0927-5371</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="471" to="505" />
+			<date type="published" when="1999">1999</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blanchflower, D. G. (1999), Self-Employment in OECD Countries, Labour Economics, North Holland Publishing.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_YvBydSW">A longitudinal analysis of the young self-employed in Australia and the United States</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">G</forename><surname>Blanchflower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><forename type="middle">D</forename><surname>Meyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf01066108</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UwavXRP">Small Business Economics</title>
+		<title level="j" type="abbrev">Small Bus Econ</title>
+		<idno type="ISSN">0921-898X</idno>
+		<idno type="ISSNe">1573-0913</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1994-02">1994</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blanchflower, D. G., &amp; Meyer, B. D. (1994). A Longitudinal analysis of the young self-employed in Australia and the United States. Small Business Economics, 6(1), 1-19.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_g6gtgXX">What Makes an Entrepreneur?</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">G</forename><surname>Blanchflower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">J</forename><surname>Oswald</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209881</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Uw3RNED">Journal of Labor Economics</title>
+		<title level="j" type="abbrev">Journal of Labor Economics</title>
+		<idno type="ISSN">0734-306X</idno>
+		<idno type="ISSNe">1537-5307</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="60" />
+			<date type="published" when="1998-01">1998</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blanchflower, D. G., &amp; Oswald, A. J. (1998). What Makes an Entrepreneur? Journal of Labour Economics, 16(1), 26-60. University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Blaug</surname></persName>
+		</author>
+		<title level="m" xml:id="_gBnVacg">Teoria Ekonomii. Ujecie retrospektywne WN PWN</title>
+		<meeting><address><addrLine>Warszawa</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blaug, M. (1994), Teoria Ekonomii. Ujecie retrospektywne WN PWN, Warszawa.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_FNfkq6y">Advances in Entrepreneurship, Firm Emergence and Growth</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bloodgood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Sapienza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Carsrud</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/s1074-7540(2010)0000012025</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qXe4z6j">Advances in entrepreneurship, firm emergence, and growth</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Katz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Brockhaus</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Greenwich</addrLine></address></meeting>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">ii</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bloodgood, J. M., Sapienza, H. J., &amp; Carsrud, A. L. (1995). The dynamics of new business start-ups: Person, context, and process. In J. A. Katz &amp; R. H. Brockhaus (Eds.), Advances in entrepreneurship, firm emergence, and growth, Vol. 2 (pp. 123-144). Greenwich: JAI Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_MsVzbqN">Small business economics</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">A</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">S</forename><surname>Evans</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/bf00389913</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_v6zW23Q">Small Business Economics</title>
+		<title level="j" type="abbrev">Small Bus Econ</title>
+		<idno type="ISSN">0921-898X</idno>
+		<idno type="ISSNe">1573-0913</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="20" />
+			<date type="published" when="1989">1989</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brock, W. A., &amp; Evans, D. S. (1989). Small business economics. Small Business Economics, 1(1), 7-20.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_WMJ7rjU">Network evolution, entrepreneurial success, and regional development</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">E</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><forename type="middle">S</forename><surname>Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/08985629100000001</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_E6796Up">Entrepreneurship &amp; Regional Development</title>
+		<title level="j" type="abbrev">Entrepreneurship &amp; Regional Development</title>
+		<idno type="ISSN">0898-5626</idno>
+		<idno type="ISSNe">1464-5114</idno>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="1991-01">1991</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Butler, J., &amp; Hansen, G. (1991). Network evolution, entrepreneurial success, and regional development. Entrepreneurship and Regional Development, 3(1), 1-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main" xml:id="_WSSjWu9">Poziom zycia spoleczenstwa polskiego na tle procesow transformacji gospodarczej (Life standard of Polish society in light of economic transformation processes)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bywalec</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Instytut Nauk Ekonomicznych</publisher>
+			<pubPlace>Warszawa</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bywalec, C. (1995). Poziom zycia spoleczenstwa polskiego na tle procesow transformacji gospodarczej (Life standard of Polish society in light of economic transformation processes). Warszawa: Instytut Nauk Ekonomicznych.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_tSCq6Ge">Economic Development and Business Ownership: An Analysis Using Data of 23 OECD Countries in the Period 1976–1996</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Carree</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">André</forename><surname>Van Stel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roy</forename><surname>Thurik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sander</forename><surname>Wennekers</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/a:1019604426387</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hkVCBGT">Small Business Economics</title>
+		<title level="j" type="abbrev">Small Business Economics</title>
+		<idno type="ISSN">0921-898X</idno>
+		<idno type="ISSNe">1573-0913</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="271" to="290" />
+			<date type="published" when="2002-11">2002</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carree, M. A., Van Stel, A. J., Thurik, A. R., &amp; Wennekers, A. R. M. (2002). Economic Development and Business Ownership. Small Business Economics, 19(3), 271-290.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_xg6ycB4">Wspieranie wzrostu Gospodarczego, praca zbiorowa pod przewodnictwem Andrzeja Wojtyny</title>
+		<author>
+			<persName><surname>Case</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5kDHrBW">Raport CASE Nr</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Warszawa</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Centrum Analiz Społeczno-Ekonomicznych</note>
+	<note type="raw_reference">CASE (Centrum Analiz Społeczno-Ekonomicznych) (1999). Wspieranie wzrostu Gospodarczego, praca zbiorowa pod przewodnictwem Andrzeja Wojtyny, Raport CASE Nr 33, Warszawa.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_FBcPuRV">Communication from the Commission to the Council, The European Parliament, The Economic and Social Committee and the Committee of Regions</title>
+		<idno type="DOI">10.54648/eerr1996017</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xe3cKdb">European Foreign Affairs Review</title>
+		<title level="j" type="abbrev">EERR</title>
+		<idno type="ISSNe">1384-6299</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">Issue 2</biblScope>
+			<biblScope unit="page" from="255" to="263" />
+			<date type="published" when="2001-01-03">2001. 1/3/2006</date>
+			<publisher>Kluwer Law International BV</publisher>
+			<pubPlace>Bruxelles, EU</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Commission of the European Communities</note>
+	<note type="raw_reference">Commission of the European Communities (2001). Creating an entrepreneurial Europe. The activities of the European Union for small and medium-sized enterprises (SMEs), (Report from the Commission to the Council, the European Parliament, the Economic and Social Committee and the Committee of the Regions), Commission of the European Communities, 1/3/2006, Bruxelles, EU.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_MTmHFTV">The rocky road: Entrepreneurship in the Soviet economy</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_WQ8eGDN">The culture of entrepreneurship</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Berger</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<publisher>ICS Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="189" to="209" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Connor, W. D. (1991). The rocky road: Entrepreneurship in the Soviet economy. In B. Berger (Ed.), The culture of entrepreneurship (pp. 189-209). San Francisco: ICS Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_AaTDP9z">Economic growth and labour demand</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Czyzewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_db3vPyf">Paper presented at the conference, Structural reforms and monetary policy</title>
+		<meeting><address><addrLine>Poland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Falenty</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="24" to="25" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Czyzewski, A. B. (2002). Economic growth and labour demand, Paper presented at the conference, Structural reforms and monetary policy (pp. 24-25). Poland: Falenty.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_XcjNwTW">Entrepreneurism Rising from the Ashes of Communism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dilts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hallam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Birmingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Craig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_5VDnB2P">the 42 nd World Conference. Entrepreneurship: The Engine Global Economic Development: International Council for Small Business</title>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Akron, Acron</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Dilts, J., Hallam, S., Birmingham, F., &amp; Craig, F. (1997), Entrepreneurism Rising from the Ashes of Communism (in the 42 nd World Conference. Entrepreneurship: The Engine Global Economic Development: International Council for Small Business, San Francisco). University of Akron, Acron.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_Bvv5c8b">7. Deutschland in der Weltwirtschaft des 19. Jahrhunderts</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Freiling</surname></persName>
+		</author>
+		<idno type="DOI">10.13109/9783666357886.101</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_2RPm7hV">Expansion, Integration, Globalisierung</title>
+		<title level="s" xml:id="_TCX9h6h">Materialien des Wissenschaftsschwerpunkts Globalisierung der Weltwirtschaft</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Knorr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Lemper</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Sell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Wohlmuth</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bremen</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vandenhoeck &amp; Ruprecht</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="101" to="122" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Freiling, J. (2005). Research on entrepreneurship development in Germany: What are the lessons for developing countries? In A. Knorr, A. Lemper, A. Sell, &amp; K. Wohlmuth (Hrsg.), Materialien des Wissenschaftsschwerpunkts Globalisierung der Weltwirtschaft. Band 35: Bremen.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_uJFVEBg">“Who Is an Entrepreneur?” Is the Wrong Question</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/104225878801200401</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VxA7WfS">American Journal of Small Business</title>
+		<title level="j" type="abbrev">American Journal of Small Business</title>
+		<idno type="ISSN">0363-9428</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="11" to="32" />
+			<date type="published" when="1988-04">1988</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gartner, W. B. (1988). Who is an entrepreneur? Is the wrong question. American Journal of Small Business (Spring), 12(4), 11-68.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_AWgy55M">Views of Investors on Various Portfolios Advisory services provided by Asset management business entities</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Gatian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Gilbert</surname></persName>
+		</author>
+		<idno type="DOI">10.52783/eel.v14i3.2075</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fhFwXEx">European Economic Letters</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="76" />
+			<date type="published" when="1996">1996</date>
+			<publisher>Science Research Society</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gatian, A. W., &amp; Gilbert, K. C. (1996). The central european need for management training and advisory services. Multinational Business Review, 4(1), 69-76.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Spring</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Spring.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_uB7BdnD">National culture and entrepreneurship: A review of behavioural research</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Zahra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yRMG5nC">Entrepreneurship Theory and Practice</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="33" to="49" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">George, G., &amp; Zahra, A. S. (2002). National culture and entrepreneurship: A review of behavioural research. Entrepreneurship Theory and Practice, 26, 33-49.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goffee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scase</surname></persName>
+		</author>
+		<title level="m" xml:id="_VSrfg36">Entrepreneurship in Europe</title>
+		<meeting><address><addrLine>London, New York, Sydney, Croom Helm</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goffee, R., &amp; Scase, R. (1987), (eds) Entrepreneurship in Europe, London, New York, Sydney, Croom Helm.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_ynteFsp">Social networks and entrepreneurship</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Greve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Salaraff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KNpMTzV">Entrepreneurship: Theory and Practice</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Greve, A., &amp; Salaraff, J. W. (2003). Social networks and entrepreneurship. Entrepreneurship: Theory and Practice, 28(1), 1-22.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_e2dcDAs">Entrepreneurial Networks and New Organization Growth</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">L</forename><surname>Hansen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/104225879501900402</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_NsUQq9W">Entrepreneurship Theory and Practice</title>
+		<title level="j" type="abbrev">Entrepreneurship Theory and Practice</title>
+		<idno type="ISSN">1042-2587</idno>
+		<idno type="ISSNe">1540-6520</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="7" to="19" />
+			<date type="published" when="1995-07">1995</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hansen, E. L. (1995). Entrepreneurial networks and new organizational growth. Entrepreneurship, Theory and Practice, 19(4), 7-19.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hébert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Link</surname></persName>
+		</author>
+		<title level="m" xml:id="_KXHNjuF">The entrepreneur</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger Publishers</publisher>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hébert, R. F., &amp; Link, A. N. (1982). The entrepreneur. New York: Praeger Publishers.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_YfXufbW">In search of the meaning of entrepreneurship</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hébert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Link</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BAWJmTT">Small Business Economics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="49" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hébert, R. F., &amp; Link, A. N. (1989). In search of the meaning of entrepreneurship. Small Business Economics, 1(1), 39-49.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_PaFhYtr">IAPES in Poland</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kakiet-Springer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ludwig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mVTXEEx">Workforce Professional</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="30" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kakiet-Springer, E., &amp; Ludwig, L. (1998). IAPES in Poland. Workforce Professional, 10(1), 29-30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main" xml:id="_GpsU4Zw">The entrepreneur</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Prentice Hall</publisher>
+			<pubPlace>Englewood Cliffs</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kao, J. (1991). The entrepreneur. Englewood Cliffs: Prentice Hall.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_vggZrnb">Policy support for SMEs in Poland</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Karwowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mroźińska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hMwAuhR">International Small Business Journal</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="69" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Karwowska, M. A., &amp; Mroźińska, E. (1993). Policy support for SMEs in Poland. International Small Business Journal, 12(1), 61-69.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_TYWs9ep">Privatization in the CIS</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_82XZtjQ">Challenges for Russian economic reform</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Brookings Institution</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kaser, M. (1995). Privatization in the CIS. In A. Smith (Ed.), Challenges for Russian economic reform. The Brookings Institution: Washington.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Kirzner</surname></persName>
+		</author>
+		<title level="m" xml:id="_vz2A5V9">Competition &amp; entrepreneurship</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Chicago Press</publisher>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner, I. M. (1973). Competition &amp; entrepreneurship. Chicago: The University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_RdjvtWV">Entrepreneurial discovery and the competitive market process: An Austrian approach</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kirzner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UQ6Jx6b">Journal of Economic Literature</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="60" to="85" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner, I. (1997). Entrepreneurial discovery and the competitive market process: An Austrian approach. Journal of Economic Literature, 35, 60-85.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Knight</surname></persName>
+		</author>
+		<title level="m" xml:id="_6SNtnYY">Risk, uncertainty, and profit</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Houghton Mifflin</publisher>
+			<date type="published" when="1921">1921</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Knight, F. H. (1921). Risk, uncertainty, and profit. New York: Houghton Mifflin.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_aDchvy7">Transition economies selected issues</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Kołodko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_QzW9VTr">Working Papers</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<date type="published" when="1998">1998</date>
+			<publisher>Institute of Finance</publisher>
+			<pubPlace>Warsaw</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kołodko, G. W. (1998), Transition economies selected issues, Working Papers, Institute of Finance, Warsaw, 57, p.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ba92phM">Transition to a market and entrepreneurship: the systematic factor and policy options</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Kołodko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ekQGNFT">Communist and Post-Communist Studies</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="271" to="293" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kołodko, G. W. (2000). Transition to a market and entrepreneurship: the systematic factor and policy options. Communist and Post-Communist Studies, 33(2), 271-293.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kornai</surname></persName>
+		</author>
+		<title level="m" xml:id="_DbdEXR4">Highway and byways: Studies on reform and post-communist transition</title>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>The MIT Press</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kornai, J. (1995). Highway and byways: Studies on reform and post-communist transition. Boston: The MIT Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_BvggsWh">Social Sciences in Eastern Europe: Economics-Poland, Report</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kowalik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_SdmQ8Bc">Three Social Science Disciplines in Central and Eastern Europe: Economics, Political Science and Sociology</title>
+		<editor>
+			<persName><forename type="first">Max</forename><surname>Kaase</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Vera</forename><surname>Sparschuh</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Agnieszka</forename><surname>Wenninger</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin/Bonn/Budapest; GESIS, Eastern Europe</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989">2001. 1989-2001. 2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kowalik, T. (2001), Social Sciences in Eastern Europe: Economics-Poland, Report, (Reviewed by Andrzej Kowalik) in Three Social Science Disciplines in Central and Eastern Europe: Economics, Political Science and Sociology (1989-2001) by Max Kaase, Vera Sparschuh, Agnieszka Wenninger. Berlin/Bonn/Budapest 2002, GESIS, Eastern Europe.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main" xml:id="_65QCjmq">Nine Years of Transformation in Poland, Forum at the Miller Center of Public Affairs</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Koźmiński</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998. 17 th October1998</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Virginia</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Koźmiński, J. (1998), Nine Years of Transformation in Poland, Forum at the Miller Center of Public Affairs, University of Virginia, USA (17 th October1998).</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main" xml:id="_jbydpAB">Entrepreneurship: Theory, process, practice</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Kuratko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Hodgetts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Southwestern Publishers</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kuratko, D. F., &amp; Hodgetts, R. M. (2004). Entrepreneurship: Theory, process, practice. Mason: Southwestern Publishers.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_H52VSYp">Creating a market economy in Eastern Europe: The case of Poland</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lipton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sachs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rJppS43">Brookings Papers on Economic Activity</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="75" to="133" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lipton, D., &amp; Sachs, J. D. (1990). Creating a market economy in Eastern Europe: The case of Poland. Brookings Papers on Economic Activity, 1, 75-133.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_Bzjpk3x">The central role of entrepreneurs in transition economies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcmillan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ch</forename><surname>Woodruff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DdD4qGT">The Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="153" to="170" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McMillan, J., &amp; Woodruff, Ch. (2002). The central role of entrepreneurs in transition economies. The Journal of Economic Perspectives, 16(3), 153-170.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main" xml:id="_5RFmUZR">Entrepreneurs in Economic Reform</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcmillan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ch</forename><surname>Woodruff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001-07-26">2001. July 26</date>
+		</imprint>
+		<respStmt>
+			<orgName>Stanford University Business School</orgName>
+		</respStmt>
+	</monogr>
+	<note>unpublished paper</note>
+	<note type="raw_reference">McMillan, J., &amp; Woodruff, Ch. (2001), &quot;Entrepreneurs in Economic Reform,&quot; Stanford University Business School, unpublished paper, July 26.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main" xml:id="_5UjtkHH">Entrepreneurial activity and economic growth</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Minniti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zfrgJ9d">Global Business and Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="42" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Minniti, M. (1999). Entrepreneurial activity and economic growth. Global Business and Economic Review, 1(1), 31-42.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main" xml:id="_eHa8qtH">The Emergence of Business Associations and Chambers in the Economies in Transition</title>
+		<imprint>
+			<date type="published" when="1994">1994. 1994</date>
+			<pubPlace>Paris, OECD</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">OECD Working Papers</note>
+	<note>) Examples from the Czech Republic, Hungary, Poland and the Slovak Republic</note>
+	<note type="raw_reference">Organization for Economic Cooperation and Development (OECD) (1994). The Emergence of Business Associations and Chambers in the Economies in Transition, (1994) Examples from the Czech Republic, Hungary, Poland and the Slovak Republic, in OECD Working Papers, Paris, OECD.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_hRYPUn7">An Interview with Dr. Roman Galar: The impact of deregulation on small business in Poland</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paradiso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4uhtqXJ">Journal of Small Business Management</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="81" to="85" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paradiso, J. (1990). An Interview with Dr. Roman Galar: The impact of deregulation on small business in Poland. Journal of Small Business Management, 28(3), 81-85.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_MmcBPCj">Main problems of entrepreneurship in Poland in 1992</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Piasecki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rogut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_sVAwKpf">Proceedings of IntEnt93 Conference</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Klandt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Muller-Boling</surname></persName>
+		</editor>
+		<meeting>IntEnt93 Conference<address><addrLine>Dortmund; Köln-Dortmund</addrLine></address></meeting>
+		<imprint>
+			<publisher>Förderkreis Gründungs-Forschung</publisher>
+			<date type="published" when="1992">1993. 1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Piasecki, B., &amp; Rogut, A. (1993). Main problems of entrepreneurship in Poland in 1992. In H. Klandt &amp; D. Muller-Boling (Eds.), Proceedings of IntEnt93 Conference, Dortmund, 1992. Köln-Dortmund: Förderkreis Gründungs-Forschung.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_45jxqjh">Neither market not hierarchy: Network forms of organization</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_C4Ger3c">Research in Organizational Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="295" to="336" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Powell, W. (1990). Neither market not hierarchy: Network forms of organization. Research in Organizational Behaviour, 12, 295-336.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_cWp6n6r">An empirical analysis of self-employment in the UK</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_CDwsc4T">Journal of Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="95" to="108" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rees, H., &amp; Shah, A. (1986). An empirical analysis of self-employment in the UK. Journal of Applied Economics, 1(1), 95-108.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schumpeter</surname></persName>
+		</author>
+		<title level="m" xml:id="_TUv5dqR">Theorie der wirtschaftlichen Entwicklung, Eine Untersuchung über Unternehmergewinn</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Opie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1911">1911. 1934/1963</date>
+		</imprint>
+	</monogr>
+	<note>The theory of economic development, an inquiry into profits,. capital, credit, interest, and business cycle</note>
+	<note type="raw_reference">Schumpeter, J. A. (orig. 1911) (1934/1963), Theorie der wirtschaftlichen Entwicklung, Eine Untersuchung über Unternehmergewinn, Kapital, Kredit, Zins und den Konjunkturzyklus. Translated by R. Opie, The theory of economic development, an inquiry into profits, capital, credit, interest, and business cycle. Oxford: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schumpeter</surname></persName>
+		</author>
+		<title level="m" xml:id="_XJsTFzW">The Theory of economic development</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press Cambridge</publisher>
+			<date type="published" when="1912">1912. 1934</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schumpeter, J. A. (orig. 1912) (1934), The Theory of economic development. Cambridge: Harvard University Press Cambridge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schumpeter</surname></persName>
+		</author>
+		<title level="m" xml:id="_CWc6wkk">The theory of economic development</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1911">1911. 1934/1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schumpeter, J. A. (orig. 1911) (1934/1980), The theory of economic development, Engl. Trnsl. R. Opie, Oxford University Press, London.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_EJgZ7Gv">The promise of entrepreneurship as a field of research</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkataraman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A6eu8a8">Academy of Management Review</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="217" to="226" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shane, S., &amp; Venkataraman, S. (2000). The promise of entrepreneurship as a field of research. Academy of Management Review, 25(1), 217-226.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main" xml:id="_bJHHSh6">A paradigm of entrepreneurship, entrepreneurial management</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Stevenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Jarillo-Mossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jU46Hb8">Strategic Management Journal, Summer, Special Issue</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="17" to="27" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stevenson, H. H., &amp; Jarillo-Mossi, J. C. (1990), A paradigm of entrepreneurship, entrepreneurial management, Strategic Management Journal, Summer, Special Issue, 11, pp 17-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_zjh9M2T">Small firms, entrepreneurship and economic growth</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Thurik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_WBKnWak">Small business in the modern economy</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basil Blackwell Publishers</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="126" to="152" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thurik, A. R. (1996). Small firms, entrepreneurship and economic growth. In P. H. Admiraal (Ed.), Small business in the modern economy (pp. 126-152). Oxford: Basil Blackwell Publishers.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Timmons</surname></persName>
+		</author>
+		<title level="m" xml:id="_3bXTjK9">New venture creation: Entrepreneurship for the 21st century</title>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Irwin</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Timmons, J. A. (1994). New venture creation: Entrepreneurship for the 21st century. Boston: Irwin.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main" xml:id="_5RpKq3n">The focus of entrepreneurial research: Contextual and process issues</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ucbasaran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Westhead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_W43ZJYH">Entrepreneurship Theory and Practice</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="57" to="80" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ucbasaran, D., Westhead, P., &amp; Wright, M. (2001). The focus of entrepreneurial research: Contextual and process issues. Entrepreneurship Theory and Practice, 25(4), 57-80.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main" xml:id="_64nygXa">Some classic views on entrepreneurship</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Van Praag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zDBWTz5">De Economist</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="311" to="335" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Praag, M. C. (1999). Some classic views on entrepreneurship. De Economist, 147(3), 311-335.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_CTJD79Q">The distinctive domain of entrepreneurship research: An editor&apos;s perspective</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkatraman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yfAyUje">Advances in Entrepreneurship, Firm Emergence, and Growth</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Katz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Brockhaus</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="119" to="138" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Venkatraman, S. (1997), The distinctive domain of entrepreneurship research: An editor&apos;s perspective. In J Katz and R Brockhaus (eds.), Advances in Entrepreneurship, Firm Emergence, and Growth, Vol. 3, pp. 119-138.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_hYBmxJx">Measuring progress in entrepreneurship education</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Vesper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gartner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XadnUaQ">Journal of Business Venturing</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="403" to="421" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vesper, K. H., &amp; Gartner, W. B. (1997). Measuring progress in entrepreneurship education. Journal of Business Venturing, 12(5), 403-421.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</author>
+		<title level="m" xml:id="_EZ3Zk3c">Human action: A treatise on economics</title>
+		<meeting><address><addrLine>New Haven</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Mises, L. (1949). Human action: A treatise on economics. New Haven: Yale University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main" xml:id="_KqwT8tn">The isolated state, an english edition of Der isolierte Staat</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Von Thünen</surname></persName>
+		</author>
+		<editor>Peter Hall</editor>
+		<imprint>
+			<date type="published" when="1826">1826/1966</date>
+			<publisher>Pergamon Press</publisher>
+			<pubPlace>Oxford, New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Thünen, J. H. (1826/1966). The isolated state, an english edition of Der isolierte Staat, Translated by Carla M. Wartenberg, Edited with an introduction by Peter Hall. Oxford, New York: Pergamon Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main" xml:id="_zfKEG46">Linking entrepreneurship and economic growth</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wennekers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thurik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rMgc58B">Small Business Economics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="55" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wennekers, S., &amp; Thurik, R. (1999). Linking entrepreneurship and economic growth. Small Business Economics, 13(1), 27-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wyznikiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grabowski</surname></persName>
+		</author>
+		<title level="m" xml:id="_pBgy4dy">Coping with capitalism, the new polish entrepreneurs</title>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wyznikiewicz, B., Pinto, B., &amp; Grabowski, M. (1993). Coping with capitalism, the new polish entrepreneurs. Washington: The World Bank.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

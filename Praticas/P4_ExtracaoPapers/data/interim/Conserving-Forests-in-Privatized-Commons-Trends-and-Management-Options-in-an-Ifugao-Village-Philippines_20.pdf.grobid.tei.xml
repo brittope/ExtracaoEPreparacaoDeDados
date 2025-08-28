@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_SGu5v55">Conserving Forests in Privatized Commons: Trends and Management Options in an Ifugao Village, Philippines</title>
+				<funder ref="#_wUZXxua">
+					<orgName type="full">Japanese Society for the Promotion of Science</orgName>
+					<orgName type="abbreviated">JSPS</orgName>
+				</funder>
+				<funder ref="#_rrzh94z">
+					<orgName type="full">JSPS Global Centers of Excellence (GCOE) Program</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2013-03-24">24 March 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Adrian</forename><surname>Albano</surname></persName>
+							<email>apu_albano@yahoo.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Asian and African Area Studies (ASAFAS)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>46 Shimoadachi-cho Yoshida Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Asian and African Area Studies (ASAFAS)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>46 Shimoadachi-cho Yoshida Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shinya</forename><surname>Takeda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Asian and African Area Studies (ASAFAS)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>46 Shimoadachi-cho Yoshida Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Steve</forename><surname>Harrison</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Asian and African Area Studies (ASAFAS)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>46 Shimoadachi-cho Yoshida Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Herbohn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Asian and African Area Studies (ASAFAS)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>46 Shimoadachi-cho Yoshida Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Á</forename><forename type="middle">S</forename><surname>Takeda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Graduate School of Asian and African Area Studies (ASAFAS)</orgName>
+								<orgName type="institution">Kyoto University</orgName>
+								<address>
+									<addrLine>46 Shimoadachi-cho Yoshida Sakyo-ku</addrLine>
+									<postCode>606-8501</postCode>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_YHHNbmv">Conserving Forests in Privatized Commons: Trends and Management Options in an Ifugao Village, Philippines</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-03-24">24 March 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8B6D30E4A1C482673BF29A504549D061</idno>
+					<idno type="DOI">10.1007/s11842-013-9238-2</idno>
+					<note type="submission">Accepted: 4 March 2013 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:29+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_gP9VUHx">Property rights</term>
+					<term xml:id="_qpBFZSn">Private forests</term>
+					<term xml:id="_FTczFjb">Forest conservation</term>
+					<term xml:id="_gghvJVs">Cordillera</term>
+					<term xml:id="_SB4sAby">Indigenous people</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_DjT9RzF"><p xml:id="_KXepEE4"><s xml:id="_YrZnQAg">This study addresses the question, 'How can remaining forests be conserved when these are already individually privatized, and when the people prefer landuses other than forestry?'</s><s xml:id="_Tmb6zk8">These changes in landuse and forest ownership are demonstrated through a case study of a village in Ifugao, Philippines.</s><s xml:id="_xAPVanJ">A rapid and continued conversion of forest into agricultural land is observed, particularly for vegetable farming.</s><s xml:id="_BFrTPee">Traditionally, most of the village total land area was under communal land ownership, but now almost half is under de facto private ownership.</s><s xml:id="_Q7hwyNN">This transition in land (including forest) ownership is generally attributed to increased demand for land which is further attributed to changes in peoples' values towards wealth accumulation rather than redistribution, greater integration to the market economy and a shift towards commercial agriculture.</s><s xml:id="_5xWjbJk">Past forest policies have been ineffective in regulating the landuse largely because they have not reflected local reality, and this appears to be true with the present national forest management strategy of community-based forest management.</s><s xml:id="_hSbAqaj">It is argued that the granting of land titles will improve forest conservation because it will improve the enforcement of forest laws and related contractual agreements.</s><s xml:id="_fqcHs7e">Based on the reality of private land ownership, it is further argued that forest policy in IP land should include private (individual, family or household) forest management.</s><s xml:id="_2bDH5Gc">Given the possibility that indigenous people may prefer landuses other than forestry or may sell their property for various reasons, policies should regulate landuse as well as make it legal for IPs to transfer rights of ownership to 'outsiders'.</s><s xml:id="_SanR2U4">There is scope to improve the implementation of the Indigenous Peoples Rights Act in the Philippines.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_bvsexUf">Introduction</head><p xml:id="_VHVe2Er"><s xml:id="_8Rr4MaT">In response to <ref type="bibr" target="#b14">Hardin's (1968)</ref> provocative article, 'The Tragedy of the Commons,' various scholars have argued convincingly for a third alternative to privatization or state regulation in managing the commons which is through collective action <ref type="bibr" target="#b31">(Wade 1987;</ref><ref type="bibr" target="#b12">Feeny et al. 1990;</ref><ref type="bibr">Ostrom 1990)</ref>.</s><s xml:id="_V7AccDS">In forest management, this is demonstrated by the popular implementation of community-based forest management (CBFM) 'in various guises' in both developing and developed countries <ref type="bibr">(Charnley and Poe 2007: 303)</ref>.</s><s xml:id="_s9K5kGh">CBFM is justified primarily by the logic that forest users are capable of making and enforcing their own rules more efficiently and effectively than the state.</s><s xml:id="_sBkwfBZ">Empirical evidence supporting CBFM has often included forests occupied by isolated traditional communities, henceforth referred to as indigenous peoples (IPs), who have been identified for their distinct culture and value systems including their association with non-destructive landuse practices and communal landownership.</s><s xml:id="_gWMwbQs">Interestingly, despite most proponents of the option of communal management not readily rejecting privatization as an alternative, typically research recommendations and actual policies on forestry do not include the option of privatization.</s></p><p xml:id="_G732urv"><s xml:id="_pTwBEJ8">Various reasons can be cited for the limited inclusion of privatization as a forest management option in developing countries.</s><s xml:id="_vfysWHT">From a practical viewpoint, the main constraint has been the public ownership status of forests.</s><s xml:id="_zMEC92D">More underlying reasons, however, are theoretical and even ideological.</s><s xml:id="_ygNheuV">Indeed, the antagonism in policy and in academia against the option of privatization of forests is due in part to various theories that see privatization as a cause rather than a potential cure to deforestation.</s><s xml:id="_3MCFCAJ">Notwithstanding the importance of appreciating the arguments against privatization, the limited implementation and discussion of privatization as a forest management option in developing countries indicates the need to consider its merits.</s><s xml:id="_vcnMAVa">This especially coincides with a trend in property rights policies in forests occupied by IPs wherein more rights and especially exclusive ownership are being granted to them by the state.</s><s xml:id="_Pxxm2GQ"><ref type="bibr" target="#b32">White et al. (2004)</ref> reported that 11 % of world's forest land is legally owned by IPs.</s><s xml:id="_RRxt7uy">The high concentration of biodiversity in areas occupied by IPs <ref type="bibr">(WRI 2005;</ref><ref type="bibr" target="#b27">Sobrevila 2008</ref>) intensifies the importance of this relatively small figure.</s><s xml:id="_bFTvS5F">Furthermore, this area is more likely to expand given the increasing grassroots clamor and international support for the recognition of IP land rights, as indicated by the UN Declaration on the Rights of Indigenous Peoples in 2007 emphasizing IPs' 'right to own, use, develop and control the lands, territories and resources that they possess by reason of traditional ownership…' (Art.</s><s xml:id="_vPSeYUJ">26) <ref type="bibr">(UN 2008)</ref>.</s><s xml:id="_gtCNvZG">It can be observed, however, that the ownership granted to IPs is mainly communal rather than individual land ownership, and clearly does not reflect long-held anthropological observations that landuse practices and institutions-including traditional property institutions-are not necessarily static.</s><s xml:id="_2Z8mTpZ">While improvement in forest management may be part of the motivation for granting forest resource 'ownership' to IPs, the limitation to communal ownership favours a CBFM-type of forest management which may not be a fit for forests that have already been in individual private ownership, albeit informally.</s></p><p xml:id="_GyfRrUq"><s xml:id="_WX9qpsa">The Philippines, with only about 24 % forest cover and only 3 % primary forest in its 30 M ha land area <ref type="bibr">(FMB 2004;</ref><ref type="bibr" target="#b25">Pulhin et al. 2007)</ref>, has the lowest percentage of forest cover among countries in Southeast Asia <ref type="bibr" target="#b17">(Laurance 2007)</ref>.</s><s xml:id="_Fkyq79J">Analyses of deforestation in the Philippines have identified various factors that led to this current state of forests, including greater access to forest areas due to road development by logging concessionaires and by development projects, upland migration and agricultural expansion, as well as government policies and programs that enabled these processes <ref type="bibr" target="#b16">(Kummer 1992;</ref><ref type="bibr" target="#b30">Vitug 2000;</ref><ref type="bibr" target="#b9">Coxhead et al. 2001;</ref><ref type="bibr" target="#b28">Stenberg and Siriwardana 2002)</ref>.</s><s xml:id="_tPpyBGb">A regularly cited reason, however, has been the inconsistencies in landuse policies and insecurity of land tenure of forests, most of which are still considered publicly owned-at least based on the prevailing national landuse classification.</s><s xml:id="_ap3g9a9">CBFM became the national forest management strategy in 1995 <ref type="bibr" target="#b4">(Bacalla 2006;</ref><ref type="bibr" target="#b25">Pulhin et al. 2007)</ref>.</s><s xml:id="_zyqUFWH">In 1997, the Indigenous Peoples Rights Act (IPRA) was enacted.</s><s xml:id="_bn2GHJg">It follows the CBFM model of forest management while recognizing IP ownership over their land because it provides for the issuance of a certificate of ancestral domain title (CADT) or a certificate of ancestral land title (CALT).</s><s xml:id="_nvDuV2g">It is estimated that the total area that could be claimed under the IPRA is 6.3 M ha or about 21 % of the total land area of the Philippines (AITPN 2008), which by extension covers most remaining forest cover.</s><s xml:id="_URgzmT2">Following some common assumptions about indigenous people, however, IPRA assumes that indigenous people (still) have communal ownership and practice nondestructive landuses which is challenged in this paper.</s></p><p xml:id="_HyVT5D7"><s xml:id="_T7pcDAx">This paper initially takes a pragmatic approach to the challenge of managing forests in IP-occupied land with the question: 'How can remaining forests be conserved when these are already individually privatized, and when (some) indigenous groups prefer landuses other than forestry?</s><s xml:id="_ZyXsg3a">Through a village case study, the reality of de facto private (as opposed to communal) land ownership in land occupied by IPs will be demonstrated.</s><s xml:id="_K3PDT3P">The presentation of the case study follows the suggestion of <ref type="bibr">Barbier et al. (2010: 100)</ref> that the analysis of the drivers of landuse change must focus on changes in land values over time.</s><s xml:id="_avFYDUn">Incidentally, this emphasis on changes in land values can be subsumed under an arguably broader value theory beyond price valuation as have been expounded by <ref type="bibr" target="#b20">Mises (1949)</ref>.</s><s xml:id="_XuXteGc">He argued that because value is subjective analysis of various social phenomena, including here changes in landuse and property institutions, should start at the individual level as individuals purposively act to achieve their perceived valuable goals.</s><s xml:id="_txZj5tk">The drivers of the present landuse are identified starting with a description and analysis of what was 'traditional.'</s><s xml:id="_Csrqwgy">The term 'traditional', here refers loosely to that period when landuse and land ownership were relatively stable.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_vnWvmuq">The Case Study Area</head><p xml:id="_6eAv62C"><s xml:id="_Jak2w3R">The study village Eheb (16°40 0 35 0 N latitude, 120°56 0 10 0 E longitude) is one of 12 official barangays (the smallest political unit in the Philippines) of the municipality of Tinoc, which is located at the north-west of Ifugao province, in the Cordillera region in Northern Luzon (Fig. <ref type="figure" target="#fig_0">1</ref>).</s></p><p xml:id="_8GXubRh"><s xml:id="_wVPjGgr">Eheb is a relatively new barangay, established in 1983 from part of barangay Tukukan, and with an area of about 1,154 ha, following newly agreed barangay boundary landmarks.</s><s xml:id="_cuXxb8m">Most villagers belong to the Kalanguya ethno-linguistic group (also referred to as Ikallahan).</s><s xml:id="_HSuU5Nf">As of early 2011, the village had 86 households and 470 individual residents.</s><s xml:id="_qNNAF2m">In common with most of the Cordillera region, the village is at high elevation, ranging from 1,245 to 2,700 masl, has relatively low temperature and has steep land.</s><s xml:id="_etmk2u7">It is located near Mt.</s><s xml:id="_RHTZVxu">Pulag, the highest peak (2,922 masl) in Luzon island.</s><s xml:id="_gDeFNg6">The village of Eheb was selected for this study because not only could it demonstrate the changing land ownership and landuse, it was also one of the first barangays to have prepared a barangay landuse plan (BLUP), through the assistance of the provincial government, which enabled a wider analysis of forest management options and policies.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_ntjuNCj">Research Method</head><p xml:id="_7zH7XNa"><s xml:id="_fWz9pdC">The traditional landuse 1 and land ownership in Eheb are contrasted against those of the present while identifying the factors and processes that led to the transition.</s><s xml:id="_7PZWMDa">The traditional landuse map was based from a topography map prepared by the National Mapping and Resource Information Authority (NAMRIA) in 1979 while the present The term 'traditional' is used loosely here, mainly to contrast the present from that of the past.</s><s xml:id="_ewgv3d2">Depending on the subject being described, 'traditional' would apply to various historical periods where traditional landuse would be more recent while the traditional culture and values would be further in the past.</s><s xml:id="_XxPCgwn">In general, these traditions developed within the long Spanish colonial period  where the Kalanguya people developed distinct cultural practices and identity relative to neighbouring ethnolinguistic groups.</s></p><p xml:id="_t2RdYgm"><s xml:id="_xsPHgNf">landuse map was based from a WorldView-1 satellite image of the village taken in March 2010.</s><s xml:id="_r2T6RZc">The present landuse is perceptible in the satellite image and was delineated after some ground verification.</s><s xml:id="_bDgEHNe">The traditional landuse was verified with some older people who could recall the landscape in 1979.</s><s xml:id="_kBgjSbV">In Eheb, de facto private landownership (i.e.</s><s xml:id="_FxF9HhE">where the exclusive right to use, transfer or sell is assigned to a person and not to all members of the village) are partly indicated in their BLUP, a document that most households signed in 2008.</s><s xml:id="_t9deD4n">Following the sketched landuse, the privately owned land was delineated, but after further verification with the villagers of the earlier designated boundaries or landmarks for communal land (i.e.</s><s xml:id="_XAgnuj8">protected forest and communal timber land) and the private land (i.e.</s><s xml:id="_qDnqefy">residential, agricultural and production forest) land, especially given some clearance patches were supposed to be within the designated communal land.</s></p><p xml:id="_7VKQR8y"><s xml:id="_5s5ESgG">Primary data collection commenced after obtaining permission from the villagers.</s><s xml:id="_Cvf9tYG">A meeting was held with the barangay officials and some elders to explain the purpose of the study and the data to be collected.</s><s xml:id="_CkEycYP">Given the diversity of data needed, the lack of written accounts and possible inconsistencies of oral accounts, individuals knowledgeable of oral history, genealogy and past government interventions were identified and interviewed in their own houses.</s><s xml:id="_wKv2qTq">Other key informants were identified by the initial interviewees, and approached to fill-in missing or unclear information.</s><s xml:id="_WWYhr6N">Overall, 15 key informants were interviewed, with each of the major clans represented by at least one informant.</s><s xml:id="_8DxtxTD">Technically, the villagers are interrelated by kinship or marital affinity.</s><s xml:id="_2CEzYdH">Land claims as well as details of past development and regulatory interventions were verified through focus group discussions with the same village elders and barangay officials, usually during their regular meetings or on Sundays when the villagers would usually pass by the barangay hall where the main author stayed throughout the field visit periods of November 2010, February 2011 and July 2011.</s></p><p xml:id="_jMbteQf"><s xml:id="_C7uMGGU">Interviews were complemented with a review of local government documents (including landuse plans and project documents), participatory observation, and interviews with key staff and elected officials of the municipal and provincial governments.</s><s xml:id="_efmyS9X">Related studies in other areas in the Cordillera region where the same trends have been observed were also reviewed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hNexTRT">Research Findings</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_unAyGzM">Traditional Landuse and Land Property Rights</head><p xml:id="_dBwYyNz"><s xml:id="_GrmE6qN">The traditional landuses in municipality of Tinoc are shifting cultivation of sweet potato, and rice terraces for which the province of Ifugao is famous.</s><s xml:id="_zaZyPyT">In the village of Eheb, the total area of rice terraces is smaller than that of most villages in Tinoc, mainly due to the low temperature, steep slopes and limited sunlight in cultivable areas near the river where irrigation water is sourced.</s><s xml:id="_u7Zj22U">The maximum area traditionally planted with rice in the village is only about 12 ha or 1 % of the total area (Fig. <ref type="figure" target="#fig_1">2</ref>).</s><s xml:id="_JKSmSpD">Rice production in Eheb is further limited by the use of low-yielding traditional varieties.</s><s xml:id="_EJmqqrn">Thus, sweet potato has been the main staple food for most of the villagers.</s><s xml:id="_TEZbwaB">Compared to rice, this crop requires less labour, and can be grown in a wide range of environmental conditions, including on higher, colder and unterraced land.</s></p><p xml:id="_qwmcqc7"><s xml:id="_xt34gFD">Rice terraces have traditionally been privately-owned land.</s><s xml:id="_tTUsqKs">They were usually passed on to children or relatives through inheritance but could be sold or mortgaged by the owner like any other private property.</s><s xml:id="_KeGCkNf">Sweet potato farms, on the other hand, had usufructuary ownership: the user had exclusive rights to the land while it was in use and could be cultivated, resided on or fenced (for free range pigs) by others only after an occupant had abandoned it.</s><s xml:id="_BBZHRFE">There were instances when the right to harvest at someone else's sweet potato farm was exchanged.</s><s xml:id="_dyexMHh">For instance, people who ran out of food for various reasons such as pest infestation could offer to exchange a chicken until they were able to start harvesting on their own farm.</s><s xml:id="_NKbxMDy">For land planted with fruit crops, private ownership was recognized not on the land but on the trees.</s><s xml:id="_D5Z6Per">This was especially in the case of coffee which was initially planted in Tinoc mainly as a cash crop during the American colonial period (1899-1946), a long-term investment that was most likely encouraged by the resulting peace from the gradual cessation of headhunting and tribal animosities.</s><s xml:id="_DSXK5Rx">The exclusive right to harvest the coffee trees was also traded as shown by a case wherein the owner of the land and the coffee trees were different persons, until the coffee trees ceased bearing beans.</s><s xml:id="_BDh5vGG">On the other hand, abandoned sweet potato farms and all other 'unimproved' land including forests were common property.</s><s xml:id="_Hr8zEJ7">The relative stability of the traditional landuses and land ownership institutions could be attributed to factors within and outside the community; their causal relationships may be clarified with a deeper understanding of Kalanguya society especially in relation to events outside their traditional territories (i.e.</s><s xml:id="_6A3MSr7">Philippine national history).</s></p><p xml:id="_Q7BckH3"><s xml:id="_333Y4ju">In traditional Kalanguya society, the movement of people and goods was impeded by steep terrain, and animosity among settlements and ethnic groups primarily due to the practice of headhunting, as well as the isolation of the Cordillera region relative to the surrounding lowlands that were all under Spanish colonial rule.</s><s xml:id="_4DGWRGJ">Despite their isolation, the Kalanguya exchanged some goods (e.g.</s><s xml:id="_yUFvDwm">animals, grain and other supplies) to the mining towns in the province of Benguet and imported various goods that they did not produce, including metal tools, clothes, bronze gongs and Chinese porcelain <ref type="bibr">(Lewis 1992a</ref>).</s><s xml:id="_ZcSxkg8">These wares were privately owned and indicative of a person's wealth.</s><s xml:id="_qFtZCPt">However, the ultimate recognition of wealth was not on ownership and accumulation of valuables but rather on giving them away, through redistributive feasts called padit or keleng.</s><s xml:id="_KA9hJtY">Padit is done in graduated stages.</s><s xml:id="_gzJRNv4">The more resources a person shares with the community (i.e. more pigs butchered to feed the community), the higher the social status gained, which was further translated into special privileges such as greater influence over community decision-making.</s><s xml:id="_X9DKQ4M">Pandit also increased community status as a means to appease the spirits of dead ancestors who were then believed to have power to influence one's fate.</s><s xml:id="_JAuYQbp">In Eheb, the wealthiest person (or family) in memory lavished at least 16 feasts in his lifetime, which would have required butchering at least 104 pigs, as well as allocating other animal species for other purposes.</s><s xml:id="_7zamK8Z">Incidentally, this person owned more than 1 ha of rice fields, the largest owned by a family in the village.</s></p><p xml:id="_YnX6aAW"><s xml:id="_xgvdyEv">The practice of wealth redistribution perpetuated the traditional landuses, and to some extent land ownership, because it prevented improvement in agricultural technology while keeping labour productivity low.</s><s xml:id="_xmRmuxG">The redistributive feasts limited individual and societal accumulation of savings, which also constrained overall investment activity, especially in agriculture.</s><s xml:id="_WAAWPhD">The productivity of both land and labour remained stagnant, as did the material wealth in traditional Kalanguya society.</s><s xml:id="_y7sAgu6">Rice fields were privately owned and highly valued because building them required substantial labour.</s><s xml:id="_7QdtQSw">Usufruct ownership of sweet potato farms and fruit trees reflected the lower labour cost to establish them.</s><s xml:id="_ErUsenN">Forests were accessible to anyone including Kalanguya from neighbouring villages, partly because more neighbours meant greater availability of labour which was traded through traditional labour exchanges.</s></p><p xml:id="_BDrJVrB"><s xml:id="_2nyu296">The perpetuation of traditional landuse and land ownership could also be attributed to the regular outmigration of the Kalanguya people.</s><s xml:id="_DthEPEj">Aside from having to constantly move to plant sweet potatoes, they often needed to move pigs and chickens usually across rivers and in adjacent mountains as a means to avoid their valued animals becoming infected by epidemics.</s><s xml:id="_ttzrV4Y">However, the more significant migrations of the Kalanguya people, were out of Tinoc, occurring before, during and after World War II, as referenced by oral history.</s><s xml:id="_4BCCa8H">Pre-war outmigration involved the permanent movement of people to the nearby provinces including Nueva Vizcaya and Benguet.</s><s xml:id="_C4EVdD7">These were due in particular to constant enemy raids of villages for human heads (i.e.</s><s xml:id="_PGYqvjr">headhunting) and for other valuables, Spanish military expeditions, smallpox and cholera epidemics, and the opening of the Spanish trail traversing Ahin which then required the people to render forced labour <ref type="bibr" target="#b26">(Scott 1974;</ref><ref type="bibr" target="#b5">Bagamaspad and Pawid 1985;</ref><ref type="bibr" target="#b0">Afable 1989;</ref><ref type="bibr" target="#b10">Daguitan 2010)</ref>.</s><s xml:id="_KMSgbzp">Migrations during World War II were more temporary albeit memorable because of the devastation and casualties.</s><s xml:id="_T2kDNar">Post-war out-migrations were generally voluntary and motivated by employment opportunities in Benguet-from mining, logging and later vegetable production-and greater availability of farmland in Nueva Vizcaya, where pre-war migrants went earlier.</s><s xml:id="_9QMWHer">These past migrations along with the high mortality rate and limited population growth, maintained the primary importance of labour in the economy and helped keep forests relatively intact.</s></p><p xml:id="_m3JBkwP"><s xml:id="_7q74keJ">In Eheb, the largest clan (A) trace their pioneer settlers as far back as five generations or around the 1900s. 2 This clan still has many members living outside the village.</s><s xml:id="_BndBqkP">Like other clans, many of the younger households spent years outside the village, mostly as vegetable farm labourers in Buguias, Benguet.</s><s xml:id="_YpFhAhe">Another clan (B), whose members occupy a relatively wide tract of land, trace their settlement in the village only to 1969 when their father was invited by the earlier villagers in Eheb to settle there, an indication that land was still abundant in the late 1960s.</s><s xml:id="_ZbNnxYQ">In 1979, most land (84 % of total area) was still under forest cover (Fig. <ref type="figure" target="#fig_1">2</ref>).</s><s xml:id="_scRAsd6">Sweet potato farms were mostly within the remaining 15 % of 'grasslands' located at the lower part of the village near the rice terraces, houses and old foot trails.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NZpv2KN">Transition of Land Property Rights Institutions and Landuse</head><p xml:id="_QmTpPvX"><s xml:id="_VZF7gEG">The major transition in landuse in Eheb, and to a larger extent Tinoc, happened in the past three decades, particularly after the opening of a farm-to-market road in 1990s. 3</s><s xml:id="_gpuNp5g">However, the transition in land property institutions had already started by this time.</s><s xml:id="_3Ndaaen">One driver in the transition towards private ownership of land other than rice terraces was the introduction of the municipal land tax declaration system, introduced in the municipality of Tinoc in the early 1950s.</s><s xml:id="_VXHbKfF">Despite being intended to raise local government revenue, it evolved as a tool to secure exclusive land control.</s><s xml:id="_8dGfhnK">Initially, many people did not apply for a land tax certificate.</s><s xml:id="_9u94v23">For rice terraces, there was no need to secure ownership because the boundary is made obvious by the shape of the terraces.</s><s xml:id="_GBu9vEG">The same was seen for sweet potato farms because land was abundant.</s><s xml:id="_AMSfzfN">There were people who applied for a certificate but declared only their small rice fields or their tiny residential lot because a larger area would mean larger tax.</s><s xml:id="_6qC9yMT">This hesitance to apply for a land tax declaration system, however, did not last long especially after some people extended their claims based on natural landmarks 2 One generation was computed to equal 20 years because people were normally married at about this age, through arranged marriage.</s><s xml:id="_k6YsAQ2">The 1900s also coincide with similar accounts of new settlements in the nearby and more populated barangay of Poblacion, Tinoc. 3 The construction of this 'Halsema' road from Baguio city comenced during the American colonial period.</s><s xml:id="_SVEj7tW">It reached Bot-oan, Buguias, Benguet (the village before Eheb) in the early 1980s <ref type="bibr">(Lewis 1992a)</ref>, reached Tinoc (Poblacion) in 1992 passing through the upper part of the Eheb (west), then gradually branched down the lower part of Eheb from 1995 where construction is continuing intermittently depending on availability of external funding.</s><s xml:id="_9vCGM7g">rather than on 'land improvement'.</s><s xml:id="_aKNuR3z">Furthermore, there were non-villagers and non-Kalanguya who made tax declarations in the village and in other parts of Tinoc.</s></p><p xml:id="_c9eZd9Y"><s xml:id="_jWGQPJM">It is notable that the de facto privatization of formerly commons land property cannot be attributed to the introduction of the land tax declaration system alone but also depends on reinforcing factors that ultimately increased peoples' valuation of land other than the rice terraces.</s><s xml:id="_7su5heD">Just as traditional values, isolation and outmigration perpetuated Kalanguya traditional landuse and property institutions, so could changes to these factors explain the transition of property institutions.</s><s xml:id="_kKWYS9A">During the period of American control, the political, socio-cultural and physical barriers started to ease, with the enforcement of intertribal law and order that gradually eased tribal wars and the practice of headhunting, and with the establishment of public schools along with private Christian mission-schools and building of roads.</s><s xml:id="_7ZEfUBr">As the Kalanguya people gained access to formal education, converted to Christianity and integrated with the wider society, did their desires and values and more importantly their notion of wealth changed.</s><s xml:id="_bzsGb6e">Being Christians, they ought not to believe in the power of spirits over their fate.</s><s xml:id="_R3TjmJW">They no longer have to appease the dead, or practice padit.</s><s xml:id="_Aba6Eur">A person's wealth is no longer determined by how much one has redistributed but on how much one has accumulated. <ref type="foot" target="#foot_1">4</ref></s><s xml:id="_VwJsHFb">The more the Kalanguya interacted with the wider society, the more they discovered things outside of what they valued and wanted to purchase.</s><s xml:id="_uTxtfft">In order to do that however, they needed to exchange something of value to the market.</s></p><p xml:id="_kcVkaeS"><s xml:id="_eDvBAtW">The privatization of land, other than rice terraces, was then done initially through the filing of a certificate of tax declaration.</s><s xml:id="_87BV2bt">However, because the certificate does not function as a legal land title and could be contested, some people tried to secure their land claims by making 'land improvements', which in many cases involved simply 'slash-and-burn' of the trees, even without actual cultivation.</s><s xml:id="_QunmVQp">There have then been many land conflicts especially after construction of the road, but many have gradually been settled through customary conflict resolution methods, although there were cases passed on to the higher provincial court.</s><s xml:id="_EKRjXs3">Despite continuing land conflicts, the idea of privately owned land-that is under exclusive ownership of individuals or family-similar to the traditionally privately-owned rice terracesgradually became accepted.</s><s xml:id="_tV7NhWf">This can be seen in Fig. <ref type="figure" target="#fig_2">3</ref>.</s><s xml:id="_hvBy5TS">Not only were residential lots and vegetable gardens (many of which are already terraced) considered private property but the claims extended to fallow and adjacent forests.</s></p><p xml:id="_hKcMcdD"><s xml:id="_er9GVby">Interestingly, these trends in landuse and land ownership in Tinoc happened earlier in the province of Benguet whose mountains are mostly denuded mainly due to vegetable gardening, following the road construction from Baguio City <ref type="bibr" target="#b15">(Kowal 1966;</ref><ref type="bibr">Lewis 1992b)</ref>.</s><s xml:id="_bJZ77k4">Temperate vegetable cultivation is now a well-established industry supported by financiers based in the vegetable trading posts in Baguio and more recently in Bambang, in the province of Nueva Vizcaya after the road from Tinoc to Kiangan was also opened in around 2002.</s><s xml:id="_tRWFa6f">Traders and financiers or 'suppliers', as they are locally called, provide inputs and even consumer goods on credit.</s><s xml:id="_cGpqHsN">These trends can also be observed in the adjacent municipalities of Kabayan, Benguet and Asipulo, Ifugao following continued road opening to these areas and even within the Mt.</s><s xml:id="_qfRxrcx">Pulag National Park<ref type="foot" target="#foot_2">foot_2</ref>  <ref type="bibr" target="#b21">(Perez 2010;</ref><ref type="bibr" target="#b1">Agreda 2011;</ref><ref type="bibr" target="#b3">Allasiw 2012)</ref>.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_J3tKqha">Forest Management and Conservation Initiatives</head><p xml:id="_dqVhN5K"><s xml:id="_nUnjUzf">The forest clearings in Eheb have all been in violation of national forest policies including the national landuse classification that classifies the village land 'nonalienable and non-disposable' and various laws prohibiting cutting of natural forests, especially forests above 1,000 masl, forests in land with 50°slope and higher, and old growth forests.</s><s xml:id="_wQ2kyjK">The general ineffectiveness of the national government in managing 'public' forests, however, led to the devolution of the forest management functions from the Department of Environment and Natural Resources (DENR) to the local governments through the Local Government Code of 1991, which requires local governments to prepare landuse plans that could better reflect actual landuse.</s><s xml:id="_x4hqYQs">In Ifugao, landuse plans have since then been prepared at the provincial and municipal level since 1995.</s><s xml:id="_ETeaPRn">A review of the provincial and municipal landuse plans, however, reveals the discrepancy of the plans from the trends, which still reflects the difficulty in enforcing such a plan at these levels.</s></p><p xml:id="_qwjAQqG"><s xml:id="_zDqDf2D">With financial and technical help from the provincial government, the more localized BLUP of Eheb was finished in 2009.</s><s xml:id="_H5XvuQk">In it, there are three major landuse classes: production, agroforestry and areas.</s><s xml:id="_EmDJGWx">The first two recognize and in a way validated de facto private ownerships while the protected areas which include steep watersheds and pine timber land were designated for common use and therefore still communally-owned. <ref type="foot" target="#foot_3">6</ref></s><s xml:id="_p8yfRPE">An of the landscape since 2010, however, shows that some protected areas show patches of recent clearings, violating the BLUP.</s><s xml:id="_eztWYcU">Further inquiry reveals that some of the land designated as protected areas were earlier privately claimed.</s><s xml:id="_ma2hMTA">There were farmers who earlier agreed that their claims be designated as part of the village protected areas but more recently are claiming their land back by making new clearings.</s><s xml:id="_RUxJ58k">There are also those who indicated their intent of asserting back their claim if they will run out of other livelihood options.</s><s xml:id="_39MH89C">One farmer, for example, whose land claims totaled about 12 ha and who agreed to have about 4 ha of his land be part of the protected land, expressed his anticipation for some monetary compensation or in-kind livelihood assistance-noting his earlier experience where he donated an estimated 2 ha to a local school in return for an educational scholarship for his children.</s><s xml:id="_BmAPjVv">He mentioned that if he will not get monetary compensation or livelihood assistance, he may claim back and clear the forest as others have already done.</s></p><p xml:id="_uXj3GdE"><s xml:id="_rykDHvb">The evolution of forest policies and the difficulty even in implementing a BLUP once again demonstrate the conflict inherent in forest conservation and development.</s><s xml:id="_XnJzdvG">This has been recognized even early on by development workers in Eheb.</s><s xml:id="_WBGH56x">When Eheb still did not have truck-accessible road in 1997, the Central Cordillera Agricultural Programme (CECAP)-a development program funded by the European Commission (EC) which included Eheb among its beneficiariesproposed to build a sledge trail instead of a truck-passable road.</s><s xml:id="_SdkhRTv">The staff foresaw that road construction will result to further forest clearing.</s><s xml:id="_ZDm5xGq">However, many villagers who live closer down the terraces argued that if that would be the case, they may as well move their houses up near the municipal road, which meant clearing the more critical primary forests.</s><s xml:id="_AEM5XmC">CECAP continued the opening of the barangay road down to the village centre, which was continued further by various development projects.</s></p><p xml:id="_njxS8zj"><s xml:id="_YbwC9xF">Economic objectives were clearly given greater priority than forest conservation.</s><s xml:id="_DTZqf8Z">Interestingly, the development projects and particularly road construction were not merely intended to promote economic development but also for political stability.</s><s xml:id="_KuDA3zr">These forests have been the hiding place of communist insurgents especially during the Martial Law years in the 1970s, and the building of these expensive roads may have actually been more intended to counter these rebellions<ref type="foot" target="#foot_4">foot_4</ref>  <ref type="bibr">(Lewis 1992a</ref>).</s><s xml:id="_6bxRSPV">Ironically, a popular demand of the rebels who had indigenous people as members was for the Philippine government to cease environmentally destructive projects such as dam construction, mining and logging and for the government to recognize indigenous peoples' rights over their land.</s><s xml:id="_xskxKFv">After the ousting of then President Marcos in 1986 and with further lobbying from indigenous people and supporting groups, the Philippine government in 1997 gave into some of these demands through the enactment of the IPRA, which provides for the granting of a CADT to an indigenous group and a CALT to a clan or individuals.</s><s xml:id="_NUcuTDa">Enactment of the IPRA was expected to benefit the people and the forests because it requires the free, prior and informed consent (FPIC) from the indigenous people especially for megaprojects planned within their land.</s><s xml:id="_wt4U8pG">Many expectations, however, are yet to be realized because there are various barriers including questions about the constitutionality of the IPRA mainly due to institutional (organizational, technical and financial) weaknesses, e.g.</s><s xml:id="_FRcfrPB">see <ref type="bibr" target="#b7">Castro (2000)</ref> and <ref type="bibr" target="#b24">Prill-Brett (2007)</ref>.</s></p><p xml:id="_CKHsJgR"><s xml:id="_fbWDez3">Some of limitations of the IPRA can be highlighted in the April issuance of CADT to the Kalanguya of Tinoc.</s><s xml:id="_F3f2ZDH">The 14-year gap between policy acknowledgement of their land rights and their actual receipt of the CADT demonstrates loopholes in the IPRA not only in its provisions but also in its implementing rules and regulations.</s><s xml:id="_jJwQmFQ">The Act requires IPs to prepare an Ancestral Domain Sustainable Development and Protection Plan (ADSDPP) to be governed by the IPs' council of elders.</s><s xml:id="_Qe7ah6J">In the Cordillera region, however, most of the people are indigenous to their area and many local political boundaries have already been based on ethnic differences.</s><s xml:id="_TevPA3d">Tinoc, for example, was made a separate municipality from Hungduan for the purpose of separating the Kalanguya from the Tuwali IPs who occupy most of central Ifugao.</s><s xml:id="_t78ZRk6">The ADSDPP of the Kalanguya of Tinoc then would have no major differences from the comprehensive landuse plan (CLUP) of the municipal government, which highlights the existence of a dual land authority-of Tinoc municipal government and the Kalanguya council of elders-a potential source of power play and administrative problems.</s><s xml:id="_nWcfp6H">Indeed, a similar power play could actually be observed at the individual and household level as some people who claim to have been defrauded through earlier tax declarations try to regain control of land by invoking their ancestral land rights.</s><s xml:id="_b3KHSAj">This legal pluralism where IPs legitimize their control of land using either customary or state laws has also been observed in other parts of the Cordillera <ref type="bibr" target="#b23">(Prill-Brett 1994;</ref><ref type="bibr" target="#b21">Perez 2010</ref>).</s><s xml:id="_mUx82Yg">Ironically, the rapid forest clearance in Tinoc happened in the period between the enactment of IPRA and the granting of CADT to the Kalanguya in Tinoc.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_GnhTqs2">Policy Implications</head><p xml:id="_d2cnRv8"><s xml:id="_JdwqeHr">A blanket-approach of prohibitive forest policies in IP-occupied forests is ineffective because it makes almost every villager a law breaker, making the laws generally unenforceable. <ref type="foot" target="#foot_5">8</ref></s><s xml:id="_KwVkAEN">The granting of land titles will improve the rule of law in general and forest governance in particular.</s><s xml:id="_zVCtzFm">Following <ref type="bibr" target="#b11">De Soto (2000)</ref>, land titles will make it easier for actors of landuse changes to be made accountable, be it for the purpose of regulating negative activities or remunerating forest protection or improvement.</s><s xml:id="_MhRVVnc">In relation to the latter, land titling would open various modes of voluntary and contractual agreements for forest conservation or payments for environmental services (PES) schemes.</s><s xml:id="_C48AvA7">Similarly, it gives the owners power to avoid land grabbing and expropriation as well as to opt out from fraudulent contracts.</s><s xml:id="_qGV4Ab4">On the other hand, it is critical that land titling has local legitimacy (e.g.</s><s xml:id="_5CJM8ZK">where de facto privatization exists and is socially accepted) as a precaution to avoid fraudulent titles which would lead back to conflicts and unenforceable laws.</s></p><p xml:id="_TzR2h29"><s xml:id="_9DvB9uA">In contrast to the underlying assumptions behind the granting of communal land ownership to IPs, this study shows a case where individual private ownership of land has been 'traditional' and IPs do not necessarily practice non-destructive landuse.</s><s xml:id="_YJpGRrF">It yet again shows that landuse and land ownership are evolving as people change their worldview, values and desires as they adapt to an equally changing external environment.</s><s xml:id="_sYkGrts">Land titling should then not be limited to communal but also to individual ownership.</s><s xml:id="_7dBpxjU">This implies that forest policy within IP territories should not be limited to CBFM but also accommodate private management of forests, be it by an individual, family or household.</s><s xml:id="_cSsyzra">Since IPs do not necessarily practice nondestructive landuses, it is expected that some IPs may not find it worthwhile to protect the forests or may want to sell their land to raise a relative large amount of money.</s><s xml:id="_GGVSUZC">Following the principle that voluntary exchange has to benefit both seller and buyer, land policy in IP land should allow the transfer of property title through sale.</s></p><p xml:id="_cznbcKn"><s xml:id="_RHM7rdQ">Individual land titling has been controversial because it could make IPs worseoff, especially if they would sell their land <ref type="bibr" target="#b22">(Porter 2001)</ref>.</s><s xml:id="_ykNmCV2">In fact, this concern could have been one of the motivations for IPRA defining ancestral domains as IPs' 'private but community property which… cannot be sold…' <ref type="bibr">(IPRA 1997, c3, s5)</ref>.</s><s xml:id="_AThP84Z">This historically proven possibility of IPs selling away their land and consequently being made worse-off necessitates qualifying such a policy of allowing transfer of rights through sale to cases where IPs are protected from fraud.</s><s xml:id="_rwKZrqf">This is especially for isolated communities which are relatively unfamiliar with land market values and legal technicalities.</s><s xml:id="_PYc3rUn">On the other hand, not allowing IPs to transfer ownership of their land to 'outsiders' prevents them from livelihood options particularly the potential benefits of an open land market such as an increased market valuation of their property and benefits of having an asset for loan collateral. 9</s><s xml:id="_2EsTHPs">In this regard, it should be noted that despite the lack of land titles and the prohibitive provision of IPRA, some villagers have already sold some agricultural and forest land-the latter having lower market value-to non-Kalanguya people in the same way that some Kalanguya can purchase land outside their ancestral domain (i.e. in Tinoc).</s><s xml:id="_JNQTcTr">Furthermore, despite allowing an open land market, resulting transactions would 9 An inquiry from a bank in Lagawe, the capital of the province of Ifugao, revealed that the bank was able to lend money only to government employees in Tinoc.</s><s xml:id="_PSaHS2s">Farmers could only access the informal and often more expensive finance because their properties are ineligible as collateral in the formal lending market.</s><s xml:id="_cns3Bcu">Interestingly, some government employees in Tinoc are financiers to vegetable farmers.</s><s xml:id="_ZGVkQ44">remain subject to social acceptability and even constitutional limitations as to who can own land, and up to what degree or percent they can own the land.</s></p><p xml:id="_KD39BK4"><s xml:id="_hVN8aPH">Another concern particularly is the granting of land titles for standing forests, which could mean giving people more right to convert of forests into vegetable gardens.</s><s xml:id="_gQyCwXt">However, as was shown in the case of Eheb, with or without land titles, the forests have been and continue to be cleared, and some clearances have been merely to secure land ownership even by farmers whose claims are already locally recognized and thus have legitimacy.</s><s xml:id="_T6m7fZP">The issuance of land titles will prevent clearing merely to secure ownership.</s><s xml:id="_V7gGZdC">Moreover, it will encourage landuses with longer time preference that may be demonstrated through conservation or land improvements, which would eventually bring higher value to the owner while providing public goods.</s><s xml:id="_Uq4BUwW">Nevertheless, the concern is real and should be addressed through landuse regulation as well as incentives, including direct or indirect payment to landowners for keeping the trees or for relinquishing some or all of their rights to the forest resources-through a voluntary (thus fair) and enforceable contract.</s><s xml:id="_caKNrcs">Further, land titles should be issued in congruence with an agreed landuse plan.</s></p><p xml:id="_FVAVfFD"><s xml:id="_rNksN2V">The granting of individual land titles and consequently allowing private forestry in IPs' land would not necessarily remove the option of CBFM, as is partly demonstrated in the case of Eheb.</s><s xml:id="_8WyPWYY">The farmers are aware of the value of forests, being familiar with the experience of farmers in Benguet who after clearing their forests experienced high cost of production due to lack of irrigation, decreasing soil fertility and increasing pest and diseases-which are some reasons the villagers agreed to prepare a BLUP.</s><s xml:id="_6k8j6x4">A communally-managed forest but established by land title-holders (be it individual, communal or both), would be superior to a CBFM agreement (CBFMA) where members are not recognized owners.</s></p><p xml:id="_sgzdn8J"><s xml:id="_YKZGTR5">In the Philippines, improving forest management in IP territories would be easier following the initiatives under IPRA, but with various amendments in its provisions especially changes in its implementation.</s><s xml:id="_Anzh3gY">Both communal and individual land titles-i.e.</s><s xml:id="_EDE7UtZ">CADT and CALT-could actually be granted independent of each other, but as partially shown in this case, there are many constraints.</s><s xml:id="_ckB4ytJ">The rules for individual titling generally follow the procedures for communal land title, making it costly and impractical. 10</s><s xml:id="_tFVEhfy">Land titling is mainly processed by the National Commission on Indigenous Peoples (NCIP), a relatively new agency with an expanding role as it takes various responsibilities relating to matters concerning (millions of) indigenous people, including their land and forests.</s><s xml:id="_qZwmnHU">While it is beyond the scope of this paper to discuss various administrative issues among the various government agencies in bringing about the objectives of IPRA, the present system is clearly inefficient for recognizing land rights and stabilizing landuse, and needs some overhauling.</s><s xml:id="_EyUy6Jy">This said, it is important to note that the communal ownership being granted through CADT is not the same as the communal land in Eheb village.</s><s xml:id="_fR9rZMM">The latter is preferable, primarily because of de facto private ownership and the need to further translate a relatively wide CADT into a more manageable area, which in many cases follows political boundaries.</s><s xml:id="_Jn4QJM4">In other words, it is suggested to start small (i.e.</s><s xml:id="_axdfNK8">individual and village 'communal' titling and forest management) and to recognize local reality (e.g.</s><s xml:id="_5QtVUEP">changes among IPs and their adaptation to the existing government arrangements).</s><s xml:id="_m7pVBe4">Titling could be simplified using already existing local government as well as NGO and private sector resources (e.g.</s><s xml:id="_WymBZtJ">land assessor's office in charge of land tax declaration; land surveying firms), especially in the delineation of land boundaries.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_KahuBBx">Conclusion</head><p xml:id="_KMpqCT5"><s xml:id="_8U8feYu">A large area of Eheb, which is nationally designated as public forest, is no longer covered with trees but rather vegetable gardens and fallow.</s><s xml:id="_ETxeywb">Further, while it is still assumed in policy that the village land is communally-owned, almost half of the total area has been transformed into de facto individual private property.</s><s xml:id="_c5xDZEf">Although there were land conflicts in the early process of privatization, most have gradually been settled.</s><s xml:id="_y3sMTdR">Individual ownership of land including standing forest has become locally accepted.</s><s xml:id="_YGkfQ7E">Forest policies and strategies would have to be founded on the formal recognition of indigenous peoples' rights over land, be it communal or individual ownership.</s><s xml:id="_eqjY7V2">The formalization of de facto private land ownership means private management of forests and not just CBFM should be considered a policy option.</s><s xml:id="_5s6SJN9">On the other hand, an improved CBFM structure where members are land title-holders could be pursued which is not necessarily a large-scale ancestral domain but a more institutionally stable and manageable level such as at the village level.</s><s xml:id="_xxRjJbC">With land titles, forest policies in IP territories should move towards voluntary and contract-based agreements including market-based conservation schemes where individual as well as group landowners may opt to trade some or all their (ownership) rights given the possibility that some IPs may value other landuses aside from forestry.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc><div><p xml:id="_uMH2BHT"><s xml:id="_qAVhgx5">Fig. 1 Study location.</s><s xml:id="_hpwtnB8">Source: developed from NAMRIA map sheets</s></p></div></figDesc><graphic coords="4,54.00,67.64,323.80,156.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc><div><p xml:id="_suPgYPz"><s xml:id="_s9NUUtK">Fig. 2 Landuse in Eheb village in the 1970s</s></p></div></figDesc><graphic coords="6,53.85,329.78,331.72,256.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3</head><label>3</label><figDesc><div><p xml:id="_rQF7xAR"><s xml:id="_TfM9Qw3">Fig. 3 Landuse and ownership in Eheb in 2010</s></p></div></figDesc><graphic coords="10,53.85,58.67,331.72,256.36" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p xml:id="_udD9eCg"><s xml:id="_MKS9SAj">A. Albano, S. Takeda</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p xml:id="_bPuKGXc"><s xml:id="_XBs4UJw">An elderly informant in Eheb, when asked if he too performed padit in the past, admitted it with selfridicule instead of pride.</s><s xml:id="_pS6pqwt">Many elderly people are blamed by their children for spending family wealth performing padit rather than on funding their formal education.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_2"><p xml:id="_HCK3x7A"><s xml:id="_JyVPmbr">A part of the Tinoc at the boundary with Kabayan, Benguet is part of the Mt.</s><s xml:id="_gSVzrxm">Pulag National Park, under management by the Department of Environment and Natural Resources (DENR) following the National Integrated and Protected Area System (NIPAS) Act of 1992.</s><s xml:id="_Pj4J2jc">However, the exact boundary of the Park is not yet resolved.</s><s xml:id="_3uCvJRH">Moreover, the implementation of NIPAS is complicated by the enactment of the IPRA which in principle grants ownership rights over the Park, albeit communal, to the Ibaloi (Benguet side) and Kalanguya (Ifugao side).</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_3"><p xml:id="_zPXGaT9"><s xml:id="_XzEyz4D">From the communal timber land, each family is allowed to harvest up to 2,500 bd ft for personal use but not for sale.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_4"><p xml:id="_WYvFwwj"><s xml:id="_tgZpZTu">The area remains a haven for communist rebels as shown by two deadly encounters inFebruary 26,  2011 and April 25, 2012.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_5"><p xml:id="_vXXSp5V"><s xml:id="_AuKwjSF">One village elder mentioned an instance when he confronted a village official who, with pressure from DENR officers, was about to submit the names of villagers who just cleared a forest.</s><s xml:id="_bFUhAYv">The village elder told that official that he include his name or all villagers because after all, he and his family (and everyone in the village) lived and survived growing sweet potatoes on cleared forest land.</s><s xml:id="_yEUKTSY">The list was then not submitted.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_6"><p xml:id="_QvvvBtE"><s xml:id="_KEaAq5G">A well-to-do person in the municipality of Kiangan was said to have spent about PhP 200,000 (or nearly USD 5,000) just to get a CALT to secure the boundaries on his residential lot.</s><s xml:id="_g75zScn">He was the first ever person to secure a CALT in Kiangan, and most likely in the province of Ifugao.</s></p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xml:id="_rgdhSTy"><p xml:id="_TGM3mT4"><s xml:id="_9tE6BeW">Acknowledgments This study was financially supported by <rs type="grantName">Grants-in-Aid for Scientific Research</rs> from the <rs type="funder">Japanese Society for the Promotion of Science (JSPS)</rs> No. <rs type="grantNumber">21255003</rs> and the <rs type="funder">JSPS Global Centers of Excellence (GCOE) Program</rs> (<rs type="grantNumber">E-04</rs>).</s><s xml:id="_4UPydHZ">The authors also thank three reviewers for their valuable comments and suggestions.</s></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_wUZXxua">
+					<idno type="grant-number">21255003</idno>
+					<orgName type="grant-name">Grants-in-Aid for Scientific Research</orgName>
+				</org>
+				<org type="funding" xml:id="_rrzh94z">
+					<idno type="grant-number">E-04</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Afable</surname></persName>
+		</author>
+		<title level="m" xml:id="_AV5ujEk">Language, culture, and society in a Kallahan community, Northern Luzon, Philippines (vols I and II)</title>
+		<meeting><address><addrLine>New Haven</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Anthropology, Yale University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Dissertation</note>
+	<note type="raw_reference">Afable P (1989) Language, culture, and society in a Kallahan community, Northern Luzon, Philippines (vols I and II), Ph.D. Dissertation. Department of Anthropology, Yale University, New Haven</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Agreda</surname></persName>
+		</author>
+		<ptr target="http://www.sunstar.com.ph/baguio/local-news/2011/06/18/cordillera-parks-watersheds-least-priority-161842" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_8xM6bpT">Cordillera parks, watersheds &apos;least priority</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Agreda JM (2011) Cordillera parks, watersheds &apos;least priority&apos;. Sunstar Baguio. http://www.sunstar. com.ph/baguio/local-news/2011/06/18/cordillera-parks-watersheds-least-priority-161842. Accessed 12</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_CF2SqWB">The Indigenous Peoples Navigation Network (IPNN): An International Virtual Support Network</title>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Burhansstipanov</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-031-56806-0_6</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FfQAf99">Indigenous and Tribal Peoples and Cancer</title>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature Switzerland</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="27" to="29" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">AITPN (2008) Asia National Commission on Indigenous Peoples of the Philippines: the contest for control. Asian Indigenous &amp; Tribal Peoples Network (AITPN), New Delhi</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_VtfBPUY">Land ownership and sustainable resource management: lessons from the protected area management of Mount Pulag National Park, Philippines</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Allasiw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uJ7S3w2">OIDA Int J Sustain Dev</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="55" to="60" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Allasiw DI (2012) Land ownership and sustainable resource management: lessons from the protected area management of Mount Pulag National Park, Philippines. OIDA Int J Sustain Dev 3(7):55-60</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_SmN4VSm">Community-Based Natural Resource Management in Gopalpura, Rajasthan</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Bacalla</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9788132101550.n4</idno>
+		<ptr target="https://www.eastwestcenter.org/fileadmin/stored/misc/HangingInBalance11Philippines.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MHaHqHC">Community-Based Natural Resource Management: Issues and Cases from South Asia</title>
+		<editor>
+			<persName><surname>Mahanti</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bangkok</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications India Pvt Ltd</publisher>
+			<date type="published" when="2006-02-12">2006. 12 Feb 2012</date>
+			<biblScope unit="page" from="115" to="158" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bacalla DT (2006) Promoting equity: a challenge in the implementation of community-based forest management strategy in the Philippines. In: Mahanti et al. (eds) Hanging in the balance: equity in community-based natural resource management in Asia, pp 162-181. RECOFTC and East-West Center, Bangkok. https://www.eastwestcenter.org/fileadmin/stored/misc/HangingInBalance11Philippines.pdf. Accessed 12 Feb 2012</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_CpjMmu5">A people&apos;s history of Benguet province</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bagamaspad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Pawid</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Baguio Printing and Publishing Co., Inc</publisher>
+			<pubPlace>Baguio City, Benguet, Philippines</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bagamaspad A, Pawid Z (1985) A people&apos;s history of Benguet province. Baguio Printing and Publishing Co., Inc., Baguio City, Benguet, Philippines</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_RRDney5">The forest transition: Towards a more comprehensive theoretical framework</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">B</forename><surname>Barbier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joanne</forename><forename type="middle">C</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Grainger</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.landusepol.2009.02.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QRw43aB">Land Use Policy</title>
+		<title level="j" type="abbrev">Land Use Policy</title>
+		<idno type="ISSN">0264-8377</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="98" to="107" />
+			<date type="published" when="2010-04">2010</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barbier EB, Burgess JC, Grainger A (2010) The forest transition: towards a more comprehensive theoretical framework. Land Use Policy 27:98-107</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_evMRAP6">Three years of the Indigenous Peoples Rights Act: its impact on indigenous communities</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Castro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fASStqB">KASARINLAN, Philippine Q Third World Stud</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="35" to="54" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Special Issue on Indigenous Peoples</note>
+	<note type="raw_reference">Castro N (2000) Three years of the Indigenous Peoples Rights Act: its impact on indigenous communities. KASARINLAN, Philippine Q Third World Stud 15(2) (Special Issue on Indigenous Peoples):35-54</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_u9Kpp7g">Community Forestry in Theory and Practice: Where Are We Now?</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Charnley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><forename type="middle">R</forename><surname>Poe</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.anthro.35.081705.123143</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gmCD8Ka">Annual Review of Anthropology</title>
+		<title level="j" type="abbrev">Annu. Rev. Anthropol.</title>
+		<idno type="ISSN">0084-6570</idno>
+		<idno type="ISSNe">1545-4290</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="301" to="336" />
+			<date type="published" when="2007-09-01">2007</date>
+			<publisher>Annual Reviews</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Charnley S, Poe MR (2007) Community forestry in theory and practice: where are we now? Annu Rev Anthropol 36:301-336</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_CFAvVpK">How Do National Markets and Price Policies Affect Land Use at the Forest Margin? Evidence from the Philippines</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Coxhead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Agnes</forename><surname>Rola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kwansoo</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3147093</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_83RnMb4">Land Economics</title>
+		<title level="j" type="abbrev">Land Economics</title>
+		<idno type="ISSN">0023-7639</idno>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">250</biblScope>
+			<date type="published" when="2001-05">2001</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Coxhead I, Rola A, Kim K (2001) How do national markets and price policies affect land-use at the forest margin? Evidence from the Philippines. Land Econ 77(2):250-267</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_tT5r7kW">CALIDAD DEL AIRE EN BOGOTÁ:</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Daguitan</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/jj.16192198.6</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_B5qhWbz">Transparente como el aire</title>
+		<meeting><address><addrLine>Baguio</addrLine></address></meeting>
+		<imprint>
+			<publisher>Dejusticia</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="37" to="56" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Daguitan F (2010) The Kalanguya&apos;s territorial management: Panangipeptek ni Kalpuan ni Panbiyagan (Caring for our Source of Sustenance). Tebtebba Foundation, Baguio</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main" xml:id="_AuCxdaR">The mystery of capital: why capitalism triumphs in the west and fails everywhere else. Random House</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Soto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Soto H (2000) The mystery of capital: why capitalism triumphs in the west and fails everywhere else. Random House, New York</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_pF984J6">The tragedy of the commons: twenty-two years later</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Feeny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Berkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Mccay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Acheson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_heCaqhu">Hum Ecol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Feeny D, Berkes F, McCay BJ, Acheson JM (1990) The tragedy of the commons: twenty-two years later. Hum Ecol 18(1):1-19</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_3TBXTVC">Bureau of Forestry Forest Health Program Annual Report, Fiscal Year 2004</title>
+		<idno type="DOI">10.18125/mfxqjy</idno>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Forest Ecosystem Monitoring Cooperative</publisher>
+			<pubPlace>Quezon City</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Forest Management Bureau (FMB) (2004) Forestry statistics. Forest Management Bureau, Department of Environment and Natural Resources, Quezon City</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_5HdUueW">The tragedy of the commons</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hardin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_RNg3had">Indigenous People Rights Act (IPRA) or Republic Act (RA) No. 8371 (1997) Indigenous People Rights Act (IPRA) of 1997 and its implementing rules and regulations</title>
+		<meeting><address><addrLine>Manila</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Commission on Indigenous Peoples</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="1243" to="1248" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hardin G (1968) The tragedy of the commons. Science 162:1243-1248 Indigenous People Rights Act (IPRA) or Republic Act (RA) No. 8371 (1997) Indigenous People Rights Act (IPRA) of 1997 and its implementing rules and regulations. National Commission on Indigenous Peoples, Manila</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_M4sys46">Shifting Cultivation, Fire, and Pine Forest in the Cordillera Central, Luzon, Philippines</title>
+		<author>
+			<persName><forename type="first">Norman</forename><forename type="middle">E</forename><surname>Kowal</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1942374</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JqTsPbj">Ecological Monographs</title>
+		<title level="j" type="abbrev">Ecological Monographs</title>
+		<idno type="ISSN">0012-9615</idno>
+		<idno type="ISSNe">1557-7015</idno>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="389" to="419" />
+			<date type="published" when="1966-09">1966</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kowal NE (1966) Shifting cultivation, fire, and pine forest in the Cordillera Central, Luzon, Philippines. Ecol Monogr 36(4):389-419</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZgYmUAj">Towards Laparoscopic Visual AI: Development of a Visual Guidance System for Laparoscopic Surgical Palpation</title>
+		<author>
+			<persName><forename type="first">Kerwin</forename><surname>G. Caballas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harold</forename><forename type="middle">Jay</forename><surname>M. Bolingot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nathaniel</forename><forename type="middle">Joseph</forename><surname>C. Libatique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gregory</forename><surname>L. Tangonan</surname></persName>
+		</author>
+		<idno type="DOI">10.30880/ijie.2021.13.05.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MfwVnFH">International Journal of Integrated Engineering</title>
+		<title level="j" type="abbrev">IJIE</title>
+		<idno type="ISSN">2229-838X</idno>
+		<idno type="ISSNe">2600-7916</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="1992">1992</date>
+			<publisher>Penerbit UTHM</publisher>
+			<pubPlace>Quezon City</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kummer D (1992) Deforestation in the post-war Philippines. Ateneo de Manila University Press, Quezon City</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_GgQ8Gdj">Forest destruction in tropical Asia</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Laurance</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5CcBNdW">Curr Sci</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1544" to="1550" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Laurance WF (2007) Forest destruction in tropical Asia. Curr Sci 93(11):1544-1550</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_8SbVfdG">Wagering the Land</title>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">W</forename><surname>Lewis</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/jj.8501307</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_HatwDJd">Wagering the land: ritual, capital, and environmental degradation in the Cordillera of Northern Luzon, 1900-1986</title>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lewis MW (1992a) Wagering the land: ritual, capital, and environmental degradation in the Cordillera of Northern Luzon, 1900-1986. University of California Press, Berkeley</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_88D4YY6">Agricultural Regions in the Philippine Cordillera</title>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">W</forename><surname>Lewis</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/215403</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_xhE8p49">Geographical Review</title>
+		<title level="j" type="abbrev">Geographical Review</title>
+		<idno type="ISSN">0016-7428</idno>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="1992-01">1992</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lewis MW (1992b) Agricultural regions in the Philippine Cordillera. Geogr Rev 82(1):29-42</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_NxgV3xK">Human action. Scholar&apos;s Edition</title>
+		<author>
+			<persName><forename type="first">Mises</forename><surname>Lv</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_AtJThbY">Governing the commons: the evolution of institutions for collective action</title>
+		<editor>
+			<persName><forename type="first">Mises</forename><surname>Ludwig Von</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Auburn</forename><surname>Institute</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Ostrom</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1949">1949. 1998. 1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises Lv [1949] (1998). Human action. Scholar&apos;s Edition. Ludwig von Mises Institute, Auburn Ostrom E (1990) Governing the commons: the evolution of institutions for collective action. Cambridge University Press, Cambridge</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Perez</surname></persName>
+		</author>
+		<title level="m" xml:id="_RmDAY9U">Deep-rooted hopes and green entanglements: implementing indigenous peoples rights and nature-conservation in the Philippines and Indonesia</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>Leiden University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+	<note type="raw_reference">Perez PI (2010) Deep-rooted hopes and green entanglements: implementing indigenous peoples rights and nature-conservation in the Philippines and Indonesia, Ph.D. Thesis. Leiden University</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_nVPqSXe">Questioning de Soto: the case of Uganda</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Porter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Y59PTdx">Philipp J Dev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="205" to="233" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Porter RI (2001) Questioning de Soto: the case of Uganda. Philipp J Dev 28(2):205-233</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ny6xrjy">Indigenous land rights and legal pluralism among Philippine highlanders</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Prill-Brett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9PY27uk">Law Soc Rev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="687" to="698" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prill-Brett J (1994) Indigenous land rights and legal pluralism among Philippine highlanders. Law Soc Rev 28(3):687-698</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_PTnMx4U">Contested Domains: The Indigenous Peoples Rights Act (IPRA) and Legal Pluralism in the Northern Philippines</title>
+		<author>
+			<persName><forename type="first">June</forename><surname>Prill-Brett</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/07329113.2007.10756606</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PANwCKB">The Journal of Legal Pluralism and Unofficial Law</title>
+		<title level="j" type="abbrev">The Journal of Legal Pluralism and Unofficial Law</title>
+		<idno type="ISSN">0732-9113</idno>
+		<idno type="ISSNe">2305-9931</idno>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">55</biblScope>
+			<biblScope unit="page" from="11" to="36" />
+			<date type="published" when="2007-01">2007. 2007</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prill-Brett J (2007) Contested domains: the Indigenous Peoples Rights Act (IPRA) and legal pluralism in the northern Philippines. J Leg Plur Unoff Law 55(2007):11-36</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_W8GyUa3">Three decades of community-based forest management in the Philippines: emerging lessons for sustainable and equitable forest management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Pulhin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Inoue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Enters</surname></persName>
+		</author>
+		<idno type="DOI">10.1505/ifor.9.4.865</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hPBFRtW">International Forestry Review</title>
+		<title level="j" type="abbrev">International Forestry Review</title>
+		<idno type="ISSN">1465-5489</idno>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="865" to="883" />
+			<date type="published" when="2007-12">2007</date>
+			<publisher>Commonwealth Forestry Association</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pulhin JM, Inoue M, Enters T (2007) Three decades of community-based forest management in the Philippines: emerging lessons for sustainable and equitable forest management. Int For Rev 9(4):865-883</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main" xml:id="_ResTrwK">The discovery of the Igorots: Spanish contacts with the pagans of Northern Luzon</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Scott</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>New Day Publishers</publisher>
+			<pubPlace>Quezon City</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Scott WH (1974) The discovery of the Igorots: Spanish contacts with the pagans of Northern Luzon. New Day Publishers, Quezon City</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_nzCuJvg">Participation and Indigenous Peoples</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sobrevila</surname></persName>
+		</author>
+		<idno type="DOI">10.1596/11666</idno>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>World Bank, Washington, DC</publisher>
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sobrevila C (2008) The role of indigenous peoples in biodiversity conservation: the natural but often forgotten partners. The World Bank, Washington</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_TnZbRw2">Deforestation in the Philippines: a different perspective</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Stenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siriwardana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_76ptYzX">Int J Sustain Dev</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="415" to="432" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stenberg LC, Siriwardana M (2002) Deforestation in the Philippines: a different perspective. Int J Sustain Dev 5(4):415-432</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_BMTYQHD">The United Nations Declaration on the Rights of Indigenous Peoples</title>
+		<idno type="DOI">10.5040/9781472565358.0005</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_SfSCVsN">Reflections on the UN Declaration on the Rights of Indigenous Peoples</title>
+		<imprint>
+			<publisher>Hart Publishing</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">26</biblScope>
+		</imprint>
+	</monogr>
+	<note>Section 2</note>
+	<note type="raw_reference">United Nations (UN) (2008) United Nations Declaration on the Rights of Indigenous Peoples, Article 26, Section 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_HASvuH4">Forest policy and national politics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Vitug</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_3hcRDDm">(ed) Forest policy and politics in the Philippines: The dynamics of participatory conservation</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Utting</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Quezon City</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ateneo de Manila University Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="11" to="39" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vitug MD (2000) Forest policy and national politics. In: Utting P (ed) Forest policy and politics in the Philippines: The dynamics of participatory conservation. Ateneo de Manila University Press, Quezon City, pp 11-39</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_d6V9Vqt">The management of common property resources: collective action as an alternative to privatisation or state regulation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_XxgKtzY">Camb J Econ</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="95" to="106" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wade R (1987) The management of common property resources: collective action as an alternative to privatisation or state regulation. Camb J Econ 11:95-106</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_zdwHWYT">The wealth of the poor managing ecosystems to fight poverty : world resources 2005 / World Resources Institute.</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molnar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khare</surname></persName>
+		</author>
+		<idno type="DOI">10.29171/azu_acku_ge170_w434_2005</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9eK4dyP">World Resources Report 2005: the wealth of the poormanaging ecosystems to fight poverty</title>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<publisher>Afghanistan Centre at Kabul University</publisher>
+			<date type="published" when="2004">2004. 2005</date>
+			<biblScope unit="page" from="83" to="87" />
+		</imprint>
+	</monogr>
+	<note>Who owns, who conserves and why it matters</note>
+	<note type="raw_reference">White A, Molnar A, Khare A (2004) Who owns, who conserves and why it matters. Forest Trends, Washington World Resources Institute (WRI) in collaboration with United Nations Development Programme, United Nations Environment Programme, World Bank (2005) Securing property and resource rights through tenure reform, pp 83-87 in World Resources Report 2005: the wealth of the poor- managing ecosystems to fight poverty. WRI, Washington</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

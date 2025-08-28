@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_URCnGm2">CONSTRUCTIVISM, INDIVIDUAL ACTION AND HOUSING FINANCE: AN INDIVIDUALIST CRITIQUE OF APPROACHES TO HOUSING FINANCE</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Peter</forename><surname>King</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_GWSZU4H">CONSTRUCTIVISM, INDIVIDUAL ACTION AND HOUSING FINANCE: AN INDIVIDUALIST CRITIQUE OF APPROACHES TO HOUSING FINANCE</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BEB50EFF07E4C071F66FA6E129EC6A7E</idno>
+					<note type="submission">received, February 1997; in final form, September 1997</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_99cpEm8"><p xml:id="_6rZAU4W"><s xml:id="_ZuNEajg">This paper undertakes a critique of mainstream approaches to housing finance within the context of an individualist social theory which is critical of policy constructivism.</s><s xml:id="_heS4H68">Policy constructivism is seen as the fallacy whereby those institutions which are created by human actions can be readily re-created by deliberative action.</s><s xml:id="_FV55UYr">Following <ref type="bibr" target="#b35">Malpass et al. (1993)</ref> it discusses two approaches -the applied economic and policy -to housing finance.</s><s xml:id="_8VXNDgB">Whilst being able to suggest some of the differences and the strengths of these two approaches this paper suggests that they share similar theoretical and methodological flaws.</s><s xml:id="_jCWmTVM">The motivations and relationships between individuals and institutions are idealised and thus the models developed within these two approaches fail to appreciate the complexity of the housing process within an extended social order.</s><s xml:id="_2R3QDH6">The paper concludes by suggesting four areas in which housing research is deficient and that these deficiencies may be attended to through an alternative or additional approach placing individual action at its centre.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_V3mfbZh">Introduction</head><p xml:id="_TZ37RpE"><s xml:id="_xuP6PqZ">My aim in this paper is to present a critique of much of the current work on housing finance.</s><s xml:id="_PChbAF6">I shall suggest that there are serious gaps in methodology and procedure which means that housing finance policy is often caricatured or underconceptualised.</s><s xml:id="_wDNbNF7">In particular there is a reluctance or inability to include individual action as having a significant role in the housing system.</s><s xml:id="_pasj2N2">Such a criticism, of course, goes wider than just housing finance and also could be applied to areas such as analyses of housing need and the control of housing processes (see <ref type="bibr" target="#b29">King, 1996</ref> for a fuller discussion on these issues).</s><s xml:id="_83kfBUT">I shall show that the principal fault in much of the work on housing finance is an epistemological one in that policy formation is given an over-extended capability.</s><s xml:id="_P9fB5DZ">This is not merely a problem with the limited literature discussed here but, I would suggest, rather typical of the constructivism of much of housing and social policy more generally.</s><s xml:id="_ykZdwkY">However, in this paper I shall limit my comments Neth.</s><s xml:id="_nCu23nj">J. of Housing and the Built Environment, Vol. <ref type="bibr">12 (1997)</ref> No. 3. rotators who I discuss, such n as devoting themselves to t much of the current work ~.r wish to suggest that an individual subject, and that My aim is to shift the ~cus and more onto the role and transforming systems no role).</s><s xml:id="_87CSUPe">in housing finance policy two schools or approaches, is critique is a subjectivist ole of individuals within a s these rules.</s><s xml:id="_QhnfVVk">Thus it is not :iety, but merely to suggest ; <ref type="bibr" target="#b41">(Mises, 1966)</ref>.</s><s xml:id="_pqBePq2">My belief a'nan action but, and the 67).</s><s xml:id="_zvKmbKv">This has far-reaching of government with regard : is that the literature tends asing processes.</s><s xml:id="_D89eEJD">There is a !c., as collective entities.</s><s xml:id="_9fQFPSF">I terests leads to a serious :fore twofold.</s><s xml:id="_nZYbKvT">Firstly, it is :ial entities; and secondly, this understanding which :fly these two assumptions vidualism.</s><s xml:id="_USWa8Ev">The form of mbued with any particular .</s><s xml:id="_xCnJfrN">~ their own rational selfexpress their potential to <ref type="bibr" target="#b29">(King, 1996)</ref>.</s><s xml:id="_JR7vHSa">Thus the :gatively, as freedom from what an individual is free ng to <ref type="bibr" target="#b2">Berlin (1969)</ref>, may :luals should do what they y be forced into so doing.</s></p><p xml:id="_x9dSSTF"><s xml:id="_YvfTwwV">Negative freedom is rather where an individual is left free from coercion by others in order to pursue their own ends.</s><s xml:id="_PwXhYZk"><ref type="bibr" target="#b13">Gray (1995)</ref> defines Berlin's concept as "choice among alternatives or options that is unimpeded by others" (p.</s><s xml:id="_gGVjaW9">15).</s><s xml:id="_KQ3xtWu">Thus the first basic element of this individualist approach is to define the freedom to be enjoyed by individuals in negative terms.</s><s xml:id="_zVcJDCy">This is not to suggest that there are only negative freedoms, but rather that one should not seek to prescribe.</s><s xml:id="_HZSADFX">One should allow any positive notion to be derived from the non-coerced action of individuals freely coming together.</s><s xml:id="_zMarKyg">It also suggests that freedom from coercion should override any particular positive right or freedom which may conflict with it.</s><s xml:id="_8ksBvAP">In this way cooperation remains voluntaristic and respectful of the personal integrity of each individual.</s><s xml:id="_x8yjGsn"><ref type="bibr" target="#b30">Lukes (1973)</ref> has suggested that individualism is a complex rather than simple notion.</s><s xml:id="_puZqSMf">Indeed his study identifies eleven distinct forms of individualism, which whilst they have a number of common roots may be said to be distinct and even contradictory.</s><s xml:id="_jEgBypc">There are thus a number of different individualisms <ref type="bibr">(ontological, political, ethical, methodological, religious, etc.)</ref> which may or may not be usefully combined.</s><s xml:id="_vJzcHZy">However in this paper I shall reserve my comments to a form of political individualism based on freedom from coercion.</s></p><p xml:id="_HKetsFP"><s xml:id="_UXBqMjE">Political individualism can be seen to develop out of the Kantian notion of the intrinsic worth of human beings <ref type="bibr" target="#b25">(Kant, 1990)</ref>.</s><s xml:id="_VXrVw2X">If individuals may not be used as means, this implies there are limitations on what a society and community may do.</s><s xml:id="_buYjRyR">The interests of individuals may not be subsumed to the interests of the community.</s><s xml:id="_V97wC6t">Indeed this leads us to a simple statement of individualism, whereby individuals are seen as being prior to society <ref type="bibr" target="#b12">(Graham, 1988;</ref><ref type="bibr" target="#b30">Lukes, 1973;</ref><ref type="bibr" target="#b31">Macfarlane, 1978)</ref>.</s><s xml:id="_YU23Z7A"><ref type="bibr" target="#b31">Macfarlane (1978)</ref> defines individualism as "the view that society is constituted of autonomous, equal, units, namely separate individuals, and that such individuals are more important, ultimately, than any larger constituent group" (p.</s><s xml:id="_dx7raJs">5).</s><s xml:id="_VxgDVeg">What needs to be made clear immediately is that to espouse individualism is not to deny the existence of society.</s><s xml:id="_UsBAJV6">It is rather to put the notion of society into its proper place.</s><s xml:id="_Rk8brkb">A society can be viewed as a construction aimed at serving the interests of individuals <ref type="bibr" target="#b12">(Graham, 1988)</ref>.</s><s xml:id="_YtmvbRM">Its existence can therefore only be justified in so far as it furthers the self-chosen desires of its members.</s><s xml:id="_4TYmRaE">This is not to suggest, however, that any one individual is able to control a society, nor that it is possible to purposively design a particular type of society (and, of course, not without violating the interests of other free individuals).</s></p><p xml:id="_Jb245TE"><s xml:id="_atVRY3f">An individualist view of society suggests that their can be no interest of a society or social good as such, only the agglomeration of individual goods.</s><s xml:id="_au49v22">These goods may to an extent be incommensurable <ref type="bibr" target="#b13">(Gray, 1995)</ref>, but a commonality of interests can be said to coalesce to the extent that any cohesion amongst individual interests can be maintained.</s><s xml:id="_MvGaddC">What is clear, however, is that there can be no social good which can override that of any individual, for to do so would be to reduce the interests of that individual to a means.</s><s xml:id="_qJPsnpf">This Kantian notion on the limits to state action has been stated by <ref type="bibr" target="#b44">Nozick (1974)</ref>:</s></p><p xml:id="_zxWevGj"><s xml:id="_hCutYk5">there is no social entity with a good that undergoes some sacrifice for its own good.</s><s xml:id="_GFRwSNk">There are only individual people, different individual people, with their own individual lives.</s><s xml:id="_MqtzpHF">Using one of these people for the benefit of others, uses him and benefits the others.</s><s xml:id="_Tkaq5QZ">Nothing more.</s><s xml:id="_Vyp2Dz5">What happens is that something is done to him for the sake of others.</s><s xml:id="_uFBZRRb">Talk of an overall social good covers this up.</s><s xml:id="_VV5b6WA">(Intentionally?)</s><s xml:id="_GaFQdaz">To use a person in this way does not sufficiently respect and take account of the fact that he is a separate person, that his is the only life he has.</s></p><p xml:id="_ErcAmTc"><s xml:id="_ErNkQjX">He does not get some overbalancing good from his sacrifice, and no one is entitled to force this upon him -least of all a state or government that claims his allegiance (as other individuals do not) and that therefore scrupulously must be neutral between its citizens.</s></p><p xml:id="_grfWFXp"><s xml:id="_kffwr4R">(pp. 32--3, author's emphasis) Thus the significant element of political individualism is that a society is an agglomeration of individuals and that the interests of the constituent individuals are all that there is.</s><s xml:id="_ge6C83N">A society exists to serve and represent the interests of individuals.</s><s xml:id="_eSZpgX9">Moreover its moral existence is guaranteed only so long the interests of individuals are not violated.</s></p><p xml:id="_949YGCZ"><s xml:id="_g2HpR8A">The second assumption, that there is an epistemological 'gap' between the intentions of centralised planners and the resultant outcomes, relies on the work of <ref type="bibr" target="#b15">Hayek. Hayek (1948</ref><ref type="bibr" target="#b17">, 1967</ref><ref type="bibr">, 1978</ref><ref type="bibr" target="#b12">, 1988)</ref> is concerned to correct what he considers the fallacy of policy constructivism which he suggests pervades collectivist approaches to social and public policy.</s><s xml:id="_fPhpYeu">He states that there is a belief within collectivist approaches that as all institutions have been made by human action they can be remade by further deliberative action.</s><s xml:id="_RsUc9rZ">This, according to Hayek, is a fundamental error on the part of policy makers.</s><s xml:id="_QP8UxYt">Institutions have developed in a particular way out of the uncoordinated interrelationship of millions of individual actions, none of which of themselves was of fundamental significance.</s><s xml:id="_68SQH2y">According to Hayek, institutions and entities such as language and markets have developed spontaneously <ref type="bibr">(1960,</ref><ref type="bibr">1982)</ref> from human action rather than by any particular design or plan.</s><s xml:id="_QMMXWCa">It was the interaction of millions of individuals pursuing their own interests which has led to the current formation of institutions within a society.</s></p><p xml:id="_uKZ688p"><s xml:id="_vCfdvK9">However, it has become common since the Enlightenment to believe that what has been created by humans can be remade or recreated to suit a different purpose <ref type="bibr" target="#b17">(Hayek, 1967</ref><ref type="bibr" target="#b20">(Hayek, , 1988))</ref>.</s><s xml:id="_vNmBygA">The problem however, as noted by <ref type="bibr" target="#b42">Mises (1981)</ref>, is that the means to calculate the interests of the individuals within this society cannot be collected centrally.</s><s xml:id="_W5r5aPE">There is no satisfactory manner in which the interests of individuals can be differentiated by a large bureaucratic planning entity and the result is standardisation based on certain universal principles which are deemed to apply.</s><s xml:id="_Z46RkwW">In consequence the spontaneity of human interaction is hampered and denigrated.</s><s xml:id="_hXS2Jc7">Thus, for Hayek, the problem of policy constructivism is that the very belief that policy can direct human action appears to stifle, it.</s><s xml:id="_UbrYKNg">This, of course, merely serves to make the constructivism ever more necessary.</s></p><p xml:id="_fwkh57w"><s xml:id="_kj2UBpF">Whilst this approach has been associated with New Right critiques of the role of the state, this so-called social evolutionary approach is now finding a wider audience including elements of the net-marxist left (see <ref type="bibr" target="#b9">Gamble, 1996)</ref>.</s><s xml:id="_QujRKTz">The simple causal relations attributed to government action are therefore now being widely questioned and this is beginning to be seen in housing analysis <ref type="bibr" target="#b53">(Williams, 1997)</ref>.</s><s xml:id="_W6dBXyq">However, much of housing research still places government action as the pivotal point around which all other actions flow.</s><s xml:id="_F3VtJ9g">Indeed, whilst <ref type="bibr" target="#b53">Williams (1997)</ref> discusses the keffects of unforeseen outcomes, he still looks for government action to remedy these effects.</s><s xml:id="_N6FGFnM">My aim, whilst only concentrating on the mainstream housing finance literature, is to suggest that this tendency is the primary fault in the underconceptualisation of housing processes.</s><s xml:id="_uZXt5zs">The issue is thus essentially an epistemological one rather than one simply of approach.</s></p><p xml:id="_prz2Vvz"><s xml:id="_WPuAv6H">Two approaches to housing finance <ref type="bibr" target="#b35">Malpass et al. (1993)</ref> have suggested that much of the work in housing finance falls within two approaches, which whilst they are not totally separated, are quite distinct.</s><s xml:id="_6kpzPNr">They suggest that much work can be described as applied economics (e.g., <ref type="bibr" target="#b10">Garnett et al., 1991;</ref><ref type="bibr" target="#b11">Gibb and</ref><ref type="bibr" target="#b11">Munro, 1991 and</ref><ref type="bibr" target="#b21">Hills, 1991)</ref>.</s><s xml:id="_4Q6aHNN">This approach can be said to be concerned with rent and subsidy levels, the operation of markets and the role of government as regulator, or put another way, with outcomes and the regulation of outcomes.</s></p><p xml:id="_g8AuK9v"><s xml:id="_PYy2p3X">This they contrast with what could be called the policy approach <ref type="bibr">(Malpass and Means, 1993;</ref><ref type="bibr" target="#b35">Malpass et al., 1993)</ref> which is "concerned with issues of implementation as well as policy design: it is concerned with central-local government relations and with the politics of policy as well as the measurement of outcomes" <ref type="bibr">(1993, p. 8)</ref>.</s><s xml:id="_KEHYMSQ">The policy approach is thus concerned more with the process that leads to particular outcomes.</s></p><p xml:id="_8NXXQAn"><s xml:id="_32Rg7KF">In essence these two approaches are concerned with the same issues, of production, consumption and distribution of housing resources.</s><s xml:id="_UXGugDP">The distinction comes in the particular area of analysis they consider to be important.</s><s xml:id="_fvAYkNe">The applied economic approach is more concerned with the outcome of processes whilst the policy approach is concerned with how outcomes are achieved through a deeper understanding of how processes operate.</s><s xml:id="_fDBgWRJ">It is possible to suggest therefore that these two approaches are not mutually exclusive, but are in fact complementary to each other.</s><s xml:id="_eu5Qe4y">They concentrate on different aspects of the same process and there is a considerable overlap in their basic assumptions.</s><s xml:id="_ZEKajeU">They also share some of the same problems.</s></p><p xml:id="_U5dWJNn"><s xml:id="_TkEH8DX">Initially there appears to be an inherent understandability which frames the applied economic and policy approaches.</s><s xml:id="_rW9JPeF">Indeed they appear to fit intuitively within the frame of reference in which housing discourse most comfortably sits.</s><s xml:id="_cbmPVXX">Discussions on provision, consumption and the role of government in fostering, limiting and controlling provision and consumption are seen as the 'natural' domain for housing discourse.</s><s xml:id="_799CWQa">This may be because discourse mirrors policy <ref type="bibr" target="#b27">(Kemeny, 1992)</ref> where housing policy is subservient to economic policy <ref type="bibr" target="#b29">(King, 1996;</ref><ref type="bibr" target="#b43">Muellbauer, 1990)</ref>, policy making itself is nationalised and local power emasculated <ref type="bibr" target="#b24">(Jenkins, 1995)</ref>.</s><s xml:id="_MGQYUw8">One could suggest therefore that there is an apparent correspondence between discourse and reality which, of course, ought to be the responsibility of researchers to achieve or at least aspire to.</s><s xml:id="_78ndG5S">However, as policy is disseminated through the very discourse which seek to describe, comment on and criticise it, we could equally say that this correspondence is merely the result of a circular and thus self-justifying logic.</s><s xml:id="_5YzanJN">These approaches are thus not corresponding to anything but their own analytical limits.</s><s xml:id="_ABEnVWf">My aim is to look beyond these limits and suggest areas of weakness.</s></p><p xml:id="_DFWrAaV"><s xml:id="_bBmKGrS">The applied economic approach is currently the most significant, both in terms of existing texts and weight of analysis.</s><s xml:id="_5C7jRkc">It is a wide-ranging approach incorporating market-oriented discussions <ref type="bibr" target="#b0">(Albon and Stafford, 1987;</ref><ref type="bibr" target="#b5">Black and Stafford, 1988;</ref><ref type="bibr" target="#b39">Minford et al, 1987)</ref> through to Marxian critiques <ref type="bibr" target="#b1">(Ball, 1983)</ref>.</s><s xml:id="_DvabajD">This approach can also be said to dominate recent comparative housing research <ref type="bibr" target="#b3">(Barlow and Duncan, 1994;</ref><ref type="bibr" target="#b37">McCrone and Stephens, 1995;</ref><ref type="bibr" target="#b46">Oxley and Smith, 1996)</ref>.</s><s xml:id="_vAZ9PFr">In addition most of the standard housing finance textbooks take this approach <ref type="bibr" target="#b10">(Garnett et al., 1991;</ref><ref type="bibr" target="#b11">Gibb and Munro, 1991;</ref><ref type="bibr" target="#b21">Hills, 1991)</ref>.</s></p><p xml:id="_vGW2dPu"><s xml:id="_KsVCR8D">The applied economic approach tends to emphasise the outcomes of policy in terms of production and consumption, and the regulation of outcomes.</s><s xml:id="_2RRkmyY">It is therefore largely a quantitative approach, rather than the more qualitative methods used by the policy approach.</s><s xml:id="_F4jQxwR">The approach tends to emphasise quantifiable outcomes, for example of the level of investment, and then seek to understand the reasons which may account for differences over time or across countries <ref type="bibr" target="#b50">(Smith, 1997)</ref>.</s><s xml:id="_cSzYfgQ">Indeed this approach tends to dominate the comparative housing literature in which the measurement of key aggregates is seen as the means of determining significant convergences and divergences.</s><s xml:id="_GrUjQe7">Thus one of the strengths of the applied economic approach, in its macro-economic form, is its ability to measure differences between different policy processes in different countries.</s></p><p xml:id="_9VxkTCs"><s xml:id="_5DH2kMv">The applied economic approach also offers useful insights into the roles of both the state and the market.</s><s xml:id="_5UEEswR">This approach has yielded some highly developed models of how housing markets succeed or fail to meet certain targets presumed to be desirable <ref type="bibr" target="#b3">(Barlow and Duncan, 1994;</ref><ref type="bibr" target="#b32">Maclennan, 1982</ref><ref type="bibr" target="#b33">Maclennan, , 1997;;</ref><ref type="bibr" target="#b46">Oxley and Smith, 1996)</ref>.</s><s xml:id="_RexrBch">Through a discussion of the structural limitations of markets, such analyses can offer insights into the role of the state as regulator and provider of housing.</s><s xml:id="_VYskf7a">Perhaps more rarely critics of government intervention such as <ref type="bibr" target="#b0">Albon and Stafford (1987)</ref> and <ref type="bibr" target="#b39">Minford et al. (1987)</ref> are able to show the limitations of government and how increased use of markets might enhance choice and efficiency.</s><s xml:id="_kufJghc">Thus through the modelling of housing systems the applied economic approach can offer crucial insights into the role of the state and the market.</s></p><p xml:id="_kep9TDm"><s xml:id="_yXj7GSj">A further insight offered by this approach is that it seeks to demonstrate the effects of incentives and motivation.</s><s xml:id="_trabUQq">For example, <ref type="bibr" target="#b0">Albon and Stafford (1987)</ref> are concerned with modelling the micro-economic relations of supply and demand and how government regulation in the form of rent control affects this relationship.</s><s xml:id="_7qCVY9F">They suggest that rent control has led to a drop in supply and an increase in informal and illicit market activity as tenants and landlords moderate their behaviour in the light of government regulation.</s><s xml:id="_Wd9uTjd">This argument has some veracity in that it shows how government action can affect incentives on both the supply and demand side.</s><s xml:id="_8Xxt2f8">Landlords, because they in effect pay the subsidy to their tenants, have a reduced incentive to supply sufficient dwellings to the requisite quality, whilst the demand for dwellings is increased because of the supply leading to the development of informal, non-market means of accessing dwellings.</s></p><p xml:id="_SUSuJ9S"><s xml:id="_WFW3zes">However, whilst this micro-economic approach is useful, it suffers from some oversimplistic assumptions which show the limitations of this approach.</s><s xml:id="_qkEHQ6W">In particular Albon and Stafford, in accordance with neo-classical economic orthodoxy, assume individual actors act rationally and in isolation.</s><s xml:id="_nnHYJDf">Even <ref type="bibr" target="#b32">Maclennan (1982)</ref>, who develops a more sophisticated economic model of choice and decision making in housing markets which allows for imperfect market signals, appears to insist on rationality as the determinant for action.</s></p><p xml:id="_dhBgamZ"><s xml:id="_bfDzt7U">However, as <ref type="bibr" target="#b6">Clark (1992)</ref> has argued, any economic theory which relies on universal axioms and ignores societal influences and historical antecedents is likely to lack realism.</s><s xml:id="_SPj2NWy">It reduces complex phenomena to simple cause and effect which can be predicted through economic science.</s><s xml:id="_5EyN6uz">The result is that the model of the sovereign rational economic actor is an overidealised one which fails to appreciate the complex and irrational nature of human behaviour which operates within the constraints of social rules.</s><s xml:id="_swxZ3bQ">The "Robinson Crusoe" approach of the generalised atomistic individual weighing up the most rational preference consistent with an objective self-interest, whilst possibly assisting in identifying the abstract rights of individuals and the manner in which individual behaviour is modified by changes in economic signals, falls down once one places the individual within a community whose influence is both undefinable and without conscious limits.</s><s xml:id="_ZMKt5dw">Individual action is not constrained and this is precisely because individuals operate within complex extended orders where they have only a limited ability to affect change <ref type="bibr" target="#b16">(Hayek, 1960</ref><ref type="bibr" target="#b17">(Hayek, , 1967</ref><ref type="bibr" target="#b19">(Hayek, , 1982))</ref>.</s></p><p xml:id="_3kQdEY6"><s xml:id="_BSXqK9s">However, the majority of housing finance texts cited above adopt a macroeconomic approach.</s><s xml:id="_SA635rb">They tend to take a more benign view of government action as being necessary to adjust certain market imperfections and to ensure that wider social policy aims are met (e.g., <ref type="bibr" target="#b3">Barlow and Duncan, 1994;</ref><ref type="bibr" target="#b21">Hills, 1991;</ref><ref type="bibr" target="#b46">Oxley and Smith, 1996)</ref>.</s><s xml:id="_EBB6NNk">These approaches tend to concern themselves with aggregate notions of demand, need and supply and how government may assist or hinder the achievement of normative levels of provision and consumption.</s><s xml:id="_rwwckcS">I would suggest that this too is an oversimplified view of the relationships within housing systems.</s><s xml:id="_3ztbN32">It is proposed that government action, of itself, can determine these relationships and thus reduces micro-level action to ciphers for macro-level imperatives.</s><s xml:id="_946qx3c">It is where entities which are properly individual -the housing of individual households -are aggregated into the notion of the 'nation's housing stock'.</s><s xml:id="_2Swjjv6">The result of this nationalisation of individual assets and rights is to imply that individual action is determined through central action.</s><s xml:id="_qF8K8Wz">The problem with such as approach, as <ref type="bibr" target="#b17">Hayek (1967</ref><ref type="bibr" target="#b18">Hayek ( , 1978</ref><ref type="bibr" target="#b19">Hayek ( , 1982</ref><ref type="bibr" target="#b20">Hayek ( , 1988) )</ref> has shown, is that a central agency is simply not competent to determine the interests of a large population.</s><s xml:id="_eFmhUGR">There is simply no means to calculate and co-ordinate to ensure that the ends of individuals are met for them.</s><s xml:id="_x4YaJgY">A central planning agency can simply never know enough to ensure that its outcomes match its planned intentions.</s></p><p xml:id="_bSMasxW"><s xml:id="_dDgFFe7">The reference to the 'national stock', and thus to housing as a national resource, has not only epistemological but moral implications in that it implies there is a justifiable utilitarian imperative to intervene to maximise the national condition.</s><s xml:id="_jPVDfKc">It is to suggest that the housing stock, or more particularly some part of it, may be manipulated to achieve particular ends.</s><s xml:id="_zawQNAs">Thus the housing costs of certain groups may be raised; the dwellings of inner-city owner-occupiers and landlords may be compulsorily purchased and then demolished; and tenants may be placed on probation and then evicted if they do not use their housing in the prescribed manner, all in order to meet the dictates of national policy which is aimed at achieving certain targets regarding production, consumption and distribution.</s><s xml:id="_PDsqQrb">There is thus a presumption of the 'greater good' which may legitimately override the interests of individuals.</s><s xml:id="_pJ8kc2M">This presumption of 'national' authority over the housing of individuals is the practical operation of the communitarian conception of the competence of the state to determine the interests of the community which is at the heart of both conservatism <ref type="bibr" target="#b48">(Scruton, 1980;</ref><ref type="bibr" target="#b52">Willetts, 1992)</ref> and social democracy <ref type="bibr" target="#b8">(Etzioni, 1993;</ref><ref type="bibr" target="#b23">Hutton, 1995;</ref><ref type="bibr" target="#b49">Selbourne, 1994)</ref>.</s><s xml:id="_C3TnmDJ">Thus the applied economic approach, at least in its macro-economic form, follows the communitarian ethic.</s><s xml:id="_NQ3AEtx">Whilst the policy approach stresses different elements within housing finance policy, this concern for communal or aggregated interests is maintained.</s><s xml:id="_VppTHDp">It is also symptomatic of a wider theme within housing and social policy more generally whereby problems are seen as being of national rather than local concern <ref type="bibr" target="#b24">(Jenkins, 1995)</ref>.</s></p><p xml:id="_Bwr9b5K"><s xml:id="_8CAvn3S">The policy approach is a newer and perhaps still emerging attempt to model implementation issues in housing policy.</s><s xml:id="_G77SJYC">It is based on the premise that there is frequently an implementation gap <ref type="bibr" target="#b38">(Means, 1993)</ref> whereby outcomes differ from the intentions of policy makers.</s><s xml:id="_KF3f2xj">This policy approach aims therefore to study the processes of policies rather than merely their outcomes.</s><s xml:id="_q4guARv">This, as <ref type="bibr" target="#b35">Malpass et al. (1993)</ref> have suggested, allows for the study of the complex relationships between government departments and agencies and between the centre and locality.</s><s xml:id="_ASY66Ez">Malpass et al. are able to show how the New Financial Regime imposed on local authorities by the Local Government and Housing Act 1989 developed in a manner in which none of the players within the policy process could have foreseen.</s><s xml:id="_s58SYnR">Not only were there unseen difficulties in implementation, but also institutions changed their practices to moderate the perceived effects of the new regime.</s><s xml:id="_7kbuW4Y">Thus a new and equally complex set of issues developed out of an explicit attempt to simplify the housing finance systems.</s><s xml:id="_Tu9jg6U">These unforeseen consequences have themselves necessitated further regulatory and legislative action which will doubtless create a series of uncontrolled developments.</s><s xml:id="_BPTp2zE">A more sophisticated model of policy implementation at the comparative level, although of necessity less detailed, is offered by <ref type="bibr" target="#b28">Kemeny (1995)</ref>.</s></p><p xml:id="_XncMbT6"><s xml:id="_KXrVBah">The policy approach is undoubtedly a useful addition to the analytical tools of researchers, particularly in that it recognises that unintended consequences may be as significant as the t~aitial policy.</s><s xml:id="_ej663n9"><ref type="bibr" target="#b35">Malpass .et al. (1993)</ref> show how the implementation of the Local Government and Housing Act 1993, whilst ostensibly aiming for greater simplicity and accountability between local and central government, in fact led to a greater complexity in the accounting of subsidy and a considerable overspend on the part of central government partly as a result of their increasing liability for rent rebate subsidy.</s></p><p xml:id="_dpnEFA8"><s xml:id="_bdjDHvC">As distinct from the applied economic approach, the policy approach can be seen as largely qualitative.</s><s xml:id="_CjjXrSP">It is concerned with the responses of particular agencies and institutions to particular initiatives.</s><s xml:id="_grdJgCE">Through an in-depth analysis of the implementation of policy it seeks to understand the relationship between implementors and planners and thus how this relationship may be manipulated to achieve more desirable outcomes.</s><s xml:id="_WgxRg3G">Its strength therefore is largely in the micro-political analysis of policy processes.</s></p><p xml:id="_JkFF4b5"><s xml:id="_tUpctYH">However, despite these differences, the policy approach suffers from constructivist faults similar to these found in the applied economic approach.</s><s xml:id="_3DgsQE6">The policy approach does not see co-ordination problems as epistemological in the manner described by <ref type="bibr" target="#b17">Hayek (1967</ref><ref type="bibr" target="#b18">Hayek ( , 1978</ref><ref type="bibr" target="#b19">Hayek ( , 1982</ref><ref type="bibr" target="#b20">Hayek ( , 1988))</ref>.</s><s xml:id="_wYMC9sb">It sees problems arising from a lack of control within the policy process and an imprecision in the construction of mechanisms.</s><s xml:id="_C6tgwK9">It does not suggest that co-ordination and construction are impossible, but rather that we should seek to understand the process better and thus construct better processes.</s><s xml:id="_2JKfWmQ">Moreover it suggests that unforeseen consequences are not inevitable parts of the policy process in a complex order, but are rather due to implementation problems which can be solved through analysis and a fuller understanding of the policy process <ref type="bibr" target="#b53">(Williams, 1997)</ref>.</s></p><p xml:id="_ebQeBQv"><s xml:id="_JprcVrV">The policy approach is concerned with aggregate level activity and in particular with the relations between government and local authorities as such rather than a government and a particular institution.</s><s xml:id="_f3U9xxn">It thus models the policy process through a series of generalisations about the implementation of government regulations which become moderated, influenced or altered by interaction within the various levels of the policy process.</s><s xml:id="_NEXf3ZB">Using Somerville's (1994) typology, Malpass et al. 's approach can be termed a systems of actor explanation of policy.</s><s xml:id="_8MV8GTn">It therefore does place the role of actors as central.</s><s xml:id="_rSUcTbz">However, it does so within systems or collectivities.</s><s xml:id="_WSrsgkT">The actors within the policy model are not differentiated individual households or agencies but rather collectivised, and necessarily idealised, entities who act within certain parameters set by the policy process itself.</s><s xml:id="_MN6JBU9">This idealisation becomes even more manifest at the comparative level, where, for instance, <ref type="bibr" target="#b28">Kemeny (1995)</ref> is forced into generalising not only within systems but across them, resulting in a simplistic culturalist dichotomy of European housing systems as either 'Anglo-Saxon' or 'Germanic'.</s></p><p xml:id="_R9fwzDj"><s xml:id="_9zMBQqC">Thus both the policy and applied economic approaches are faced with the same problem.</s><s xml:id="_hquZgg5">They are incapable of modelling the role of differentiated subjective individuals within housing systems.</s><s xml:id="_KtYjvVe">Individuals are either ignored altogether or seen as an ideal type whose reaction can be almost guaranteed by the operation of particular economic or policy instruments.</s><s xml:id="_vwsV2Dh">Individuals are seen as being reactive and dependent upon the actions of government or institutions, which themselves are modelled as generalities.</s><s xml:id="_MmdxAye">Indeed even when the individual is portrayed in models of the housing market it is a rational consumer whose behaviour can be predicted by the psychological nostrums of orthodox economic theory.</s><s xml:id="_J37W4N8">Thus whilst the two approaches offer distinct methods of analysis, and offer distinctive insights, they share much of the same epistemological framework.</s></p><p xml:id="_hbqRKCn"><s xml:id="_PnvJYXy">A further criticism common to both approaches is that they are unable to deal with how situations have developed.</s><s xml:id="_nH3GYRK">The policy approach aims to look at the design of policy and its implementation but it tends to do it in a piecemeal and reactive manner <ref type="bibr" target="#b35">(Malpass et al., 1993;</ref><ref type="bibr">Matpass and Means, 1993)</ref>.</s><s xml:id="_mS7NcyP">It takes a particular piece of policy and follows it through its gestation and development.</s><s xml:id="_TXeCUNf">However, through a concentration on the mechanics of the policy process and the relationships between the levels of government, it fails to attend to the formation of the processes themselves.</s><s xml:id="_QBxr9v5">Both <ref type="bibr" target="#b3">Barlow and Duncan (1994)</ref> and <ref type="bibr" target="#b21">Hills (1991)</ref>, as examples of the applied economic approach, suggest that housing subsidies can be justified by a technical explanation concentrating on the nature of housing markets and the role of the state in the distribution of resources.</s><s xml:id="_bQd6J3E">Thus political action is reduced to a series of technical arguments and empirical statements on the 'success and failure' of certain policy mechanisms.</s><s xml:id="_pRCVVbd">The manner in which these systems have developed, and particularly their normative context, are largely unconsidered.</s><s xml:id="_MjMj3qN">As <ref type="bibr" target="#b4">Bengtsson (1995)</ref> has suggested, housing researchers tend to shy away from normative arguments.</s><s xml:id="_TUYF42F">However, as Bengtsson shows, these normative elements are essential if one is to come up with any realistic notions of need, justice and the respective roles of government and the market.</s></p><p xml:id="_zubehDP"><s xml:id="_uzeRtjT">Moreover there is an implicit assumption that social change is instituted by government action that is both purposive and deliberate.</s><s xml:id="_eQyy47X">Government is seen to act with some clear goal in mind.</s><s xml:id="_eFhgQQK">Thus the policy approach seeks to identify aims and objectives and then to chart the implementation of policy seeking to achieve them.</s><s xml:id="_EJyAnat">The history of housing is thus reduced to the history of government action which can be judged as a success or failure according to the concordance of objectives and outcomes.</s><s xml:id="_u55wyhU">Yet a considerable amount of government action is reactive to changes in events and circumstances rather than being a result of expressed intentions.</s><s xml:id="_KWQTvJb">One can see the advent of the large-scale voluntary transfer of local authority housing stock not as the result of government planning but as happening as a means of ameliorating its effects on the autonomy of local authorities to control their stock.</s></p><p xml:id="_b8VF7G2"><s xml:id="_aJCPBXj">The concentration on one element within a complex social order, namely central government, implies a passivity amongst the rest of that social order which is quite unrealistic.</s><s xml:id="_XCEjNDd">Individuals, within institutions, collectives and separately, are continually reacting to a complex mix of signals being sent out from others.</s><s xml:id="_6XMk687">To reduce this to a linear relationship between government and agent is to ignore much that is significant within the policy process.</s><s xml:id="_fEMAxaC">This inability to explain how complex orders develop is also found in the applied economic school.</s><s xml:id="_dpkwQqn">Its proponents rely on the idealised notions of neo-classical economics and thus seek to remove the normative elements within economic discourse <ref type="bibr" target="#b6">(Clark, 1992;</ref><ref type="bibr" target="#b14">Hargreaves-Heap and Hollis, 1984;</ref><ref type="bibr" target="#b40">Mirowski, 1989;</ref><ref type="bibr" target="#b47">Rosenberg, 1992)</ref>.</s><s xml:id="_xHb2bMM">The emphasis on the.</s><s xml:id="_p7Hz5Kz">scientific basis of economics leads it to ignore societal and historical explanations concentrating instead on measurable entities which allows economics to claim a positivistic empirical status.</s><s xml:id="_986g9UE">However, as <ref type="bibr" target="#b47">Rosenberg (1992)</ref> has suggested, economic theory remains predictively unimproved and unimprovable because of the opacity to measurement of what is its basic element, namely human behaviour based on desires and beliefs (stated in economic theory as preferences and explanations).</s><s xml:id="_5gYG9FC">Desires and beliefs cannot be reducible to nostrums of human rationality, in that they may not be conscious or fully formulated, and thus economic theory fails to accurately predict-economic behaviour.</s><s xml:id="_aKd7ejs">Positivist economic theory cannot model the motivation behind desires and beliefs (as opposed to the motivations deriving out of desires and beliefs) and thus ignores it and takes desires and beliefs as both given and open to generalisation.</s></p><p xml:id="_gVaR7TZ"><s xml:id="_shBmSXc">Thus I would suggest because of these theoretical inadequacies both approaches are incapable of describing how systems have formed and develop because they expressly ignore the normativity of human action in favour of rational or constructivist models of action <ref type="bibr" target="#b18">(Hayek, 1978)</ref>.</s></p><p xml:id="_ZrKUpYw"><s xml:id="_afJfHWB">Another criticism common to both approaches is that they tend to offer an analysis bounded by tenure.</s><s xml:id="_hpcsbZB">They deal with tenures as distinct and separated and which therefore have different mechanisms and guiding principles.</s><s xml:id="_F7tckMq">This is to be expected with the policy approach which concentrates on specific processes of implementation.</s><s xml:id="_aeFFet5">This approach, because it deals with policy on a piecemeal basis, needs to segment housing systems into discrete elements.</s><s xml:id="_FEnztt5">However, this means that whilst the policy approach may be concerned with the unintended consequences of policy, it can only study this problem within a segmented flame.</s><s xml:id="_Vwsgs4g"><ref type="bibr" target="#b35">Malpass et al. (1993)</ref> consider only the effects on local authorities.</s><s xml:id="_qVq9Jcf">Yet the Local Government and Housing Act 1989, with its measures to constrain local authority activity and make them less viable as responsive landlords, can only be properly understood alongside the Housing Act 1988 which offered the incentives to tenants to leave local authority control <ref type="bibr" target="#b29">(King, 1996)</ref>.</s><s xml:id="_NufXZTF">Moreover the consequences of the 1989 Act have significantly altered the relationships between local authorities and housing associations.</s><s xml:id="_umyFxpu">It is noteworthy that a more general text using the policy approach also explicitly accepts segmentation by tenure <ref type="bibr">(Malpass and Means, 1993)</ref>.</s><s xml:id="_5JnW9Kr">This segmentation by tenure is also a feature of the applied economic textbooks (with the exception of <ref type="bibr" target="#b10">Garnett et al., 1991)</ref>.</s><s xml:id="_qBjk8pE">This may be because of ease of explanation and dissemination, but it has the effect of creating the impression that there are distinct and separated systems of provision.</s></p><p xml:id="_U8TkjAA"><s xml:id="_n89pCZN">This is related to a more substantive theoretical objection.</s><s xml:id="_HmbKhek">There is a tendency to assume that housing systems are closed, both within tenures and between housing and other political, cultural and economic processes.</s><s xml:id="_GRT5E9m">The policy approach internalises the change process and thus is concerned with technical issues of implementation and regulation.</s><s xml:id="_vb5bW7V">There is little consideration of what implications policy has for other areas of social and economic policy or indeed how these other fields affect housing policy.</s><s xml:id="_t7daPkP">An exception to this is <ref type="bibr" target="#b28">Kemeny (1995)</ref> as his work is expressly concerned with the relationships between private and government sponsored rented housing.</s></p><p xml:id="_RQx6BKP"><s xml:id="_ZqeJPY5">The applied economic approach, with the partial exception of <ref type="bibr" target="#b21">Hills (1991)</ref>, likewise compartmentalises housing systems either within a typology of market/nonmarket (private/public) or tenure.</s><s xml:id="_8f4WvQE">Indeed the more theoretical applied economic texts such as <ref type="bibr" target="#b0">Albon and</ref><ref type="bibr" target="#b0">Stafford (1987) and</ref><ref type="bibr" target="#b45">O'Flaherty (1996)</ref> insist upon closed systems as means of simplifying explanations of complex behaviour.</s><s xml:id="_UDgJ9Cr">This is through the use of the ceteris paribus assumption which assumes that only one variable alters and thus allows for prediction.</s><s xml:id="_eRpFcpU">However, this assumption (which, of course, never holds in reality) closes off systems to any other influence than the particular variable under investigation <ref type="bibr" target="#b14">(Hargreaves-Heap and Hollis, 1984)</ref>.</s><s xml:id="_g8SJ9zA">Such an assumption is justified in that it purports to allow for clarity of analysis by limiting the objects of study <ref type="bibr" target="#b45">(O'Flaherty, 1996)</ref>.</s><s xml:id="_caHgrVm">Yet this is only valid if one presumes that variables are independent of and unrelated to each other and that causality can be isolated within a particular set of relations.</s><s xml:id="_8szv2cr">If these presumptions do not hold, then simplification will not lead to greater clarity.</s></p><p xml:id="_cmb6rnw"><s xml:id="_Qb7A2SM">This means that both schools are not able to fully appreciate the cross-over effects of policy whereby one tenure influences another or where another aspect of public policy impinges on housing.</s><s xml:id="_gYKK7Sk">Therefore, by way of example, <ref type="bibr" target="#b0">Albon and Stafford (1987)</ref> see the imposition of rent control as the reason for the decline of private renting and take no account of other factors such as the relative desirability of other sectors, the relative effect of government subsidies across tenures, the general rise in affluence and economic stability which allowed for a greater level of owner-occupation <ref type="bibr" target="#b7">(Daunton, 1987)</ref>.</s></p><p xml:id="_Ggqqb6h"><s xml:id="_8CVTGeF">What follows from this is that the two common approaches to housing t'mance, because of their closed systems combined with their constructivist nature, are unable to fully appreciate the influence of unintentional action.</s><s xml:id="_xMqSJVQ">This is perhaps less of a problem for the policy approach than for the applied economic approach because the former is concerned with the effect and implications of policy.</s><s xml:id="_57m2yv6">Yet it still tends to see outcomes as the result of intentional, purposive acts.</s><s xml:id="_KvnXgWf">This implies a high level of knowledge and a full understanding of the interrelationships between and within institutions as well as the passivity of the recipients of policy.</s><s xml:id="_jfm69WX">The effect is still to reduce substantially the complexity of the housing process with its many interrelated and connected systems and individual interests.</s></p><p xml:id="_BKPrhvg"><s xml:id="_EDvEYNz">The issue of unintended consequences has been addressed by <ref type="bibr" target="#b53">Williams (1997)</ref> in much the same way as alluded to above, but with distinctly different conclusions.</s><s xml:id="_5jBEsGD">Williams suggests that whilst our knowledge of housing systems has increased: we still do not fully understand the interactions between different elements or the ways these combine in different ways in different settings.</s><s xml:id="_8adSt54">As a result policy, however well conceived, can have major unintended consequences, worsening the position and forcing yet more policy interventions.</s><s xml:id="_g7tH3hB">(p. 2) This, according to Williams, is due to the collective effect of policies which may be contradictory and conflictual, even when individual elements may be effective in their narrow scope.</s><s xml:id="_BsKAZ5A">Moreover the effects of policy may be long term and thus the results may not be immediately known.</s><s xml:id="_vVPHDgG">Williams suggests that:</s></p><p xml:id="_MG9UvJt"><s xml:id="_eYGMAxV">In part, this is because central government policy might be the starting point for change but in reality policy is actually implemented by a range of organisations (typically providers, e.g., local authorities and housing associations, lenders, builders) and through the actions of individual consumers.</s><s xml:id="_U2tRAGp">(p. 2) Thus, because of its complexity and long-term nature, housing policy is prey to unintended consequences.</s><s xml:id="_sqGQPhu">Williams suggests that the remedy to this situation is to adopt a more long-term and measured approach to housing policy and attempt to find policy prescriptions which may transcend short-term political and electoral interests.</s></p><p xml:id="_zeSxe7h"><s xml:id="_kn3QHq4">My aim here is not to question the likelihood of transcending the short-term nature of policy (although one wonders what incentives politicians and policy makers might have for limiting themselves to the virtuous path without the certain knowledge of their opponent's compliance).</s><s xml:id="_c6HFVkZ">Instead I wish to question the assumptions that lie behind Williams' position.</s><s xml:id="_xZ8eYrC">He is clearly correct to point to the effect of unintended outcomes, yet he sees this as a matter of not knowing enough and the interrelationships which occur in a complex social order.</s><s xml:id="_5sb2YyB">It is not that government is not competent, but that it has not proved capable yet.</s><s xml:id="_PVNvw4N">In short, there is no questioning of the ability of policy makers to formulate the correct policies eventually.</s><s xml:id="_jFGuAvE">Unintended consequences are seen as being due to the system not operating properly, whilst I would suggest it is due to the nature of the system itself.</s><s xml:id="_WMZnEzY">It is not possible to rid. the system of unintended consequences, not because we currently do not know enough, but because we can never do so.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_NH2Gak8">Conclusion</head><p xml:id="_bSXwDch"><s xml:id="_UdztXtr">The two mainstream approaches to housing finance policy identified by <ref type="bibr" target="#b35">Malpass et al. (1993)</ref> have been shown to be seriously deficient, and to share similar flaws which leads one to question the veracity of the distinction between them.</s><s xml:id="_v2kK3mc">By way of summary I would suggest that they fail to concern themselves with four substantive areas and as a result they are incapable of dealing with housing phenomena in their full complexity.</s><s xml:id="_P4E8jAB">By concentrating on these areas I can suggest the essential elements of an alternative, or perhaps better described as an additional, approach to the study of housing phenomena.</s></p><p xml:id="_bzsGMmW"><s xml:id="_8kxgWBY">Firstly, we have seen that they fail to recognise this very complexity of processes themselves through the adoption of simplistic predictive models of economic and social interaction.</s><s xml:id="_ewUy9sv">These take the form of either economic rationality or the linear relationship of government with other collectivities.</s><s xml:id="_4fbzrGC">There is thus a need to see housing phenomena within a complex social order that operates through mechanisms which many, if not all, of the players fail to fully comprehend <ref type="bibr" target="#b17">(Hayek, 1967</ref><ref type="bibr" target="#b20">(Hayek, , 1988))</ref>.</s><s xml:id="_fRBzfnV">Thus an approach is needed which does not call for 'better' government intervention <ref type="bibr" target="#b53">(Williams, 1997)</ref> but rather sees its epistemological limits.</s></p><p xml:id="_g3MZJWa"><s xml:id="_XcZh7Ux">Secondly, the mainstream approaches fail to account for the effect of individual action.</s><s xml:id="_m8x2Uh7">They do not particularly seek to define the role of the active individual.</s><s xml:id="_cVyAe8t">However, even when they do, in the case of micro-economic analyses such as <ref type="bibr" target="#b0">Albon and Stafford (1987)</ref>, they do not seek to individuate action according to normative or subjective notions of rationality which take into account perceptions and expectations.</s><s xml:id="_zNuuEKh">Instead the oversimplistic rational model common to orthodox economic theory is applied.</s><s xml:id="_GFv4k4b">Thus we need an approach which sees individual action as both differentiated and subjective according to individual ends.</s></p><p xml:id="_Wkc3Myu"><s xml:id="_E49dXgf">Thirdly, neither the applied economic nor the policy approaches attempt to explain the formation and development of processes and systems.</s><s xml:id="_RTmbnCn">These processes and systems are seen as givens (and thus any development is generated internally) and what is studied is their operation.</s><s xml:id="_nayJ7Rw">In effect analysis is only attempted regarding the operation within the system.</s><s xml:id="_GbyTN5a">There is an inability to get beyond the realm in question to determine the manner in which systems may form and develop <ref type="bibr" target="#b44">(Nozick, 1974)</ref>.</s><s xml:id="_Z7HGbB3">Thus the systems are explained merely in terms of their own parts or ends, rather than by the instrumental effect they may have within the wider social order.</s><s xml:id="_fxkEHgN">Therefore an alternative approach would see housing as a means to the fulfilment of particular ends, be they of the state, institutions or individual households.</s></p><p xml:id="_s9e2c38"><s xml:id="_xWvNzKX">A further effect of this failure is that elements of the system are either seen as natural or necessary and thus normative notions about the extent of markets and governments can be restated as technical criteria of efficiency or distribution <ref type="bibr" target="#b0">(Albon and Stafford, 1987;</ref><ref type="bibr" target="#b3">Barlow and Duncan, 1994;</ref><ref type="bibr" target="#b21">Hills, 1991;</ref><ref type="bibr" target="#b39">Minford et al., 1987)</ref>.</s><s xml:id="_kDT56YG">These technical notions need to be stripped bare and shown for the normative concepts they are.</s><s xml:id="_2YshRnK">This implies that the ideological underpinnings of policy prescriptions need to be addressed.</s><s xml:id="_PtWwNjx">This will take housing researchers into the realms of philosophical analysis.</s><s xml:id="_Z5ywW2Y">In doing so, however, it will clearly show up the normativity of current systems of provision.</s></p><p xml:id="_sntjaYv"><s xml:id="_dsd8pCP">Fourthly, there is either a failure to consider the cross-over effects and unintended consequences of action, or an inability to fully consider the implications of these effects for the policy process.</s><s xml:id="_hxdMpFx">This is in turn due to a failure to fully understand the openness of systems to influence from other areas with a complex social order.</s><s xml:id="_SDquhuW">Thus it is an error to consider housing phenomena in isolation from wider notions and to model the housing process as constitutive of its own motivation.</s><s xml:id="_KxHKEjU">The root of this problem is that housing policy is all too frequently discussed as nationally focused government action.</s><s xml:id="_jk72JXR">It is a top-down approach which gives too little attention to the context in which government operates.</s><s xml:id="_6mRMP76">Indeed one can suggest the error arises because researchers confuse activity with competence.</s><s xml:id="_XdTZZTX">Thus an alternative approach should be centred on the limitations on the players within the policy process <ref type="bibr" target="#b29">(King, 1996)</ref>.</s></p><p xml:id="_geU693b"><s xml:id="_U3HDyfz">What this suggests, therefore, is an alternative approach to the study of housing finance (and by implication housing phenomena more generally) which recognlses the limits of government action and competence and which places the individual as an equal player along with government and agencies.</s><s xml:id="_FUky6Hf">It has been an attempt to show, through the deficiencies of constructivist methodologies, how a methodological individualist approach can offer greater insights into the relationship of households and their housing.</s><s xml:id="_78R96jF">This paper has not attempted to outline such an approach, but rather to suggest why it is necessary.</s></p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_UY38hqz">Rent Control</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Albon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">C</forename><surname>Stafford</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781032646152</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_uZWuHxR">Rent Control</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Albon, R., and D. Stafford (1987) Rent Control, London: Croom Helm.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_jfdUXnA">The political economy of owner occupation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ball</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203472613.ch12</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Ma6YUwn">Housing Policy and Economic Power</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1983-12-15">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ball, M. (1983) Housing and Economic Power: The Political Economy of Owner Occupation, London: Methuen.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Berlin</surname></persName>
+		</author>
+		<title level="m" xml:id="_acHcJq3">Four Essays on Liberty</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berlin, I. (1969) Four Essays on Liberty, Oxford: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Duncan</surname></persName>
+		</author>
+		<title level="m" xml:id="_qQkk3fG">Success and Failure in Housing Provision</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pergamon</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barlow, J., and S. Duncan (1994) Success and Failure in Housing Provision, Oxford: Pergamon.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_UzCSgUt">Politics and housing markets: Four normative arguments</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bengtsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_C6RgGZy">Scandinavian Housing and Planning Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="123" to="140" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bengtsson, B. (1995) &quot;Politics and housing markets: Four normative arguments&quot;, Scandinavian Housing and Planning Research (12), pp. 123-140.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_sNp4Aru">Housing Policy and Finance</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Stafford</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203446225</idno>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Black, J., and D. Stafford (1988) Housing Policy and Finance, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main" xml:id="_A65SbzA">Economic Theory and Natural Philosophy: The Search for the Natural Laws of the Economy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Clark</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Edward Elgar</publisher>
+			<pubPlace>Aldershot</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clark, C. (1992) Economic Theory and Natural Philosophy: The Search for the Natural Laws of the Economy, Aldershot: Edward Elgar.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daunton</surname></persName>
+		</author>
+		<title level="m" xml:id="_ezUrbj9">A Property Owning Democracy</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Faber</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Daunton, M. (1987) A Property Owning Democracy, London: Faber.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Etzioni</surname></persName>
+		</author>
+		<title level="m" xml:id="_hYkmNuX">The Spirit of Community: Rights, Responsibilities and the Communitarian Agenda</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Fontana</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Etzioni, A. (1993) The Spirit of Community: Rights, Responsibilities and the Communitarian Agenda, London: Fontana.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_xHTssZk">The Iron Cage of Liberty</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Gamble</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780429039607-8</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_CR6s4EF">Hayek</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="177" to="194" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gamble, A. (1996) Hayek: The Iron Cage of Liberty, Cambridge: Polity.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main" xml:id="_braA5qf">Housing Finance</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Garnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Riley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>CIH/Longman</publisher>
+			<pubPlace>Coventry</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd edition</note>
+	<note type="raw_reference">Garnett, D., B. Reid and H. Riley (1991) Housing Finance, 2nd edition, Coventry: CIH/Longman.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main" xml:id="_JCeXFqQ">Housing Finance in the UK: An Introduction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gibb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Munro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Macmillan</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gibb, K., and M. Munro (1991) Housing Finance in the UK: An Introduction, Basingstoke: Macmillan.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_HHtPkrZ">Review Essays : Marxist Theory and Soviet Practice Ernest Gellner&apos;s Appraisal of Contemporary Soviet Ethnography DANIEL LITTLE Colgate University Ernest Gellner, State and Society in Soviet Thought. Blackwell, Oxford, 1988. Pp. x, 193. $39.95</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Graham</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/004839319202200206</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UNbmSvz">Philosophy of the Social Sciences</title>
+		<title level="j" type="abbrev">Philosophy of the Social Sciences</title>
+		<idno type="ISSN">0048-3931</idno>
+		<idno type="ISSNe">1552-7441</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="238" to="240" />
+			<date type="published" when="1988">1988</date>
+			<publisher>SAGE Publications</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Graham, G. (1988) Contemporary Social Philosophy, Oxford: Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_7KyHQrB">Isaiah Berlin</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Gray</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9780691213385</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_p7FZvvE">Isaiah Berlin</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gray, J. (1995) Isaiah Berlin, London: Harper Collins.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_kaFwz6m">Feature Review</title>
+		<author>
+			<persName><forename type="first">Shaun</forename><surname>Hargreaves-Heap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hollis</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13563460701485714</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AAuvdzb">New Political Economy</title>
+		<title level="j" type="abbrev">New Political Economy</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Whynes</surname></persName>
+		</editor>
+		<idno type="ISSN">1356-3467</idno>
+		<idno type="ISSNe">1469-9923</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="443" to="447" />
+			<date type="published" when="1984">1984</date>
+			<publisher>Informa UK Limited</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hargreaves-Heap, S., and M. Hollis (1984) &quot;Bread and circumstances: The need for political economy&quot;, in Whynes, D. (ed.), What is Political Economy: Eight Perspectives, pp. 7-30, Oxford: Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main" xml:id="_52SwMqD">Individualism and Economic Order</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1948">1948</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1948) Individualism and Economic Order, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+		<title level="m" xml:id="_Z38VFRT">The Constitution of Liberty</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1960) The Constitution of Liberty, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_K9n2Z9M">Studies in Philosophy, Politics and Economics</title>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1967) Studies in Philosophy, Politics and Economics, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_hdGZxQd">New Studies in Philosophy, Politics, Economics and the History of Ideas</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1978) New Studies in Philosophy, Politics, Economics and the History of Ideas, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_a2Ur9Jv">Law, Legislation and Liberty: A New Statement of the Liberal Principles of Justice and Political Economy</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1982) Law, Legislation and Liberty: A New Statement of the Liberal Principles of Justice and Political Economy, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_dBqpyXt">The Fatal Conceit</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Bartley, Iii</surname></persName>
+		</author>
+		<idno type="DOI">10.7208/chicago/9780226321158.001.0001</idno>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1988) The Fatal Conceit: The Errors of Socialism, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hills</surname></persName>
+		</author>
+		<title level="m" xml:id="_JHY3rjF">Unravelling Housing Finance: Subsidies, Benefits and Taxation</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hills, J. (1991) Unravelling Housing Finance: Subsidies, Benefits and Taxation, Oxford: Clarendon.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_PdS4gDY">The Elgar Companion to Austrian Economics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Horowitz</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9780857934680</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_uyqcdzS">The Elgar Companion to Austrian Economics</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Boettke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Aldershot</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="1994-01-01">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Horowitz, S. (1994) &quot;Subjectivism&quot;, in Boettke, P. (ed.), The Elgar Companion to Austrian Economics, Aldershot: Edward Elgar.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_8z9Rjnq">The State We&apos;re In</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hutton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Jonathan Cape</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hutton, W. (1995) The State We&apos;re In, London: Jonathan Cape.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main" xml:id="_AU9HCpN">Accountable to None: The Tory Nationalisation of Britain</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jenkins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Hamish Hamilton</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jenkins, S. (1995) Accountable to None: The Tory Nationalisation of Britain, London: Hamish Hamilton.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_feaNrSw">Grounding for the metaphysics of morals</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_eZBDezx">Classics in Western Philosophy</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Calm</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="9" to="59" />
+			<date type="published" when="1990">1990</date>
+			<pubPlace>Indianapolis</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3rd edition</note>
+	<note type="raw_reference">Kant, I. (1990) &quot;Grounding for the metaphysics of morals&quot;, in Calm, S. (ed.), Classics in Western Philosophy, pp. I009-59, 3rd edition, Indianapolis:</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Hackett</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Hackett.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_TcpRRP9">Housing and Social Theory</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kemeny</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kemeny, J. (1992) Housing and Social Theory, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main" xml:id="_ppwaW37">From Public Housing to the Social Market: Rental Policy Strategies in Comparative Perspective</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kemeny</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kemeny, J. (1995) From Public Housing to the Social Market: Rental Policy Strategies in Comparative Perspective, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main" xml:id="_5ma6BTr">The Limits of Housing Policy: A Philosophical Investigation</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>King</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>MiddIesex University Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">King, P. (1996) The Limits of Housing Policy: A Philosophical Investigation, London: MiddIesex University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main" xml:id="_JcNY3NP">Individualism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lukes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Blackwell</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lukes, S. (1973) Individualism, Oxford: Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main" xml:id="_ZCthGzc">The Origins of English Individualism: The Family, Property and Social Transition</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Macfarlane</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Blackwell</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Macfarlane, A. (1978) The Origins of English Individualism: The Family, Property and Social Transition, Oxford: Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main" xml:id="_BaXy8qu">Housing Economics</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maclennan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Longman</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maclennan, D. (1982) Housing Economics, London: Longman.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_86FHvRB">The right to housing</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maclennan</surname></persName>
+		</author>
+		<idno type="DOI">10.46692/9781447363859.004</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_FensMH8">Directions in Housing Policy: Towards Sustainable Housing Policies for the UK</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bristol University Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="57" to="74" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maclennan, D. (1997) &quot;The UK housing market: Up, down and where next?&quot;, in Williams, P. (ed.), Directions in Housing Policy: Towards Sustainable Housing Policies for the UK, pp. 22-53, London: Paul Chapman.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</author>
+		<title level="m" xml:id="_Y4kZewk">Reshaping Housing Policy: Subsidies, Rents and Residnalisation</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Malpass, P. (1990) Reshaping Housing Policy: Subsidies, Rents and Residnalisation, London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Warburton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bramley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Smart</surname></persName>
+		</author>
+		<title level="m" xml:id="_CAe56Cf">Housing Policy in Action: The New Financial Regime for Council Housing</title>
+		<meeting><address><addrLine>Bristol</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAUS</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Malpass, P., M. Warburton, G. Bramley and G. Smart (1993) Housing Policy in Action: The New Financial Regime for Council Housing, Bristol: SAUS.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_m2tE9TZ">Book Review: Implementing Housing Policy</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Murie</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00420989420080131</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jSkrQxG">Urban Studies</title>
+		<title level="j" type="abbrev">Urban Studies</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Means</surname></persName>
+		</editor>
+		<idno type="ISSN">0042-0980</idno>
+		<idno type="ISSNe">1360-063X</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="162" to="163" />
+			<date type="published" when="1993">1993</date>
+			<publisher>SAGE Publications</publisher>
+			<pubPlace>Buckingham</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Malpass, P. and R. Means (ed.) (1993) Implementing Housing Policy, Buckingham: Open University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main" xml:id="_EArdpN6">Housing Policy in Britain and Europe</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mccrone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stephens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>UCL Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McCrone, G., and M. Stephens (1995) Housing Policy in Britain and Europe, London: UCL Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_6ZpCcTd">Perspectives on implementation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Means</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_a4967zk">Implementing Housing Policy</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Means</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Buckingham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Open University Press</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Means, R. (1993) &quot;Perspectives on implementation&quot;, in Malpass, P. and R. Means (eds.), Implementing Housing Policy, Buckingham: Open University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Minford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Peel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ashton</surname></persName>
+		</author>
+		<title level="m" xml:id="_EcmHqvu">The Housing Morass: Regulation, Immobility and Unemployment</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>IEA</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Minford, P., M. Peel and P. Ashton (1987) The Housing Morass: Regulation, Immobility and Unemployment, London: IEA.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_a9tb2y8">More Heat than Light: Economics as Social Physics</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mirowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_knRK6hS">Physics as Nature&apos;s Economics</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mirowski, P. (1989) More Heat than Light: Economics as Social Physics, Physics as Nature&apos;s Economics, Cambridge: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main" xml:id="_MTpyS2a">Human Action: A Treatise on Economics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mises</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Von</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<publisher>Contemporary Books</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note>third revised edition</note>
+	<note type="raw_reference">Mises, L. von (1966) Human Action: A Treatise on Economics, third revised edition, Chicago: Contemporary Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mises</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yon</surname></persName>
+		</author>
+		<title level="m" xml:id="_J48zr4C">Socialism: An Economic and Sociological Analysis</title>
+		<meeting><address><addrLine>Indianapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>Liberty Press</publisher>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises, L. yon (1981) Socialism: An Economic and Sociological Analysis, Indianapolis: Liberty Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main" xml:id="_7hTC2ZT">The Great British Housing Disaster and Economic Policy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Muellbauer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Institute of Public Policy Research</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Muellbauer, J. (1990) The Great British Housing Disaster and Economic Policy, London: Institute of Public Policy Research.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nozick</surname></persName>
+		</author>
+		<title level="m" xml:id="_AWqvEcU">Anarchy, State and Utopia</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nozick, R. (1974) Anarchy, State and Utopia, Oxford: Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'flaherty</surname></persName>
+		</author>
+		<title level="m" xml:id="_fed6RHC">Making Room: The Economics of Homelessness</title>
+		<meeting><address><addrLine>Cambridge, Mass</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;Flaherty, B. (1996) Making Room: The Economics of Homelessness, Cambridge, Mass: Harvard University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main" xml:id="_7epjr7v">Housing Policy and Rented Housing in Europe</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Oxley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Spon</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oxley, M., and J. Smith (1996) Housing Policy and Rented Housing in Europe, London: Spon.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main" xml:id="_EQVgWV3">Economics: Mathematical Politics or Science of Diminishing Returns</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rosenberg, A. (1992) Economics: Mathematical Politics or Science of Diminishing Returns, Chicago: University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main" xml:id="_NRqyr73">The Meaning of Conservatism</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scruton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Penguin</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Scruton, R. (1980) The Meaning of Conservatism, London: Penguin.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main" xml:id="_aW53cpP">Principle of Duty</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Selbourne</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/jj.21995702</idno>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Notre Dame Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Selbourne, D. (1994) The Principle of Duty: An Essay on the Foundations of the Civic Order, London: Sinclair-Stevenson.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smith</surname></persName>
+		</author>
+		<title level="m" xml:id="_3EexpC6">What Determines Housing Investment?</title>
+		<meeting><address><addrLine>Delft</addrLine></address></meeting>
+		<imprint>
+			<publisher>Delft University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Smith, J. (1997) What Determines Housing Investment?, Delft: Delft University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_ba5XD4d">On Explanations of Housing Policy</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Somerville</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02815739408730365</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fZBKkJU">Scandinavian Housing and Planning Research</title>
+		<title level="j" type="abbrev">Scandinavian Housing and Planning Research</title>
+		<idno type="ISSN">0281-5737</idno>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="211" to="230" />
+			<date type="published" when="1994-01-01">1994</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Somerville, P. (1994) &quot;On explanation of housing policy&quot;, Scandinavian Housing and Planning Research (11), pp. 211-230.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_7F9SEHk">Modern Conservatism</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Willetts</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-923x.2009.02155.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_n2DpEMH">The Political Quarterly</title>
+		<title level="j" type="abbrev">Political Quarterly</title>
+		<idno type="ISSN">0032-3179</idno>
+		<idno type="ISSNe">1467-923X</idno>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">s1</biblScope>
+			<date type="published" when="1992">1992</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Willetts, D. (1992) Modern Conservatism, London: Penguin.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_8sWKuvj">Introduction: Directions in housing policy</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_vzFs3aM">Directions in Housing Policy: Towards Sustainable Housing Policies for the U-K</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Paul Chapman</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>About the author Peter King is a senior lecturer in Housing Studies at the Centre for Comparative Housing Research at the Montfort University of Leicester</note>
+	<note type="raw_reference">Williams, P. (1997) &quot;Introduction: Directions in housing policy&quot;, in Williams, P. (ed.), Directions in Housing Policy: Towards Sustainable Housing Policies for the U-K, London: Paul Chapman. About the author Peter King is a senior lecturer in Housing Studies at the Centre for Comparative Housing Research at the Montfort University of Leicester.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

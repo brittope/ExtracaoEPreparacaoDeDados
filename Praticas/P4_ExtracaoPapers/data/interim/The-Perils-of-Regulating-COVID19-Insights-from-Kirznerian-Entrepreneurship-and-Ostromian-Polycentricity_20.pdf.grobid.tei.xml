@@ -1,0 +1,1710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_rPbEBUS">The Perils of Regulating COVID-19: Insights from Kirznerian Entrepreneurship and Ostromian Polycentricity</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-11-01">1 November 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Stefanie</forename><surname>Haeffele</surname></persName>
+							<idno type="ORCID">0000-0001-6678-5515</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Jordan</forename><forename type="middle">K</forename><surname>Lofthouse</surname></persName>
+							<idno type="ORCID">0000-0002-5643-2799</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Agustin</forename><surname>Forzani</surname></persName>
+						</author>
+						<title level="a" type="main" xml:id="_PtkG46A">The Perils of Regulating COVID-19: Insights from Kirznerian Entrepreneurship and Ostromian Polycentricity</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2022-11-01">1 November 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BDB007AC6B148B3D6240FFF72D27157E</idno>
+					<idno type="DOI">10.1007/s10101-022-00284-z</idno>
+					<note type="submission">Received: 25 January 2022 / Accepted: 18 September 2022 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_PvZxkKA">Regulation</term>
+					<term xml:id="_9vpTNp8">Public policy</term>
+					<term xml:id="_ZXbSDJ4">Entrepreneurship</term>
+					<term xml:id="_cNbqBJs">Polycentricity</term>
+					<term xml:id="_QJFzSQA">COVID-19</term>
+					<term xml:id="_5CfxVwd">Crisis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_DU4Vwdv"><p xml:id="_BvzZPyU"><s xml:id="_CwvJVqb">During the COVID-19 pandemic, governments at every level in the United States made various policies to reduce the spread of the disease and to mitigate pandemicrelated economic impacts.</s><s xml:id="_CTZMxcV">Such policies included stay-at-home orders that shuttered "non-essential" businesses and economic stimulus programs that provided financial assistance.</s><s xml:id="_9hbnFEv">Using Israel Kirzner's insights from "The Perils of Regulation," we argue that local, state, and federal COVID-19 policies have had and will continue to have long-run spillover effects and other negative unintended consequences.</s><s xml:id="_Y5Nk3BR">Pandemic policies have stifled entrepreneurial discovery and created opportunities for superfluous discovery, thus directing entrepreneurial efforts in directions that would not have existed otherwise.</s><s xml:id="_VmdYr9y">The normative implications of this analysis are that policymakers should better account for the wide variety of seen and unseen costs of policies that are likely to have many negative unintended consequences, regardless of the intentions behind such policies.</s><s xml:id="_dmcgvVr">One of the most effective ways to limit the perils of regulation is polycentric governance systems.</s><s xml:id="_RuXqZDr">With multiple, overlapping decision-making centers, polycentric systems allow for policymakers to experiment with different policy approaches and learn from other jurisdictions.</s><s xml:id="_Yxja5WM">Polycentric systems also limit the spillover effects of negative unintended consequences onto other jurisdictions.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_dDudPDE">Introduction 1</head><p xml:id="_RJqK6Rf"><s xml:id="_8EzWxxg">Beginning in early 2020, the COVID-19 pandemic has devastated the United States, leading to hundreds of thousands of deaths, economic decline, unemployment and labor shortages, and countless other economic and social effects.</s><s xml:id="_PWNZndf">Policymakers at every level of government responded.</s><s xml:id="_Gwj8WUj">For example, nearly every state enacted some form of executive or emergency order to reduce the spread of the disease beginning in March and April 2020.</s><s xml:id="_hzuXTzV">Many of these policies lasted, in some form, well into 2021.</s><s xml:id="_QwuE5eg">These orders provided broad guidelines to prevent the spread of the virus, such as maintaining physical distancing, practicing good hygiene (like handwashing, wearing facemasks, etc.), and limiting travel.</s><s xml:id="_AB4ZSXY">Most of these policies also included stay-athome orders that temporarily prohibited people from leaving their homes, except for "essential" activities. 2 The federal government did not implement a national stay-athome order or enforce essentialness designations, but instead, provided guidelines to determine the "essentialness" of businesses, leaving each state to choose the specific contents of their own stay-at-home policies (Cybersecurity and Infrastructure Security Agency 2020).</s><s xml:id="_WvtwsZc">"Non-essential" businesses were ordered to close, and violators were sometimes fined or imprisoned (see <ref type="bibr" target="#b65">Storr et al. 2021)</ref>. 3</s><s xml:id="_8dTjMmr"> Additionally, the federal government carried out several economic programs to mitigate the pandemic-induced recession (US Government Information and Services 2020).</s><s xml:id="_eh7NcxS">Congress passed two pieces of pandemic-related legislation during 2020: the Coronavirus Aid, Relief, and Economic Security (CARES) Act and the Coronavirus Response Relief Supplemental Appropriations Act.</s><s xml:id="_M6fTmBa">These two relief packages provided trillions of dollars to individuals and businesses impacted by both the pandemic itself and the economic repercussions caused by state restrictions meant to limit the spread of the disease.</s></p><p xml:id="_REKFvDG"><s xml:id="_EcCsq8T">In this paper, we use Israel Kirzner's insights from "The Perils of Regulation" <ref type="bibr">(1985)</ref> to argue that local, state, and federal COVID-19 policies have had and will continue to have spillover effects on other markets, public policies, and individuals.</s><s xml:id="_uzDntTJ">Kirzner's arguments about the perils of regulation emerge from a long intellectual tradition related to the dynamics of interventionism <ref type="bibr">(Mises [1949</ref><ref type="bibr">(Mises [ ] 1998;;</ref><ref type="bibr">Kirzner 1985;</ref><ref type="bibr" target="#b29">Ikeda 2002</ref><ref type="bibr" target="#b28">Ikeda , 2005))</ref>.</s><s xml:id="_dm84Ep5">Markets are highly complex spontaneous orders that cannot be easily controlled.</s><s xml:id="_aKu6sRW">When policies directly and indirectly impact markets, the spontaneous order that makes markets function is altered.</s><s xml:id="_HBmYGx9">An entrepreneur, by definition, is alert to potential opportunities that might arise and is the driver of the market process <ref type="bibr">(Kirzner [1973</ref><ref type="bibr" target="#b34">(Kirzner [ ] 2013</ref><ref type="bibr">(Kirzner [ , 1985))</ref>.</s><s xml:id="_QdSCJgU">Public policies alter previously existing entrepreneurial opportunities and simultaneously create new ones, therefore transforming entrepreneurial activity in a direction it would not have gone otherwise.</s><s xml:id="_zjfGqzb">Public poli- 1 We would like to thank participants of the Polycentrism vs. Gargantua in Municipal Governance: crises and community resilience workshop for their valuable feedback and suggestions.</s><s xml:id="_KPnRB2q">We also want to thank the two anonymous reviewers who gave thoughtful and helpful comments. 2</s><s xml:id="_NTKEjHD">Only South Dakota did not issue an executive order; the governor just recommended businesses to comply with CDC guidelines. 3</s><s xml:id="_BGMqq6y">It is important to note that some states took policy actions that deregulatory as well, such as removing cumbersome "certificate of need" provisions that require potential or existing healthcare providers to obtain permission from state officials to open or expand their operations (see Erickson 2021).</s></p><p xml:id="_evUcUJB"><s xml:id="_HZY2s3P">1 3 cies often disrupt existing and impose new incentives and constraints that entrepreneurs face.</s><s xml:id="_RsnD7GK">In other words, these policies stifle entrepreneurs from discovering the socially beneficial opportunities that they would have discovered if the policies were never enacted.</s><s xml:id="_5HYcb4X">Additionally, the new incentives and constraints lead entrepreneurs to be alert to and take advantage of different profit opportunities, which are often superfluous and possibly socially harmful because they change positive-sum scenarios of mutually beneficial exchange to zero-or even negative-sum scenarios of rent seeking and political competition.</s></p><p xml:id="_UdRD2j7"><s xml:id="_W89HXkD">We argue that many COVID-19 policies, such as stay-at-home orders and large economic stimulus programs, have exhibited signs of Kirzner's perils of regulation, including the stifling of entrepreneurial discovery and creating opportunities for superfluous discovery.</s><s xml:id="_aMjMUwq">This paper fills a gap in the emerging literature on the political economy of COVID-19 by showing how pandemic policies have altered the entrepreneurial market process.</s><s xml:id="_BWWYWkA">Additionally, this paper builds on the previous work of <ref type="bibr" target="#b65">Storr et al. (2021)</ref> on the epistemic limitations of COVID-19 policies like stay-athome orders.</s></p><p xml:id="_BSJmJTT"><s xml:id="_tPsZ4mb">It is difficult to determine to what extent COVID-19 policies prevented a worse scenario than if there had been no interventions at all.</s><s xml:id="_f34FUQd">State restrictions and federal spending programs have undoubtedly benefited many people, but when considering the full range of tradeoffs and unintended consequences, such policies may have created more harm than good in some instances.</s><s xml:id="_wyA4uAY">For example, the increase in the unemployment benefits changed the incentive structure of workers who were laid off.</s><s xml:id="_PPr59YP">Some people earned more money from the unemployment benefits than they previously earned at their job, causing a disincentive to return to work at the margin when it was deemed safe to do so <ref type="bibr" target="#b20">(Ganong et al. 2020;</ref><ref type="bibr" target="#b27">Holzer et al. 2021</ref>). <ref type="foot" target="#foot_0">4</ref></s><s xml:id="_GjRPAsJ">Similarly, the Paycheck Protection Program (PPP) loans system, provided by the Small Business Administration (SBA), was subject to billions of dollars in fraudulent claims <ref type="bibr" target="#b4">(Bailey et al. 2021)</ref>.</s><s xml:id="_A53u6mm">Thus, pandemic policies can and have disrupted the market's discovery process and led entrepreneurs to engage in activities that are often socially wasteful.</s></p><p xml:id="_JDK7EFY"><s xml:id="_f5cjmqt">The normative implications of this analysis are that policymakers should consider the wide variety of seen and unseen costs of policies that are likely to have many negative unintended consequences.</s><s xml:id="_NU4uMZA">Highlighting the perils of regulation does not mean that policymakers cannot or should not create public policies during a pandemic; however, Kirzner's insights illuminate the costs of public policies so that policymakers can more accurately account for the opportunity costs of their decisions.</s><s xml:id="_sGXdKDn">To prevent socially harmful public policies in the future, it is imperative to examine the perils of regulating COVID-19.</s></p><p xml:id="_qf8AmU3"><s xml:id="_Q2tTc8X">Further, particular governance systems, such as polycentricity, may be better suited to adapt to the changing circumstances of an ongoing, global pandemic.</s><s xml:id="_cavUsqt">Polycentric governance structures may be especially helpful when considering the stifled and superfluous discovery processes that were sparked by the various COVID-19 policies.</s><s xml:id="_hg5d6Jd">Since polycentric systems have multiple decision-making centers, policy-makers can experiment with different policies in various jurisdictions.</s><s xml:id="_pj7UESm">Through this "laboratory of democracy," policymakers can mutually learn from the successes and failures of their counterparts in other jurisdictions as well as tailor policies based on their unique circumstances.</s><s xml:id="_SGjVgy8">Additionally, an institutional failure in one jurisdiction is limited in how much it can spillover onto other jurisdictions and lessons from more successful jurisdictions may be utilized to correct course <ref type="bibr" target="#b49">(Ostrom 1976)</ref>.</s><s xml:id="_2uuhWjM">Due to the diversity of stay-at-home orders and essentialness designations among the various states, not all places in the United States experienced the same types of stifled and superfluous entrepreneurial discoveries.</s><s xml:id="_SQKCwen">However, federal policies tended to create similar patterns of stifled and superfluous entrepreneurial discovery throughout the country.</s></p><p xml:id="_4gAAPmc"><s xml:id="_YQ3CaWQ">This paper proceeds as follows.</s><s xml:id="_JTRksvF">In Section 2, we review the theoretical foundations of the market process, the dynamics of interventionism, and Kirzner's conception of the perils of regulation to understand and analyze pandemic policy responses.</s></p><p xml:id="_r5n7Ha6"><s xml:id="_VQfdymG">In Section 3, we analyze some important public policies during the COVID-19 pandemic, including stay-at-home orders and the major COVID-19 relief bills, which have exhibited signs of Kirzner's perils of regulation.</s><s xml:id="_dkKxAzu">Section 4 examines the way in which polycentric governance structures can mitigate the perils of regulation.</s><s xml:id="_Dwb68Av">Section 5 concludes with the implications of this research.</s></p><p xml:id="_FQmmTYg"><s xml:id="_HC4gutU">Entrepreneurial choices are disciplined by market prices and the feedback mechanism of profit and loss.</s><s xml:id="_YgkNBGS">Entrepreneurs are dependent on market prices, which communicate relevant knowledge necessary for both producers and consumers to know when to economize on their use of any resource <ref type="bibr">(Mises [1922</ref><ref type="bibr" target="#b45">(Mises [ ] 1981</ref><ref type="bibr">(Mises [ , [1949</ref><ref type="bibr">(Mises [ ] 1998))</ref>.</s><s xml:id="_qcJVvUD">Entrepreneurs interpret the embedded knowledge in prices and act on that knowledge.</s><s xml:id="_gNcsQn8">In the real world, change is constant, and entrepreneurs read the signals of price changes and react to the feedback of profit and loss to adapt their behavior <ref type="bibr" target="#b30">(Hayek 1945)</ref>. <ref type="foot" target="#foot_3">5</ref></s><s xml:id="_zpUMfR7">As Mises <ref type="bibr">([1944] 2007, 23)</ref> argues, "Population figures, tastes, and wants, the supply of factors of production and technological methods are in a ceaseless flux.</s><s xml:id="_GnJUQ2F">In such a state of affairs there is need for a continuous adjustment of production to the change in conditions.</s><s xml:id="_qscnf3s">This is where the entrepreneur comes in."</s></p><p xml:id="_eRn2CtF"><s xml:id="_z4efev8">In an unhampered market, profit is an indicator that an entrepreneur's ideas and actions are fulfilling human wants, and losses are an indicator that the resources an entrepreneur is using would be employed in more highly valued ways elsewhere.</s><s xml:id="_ebuDvcQ">The market process is a discovery procedure in the sense that it is a dynamic mechanism in which entrepreneurs discover profit opportunities that arise from exchange.</s><s xml:id="_Ft6zEAC">Through the market process, entrepreneurs have both the incentives and the feedback to determine which goods consumers need, how urgent those needs are, which qualities and quantities of goods that consumers demand, where those goods are needed, and when they are needed.</s></p><p xml:id="_fq9M7kW"><s xml:id="_nK4GBfu">The theory of the dynamics of interventionism explains why one policy intervention into a market is often followed by subsequent interventions.</s><s xml:id="_nChXnVq">Government interventions can significantly impact what entrepreneurs are alert to as well as the price signals and the feedback mechanisms of profit and loss they receive <ref type="bibr">(Kirzner 1985)</ref>.</s><s xml:id="_765KeMp">Such policies can incentivize entrepreneurs or potential entrepreneurs to respond directly to the intervention, possibly undermining the stated intentions behind the policy <ref type="bibr" target="#b45">(Mises [1929</ref><ref type="bibr" target="#b45">(Mises [ ] 2011))</ref>.</s><s xml:id="_ux8Bfq4">Further, policies are necessarily simple relative to the complex system being intervened upon.</s><s xml:id="_pEF7mcc">Well-intentioned, micro-level actions will differ from the macro-level patterns that emerge <ref type="bibr" target="#b72">(Wagner 2016)</ref>.</s><s xml:id="_RkjJVH8">The complexity of markets means that any policy interventions, no matter the underlying intentions, will result in a chain of consequences that the interveners could not perfectly predict, given the limitations on human reason.</s><s xml:id="_suZebk9">In the context of government responses to public health crises, the unintended chain of effects from policy can potentially produce significant costs and undermine the intended goals <ref type="bibr" target="#b15">(Coyne et al. 2021)</ref>.</s><s xml:id="_t2Y8D9M">For example, the spread of COVID-19 triggered governments around the globe to institute restrictions on businesses, travel, and social gathering and encouraged (and sometimes forced) residents to remain at home to slow the spread of the disease and not overburden the healthcare system.</s><s xml:id="_abEFMrc">The longer these practices remained in place (both formally and informally through changes in consumer behavior), the more necessary it became to offer stimulus checks and other forms of assistance to counter the economic downturn.</s><s xml:id="_UqqzPP6">Additionally, isolation can lead to more pressure on assistance programs that provide mental health services.</s><s xml:id="_Y8UDd44">In this sense, each policy is partially caused by the ones proceeding it, and each incurs costs as well as providing relief.</s></p><p xml:id="_948ANxu"><s xml:id="_hzEGaU6">Government actors must then decide to implement more interventions to combat these unintended consequences, or to retract the intervention and allow people to engage in the exchanges that they would have if the intervention had never been in place <ref type="bibr" target="#b29">(Ikeda 2002</ref><ref type="bibr" target="#b28">(Ikeda , 2005))</ref>.</s><s xml:id="_DDn3h79">The dynamics of interventionism is a coherent explanation for why some government policies do not achieve their stated ends, and why policymakers may tweak or add on new interventions to stem those unintended consequences.</s><s xml:id="_MMNyFuW">The dynamics of interventionism also explains why policymakers sometimes remove highly distortionary policies once they realize they are not workable.</s><s xml:id="_epJpBpN">Take two examples from the pandemic.</s><s xml:id="_fZ3AM6u">First, Denver, Colorado attempted to close liquor stores and recreational marijuana dispensaries in March 2020, deeming them non-essential (see <ref type="bibr" target="#b57">Redford and Dills 2021;</ref><ref type="bibr" target="#b62">Sexton et al. 2020</ref>).</s><s xml:id="_tyS2hpG">However, when long lines formed outside of the stores just hours after the announcement, the decision was reversed due to public health concerns regarding exposure risk (ibid.).</s><s xml:id="_ETp3tGt">In an attempt to limit activity, policymakers actually instituted policies that could increase the spread of COVID-19 rather than reduce it.</s><s xml:id="_DSEM49f">Second, in the summer of 2020, the federal government declared that any international students enrolled in online courses for the fall would be required to return to their home countries (see <ref type="bibr" target="#b24">Griswold and Salmon 2020;</ref><ref type="bibr" target="#b66">Storr et al. 2022)</ref>.</s><s xml:id="_MtPe4EJ">Universities across the country filed lawsuits and the decision was quickly reversed.</s><s xml:id="_N78rPnb">In the short time it was in place, students, universities, and communities realized the uncertainty and compliance issues with enforcing the rule as well as the economic and social impacts of forcing over one million international students to leave the country (ibid.).</s></p><p xml:id="_9ZUcB26"><s xml:id="_4VQxhru">Not all types of entrepreneurship are socially productive, and some forms of entrepreneurship are socially unproductive or even destructive.</s><s xml:id="_XHp66yW">Productive entrepreneurship yields a net increase in wealth in a society, whereas unproductive entrepreneurship is simply a transfer of wealth, and destructive entrepreneurship reduces the net amount of wealth in a society <ref type="bibr" target="#b5">(Baumol 1990;</ref><ref type="bibr" target="#b43">March et al. 2016)</ref>.</s><s xml:id="_huq7dTU">In other words, productive entrepreneurship is a positive-sum game, unproductive entrepreneurship is a zero-sum game, and destructive entrepreneurship is a negative-sum game.</s><s xml:id="_TufxHNw">The formal and informal incentives and constraints that entrepreneurs face will shape how productive, unproductive, or destructive entrepreneurship will be.</s></p><p xml:id="_24yXuHz"><s xml:id="_7dCg5SK">In societies that have relatively free markets, well-protected property rights, and the rule of law, market entrepreneurship will generally lead to socially productive outcomes as they discover the needs and wants of consumers and compete among themselves to best provide consumers with goods and services.</s><s xml:id="_cP35xNz">Legal structures and public policies are important sources of incentives and constraints for entrepreneurs.</s><s xml:id="_65vTDwa">Despite the intentions motivating public policies, the incentives created by those policies direct market entrepreneurs to be alert to and discover different opportunities that would not have existed if the policy had not been created.</s><s xml:id="_sz45QyP">Policies can encourage productive entrepreneurship if the altered incentives counter market failures or lead to socially beneficial outcomes.</s><s xml:id="_x5w8HQZ">Political rent-seeking, however, is unproductive and can become destructive when competition is restricted.</s><s xml:id="_PysVRTc">When rules and institutions change, the relative payoffs of different activities will also change, leading entrepreneurs to direct their attention and action in different ways.</s><s xml:id="_eHHqaYW"><ref type="bibr">Kirzner's (1985)</ref> "perils of regulation" argument articulates how unintended consequences of policies can arise due to entrepreneurs rationally responding to the incentives and constraints that the policies create, which can then spur further interventions.</s><s xml:id="_PVBkmjf">Kirzner outlines four types of discovery processes that emerge from government interventions into the market process: regulators may try to correct perceived inefficiencies or failures in the market that entrepreneurs have not previously identified or corrected (undiscovered), regulators attempt to simulate market outcomes but fall short (unsimulated), regulators end up restricting entrepreneurship (stifling), and regulators incentivize alternative, less socially useful entrepreneurial activity (superfluous).</s></p><p xml:id="_9FQpW3C"><s xml:id="_2w4C5Ry">The stifling of the entrepreneurial discovery processes of the market is problematic because discoveries that would have satisfied the needs and wants of consumers remain undiscovered.</s><s xml:id="_Xxw9VUF">Additionally, it is impossible to know the costs of the innovations that went undiscovered because we cannot know what would have happened if a policy was never put into place.</s><s xml:id="_7ac2Xm4">Despite this limitation, we can imagine the types of discoveries that would have been made if public policies had not stifled the discovery process.</s><s xml:id="_EK4EzhS">For example, when public policies raise compliance costs, large firms are better equipped to handle those costs, and smaller firms are squeezed out of the market.</s><s xml:id="_sVE3h7c">New entrepreneurial discoveries may arise from smaller or newer firms.</s><s xml:id="_yBTrUZj">As such, smaller firms lose out on potential profit, and consumers lose out on innovations that could have occurred if the smaller firms were able to test out their ideas.</s></p><p xml:id="_tP8ddWG"><s xml:id="_5BCmuwU">Kirzner acknowledges that government regulations may be beneficial in many ways, but just because a public policy has benefits, that does not mean that there are not also costs.</s><s xml:id="_C7yHJFp">To know whether a public policy is socially desirable, the marginal social benefits should equal the marginal social cost.</s><s xml:id="_dS4drg9">If regulations stifle the entrepreneurial discovery processes, the marginal costs of that stifling might outweigh the marginal benefits that come to a society from a particular regulation.</s><s xml:id="_e4uGDkk">As <ref type="bibr">Kirzner (1985, 143-144)</ref> argues, Price and quality restraints and requirements and restriction on organizational forms operate (in a generally understood but not precisely predictable way) to inhibit entrepreneurial discovery.</s><s xml:id="_uuWBJT4">Price ceilings, for example, not only restrict supply from known sources of natural gas (or from known prospects for search), but also inhibit the discovery of wholly unknown sources.</s><s xml:id="_GPmXGqK">Drug testing regulations, as another example, not only reduce the flow of new pharmaceutical drugs where successful research might have been more or less predictable, but also discourage the entrepreneurial discovery of wholly unknown research procedures.</s><s xml:id="_Xc78U7D">Against whatever benefits might be derived from government regulation and intervention, one is forced to weigh, as one of regulation's intrinsically immeasurable costs, the stifling of the market discovery process.</s></p><p xml:id="_zXKrjcA"><s xml:id="_B6QXUaS">Politicians often gain support by enacting policies that favor certain industries, companies, or individuals at the expense of taxpayers.</s><s xml:id="_UKuEyjE">Policymakers have the power of the state to compel others to obey government policies, which may be normatively 1 3 desirable in some cases and detrimental in others.</s><s xml:id="_hWax8K4">The coercive nature of the state allows policymakers to concentrate benefits for special interest groups, while dispersing the costs among everyone else.</s><s xml:id="_cfgEaVM">Thus, political actors can and do design policies in ways that benefit special interests instead of the public interest <ref type="bibr" target="#b26">(Holcombe 2018)</ref>.</s><s xml:id="_2akUsfK">Public policies can create new, superfluous opportunities for entrepreneurial discovery, and many entrepreneurs take advantage of those opportunities.</s><s xml:id="_SFs67xg">For example, entrepreneurs may engage in lobbying and rent seeking to persuade politicians to provide subsidies or protections from competition.</s><s xml:id="_sfKVKMY">However, the policy-dependent opportunities may not be positive-sum like those in an unhampered market.</s><s xml:id="_RaWEsKf">In fact, many of these opportunities exhibit socially harmful tendencies, such as restricted market competition, rent seeking, lobbying, bribery, and other forms of corruption.</s></p><p xml:id="_Bt5Xdm2"><s xml:id="_dkWe3GH">Additionally, once a public policy is enacted, superfluous discovery arises in the market process in response to that policy, regardless of any nefarious or benevolent intentions behind it.</s><s xml:id="_TWmKBJk">Entrepreneurs will be alert to and discover new goods and services that correspond directly to the public policies, and those goods and services would not have been discovered if the policy had never been enacted.</s><s xml:id="_HB3hcTe">For example, COVID policies might alter health and safety requirements for business owners who might not have the time or expertise to keep up on the latest requirements.</s><s xml:id="_95csuWg">Individuals who are familiar with those requirements might act entrepreneurially by selling their knowledge-based services to business owners.</s><s xml:id="_Hrgg9zF">Thus, selling services to help others comply with regulations is a form of superfluous discovery that came about due specifically to the existence of regulations.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_JUH6RFF">COVID-19 policies and the Perils of Regulation</head><p xml:id="_3RZFcQh"><s xml:id="_7YgR3BK">COVID-19 policies have stifled entrepreneurial discovery and created opportunities for superfluous discovery, directing entrepreneurial efforts in directions that would not have existed without those policies.</s><s xml:id="_XuKKQun">The effects of stifled and superfluous entrepreneurial discovery often contradict the goals of the policies that were enacted to suppress the virus and provide assistance for those impacted by the economic and social costs of the pandemic.</s><s xml:id="_TXyvCdm">We examine two types of policies using this lens: stayat-home orders and economic stimulus programs.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_7VgnttX">Stay-at-home orders and essentialness designations</head><p xml:id="_7DfwHY3"><s xml:id="_Udrxgqe">In early 2020, US policymakers at various levels of government began implementing stay-at-home orders or equivalent policies that called for "non-essential" businesses to close while allowing "essential" businesses to continue operations.</s><s xml:id="_pHQ4Gwz">Stay-at-home orders directly affected the livelihoods and economic wellbeing of tens of millions of Americans, thus making them one of the most controversial policies during the COVID-19 pandemic.</s><s xml:id="_9NNWAWJ">Nationwide, a total of 4.4 million businesses (52%) told employees not to work, at least temporarily, during the pandemic, and roughly 1.6 million businesses (19%) were required to close due to government mandates (Bureau of Labor Statistics 2020).</s></p><p xml:id="_8Jznp72"><s xml:id="_myH9fj4">Nearly all definitions of essentialness centered on the health, safety, and welfare of the public and utilized federal guidance for prioritizing certain industries over others (Cybersecurity and Infrastructure Security Agency 2020).</s><s xml:id="_waN8XK9">Most orders had a broad consensus on which industries were essential, including healthcare and pharmaceutical facilities, transportation-related firms, agriculture and food related firms, hardware stores, funeral services, banks, internet and phone providers, energy and utility providers, and many types of retailers.</s><s xml:id="_U87E5nY">However, some notable differences existed among the states regarding the essentialness of some businesses.</s><s xml:id="_6eYeYFB">For example, while most states determined that liquor stores and medical and recreational marijuana dispensaries were essential, Pennsylvania notably closed state-run liquor stores and Massachusetts closed recreational dispensaries <ref type="bibr" target="#b57">(Redford and Dills 2021;</ref><ref type="bibr" target="#b65">Storr et al. 2021)</ref>.</s><s xml:id="_84GsYZc">In some states, pawn shops could be categorized as financial services (and therefore essential) where in others they were not <ref type="bibr" target="#b65">(Storr et al. 2021)</ref>.</s></p><p xml:id="_8VnFz2B"><s xml:id="_Dp2Zc4U">Even bordering states with overlapping metropolitan areas had significant differences in their essentialness designations, such as <ref type="bibr">Delaware, Pennsylvania, and Maryland (WFMZ 2020;</ref><ref type="bibr" target="#b18">Delaware 2020;</ref><ref type="bibr">Maryland 2020;</ref><ref type="bibr" target="#b57">Redford and Dills 2021;</ref><ref type="bibr" target="#b65">Storr et al. 2021)</ref>.</s><s xml:id="_PqRDEvG">For instance, Pennsylvania officials determined that most kinds of construction and electrical and mechanical equipment manufacturing were not essential, but Delaware and Maryland allowed these industries to continue.</s><s xml:id="_2c6buns">Pennsylvania and Maryland forced clothing and footwear manufacturing to stop, but Delaware allowed those industries to continue.</s><s xml:id="_GzueRFz">Pennsylvania forced its alcohol stores to close, but Maryland and Delaware kept them open.</s><s xml:id="_cASZpVV">And Delaware closed its consumergoods rental businesses, but Maryland and Pennsylvania allowed them to remain open.</s><s xml:id="_dm4AyB9">Navigating the sometimes vague and other times incredibly detailed orders can be challenging for business owners and consumers alike, and especially so when living in one state and working in another bordering state. <ref type="foot" target="#foot_4">6</ref></s><s xml:id="_txPW6BW">olicymakers who implemented stay-at-home orders and the accompanying essentialness designations implicitly or explicitly assumed that they knew ex ante which goods, services, and activities are essential.</s><s xml:id="_vK3j47P">However, from a market process approach, policymakers cannot know the true essentialness of any good, service, or activity for at least three reasons: (1) they do not have access to the dispersed, inarticulate, and subjective knowledge of consumers; (2) they lack intimate knowledge about the complex network of production processes that rely on market prices and on-the-ground knowledge to create final consumer goods; and, (3) the world is constantly changing and goods and services that might be essential at one point in time might no longer be essential, meaning that policymakers lack the knowledge to adapt quickly and efficiently to these changes <ref type="bibr" target="#b65">(Storr et al. 2021)</ref>.</s><s xml:id="_pf5fhZu">Thus, in Kirzner's terms, policymakers cannot simulate the advantages of the entrepreneurial discovery process because they lack market prices and the profit-and-loss mechanism to guide their decisions and cannot accurately discover inefficiencies over time and as circumstances change.</s></p><p xml:id="_KGrzj8B"><s xml:id="_MGRty5B">Take, for example, the need for medical equipment during the pandemic.</s><s xml:id="_CMTgzyn">As cases rose in the US, it became clear that ventilators were often necessary treatment for severe cases and that many hospitals lacked enough ventilators to meet demand.</s><s xml:id="_bZCbhvx">In response, the federal government utilized the Defense Production Act to contract with General Motors to produce 30,000 ventilators <ref type="bibr" target="#b15">(Coyne et al. 2021;</ref><ref type="bibr" target="#b74">Wayland 2020)</ref>.</s><s xml:id="_Z2vF3be">However, most hospitals did not have enough trained staff and equipment needed to effectively take on more ventilators (ibid.).</s><s xml:id="_7aVbzZf">While there was potentially a lack of supply, just increasing the number of ventilators would not solve the complex problem of hospital capacity (which includes not only equipment but staff and the services they provide) on its own.</s><s xml:id="_rR8Nwuq">It is only by using the knowledge embedded in market prices and the feedback of profit and loss that allows market entrepreneurs to determine whether their actions are fulfilling the needs and wants of consumers.</s><s xml:id="_Tqenhmj">A central authority is epistemically limited from determining ex ante the kinds of goods or services consumers want and how urgently consumers want them <ref type="bibr">(Hayek 1937</ref><ref type="bibr" target="#b30">(Hayek , 1945;;</ref><ref type="bibr">Kirzner [1973</ref><ref type="bibr" target="#b34">Kirzner [ ] 2013</ref><ref type="bibr">Kirzner [ , 1985;;</ref><ref type="bibr">Lavoie 1985a, b;</ref><ref type="bibr" target="#b7">Boettke 2002;</ref><ref type="bibr" target="#b65">Storr et al. 2021</ref>).</s><s xml:id="_x3a4Rqc">Thus, this example shows how stifling entrepreneurial action undermines the ability to adapt to uncertain and dynamic circumstances.</s><s xml:id="_6QURWG4">In this example, staffing issues were not the only problem; these staffing issues made it more difficult for entrepreneurs to use tacit knowledge that would best allow them to exploit the dispersed information necessary to adapt to consumers' desires.</s><s xml:id="_yEkPbJr">Stifling entrepreneurial discoveries during a crisis is especially problematic because crises are exactly when such discoveries are most needed.</s></p><p xml:id="_EgQuZfG"><s xml:id="_RZKz4cD">Perhaps even more important than the inability of policymakers to simulate the process of entrepreneurial discovery is the stifling of that process.</s><s xml:id="_ze8y6xK">The restrictive nature of many stay-at-home orders created an environment where the normal entrepreneurial discovery process was stifled.</s><s xml:id="_bVXS89Z">During a time of crisis when entrepreneurial discoveries are most needed, stay-at-home orders suppressed the ability of entrepreneurs to engage in finding and exploiting opportunities to fulfil the needs and wants of consumers.</s><s xml:id="_2m9xzMb"><ref type="bibr">Kirzner (1985, 141)</ref> notes that, "A price ceiling, a price floor, an impeded merger, or an imposed safety requirement might block possibly profitable entrepreneurial actions."</s><s xml:id="_jszQ3TM">Stay-at-home orders and essentialness designations are imposed safety requirements that can block profitable entrepreneurial actions.</s></p><p xml:id="_9buHkgu"><s xml:id="_7t9A93D">Stay-at-home orders and essentialness designations stifled the discovery process because they restricted freedom of entry into the market, which subsequently limited the ability of entrepreneurs to make the discoveries that are essential to provide consumers with the goods and services they need.</s><s xml:id="_dRZNkBy">As mentioned earlier, the Bureau of Labor Statistics reported that 19% of businesses were forced to close due to government mandates during the 2020 (Bureau of Labor Statistics 2020).</s><s xml:id="_k79uGdw">While some industries could shift to telework, large firms were better able to make the switch with 86% increasing telework options compared to only 31% of small businesses (ibid.).</s><s xml:id="_8sTYvm4">Additionally, restrictions on travel and indoor gatherings and subsequent decreases in demand limited the activities of food, retail, travel, and entertainment industries across the country.</s><s xml:id="_YvbQC2R">These industries are still struggling to find and keep staff as demand begins to rebound.<ref type="foot" target="#foot_5">foot_5</ref></s><s xml:id="_QyPnCWA">Indeed, a recent study found that the states with the most severe stay-at-home orders had lasting negative impacts on employment 12 and 15 months after the onset of the pandemic (George Center for Opportunity 2021).</s></p><p xml:id="_UK85ZgM"><s xml:id="_9wXk9Ek">Despite facing obstacles, many entrepreneurs found ways to provide consumers with the goods and services they desired <ref type="bibr" target="#b66">(Storr et al. 2022)</ref>.</s><s xml:id="_ENvP9rD">Many entrepreneurs altered their business models to address government restrictions as well as changes in consumer demands.</s><s xml:id="_RMRAdKB">Restaurants switched to curb-side pickup and delivery, and some began selling staple foods and cleaning supplies that they could get from their wholesalers when grocery stores faced shortages.</s><s xml:id="_5TUZjj3">Distilleries began making hand sanitizer, clothing manufacturers constructed masks, and vacuum manufacturers made ventilators.</s><s xml:id="_4ChJa2U">Gyms, therapists, and veterinarians turned to online platforms to engage their customers and clients <ref type="bibr" target="#b66">(Storr et al. 2022)</ref>.</s><s xml:id="_qG82eR9">Due to supply constraints and/or demandside hoarding, toilet paper became increasingly during the early part of the pandemic.</s><s xml:id="_MztafrP">This situation provided the incentive for entrepreneurs to find creative solutions, and many entrepreneurs responded by selling bamboo-based toilet paper (see King 2020; Ceniza-Levine 2020).</s><s xml:id="_nAF5KNZ">This adaptability allowed some businesses to survive the worst of the pandemic, finding unique ways to respond to government stay-at-home orders as well as changing consumer demand.</s><s xml:id="_Vr6U3rp">Indeed, in a survey of adults in the US that we conducted in August 2020, we found that almost 78% utilized pickup, delivery, and mail order to purchase goods during the peak months of the pandemic. <ref type="foot" target="#foot_6">8</ref></s><s xml:id="_NRyHd7J">For the same group, 49% increased, and 38% maintained, their online purchasing behavior.</s></p><p xml:id="_k4n3XDP"><s xml:id="_52UFTGs">As the pandemic continued through 2020 and into 2021, policymakers extended stay-at-home orders or implemented new restrictions on gathering (such as limiting indoor capacity, restricting the number of people at gatherings, requiring mask wearing and distancing of six feet, etc.).</s><s xml:id="_KMeDTTV">Restrictions on daily activities were no longer temporary as the months went on, and as such, demands changed.</s><s xml:id="_6v9QyaB">For example, teleworkers began to seek out furniture and equipment to improve working from home.</s><s xml:id="_ZPvWkNS">Not only were companies like Amazon inundated with online orders, but supply was limited by manufacturers of furniture, lighting, and other retail goods (like those in Pennsylvania) that were forced to close and subsequently adjust their processes when allowed to reopen.</s><s xml:id="_qrB6wVc">Additionally, many homebound people started new hobbies, such as baking and crafting, to fill their time.</s><s xml:id="_mRmPHZj">These new sources of home-based entertainment increased demand for a variety of goods and resulted in shortages of flour, lumber, and even particular types of pasta (Mull 2020; Lambert 2021).</s><s xml:id="_RrKG2DX">While entrepreneurs adjusted to these demands, they had to do so within the confines of pandemic-related restrictions.</s></p><p xml:id="_5EyfCdn"><s xml:id="_nQahFZW">Not only did stay-at-home restrictions stifle entrepreneurial discovery, however, they also sparked superfluous entrepreneurial discovery because entrepreneurs took advantage of entirely new profit opportunities created by the restrictions.</s><s xml:id="_JyCpeDa">These profit opportunities arose exclusively from the government mandates, and not from changes in consumer desires.</s><s xml:id="_8dKTPPs">Many business owners could not afford to remain closed, so they began to search for potential solutions, which sometimes involved evading the state restrictions by switching the industry to which they were associated.</s><s xml:id="_sBxHsCv">For instance, bars and breweries started to offer food so they could operate as restaurants when they were forced to close or reduce activities otherwise <ref type="bibr" target="#b12">(Carman 2020</ref>).</s><s xml:id="_Kbk6gDb">Even in Florida, which had fairly weak restrictions, strip clubs turned into restaurants to keep their doors open (ibid.).</s><s xml:id="_xSzrwW9">In other places, strip clubs also provided car washes, started meal delivery services, and devised drive-thru entertainment services (see WNCT 2020; Prewitt 2020; Licea 2020).</s><s xml:id="_jy3F6tV">Hair salons in California reopened on the black market, offering haircuts in people's houses in order to make ends meet <ref type="bibr" target="#b11">(Carlton and Ansari 2020)</ref>.</s><s xml:id="_dbYbW7P">In Pennsylvania, restaurants surrendered their liquor licenses so they could stay open <ref type="bibr" target="#b67">(Strebig 2020)</ref>.</s><s xml:id="_mbNngVB">This process of adapting took time, bureaucratic paperwork, and other resources that could have been directed at serving customers.</s></p><p xml:id="_k4HGuXx"><s xml:id="_SQryJFy">An example of beneficial policy change during the pandemic is that many state governments relaxed restrictions on alcohol sales, allowing restaurants to offer to-go cocktails and for contactless delivery <ref type="bibr" target="#b57">(Redford and Dills 2021)</ref>.</s><s xml:id="_DSdU9vb">Several states have now made these deregulations permanent, and a majority of Americans support them <ref type="bibr" target="#b3">(Barrios 2021)</ref>.</s><s xml:id="_3pmPEQp">Similarly, making telehealth and occupational licensing easements permanent would give entrepreneurs the flexibility to adapt in more sustainable ways and increase services for those in need (see <ref type="bibr" target="#b75">Weiner 2021)</ref>.</s></p><p xml:id="_9qqcnB2"><s xml:id="_sRqvnXM">It can be difficult to determine which adaptations were beneficial or superfluous given the sharp change in both policies and consumer behavior, which was likely also impacted by stay-at-home orders.</s><s xml:id="_BNgDFs6">For instance, <ref type="bibr" target="#b22">Glaeser et al. (2021)</ref> found that as stay-at-home relaxed, citizens saw that as a signal that it was safer to go to restaurants and went out more (even if risk of COVID-19 was still prevalent).</s><s xml:id="_QCBQgzy">Likely, some will continue after the pandemic ends, like customers shifting to more sustainable hygiene products or restaurants offering curbside pickup.</s><s xml:id="_AbbcMAQ">While others may not, such as the food services at some strip clubs and bars.</s><s xml:id="_NPeWqAC">That said, the influence of essentialness orders altered the options for entrepreneurs in significant ways.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_VXhKVQb">Federal economic stimulus programs</head><p xml:id="_AhHbsv4"><s xml:id="_7e5WbQP">In 2020, Congress passed two large economic stimulus bills that appropriated trillions of dollars.</s><s xml:id="_h8uwMTE">On March 27, 2020, the Coronavirus Aid, Relief, and Economic Security (CARES) Act was signed into law and appropriated $2.2 trillion (US Congress 2020a).</s><s xml:id="_xuEW8pc">On December 27, 2020, the Coronavirus Response Relief Supplemental Appropriations Act provided another $900 billion (US Congress 2020b). 9</s><s xml:id="_RTFUJAc">Money was directed broadly, including direct cash payments to individuals, loans designed to keep workers on small-business payrolls through the Paycheck Protection Program (PPP), and resources to create strategic stockpiles of medical supplies.</s><s xml:id="_W8MuWZ4">The primary provisions of the first bill included $300 billion in cash payments to (almost) every American, $260 billion in unemployment benefits, $669 billion in loans to small businesses, and $500 billion for corporations.</s><s xml:id="_ARp9Ky4">The second act granted $166 billion in stimulus checks, $120 billion in unemployment benefits, and $325 billion to small businesses.</s><s xml:id="_TBvjSNZ">Additionally, the Federal Pandemic Unemployment Compensation program provision in the CARES act provided an additional $600 per week for those receiving unemployment benefits (US Congress 2020a).</s></p><p xml:id="_6wbhNGG"><s xml:id="_9SGKz7t">The vast sums of money that were appropriated by Congress created an environment ripe for <ref type="bibr">Kirzner's (1985)</ref> conception of superfluous discovery.</s><s xml:id="_RxMnF3A">The members of Congress who wrote and passed these two spending bills likely did not aim to rearrange profit opportunities and did not fully know how such large amounts of public spending would spark new, superfluous forms of entrepreneurial discovery.</s><s xml:id="_HuQCCT9">Since policymakers cannot be perfectly informed about all relevant data about the market, their policies inevitably set in motion a series of entrepreneurial actions that they could not have anticipated <ref type="bibr">(Kirzner 1985)</ref>.</s><s xml:id="_Z27teYk">The billions of dollars that were put up for grabs from these two bills altered the patterns of discovery that entrepreneurs made.</s><s xml:id="_rCBnHJV">Many of these unexpected outcomes are socially undesirable and even undesirable from the view of the policymakers themselves.</s></p><p xml:id="_aG3t7ET"><s xml:id="_S4hAVxU">Nominally, the federal economic programs were meant to help struggling individuals and firms who had been negatively impacted by the pandemic.</s><s xml:id="_KKvD7tz">However, these government programs also caused many entrepreneurs to change their behavior in unproductive ways because they began to focus on the zero-sum and negative-sum activities of acquiring government aid without creating new wealth.</s><s xml:id="_wewHVVS">Thus, one of the unintended consequences of these spending bills was to spark superfluous entrepreneurial discoveries related to rent seeking, and in the worst cases, bribery and corruption. <ref type="foot" target="#foot_9">10</ref></s><s xml:id="_xqwxbg6">ne of the programs that produced opportunities for superfluous entrepreneurial discovery was the Federal Pandemic Unemployment Compensation program.</s><s xml:id="_Yr2M6wg"><ref type="bibr" target="#b20">Ganong et al. (2020)</ref> found that between April and July of 2020, 76% of laid-off workers eligible for unemployment benefits had replacement rates above 100%, meaning that they were earning more than they had in their previous jobs.</s><s xml:id="_BEQTsZy">This created disincentive effects for people to return to work.</s><s xml:id="_VSfcN2W">Another problem with the unemployment benefits was fraudulent claims.</s><s xml:id="_ZDE7ekj">Some people saw an entrepreneurial opportunity to take advantage of unemployment insurance requests because the states' systems were often overwhelmed with requests and could not accurately process these benefits.</s><s xml:id="_Q4fj2yJ">Moreover, due to the relatively large number of fraudulent claims, authorities in some states responded by freezing the accounts of people they suspected of illegally receiving unemployment benefits, but many of those people were innocent, thus placing additional financial stress on the least fortunate <ref type="bibr" target="#b14">(Chaney Cambon et al. 2020)</ref>.</s><s xml:id="_94usBX6">The flood of applications overwhelmed state unemployment offices, making it difficult for applicants to contact them with questions or appeal when their requests were denied.</s><s xml:id="_jggbukA">This meant that while some people received benefits they were not eligible for, others were left without and had to spend time navigating the system before receiving aid.</s></p><p xml:id="_MAghwKG"><s xml:id="_YWARUZm">The PPP, provided by the Small Business Administration (SBA), was not exempt from the superfluous discovery process either.</s><s xml:id="_XsqSFEb">PPP was used to distribute up to $669 billion in loans, which could potentially be forgiven, to businesses (and particularly small businesses) to keep employees on their payrolls and assist with other liquidity issues.</s><s xml:id="_mAaqxku">The program was plagued with issues, from the process design, communication, evaluation, and distribution.</s><s xml:id="_W3crDZ5">The application process was done on a "first-come, first-serve" basis and applications quickly exhausted initial funding in April 2020.</s><s xml:id="_x8SpuPV">As the second wave of funding was released, rules and guidance around the program evolved <ref type="bibr" target="#b63">(Simon and Rudegeair 2020;</ref><ref type="bibr" target="#b32">Humphries et al. 2020</ref>) analyzed daily surveys of small business owners during this time period and concluded that the smallest businesses took longer to become aware of the program, and therefore, were less likely to apply or applied later than bigger businesses.</s><s xml:id="_BTz9cqr">If they did apply, they waited longer for their decisions and were less likely to get aid.</s><s xml:id="_kmBUefm">As time went on, survey respondents became more pessimistic about the future.</s><s xml:id="_QtvjWa3">While PPP seems to have helped businesses retain employees, avoid bankruptcy, and recover, the smallest firms (who likely needed that help the most) did not have as much access to these benefits (ibid.).</s><s xml:id="_tQG7en7">Similarly, <ref type="bibr" target="#b39">Li (2020)</ref> found little evidence that those companies that were hit hardest by the pandemic were in fact the ones that applied and were approved for assistance.</s><s xml:id="_uMFnurk"><ref type="bibr" target="#b23">Granja et al. (2020)</ref>, however, found evidence that the PPP did not always meet its target when measured by the decline in hours worked or number of business shutdowns.</s><s xml:id="_ZrwbwCx">From April to August, $525 billion was distributed, roughly 78% of the allotted funds <ref type="bibr" target="#b68">(Tracy 2020)</ref>.</s><s xml:id="_euVQmpw">Months afterward, SBA began surveying recipients of large loans (over $2 million) on why they needed the funds, highlighting that evaluation standards may have been overlooked (Omeokwe 2020).</s></p><p xml:id="_33mZauK"><s xml:id="_dsU2sCD">In addition to the unintended consequences from the implementation of the program, there were billions of dollars in fraudulent claims <ref type="bibr" target="#b4">(Bailey et al. 2021)</ref>.</s><s xml:id="_S6rQY7z">Common tactics in fraud cases included falsifying tax data, inflating payroll numbers, and applying for multiple companies (ibid.).</s><s xml:id="_Bb2Wamy">The SBA inspector general noted that tens of thousands of businesses that received PPP loans were ineligible because they were established after the pandemic began, exceeded workforce size requirements, or owed back taxes <ref type="bibr" target="#b68">(Tracy 2020)</ref>.</s><s xml:id="_jtdN5UD">In other instances, banks submitted suspicious activity for multiple government payments going to single accounts (ibid.).</s><s xml:id="_HsFhchr">For example, a Florida man was sentenced to 18 months in federal prison for obtaining over $250,000 in PPP loans by providing false payroll and tax documents on his company (US Department of Justice 2021a).</s><s xml:id="_dSZNW5R">A Texas man was indicted for receiving over $3 million in PPP loans across three fabricated businesses and could face over 20 years in prison (US Department of Justice 2021b).</s><s xml:id="_9kcFcmq">A Texas accountant organized a PPP scheme to get $23 million where he applied for loans for clients and received over $1 million in fees <ref type="bibr" target="#b61">(Sentendrey 2021)</ref>.</s><s xml:id="_psqNkUZ">And, shockingly, a Massachusetts man attempted to fake his own death after getting caught and charged for trying to fraudulently receive over $500,000 in PPP funds <ref type="bibr" target="#b60">(Santucci and Mulvaney 2021;</ref><ref type="bibr" target="#b6">Beggs and Harvison 2022)</ref> found that fraud was fairly common in the investment advisory industry; they estimate that of the $590 million in PPP funds received by investment 1 3 advisors, more than 6% of those funds consisted of overallocations to firms abusing the PPP.</s><s xml:id="_DgmTfBG">These examples of superfluous discovery are clear examples of destructive entrepreneurship, not just a transfer of wealth that could have gone to those in need and who continue to struggle, but costly to taxpayers through investigations, court proceedings, and prison sentences.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_j37mSVT">Polycentric Governance can limit the Perils of Regulation</head><p xml:id="_Gyv4pwn"><s xml:id="_x25vRDn">Kirzner has illuminated how the perils of regulation can arise, but insights from the Bloomington school of political economy clarify how to avoid or mitigate those perils.</s><s xml:id="_7BkSNpa">The Bloomington school's analysis focuses on polycentric governance systems, which may provide the most effective way to limit the perils of regulation.</s><s xml:id="_E24GGhy">Polycentric governance systems have multiple overlapping centers of decision-making power operating within the same rule environment <ref type="bibr" target="#b50">(Ostrom 2005;</ref><ref type="bibr" target="#b1">Aligica and Tarko 2012)</ref>.</s><s xml:id="_84Zbfq4">Polycentricity is more nuanced than just simple decentralization.</s><s xml:id="_PZTHJzT">Polycentric systems have a large degree of decentralization, but the nested and interdependent nature of a polycentric system allows for policies to be made at the appropriate level for the scale of the social problem <ref type="bibr" target="#b50">(Ostrom 2005;</ref><ref type="bibr" target="#b73">Wagner 2005;</ref><ref type="bibr" target="#b0">Aligica 2019</ref>).</s><s xml:id="_gQJ2urr">Additionally, the various overlapping spheres of decision-making power provide checks and balances; the higher levels can provide a necessary backstop to failures at the lower levels, and the lower levels can challenge abuses of power at the higher levels.</s><s xml:id="_Zr8RRVQ">Polycentric systems tend to yield several socially beneficial outcomes, and three of the main benefits are (1) the ability to engage in experimentation and mutual learning among decentralized jurisdictions, (2) the mitigation of widespread institutional failures, and (3) interjurisdictional competition <ref type="bibr" target="#b49">(Ostrom 1976</ref><ref type="bibr" target="#b51">(Ostrom , 2010;;</ref><ref type="bibr" target="#b0">Aligica 2019)</ref>.</s></p><p xml:id="_8ycXnHj"><s xml:id="_DFEeCax">Experimentation and mutual learning are important for creating regulations because policymakers are not omniscient.</s><s xml:id="_KXu2Q3z">In the face of a crisis, such as a pandemic, policymakers may not have full information about the nature of a disease, how to best limit the spread of the disease, or how people will respond to regulations.</s><s xml:id="_nTSDjva">Policymakers may use the advice of highly educated experts, but even experts are fallible.</s><s xml:id="_kCx5dEG">Experts may fail to foresee the consequences of particular policies, or they may not properly evaluate the tradeoffs of a policy.</s><s xml:id="_C6ddyvA">Thus, policymakers in many different jurisdictions can use different approaches to solve similar social dilemmas.</s><s xml:id="_j2xzTjs">Policymakers can borrow knowledge from the experiences of other places and tailor their policies to match their local needs.</s><s xml:id="_uRbBUzV">If policymakers in one jurisdiction fail to achieve their desired policy outcome, other policymakers can learn what not to do.</s></p><p xml:id="_MuaTB2G"><s xml:id="_h8VbKSV">When policymaking is centralized, however, fewer opportunities exist for innovation and experimentation, and fewer opportunities exist for mutual learning from both good and bad examples.</s><s xml:id="_n5WU3bp">For instance, <ref type="bibr" target="#b25">Hall et al. (2020)</ref> find that city-county consolidation can have more negative effects than economies of scale, including exacerbating differences between rural and urban jurisdictions.</s><s xml:id="_rbxc4zT">When the same policy is imposed over an entire country, the same types of stifled and superfluous entrepreneurial discoveries will tend to occur.</s><s xml:id="_CnVVrfM">However, when smaller jurisdictions, like states, counties, and cities, can make their own policies, they can engage in mutual learning based on the successes and failures in other jurisdictions.</s><s xml:id="_gGqZYGZ">Local poli-cymakers also have better access to local and tacit knowledge than far-removed ones, and local policymakers are often more responsive to the demands of their constituents compared to higher levels <ref type="bibr" target="#b49">(Ostrom 1976</ref><ref type="bibr" target="#b50">(Ostrom , 2005</ref><ref type="bibr" target="#b51">(Ostrom , 2010;;</ref><ref type="bibr" target="#b0">Aligica 2019;</ref><ref type="bibr" target="#b41">Lofthouse 2020)</ref>.</s><s xml:id="_z9rTCWb">Thus, polycentric institutional arrangements help to mitigate the unintended consequences of stifled and superfluous entrepreneurial discovery that are caused by particular public policies.</s></p><p xml:id="_Ra9VEY2"><s xml:id="_3cVnzrp">One potential criticism of polycentric systems is that they might not achieve fast enough results for a pressing public health emergency.</s><s xml:id="_TDxH8kT">Admittedly, the processes of experimentation and mutual learning take time so that results can be compared between various jurisdictions.</s><s xml:id="_tENzAph">Many of the policy experiments that some jurisdictions attempt will likely fail to achieve their intended goal.</s><s xml:id="_uZp8jAM">However, a more monocentric approach is likely be slower than a polycentric one in solving a pressing public health emergency because monocentric systems can only try one policy at a time.</s><s xml:id="_9zaSJCB">In other words, the single policy must be enacted, and then policymakers must wait for the results.</s><s xml:id="_dgPpCAM">If they don't like the results, they will have to repeal the first policy, enact another policy, and then wait for the results again.</s><s xml:id="_MheXadv">Polycentric systems have the benefit of comparing many different policy outcomes at the same time, which hastens the learning process.</s><s xml:id="_T9jhtZz">It would be a mistake to compare an idealized form of monocentric systems to real-world forms of polycentric systems.</s><s xml:id="_sWxUkev">When comparing the relevant alternatives of real-world monocentric system to real-world polycentric systems under conditions of uncertainty and human fallibility, polycentric systems generally provide a more conducive environment for learning from mistakes quickly.</s></p><p xml:id="_JWCEYkS"><s xml:id="_YzdusWE">The various states' approaches to mask mandates are one manifestation of the laboratory of democracy at work.</s><s xml:id="_wzdpHuP">Over the course of the COVID-19 pandemic, different states, counties, and cities experimented with different policies that conformed to local preferences.</s><s xml:id="_wd6DF9Z">Although most states had implemented mask mandates in 2020, many of them removed the mandates in late 2020 or early 2021.</s><s xml:id="_f9C7mWU">However, as infections surged at the end of 2021 due to the delta and omicron variants, several states reinstated their mask mandates.</s><s xml:id="_YP8XBRc">For example, in August 2021, Washington State reinstated the indoor mask mandate for all people, with some exceptions for small gatherings or office environments where everyone is vaccinated and interaction with the public is rare.</s><s xml:id="_j9sc2bn">In December 2021, California implemented a new statewide indoor mask requirement for all people and New York required businesses and venues to implement a mask requirement or require proof of full vaccination.</s><s xml:id="_6HTTeVC">In January 2022, New Mexico reinstated its indoor mask mandate for all individuals age two and older (National Academy for State Health Policy 2022; Markowitz 2022).</s></p><p xml:id="_n7YKbdc"><s xml:id="_P7SGQD6">On the other end of the spectrum, some states got rid of mask mandates and banned local governments from imposing mask mandates in 2021.</s><s xml:id="_w9r4tfY">For instance, in March 2021, the Arkansas governor lifted the mask mandate, and he later approved a ban on all local governments from imposing mask mandates.</s><s xml:id="_G4kgUru">However, businesses can still require patrons to wear masks.</s><s xml:id="_zMef8nv">In Florida, the governor banned city and county governments from imposing mask mandates.</s><s xml:id="_YhR2S6Z">Even though several cities and large counties have implemented mask requirements, the governor's executive order barred local governments from assessing fines and penalties for noncompliance.</s><s xml:id="_TYpAbE2">In addition, the Texas governor issued an order banning mask mandates at the county and city level (National Academy for State Health Policy 2022; Markowitz 2022).</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_MEB8XaW">3</head><p xml:id="_YRZb2sQ"><s xml:id="_jSS7wPb">Other states have taken a more moderate approach compared to the extremes of strict mask mandates or mask mandate bans.</s><s xml:id="_MCB7wy2">In May 2021, the Colorado governor ended the statewide mandate, but left the mask mandate in place for high-risk areas, such as nursing homes, prisons, and hospitals, and in certain school settings.</s><s xml:id="_qFTwN6f">Additionally, Colorado now requires COVID-19 vaccinations to attend indoor, unseated events with more than 500 people in certain counties.</s><s xml:id="_s3yJ2em">Alaska's officials strongly encourage the wearing of masks in public and allow local mask mandates to be implemented if necessary.</s><s xml:id="_PvWmxwd">Maryland ended its statewide mask mandate in July 2021, but masks are still required on public transportation and in transit hubs.</s><s xml:id="_dmKzFRs">The city of Baltimore and the state's five largest counties have implemented local orders requiring most people to wear masks in indoor public settings (National Academy for State Health Policy 2022; Markowitz 2022).</s></p><p xml:id="_BadFhMg"><s xml:id="_adYFAuu">In addition to experimentation and mutual learning, polycentric systems also promote resilience because they protect against institutional failures.</s><s xml:id="_GTSa84J">Due to uncertainty that arises in the real world, especially during pandemics, policymakers cannot know with certainty what is the best or most appropriate course of action.</s><s xml:id="_8DBZY62">Policy failures will inevitably happen, and some failures will be worse than others.</s><s xml:id="_HtF4tgF">Polycentric systems mitigate the scale, scope, and spillovers of policy failures.</s><s xml:id="_JPXfwSf">Failures and errors may not be perfectly contained to one jurisdiction, but they will be better contained than if there were just one decision-making center.</s><s xml:id="_ktgQWY9">In highly centralized systems, a one-size-fits-all policy failure results in the whole system experiencing the failure <ref type="bibr" target="#b49">(Ostrom 1976</ref><ref type="bibr" target="#b50">(Ostrom , 2005</ref><ref type="bibr" target="#b51">(Ostrom , 2010;;</ref><ref type="bibr" target="#b0">Aligica 2019;</ref><ref type="bibr" target="#b41">Lofthouse 2020)</ref>.</s><s xml:id="_wpFdx3E">Mask mandate bans, such as those mentioned above in Arkansas, Florida, and Texas, limit polycentric governance within states because they do not allow local policymakers to tailor rules and regulations to local circumstances or preferences.</s><s xml:id="_wh9Jm6Q">As such, the governance system is less resilient to local challenges that might arise and less responsive to local preferences that might differ from the prevailing preferences in a state.</s><s xml:id="_mhmsAfP">Polycentric governance provides robust and resilient forms of public administration because many decisions can be made at lower levels, while higher levels provide critical backstops against failures at the lower levels.</s><s xml:id="_ABzAqFa">For example, when Texas's governor initially implemented the mask mandate ban, it included school districts.</s><s xml:id="_7ZFJKWc">Many parents and nonprofit organizations saw this as a policy failure, and as such, they challenged the ban in court.</s><s xml:id="_RvmcR2v">In November 2021, a federal judge ruled that the executive order prohibiting mask mandates in schools violated the Americans with Disabilities Act, which then gave local officials autonomy to create their own mask policies without risk of backlash from state authorities <ref type="bibr" target="#b42">(Lopez 2021)</ref>.</s></p><p xml:id="_SSJ2b5R"><s xml:id="_ApS2BWc">Monocentric systems are more vulnerable to systemic failures than polycentric ones because of the lack of contestation or alternative sources of governance.</s><s xml:id="_7xRsz79">One salient example of monocentric governance is the FDA's authority over the approval of rapid antigen COVID tests, also known as at-home tests.</s><s xml:id="_TaFzSpx">Beginning in early to mid-2020, several companies created rapid at-home tests for COVID.</s><s xml:id="_afMmHEa">For example, Irene Bosch and her colleagues at E25Bio quickly developed a test that would detect the coronavirus in 15 min.</s><s xml:id="_UePj2PG">On March 21, 2020, Bosch submitted the new COVID test for FDA emergency authorization (DePillis 2021).</s><s xml:id="_YgdGxCu">However, the FDA did not approve Bosch's tests or any others for several months because regulations required that they must have accuracy similar to standard polymerase chain reaction (PCR) COVID tests <ref type="bibr" target="#b8">(Bourne 2021;</ref><ref type="bibr" target="#b19">DePillis 2021)</ref>.</s><s xml:id="_qd9B63d">PCR tests are highly accurate, but during the first several months of the pandemic, PCR tests took multiple days for labs to process and then disseminate results.</s><s xml:id="_qswtanD">Due to concerns with lower accuracy rates and false negatives, the FDA did not approve the rapid antigen tests <ref type="bibr" target="#b8">(Bourne 2021</ref>).</s><s xml:id="_gJUHWAq">On November 17, 2020, the FDA issued its first emergency use authorization for a rapid COVID test (US Food and Drug Administration 2020), but authorization for other tests was slow, resulting in more approvals delayed until spring 2021 (DePillis 2021).</s><s xml:id="_gJaenu5">As such, less accurate but socially beneficial rapid antigen tests could not be used during the first few waves of the COVID-19 pandemic.</s><s xml:id="_mrJJXBD">It is difficult to know exactly how many lives could have been saved if rapid antigen tests could have been used much earlier in the pandemic.</s><s xml:id="_Md9jNXS">Thus, the FDA's monocentric authority to approve or bar the use of rapid antigen COVID tests led to consequences affecting the entire United States.</s></p><p xml:id="_xQgPBYR"><s xml:id="_pQwyz5w">Polycentric systems also allow for interjurisdictional competition, which provides both incentives and constraints for policymakers to create laws and regulations that are broadly appealing.</s><s xml:id="_ZYgyKWk">Constituents can "vote with their feet" and move to other jurisdictions where policies better fit their preferences.</s><s xml:id="_9V7qSuu">The freedom to enter and exit various jurisdictions induces competition so that policymakers have a stronger incentive to produce better policy outcomes.</s><s xml:id="_vDMnEXn">If policymakers choose policies that produce poor outcomes, constituents are more likely to move to other jurisdictions where policies are more favorable.</s><s xml:id="_X3z987p">Thus, the existence of interjurisdictional competition means that politicians and bureaucrats have fewer opportunities to engage in opportunistic behavior because they are disciplined by the potential loss of constituents and tax revenues <ref type="bibr">(Aligica 2019, 25-32;</ref><ref type="bibr" target="#b41">Lofthouse 2020)</ref>.</s><s xml:id="_GYega8U">Additionally, interjurisdictional competition helps mitigate abuses of power by limiting the power of any given policymaker <ref type="bibr" target="#b53">(Ostrom et al. 1961;</ref><ref type="bibr" target="#b52">Ostrom 1979;</ref><ref type="bibr" target="#b73">Wagner 2005)</ref>.</s></p><p xml:id="_fjefsJ3"><s xml:id="_qnxy4Ez">One potential criticism of interjurisdictional competition is that it could lead to a "race to the bottom" when it comes to a public health emergency.</s><s xml:id="_e3dyYR6">This concern is complicated for at least two reasons.</s><s xml:id="_Dxa5FcD">First, the term "bottom" implies normatively undesirable outcomes.</s><s xml:id="_xTh9Ew3">However, if there are a diversity of preferences in a population, then one person's undesirable outcome is likely to be another person's desirable outcome.</s><s xml:id="_F59KSWN">Allowing people to sort themselves into jurisdictions that fit their own policy preferences will give a broad diversity of policy approaches.</s><s xml:id="_pCTps7f">For example, each state has different tax rates for sales tax and property tax; we don't see a "race to the bottom" where every state decides to eliminate taxation so that they can be competitive.</s><s xml:id="_5kZGErk">Each state competes on the margin, with some states charging relatively higher tax rates and providing more public services, while other states charge relatively lower tax rates and provide fewer public services.</s><s xml:id="_M9ERsb2">Second, if people vote with their feet for "bad" policies, there could be spillover effects that put everyone else at risk.</s><s xml:id="_QbfwNVN">However, the nested nature of polycentric systems helps to mitigate this problem of one jurisdiction's policies from spilling over onto others.</s><s xml:id="_fcnhfKY">As mentioned previously, polycentricity is much more complex than simple decentralization.</s><s xml:id="_mmYaP53">The overlapping spheres of decision-making power are divided both horizontally and vertically, which allows different jurisdictions to both compete and cooperate with one another.</s><s xml:id="_96TNm6r">Additionally, higher levels can serve as a backstop against decisions at lower levels if those decisions lead to negative externalities.</s></p><p xml:id="_WPcddx2"><s xml:id="_KSPREmg">During the COVID-19 pandemic, many businesses chose to move their headquarters or other operations to new jurisdictions with more favorable laws and regulations.</s><s xml:id="_JpQdshy">For example, in December 2021, Tesla moved its headquarters from Palo Alto, California, to Austin, Texas.</s><s xml:id="_MHhSzds">Elon Musk, Tesla's CEO, moved the headquarters due, in part, to California's relatively high capital gains taxes, as well as to lower the cost of living for Tesla employees and to avoid California's stricter COVID-related health regulations <ref type="bibr" target="#b58">(Reuter 2021;</ref><ref type="bibr">Reuter and Kiersz 2021;</ref><ref type="bibr" target="#b31">Hiltzik 2021)</ref>.</s><s xml:id="_T8SbvsS">SnapDNA, a company that created technology to improve food safety testing, moved its headquarters from the San Francisco Bay Area to Broomfield, Colorado.</s><s xml:id="_SPBbR8g">SnapDNA also considered moving its headquarters to Austin, Texas, but ultimately chose Colorado due largely to the state's Job Growth Incentive Tax Credits <ref type="bibr" target="#b33">(Huspeni 2022</ref>; Colorado Office of International Development and International Trade 2022).</s><s xml:id="_PN3gMWh">In addition, Florida has also become a destination for many business headquarters or new business branches during the pandemic.</s><s xml:id="_raePfqU">Orlando hosts new offices for software company Civix and Sonesta International Hotels; West Palm Beach has the new headquarters for hedge fund Elliott Management; and, Miami is a new home for the private-equity firm Blackstone.</s><s xml:id="_FHbvJs9">The movement to Florida is likely due to a combination of factors, including less strict COVID restrictions, lower taxes, and Florida's climate and other amenities <ref type="bibr" target="#b17">(Dean 2021;</ref><ref type="bibr" target="#b56">Randall 2021)</ref>.</s></p><p xml:id="_3KqJrMP"><s xml:id="_aDZyVmy">In addition to business, many individuals moved during the pandemic-roughly one in ten Americans moved to a new state <ref type="bibr" target="#b64">(Storey and Manansala 2021)</ref>.</s><s xml:id="_SFFaHk3">In many cases, the principal reason behind "voting with your feet" in the United States is for economic prospects.</s><s xml:id="_sKdGGZe">Previous research has shown that people within the United States tend to migrate to states with higher relative economic freedom <ref type="bibr" target="#b2">(Ashby 2007)</ref>.</s><s xml:id="_f2md67U">This economic freedom includes lower tax burdens, freer labor markets, less restrictive minimum wages, less concentration of unions, and less dependence on public employment.</s><s xml:id="_Nm6c2XA">During the COVID-19 pandemic, evidence suggests that less economically free states issued stay-at-home orders earlier than more economically free states, which was likely a factor in so many people moving during the pandemic <ref type="bibr" target="#b44">(McCannon and Hall 2021)</ref>.</s></p><p xml:id="_g9JXEMx"><s xml:id="_ZM9FhuG">The United States' federated government system is polycentric both vertically and horizontally.</s><s xml:id="_heBzShS">Power is vertically separated among federal, state, county, and city governments.</s><s xml:id="_arF4xGD">Power is also horizontally separated among the executive, legislative, and judicial branches at each level.</s><s xml:id="_qmNNGcv">Yet, as more activities are regulated, or financed, by the federal and state level, the United States also exhibits many characteristics of a more monocentric governance system.</s><s xml:id="_DVEmsb3">These dynamics have real impacts on the resilience and adaptability of the United States, especially during crises.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_7mFqmyX">Conclusion and implications</head><p xml:id="_xSgc2TX"><s xml:id="_pPFzg2b">The COVID-19 pandemic has led to widespread suffering in the United States, both in terms of lives lost and negative economic impacts.</s><s xml:id="_4GBWYZ5">In 2020 and 2021, policymakers at the local, state, and federal levels created policies that were meant to limit the spread of the virus and also mitigate the pandemic's economic impacts.</s><s xml:id="_psayhKF">Stay-athome orders that forced "non-essential" businesses to close and economic stimulus programs that provided financial assistance to both individuals and firms were broad types of public policies that affected nearly every American during the pandemic.</s></p><p xml:id="_kpvrGkM"><s xml:id="_cZvFUn5">These public policies altered the incentives and constraints of entrepreneurs, leading them to be alert to and take advantage of different profit opportunities.</s><s xml:id="_h5wf6Gg">Some existing entrepreneurial opportunities were stifled by these policies, and other superfluous opportunities were created.</s><s xml:id="_befYPms">Thus, the policies that aimed to stop the spread of COVID-19, such as stay-at-home orders and large economic stimulus programs, highlight <ref type="bibr">Kirzner's (1985)</ref> "perils of regulation."</s></p><p xml:id="_yaBkc4e"><s xml:id="_NYFqbg4">This paper has at least four important implications.</s><s xml:id="_hNU963f">First, the market process perspective provides important insights to understanding the political economy of COVID-19.</s><s xml:id="_AEJggRt">Policymakers face epistemic limitations, especially when it comes to determining which goods and services that consumers want in an ever-changing world.</s><s xml:id="_sb4NyEH">Knowledge regarding the kinds of goods that consumers want must be discovered through entrepreneurial processes that rely on market prices and the feedback mechanism of profit and loss.</s><s xml:id="_NhhbKN2">When policymakers assume they have the knowledge to determine which goods and services are essential, they may create policies that are accompanied by a host of negative unintended consequences that may harm the very people they are trying to help.</s></p><p xml:id="_kB5VqSm"><s xml:id="_fyB8Van">Second, the costs of COVID-19 policies may be much higher than policymakers and consumers assume due to the hidden costs of stifled and superfluous discoveries.</s><s xml:id="_8KwSX2f">In a normative sense, policymakers should consider the wide variety of unseen costs that their policies are likely to create.</s><s xml:id="_WXCQHxd">Sound principles of public administration dictate that policymakers should carefully craft any law or regulation so that a full accounting of costs and benefits can take place.</s><s xml:id="_3AB2beD">Kirzner's line of argumentation does not rule out a government approach to solving social problems like pandemics, but Kirzner's insights should cause policymakers to consider what their policies can reasonably achieve, given the epistemic limitations of policymakers and the role of entrepreneurial discovery in the market.</s><s xml:id="_8YpyKWe">The stifled discoveries and superfluous discoveries from the COVID-19 pandemic should serve as a lesson to policymakers in the future.</s></p><p xml:id="_RTzDn2q"><s xml:id="_TeQJJjQ">Third, seemingly helpful and well-intentioned policies, such as stay-at-home orders and economic stimulus packages, create opportunities for socially harmful forms of rent seeking.</s><s xml:id="_yZkuAMW">Such policies are socially harmful when entrepreneurs forgo positive-sum opportunities of mutually beneficial exchange and instead choose to engage in negative-sum scenarios of political competition.</s><s xml:id="_8GAt7Xv">By recognizing the dangers of policy-driven superfluous discoveries, policymakers can have more tools to avoid further harms from pandemic policies.</s></p><p xml:id="_HuHZXTC"><s xml:id="_XjcZqvY">Fourth, the policy responses to COVID-19 have illuminated the need for a polycentric approach to policymaking and the potential dangers of a consolidated, onesize-fits-all approach.</s><s xml:id="_kuXbF8a">Polycentric systems have several benefits for policymaking.</s><s xml:id="_9j5NFyz">Policymakers can experiment with different policies in their jurisdictions, and policymakers in other jurisdictions can learn from the successes and mistakes of their counterparts.</s><s xml:id="_Qh6pDHx">Policymakers can then create new policies or tweak existing policies based on the lessons learned from other jurisdictions.</s><s xml:id="_Bv9Dnar">In addition, polycentric systems limit any institutional failures in one jurisdiction from spilling over onto other jurisdictions.</s><s xml:id="_yTQWabJ">If normatively undesirable outcomes of stifled or superfluous discovery arise in</s></p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p xml:id="_FqkANqk"><s xml:id="_AzDVMHY">Some scholars are skeptical that most individuals would reject offers to return to work at their previous wage under the CARES Act expanded unemployment insurance payments (see Petrosky-Nadeau and Valletta 2021).1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p xml:id="_YNqG8N8"><s xml:id="_cKcWmgJ">The Perils of Regulation and the Kirznerian EntrepreneurTo understand Kirzner's conception of the perils of regulation, it is first important to understand the entrepreneurial market process, which is rooted in private property, market prices, and the feedback mechanism of profit and loss.</s><s xml:id="_Ns3Cese">If private property exists, a market for private property can emerge where people engage in voluntary exchanges.</s><s xml:id="_DQsS2qu">Subsequently, monetary prices emerge from these voluntary exchanges.</s><s xml:id="_Dx7F7Sq">Monetary prices communicate the relative scarcity of goods, enabling rational economic calculation, which is the ability to weigh the economic feasibility of a given decision from the array of possibilities(Mises [1949(Mises [ ] 1998;;<ref type="bibr" target="#b30">Hayek 1945)</ref>.</s><s xml:id="_UXCdJdd">Economic calculation allows individuals to make the most economically viable decision from among the multitude of technologically possible alternatives.</s><s xml:id="_T4WRpRH">Using economic calculation as a guide, entrepreneurs make decisions in a world of uncertainty.</s><s xml:id="_xVjKYeX">They test out their ideas in a market, and profit or loss give entrepreneurs important feedback on their decisions.</s><s xml:id="_dUgSEyD">Receiving profits is a signal that entrepreneurs are fulfilling the needs and wants of consumers, and incurring losses is a signal that an entrepreneurs should alter their plans in some way.</s><s xml:id="_xZDxqZn">Thus, the combination of market prices and profit-and-loss provide the knowledge and incentives for entrepreneurs to engage in socially beneficial action.In Kirzner's conception, entrepreneurs are the driving force of the market process because they are alert to profit opportunities that arise in a dynamic world(Kirzner  [1973]  2013).</s><s xml:id="_xtdGPym">As such, entrepreneurs are alert to and discover new ends or more efficient means of attaining ends.</s><s xml:id="_kAasCJ5">Once entrepreneurs discover a potentially profitable opportunity in the market, they make adjustments in systems of exchange and production to take advantage of that opportunity.1</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p xml:id="_tjG2tqN"></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p xml:id="_Qyap9ur"><s xml:id="_chXkKsH">We use the term "knowledge" here as a shorthand for both "knowledge" and "information."</s><s xml:id="_ntZd84F">However, Hayek, Kirzner, and others in the Austrian tradition use those terms to mean related but distinct things.</s><s xml:id="_KCXpnMt">Some forms of knowledge are tacit and inarticulable, which cannot be reduced to information (see<ref type="bibr" target="#b38">Lavoie 1986)</ref>.</s><s xml:id="_7TBAx6E">However, information is a component of many types of knowledge.</s><s xml:id="_9ZHXyvw">Market prices aggregate and communicate both knowledge and information, and market prices can also aid in the discovery of new forms of both knowledge and information.1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p xml:id="_GuVV5yj"><s xml:id="_qzBHZZ3">Despite the benefits of polycentric systems, there are undeniable tradeoffs with having overlapping and nested decision-making centers.</s><s xml:id="_ekppXuN">Navigating multiple regulatory regimes is one potential cost of polycentric jurisdictional competition during a public health crisis.</s><s xml:id="_WYgNhNJ">Despite these potential costs, polycentric systems often produce more socially desirable results when compared to the relevant alternative of monocentric decision making (discussed in more detail in Sect.</s><s xml:id="_YvPrjb7">4).1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_gSfZsuw"><s xml:id="_3Z5HuKW">It is important to note that shutdowns contributed to the labor shortage, but they may not have been the major driver of the labor shortage.</s><s xml:id="_WQDWXDa">Other causes likely included (1) people who were close to retirement age deciding to retire early, (2) people choosing to leave the labor force to care for someone with vulnerabilities to and (3)  unemployment benefit generosity providing disincentives to return to work.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p xml:id="_2fNfNsC"><s xml:id="_qez9Hfz">The survey was administered through Qualtrics in August 2020 and targeted United States residents over 18 years old.</s><s xml:id="_k44hTxq">It asked a series of questions about pandemic-related community connectedness, regulations and policies, and changes to work and education.</s><s xml:id="_tXET8bz">We received 1,105 total responses and used</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="967" xml:id="foot_7"><p xml:id="_SDWGXzu"><s xml:id="_ACNmU7Z">for our analysis (removing those that included multiple nonsensical answers).</s><s xml:id="_FJNqMWQ">The sample was diverse with even distribution across regions (though with less respondents from west coast), age, gender, education, employment, and marital status.</s><s xml:id="_H6f2h2w">However, the population was predominantly white (75%).1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_8"><p xml:id="_fMFVvTN"><s xml:id="_uJsWTwa">It was passed together with a $1.4 trillion omnibus spending bill for the federal fiscal year of 2021 and constituted the Consolidated Appropriations Act (US Congress 2020b).1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_9"><p xml:id="_UBQakVn"><s xml:id="_WtefYkC">Corruption is not only a harm to society; it also may lead to worse regulations (see<ref type="bibr" target="#b9">Breen and Gillanders 2012)</ref>.1 3</s></p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_RTDNEcE"><p xml:id="_82ZgMdu"><s xml:id="_6QqkksF">one jurisdiction, the negative consequences are largely contained to that place.</s><s xml:id="_rWQh4zW">If all policymaking was centralized at the national level, institutional failures and negative unintended consequences apply to everyone in a nation.</s></p><p xml:id="_J7r95QC"><s xml:id="_uxcH3qU">Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_qYTejjc">3</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_KSsfYXS">Authors and Affiliations</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Aligica</surname></persName>
+		</author>
+		<title level="m" xml:id="_2PYBqn4">Public Entrepreneurship, Citizenship, and Self-Governance</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aligica PD (2019) Public Entrepreneurship, Citizenship, and Self-Governance. Cambridge University Press, Cambridge, UK</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_7hXWtdT">Polycentricity: From Polanyi to Ostrom, and Beyond</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Aligica</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tarko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UrkWx69">Governance</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="237" to="262" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aligica PD, Tarko V (2012) Polycentricity: From Polanyi to Ostrom, and Beyond. Governance 25(2):237-262</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_2RQWgyy">Economic Freedom and Migration Flows Between U.S. States</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Ashby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_n5F38k7">South Econ J</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="677" to="697" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ashby NJ (2007) Economic Freedom and Migration Flows Between U.S. States. South Econ J 73(3):677-697</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_4agEYBU">Responding to Potential Learning Loss During the Pandemic</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrios</surname></persName>
+		</author>
+		<idno type="DOI">10.1044/2021-12-13-learning-loss-covid</idno>
+		<ptr target="https://www.sglf.org/blog/alcohol-deregulation-during-and-post-pandemic" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_hfXwJYY">Alcohol Deregulation During and Post-Pandemic. State Government Leadership Foundation Blog</title>
+		<imprint>
+			<publisher>American Speech Language Hearing Association</publisher>
+			<date type="published" when="2009">2021. June 9</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barrios E (2021) Alcohol Deregulation During and Post-Pandemic. State Government Leadership Foun- dation Blog, June 9. https://www.sglf.org/blog/alcohol-deregulation-during-and-post-pandemic</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_qrgWqff">Fraudulent loans and the United States paycheck protection program</title>
+		<author>
+			<persName><forename type="first">Cristina</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matias</forename><surname>Sokolowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/jfc-07-2021-0165</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_d6M2vZF">Journal of Financial Crime</title>
+		<title level="j" type="abbrev">JFC</title>
+		<idno type="ISSN">1359-0790</idno>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="519" to="532" />
+			<date type="published" when="2021-10-25">2021</date>
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bailey C, Brody R, Sokolowski M (2021) Fraudulent loans and the United States paycheck protection program. Journal of Financial Crime, ISSN: 1359 -0790</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_eGM2UJ6">Entrepreneurship: Productive, Unproductive, and Destructive</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Baumol</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/261712</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dyrR3sM">Journal of Political Economy</title>
+		<title level="j" type="abbrev">Journal of Political Economy</title>
+		<idno type="ISSN">0022-3808</idno>
+		<idno type="ISSNe">1537-534X</idno>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">5, Part 1</biblScope>
+			<biblScope unit="page" from="893" to="921" />
+			<date type="published" when="1990-10">1990</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baumol WJ (1990) Entrepreneurship: Productive, Unproductive, and Destructive. J Polit Econ 98(5):893-921</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_UShK49n">Fraud and abuse in the paycheck protection program? Evidence from investment advisory firms</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Beggs</surname></persName>
+			<idno type="ORCID">0000-0001-9938-3555</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Thuong</forename><surname>Harvison</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jbankfin.2022.106444</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_b4NDYxy">Journal of Banking &amp; Finance</title>
+		<title level="j" type="abbrev">Journal of Banking &amp; Finance</title>
+		<idno type="ISSN">0378-4266</idno>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page">106444</biblScope>
+			<date type="published" when="2022">2022</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beggs W, Harvison T (2022) Fraud and abuse in the paycheck protection program? Evidence from invest- ment advisory firms.Journal of Banking and Finance106444</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_xXV2bzH">Information and Knowledge: Austrian Economics in Search of its Uniqueness</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">J</forename><surname>Boettke</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/a:1021190719156</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AjJgj4A">The Review of Austrian Economics</title>
+		<title level="j" type="abbrev">The Review of Austrian Economics</title>
+		<idno type="ISSN">0889-3047</idno>
+		<idno type="ISSNe">1573-7128</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="263" to="274" />
+			<date type="published" when="2002-12">2002</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Boettke PJ (2002) Information and Knowledge: Austrian Economics in Search of Its Uniqueness. Rev Austrian Econ 15(4):263-274</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_UPwu7Kh">Economics in One Virus: An Introduction to Economic Reasoning through COVID-19</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bourne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bourne R (2021) Economics in One Virus: An Introduction to Economic Reasoning through COVID-19.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_wr8Ch6N">Corruption, institutions and regulation</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Breen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Gillanders</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10101-012-0111-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_GcQvR9c">Economics of Governance</title>
+		<title level="j" type="abbrev">Econ Gov</title>
+		<idno type="ISSN">1435-6104</idno>
+		<idno type="ISSNe">1435-8131</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="263" to="285" />
+			<date type="published" when="2012-06-29">2012</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Breen M, Gillanders R (2012) Corruption, institutions and regulation. Economics of Governance 13:263-285</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<ptr target="https://www.bls.gov/brs/2020-results.htm" />
+		<title level="m" xml:id="_WTBQesa">Results of the Business Response Survey</title>
+		<imprint>
+			<publisher>Bureau of Labor Statistics</publisher>
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bureau of Labor Statistics (2020) 2020 Results of the Business Response Survey. https://www.bls.gov/ brs/2020-results.htm</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_e5bw9uu">Strict Covid-19 Restrictions Prompt Defiance and Anger in California</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carlton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ansari</surname></persName>
+		</author>
+		<ptr target="https://www.wsj.com/articles/strict-covid-19-restrictions-prompt-defiance-and-anger-in-california-11608123601?mod=searchresults_pos9&amp;page=1" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YxkCNtQ">The Wall Street Journal</title>
+		<imprint>
+			<date type="published" when="2020">2020. December16</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carlton J, Ansari T (2020) Strict Covid-19 Restrictions Prompt Defiance and Anger in California.The Wall Street Journal, December16. https://www.wsj.com/articles/strict-covid-19-restrictions-prompt- defiance-and-anger-in-california-11608123601?mod=searchresults_pos9&amp;page=1</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_2rWw7qm">Bars, strip clubs and breweries discover how to survive during the pandemic: Reopen as restaurants</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Carman</surname></persName>
+		</author>
+		<ptr target="https://www.washingtonpost.com/news/voraciously/wp/2020/07/30/bars-strip-clubs-and-breweries-discover-how-to-survive-during-the-pandemic-reopen-as-restaurants" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sVQFGZb">The Washington Post</title>
+		<imprint>
+			<date type="published" when="2020">2020. July30</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carman T (2020) Bars, strip clubs and breweries discover how to survive during the pandemic: Reopen as restaurants.The Washington Post, July30. https://www.washingtonpost.com/news/voraciously/ wp/2020/07/30/bars-strip-clubs-and-breweries-discover-how-to-survive-during-the-pandemic- reopen-as-restaurants</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ceniza-Levine</surname></persName>
+		</author>
+		<ptr target="https://www.forbes.com/sites/carolinecenizalevine/2020/09/05/how-one-entrepreneur-trusted-his-gut-and-disrupted-the-toilet-paper-business/" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_xVxFxkv">How One Entrepreneur Trusted His Gut and Disrupted The Toilet Paper Business</title>
+		<imprint>
+			<date type="published" when="2020-09-05">2020. September 5</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ceniza-Levine C (2020) How One Entrepreneur Trusted His Gut and Disrupted The Toilet Paper Busi- ness. Forbes, September 5. https://www.forbes.com/sites/carolinecenizalevine/2020/09/05/ how-one-entrepreneur-trusted-his-gut-and-disrupted-the-toilet-paper-business/</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_KadJ9Wv">Unemployment Programs Hit by Fraud</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chaney Cambon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lazo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kiernan</surname></persName>
+		</author>
+		<ptr target="https://oedit.colorado.gov/press-release/snapdna-selects-colorado-for-new-headquarters" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A3YKpE6">The Wall Street Journal</title>
+		<imprint>
+			<date type="published" when="2020-12-23">2020. December 23. 2022. January 19</date>
+			<publisher>SNAPDNA selects Colorado for new Headquarters</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaney Cambon S, Lazo A, Kiernan P (2020) Unemployment Programs Hit by Fraud. The Wall Street Journal, December 23. https://www.wsj.com/articles/wave-of-attempted-fraud-hits-state-unem- ployment-claims-programs-11608633000?mod=searchresults_pos1&amp;page=1 Colorado Office of International Development and International Trade (2022) SNAPDNA selects Colorado for new Headquarters. January 19. https://oedit.colorado.gov/press-release/ snapdna-selects-colorado-for-new-headquarters</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_qJqadnj">The political economy of state response to infectious disease</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Coyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qpYa7yr">South Econ J</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1119" to="1137" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Coyne CJ, Duncan TK, Hall AR (2021) The political economy of state response to infectious disease. South Econ J 87(4):1119-1137</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_rqKvXhD">Consolidation of Power on Core Critical Infrastructure Sectors</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Radvanovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Allan</forename><surname>Mcdougall</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781003346630-3</idno>
+		<ptr target="https://www.cisa.gov/critical-infrastructure-sectors" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_weX5xRU">Critical Infrastructure</title>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="45" to="68" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cybersecurity and Infrastructure Security Agency (2020) Critical Infrastructure Sectors. https://www.cisa. gov/critical-infrastructure-sectors</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_D2uTvje">Tech jobs, sun, and no income tax: experts explain why Florida is poised to keep growing even after the pandemic</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dean</surname></persName>
+		</author>
+		<ptr target="https://www.businessinsider.com/florida-growth-jobs-economy-population-new-york-pandemic-employment-miami-2021-4" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gHjU8R7">Business Insider</title>
+		<imprint>
+			<date type="published" when="2021-05-21">2021. May 21</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dean G (2021) Tech jobs, sun, and no income tax: experts explain why Florida is poised to keep growing even after the pandemic.Business Insider, May 21, https://www.businessinsider.com/ florida-growth-jobs-economy-population-new-york-pandemic-employment-miami-2021-4</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main" xml:id="_BuQwQya">List of essential and non-essential businesses</title>
+		<author>
+			<persName><surname>Delaware</surname></persName>
+		</author>
+		<ptr target="https://coronavirus.delaware.gov/wp-content/uploads/sites/177/2020/04/DE-Industry-List-4.21" />
+		<imprint>
+			<date type="published" when="2020-03-24">2020. March 24</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Delaware (2020) List of essential and non-essential businesses. March 24. https://coronavirus.delaware. gov/wp-content/uploads/sites/177/2020/04/DE-Industry-List-4.21</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main" xml:id="_urZ4Wea">This Scientist Created a Rapid Test Just Weeks Into the Pandemic. Here&apos;s Why You Still Can&apos;t Get It</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Depillis</surname></persName>
+		</author>
+		<ptr target="https://pacificlegal.org/certificate-of-need-laws-covid-19/" />
+		<imprint>
+			<date type="published" when="2021-01-11">2021. December 21. 2021. January 11</date>
+		</imprint>
+		<respStmt>
+			<orgName>ProPublica</orgName>
+		</respStmt>
+	</monogr>
+	<note>States are suspending Certificate of Need laws in the wake of COVID-19 but the damage might already be done. Pacific Legal Foundation</note>
+	<note type="raw_reference">DePillis L (2021) This Scientist Created a Rapid Test Just Weeks Into the Pandemic. Here&apos;s Why You Still Can&apos;t Get It. ProPublica, December 21. https://www.propublica.org/article/ this-scientist-created-a-rapid-test-just-weeks-into-the-pandemic-heres-why-you-still-cant-get-it Erickson AC (2021) States are suspending Certificate of Need laws in the wake of COVID-19 but the damage might already be done. Pacific Legal Foundation, January 11. https://pacificlegal.org/ certificate-of-need-laws-covid-19/</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_K7ru597">US unemployment insurance replacement rates during the pandemic</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Ganong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pascal</forename><surname>Noel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Vavra</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpubeco.2020.104273</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_G2PQQ4F">Journal of Public Economics</title>
+		<title level="j" type="abbrev">Journal of Public Economics</title>
+		<idno type="ISSN">0047-2727</idno>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="page">104273</biblScope>
+			<date type="published" when="2020-11">2020</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ganong P, Noel P, Vavra J (2020) US unemployment insurance replacement rates during the pandemic. J Public Econ 191:104273</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_b4knMGS">https://bbrc.in/wp-content/uploads/2021/06/BBRC_Vol_14_No_05_Special-Issue_42.pdf</title>
+		<author>
+			<persName><forename type="first">Matiur</forename><surname>Rahman</surname></persName>
+		</author>
+		<idno type="DOI">10.21786/bbrc/14.5/43</idno>
+		<ptr target="https://georgiaopportunity.org/wp-content/uploads/2021/12/Pandemic-Response-Impact-on-Employment-Work-December-2021.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_mxun5ms">Bioscience Biotechnology Research Communications</title>
+		<title level="j" type="abbrev">Biosc Biotech Res Comm</title>
+		<idno type="ISSN">0974-6455</idno>
+		<idno type="ISSNe">2321-4007</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="242" to="244" />
+			<date type="published" when="2021-06-15">2021</date>
+			<publisher>Society for Science and Nature</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">George Center for Opportunity (2021) Assessing Each State&apos;s Response to the Pandemic: Understanding The Impact On Employment &amp; Work. https://georgiaopportunity.org/wp-content/uploads/2021/12/ Pandemic-Response-Impact-on-Employment-Work-December-2021.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_aeFdtaY">Learning from Deregulation: The Asymmetric Impact of Lockdown and Reopening on Risky Behavior During COVID-19</title>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Glaeser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ginger</forename><forename type="middle">Zhe</forename><surname>Jin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Leyden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Luca</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w27650</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AEsMfjm">J Reg Sci</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="696" to="709" />
+			<date type="published" when="2021">2021</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Glaeser EL, Jin GZ, Leyden BT, Luca M (2021) Learning from deregulation: The asymmetric impact of lockdown and reopening on risky behavior during COVID-19. J Reg Sci 61(4):696-709</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_tqwFmu4">Did the Paycheck Protection Program Hit the Target?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Granja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Makridis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yannelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zwick</surname></persName>
+		</author>
+		<ptr target="https://www.nber.org/papers/w27095" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Bureau of Economic Research</orgName>
+		</respStmt>
+	</monogr>
+	<note>Working Paper 27095</note>
+	<note type="raw_reference">Granja J, Makridis C, Yannelis C, Zwick E (2020) Did the Paycheck Protection Program Hit the Tar- get?. National Bureau of Economic Research, Working Paper 27095. https://www.nber.org/papers/ w27095</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_7KrKXGV">A Self-Inflicted Wound: Trump&apos;s New Rule on Student Visas Will Be Costly to US Higher Education and Technological Leadership</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Griswold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salmon</surname></persName>
+		</author>
+		<ptr target="https://www.mercatus.org/bridge/commentary/self-inflicted-wound" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6WTctat">The Bridge</title>
+		<imprint>
+			<date type="published" when="2009">2020. July 9</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Griswold D, Salmon J (2020) A Self-Inflicted Wound: Trump&apos;s New Rule on Student Visas Will Be Costly to US Higher Education and Technological Leadership. The Bridge, July 9. https://www.mercatus. org/bridge/commentary/self-inflicted-wound</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_VSrZTgw">The economic impact of city–county consolidations: a synthetic control approach</title>
+		<author>
+			<persName><forename type="first">Joshua</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+			<idno type="ORCID">0000-0001-6890-7387</idno>
+		</author>
+		<author>
+			<persName><forename type="first">Josh</forename><surname>Matti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yang</forename><surname>Zhou</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11127-019-00699-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_V5NzmED">Public Choice</title>
+		<title level="j" type="abbrev">Public Choice</title>
+		<idno type="ISSN">0048-5829</idno>
+		<idno type="ISSNe">1573-7101</idno>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="43" to="77" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hall JC, Matti J, Zhou Y (2020) The economic impact of city-county consolidations: A synthetic control approach. Public Choice 184:43-77</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holcombe</surname></persName>
+		</author>
+		<title level="m" xml:id="_BpYQGFc">Political Capitalism: How Economic and Political Power Is Made and Maintained</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Holcombe R (2018) Political Capitalism: How Economic and Political Power Is Made and Maintained. Cambridge University Press, Cambridge, UK</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main" xml:id="_3BXaNsA">Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021</title>
+		<author>
+			<persName><forename type="first">Harry</forename><surname>Holzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Glenn</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Strain</surname></persName>
+		</author>
+		<idno type="DOI">10.3386/w29575</idno>
+		<imprint>
+			<date type="published" when="2021-12">2021</date>
+			<publisher>National Bureau of Economic Research</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">NBER Working Paper Series</note>
+	<note>Working Paper 29575</note>
+	<note type="raw_reference">Holzer HJ, Hubbard RG, Strain MR (2021) Did Pandemic Unemployment Benefits Reduce Employment? Evidence from Early State-Level Expirations in June 2021. NBER Working Paper Series, Working Paper 29575</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_NDdnmDB">The Dynamics of Interventionism</title>
+		<author>
+			<persName><forename type="first">Sanford</forename><surname>Ikeda</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1529-2134(05)08002-6</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_krZmtsf">Advances in Austrian Economics</title>
+		<imprint>
+			<publisher>Emerald (MCB UP )</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="21" to="57" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ikeda S (2005) The dynamics of interventionism. Adv Austrian Econ 8:21-57</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_Jgfn9Au">Dynamics of the mixed economy: Toward a theory of interventionism</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ikeda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ExKCCaU">Economics and Knowledge. Economica</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="33" to="54" />
+			<date type="published" when="1937">2002. 1937</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York City Hayek FA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ikeda S (2002) Dynamics of the mixed economy: Toward a theory of interventionism. Routledge, New York City Hayek FA (1937) Economics and Knowledge. Economica 4(13):33-54</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_cFAVFEK">5 Friedrich Hayek, from “The Use of Knowledge in Society” (1945)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<idno type="DOI">10.7312/hayo18620-017</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_5V25pu5">Information</title>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1945">1945</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="519" to="530" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek FA (1945) The Use of Knowledge in Society. Am Econ Rev 35(4):519-530</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_BxKfc4n">Column: Elon Musk&apos;s moving Tesla&apos;s HQ to Texas is mostly about posturing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hiltzik</surname></persName>
+		</author>
+		<ptr target="https://www.latimes.com/business/story/2021-10-11/tesla-texas-elon-musk" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_wZxBrsf">Los Angeles Times</title>
+		<imprint>
+			<date type="published" when="2021-10-11">2021. October 11</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hiltzik M (2021) Column: Elon Musk&apos;s moving Tesla&apos;s HQ to Texas is mostly about posturing. Los Ange- les Times, October 11. https://www.latimes.com/business/story/2021-10-11/tesla-texas-elon-musk</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_CxU7zgD">Information frictions and access to the Paycheck Protection Program</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Humphries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Neilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ulyssea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PMVQF4Q">J Public Econ</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page">104244</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Humphries J, Neilson CA, Ulyssea G (2020) Information frictions and access to the Paycheck Protection Program. J Public Econ 190:104244</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_hKAzFnP">Abdul, G., A., &amp; Sehar, S. (2015). Conflict management and organizational performance: A case study of Askari Bank Ltd. Research Journal of Finance and Accounting. 6(11), 201. Adhiambo, R., &amp; Simatwa, M. (2011). Assessment of conflict management and resolution in public secondary schools in Kenya: A case study of Nyakach District. International Research Journal 2(4), 1074-1088. Adomi, E., &amp; Anie, S. (2015). Conflict management in Nigerian University Libraries. Journal of Library Management, 27(8), 520-530. https://doi.org/10.1108/01435120610686098 Amadi, E., C., &amp; Urho, P. (2016). Strike actions and its effect on educational management in universities in River State. Kuwait Chapter of Arabian Journal of Business and Management Review, 5(6), 41-46. https://doi.org/10.12816/0019033 Amah, E., &amp; Ahiauzu, A. (2013). Employee involvement and organizational effectiveness. Journal of Management Development, 32(7), 661-674. https://doi.org/10.1108/JMD-09-2010-0064 Amegee, P. K. (2010). The causes and impact of labour unrest on some selected organizations in Accra. University of Ghana Awan, A., G., &amp; Anjum K. (2015). Cost of High Employees turnover Rate in Oil industry of Pakistan, Information and Knowledge Management, 5 (2), 92- 102. Bernards, N. (2017). The International Labour Organization and African trade unions: tripartite fantasies and enduring struggles. Review of African Political Economy, 44(153), 399-414. https://doi.org/10.1080/03056244.2017.1318359 Blomgren Amsler, L., Avtgis, A. B., &amp; Jackman, M. S. (2017). Dispute System Design and Bias in Dispute Resolution. SMUL Rev., 70, 913. Boheim, R., &amp; Booth, A. (2004). Trade union presence and employer provided training in Great Britain industrial relations 43: pp 520-545. https://doi.org/10.1111/j.0019-8676.2004.00348.x Bryson, A., &amp; Freeman, R. B. (2013). Employee perceptions of working conditions and the desire for worker representation in Britain and the US. Journal of Labor Res 34(1), 1–29. https://doi.org/10.1007/s12122-012-9152-y Buccella, D., &amp; Fanti, L. (2020). Do labour union recognition and bargaining deter entry in a network industry? A sequential game model. Utilities Policy, 64, 101025. https://doi.org/10.1016/j.jup.2020.101025 Constitution, K. (2010). Government printer. Kenya: Nairobi. Cortés, P. (Ed.). (2016). The new regulatory framework for consumer dispute resolution. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198766353.001.0001 Creighton, B., Denvir, C., &amp; McCrystal, S. (2017). Defining industrial action. Federal Law Review, 45(3), 383-414. Daud, Z., &amp; Bakar, M. S. (2017). Improving employees&apos; welfare. European Journal of Industrial Relations, 25(2), 147-162. Deery, S., J., Iverson, R., D., &amp; Walsh, J. (2010). Coping strategies in call centers: Work Intensity and the Role of Co-workers and Supervisors. International Journal of employment relations, 48(1), 189-200. https://doi.org/10.1111/j.1467-8543.2009.00755.x Durrani, S. (2018). Trade Unions in Kenya&apos;s War of Independence (No. 2). Vita Books. https://doi.org/10.2307/j.ctvh8r4j2 Dwomoh, G., Owusu, E., E., &amp; Addo, M. (2013). Impact of occupational health and safety policies on employees’ performance in the Ghana’s timber industry: Evidence from Lumber and Logs Limited. International Journal of Education and Research, 1 (12), 1-14. Edinyang, S., &amp; Ubi, I. E. (2013). Studies secondary school students in Uyo Local government area of AkwaIbom State, Nigeria. Global Journal of Human Resource Management, 1(2), 1-8. Ewing, K., &amp; Hendy, J. (2017). New perspectives on collective labour law: Trade union recognition and collective bargaining. Industrial Law Journal, 46(1), 23-51. https://doi.org/10.1093/indlaw/dwx001 Fitzgerald, I., Beadle, R., &amp; Rowan, K. (2020). Trade Unions and the 2016 UK European Union Referendum. Economic and Industrial Democracy. https://doi.org/10.1177/0143831X19899483 Gall, G., &amp; Fiorito, J. (2016). Union effectiveness: In search of the Holy Grail. Economic and Industrial Democracy, 37(1) 189211. https://doi.org/10.1177/0143831X14537358 Gathoronjo, S. N. (2018). The Ministry of labour on the causes of labour disputes in the public sector. University of Nairobi. Iravo, M. A. (2011). Effect of conflict management in performance of public secondary schools in Machakos County, Kenya. Kenyatta University. Jepkorir, B. M. (2014). The effect of trade unions on organizational productivity in the cement manufacturing industry in Nairobi. University of Nairobi. Kaaria, J. K. (2019). Trade Liberalization and Export Survival In Kenya. University of Nairobi. Kaburu, Z. (2010). The relationship between terms and conditions of service and motivation of domestic workers in Nairobi. University of Nairobi. Kambilinya, I. (2014). Assessment of performance of trade unions. Master’s Thesis Submitted to University of Malawi. Kamrul, H., Ashraful, I., &amp; Arifuzzaman, M. (2015). A Study on the major causes of labour unrest and its effect on the RMG sector of Bangladesh. International Journal of Scientific &amp; Engineering Research, 6 (11). Kazimoto, P. (2013). Analysis of conflict management and leadership for organizational change. International Journal of Research in Social Sciences, 3(1), 16-25. Khanka, I. (2015). Industrial relations in Tanzania. University of Dar-es-salaam. Kisaka, C. L. (2010). Challenges facing trade unions in Kenya. Master’s Thesis Submitted to University of Nairobi. Kituku, M. N. (2015). Influence of conflict resolution strategies on project implementation. A Case of Titanium Base Limited Kwale County Kenya. University of Nairobi. Kmietowicz, Z. (2016). Ballot on industrial action by GPs averted as government accepts BMA’s demands. https://doi.org/10.1136/bmj.i4619 KNHCR (2020). Key Business and Human Rights Concerns in Kenya. Retrieved from http://nap.knchr.org/NAP-Scope/Key-Business-and-Human-Rights-Concerns-in-Kenya. Magone, J. (2018). Iberian trade unionism: Democratization under the impact of the European Union. Routledge. https://doi.org/10.4324/9781351325684 Menkel-Meadow, C. J., Porter-Love, L., Kupfer-Schneider, A., &amp; Moffitt, M. (2018). Dispute resolution: Beyond the adversarial model. Aspen Publishers. Mlungisi, E. T. (2016). The liability of trade unions for conduct of their members during industrial action. MoLSP (2020). Ministry of Labor and Social Protection, Registrar of Trade Unions. Retrieved from https://labour.go.ke/department-of-trade-unions/ Msila, X. (2018). Trade union density and its implications for collective bargaining in South Africa. University of Pretoria. Mulima, K. J. (2017). Trade Union Practices on Improvement of Teachers Welfare. University of Nairobi). Năstase, A., &amp; Muurmans, C. (2020). Regulating lobbying practices in the European Union: A voluntary club perspective. Regulation &amp; Governance, 14(2), 238-255. https://doi.org/10.1111/rego.12200 Otenyo, E. E. (2017). Trade unions and the age of information and communication technologies in Kenya. Lexington Books. Powell, J. (2018). Towards a Marxist theory of financialised capitalism. https://doi.org/10.1093/oxfordhb/9780190695545.013.37 Razaka, S. S., &amp; Mahmodb, N. A. K. N. (2017). Trade Union Recognition in Malaysia: Transforming State Government’s Ideology. Proceeding of ICARBSS 2017 Langkawi, Malaysia, 2017(29th), 175.</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">Musembi</forename><surname>Ngulumbu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fanice</forename><surname>Waswa</surname></persName>
+		</author>
+		<idno type="DOI">10.53819/81018102t2041</idno>
+		<ptr target="https://fortune.com/2020/05/21/coronavirus-toilet-paper-shortage/KirznerIM" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_sZBnmuZ">Journal of Strategic Management</title>
+		<title level="j" type="abbrev">JOSM</title>
+		<idno type="ISSNe">2616-8472</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="58" />
+			<date type="published" when="1985-05-21">2022. January 19. 86b4-8f0cce937d55. 2020. May 21. 1985</date>
+			<publisher>Stratford Peer Reviewed Journal &amp; Book Publishing</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>From California to Broomfield, food safety tech company moving its headquarters</note>
+	<note type="raw_reference">Huspeni D (2022) From California to Broomfield, food safety tech company moving its headquar- ters. The Denver Gazette, January 19. 86b4-8f0cce937d55.html https://denvergazette.com/news/ business/from-california-to-broomfield-food-safety-tech-company-moving-its-headquarters/ article_0894284e-7967-11ec- King R (2020) The Coronavirus Economy: The Toilet Paper Startup in the Right Place at an Unfortunate Time. Fortune, May 21. https://fortune.com/2020/05/21/coronavirus-toilet-paper-shortage/ Kirzner IM (1985) The Perils of Regulation: A Market Process Approach. Discovery and the Capitalist Process. University of Chicago Press, Chicago, IL, pp 119-149</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_P6R7xTQ">Competition and Entrepreneurship</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Kirzner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_DVg3pje">The Collected Works of Israel M. Kirzner</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Boettke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Sautet</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Indianapolis, IN</addrLine></address></meeting>
+		<imprint>
+			<publisher>Liberty Fund</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner IM (2013) Competition and Entrepreneurship. In: Boettke PJ, Sautet F (eds) The Collected Works of Israel M. Kirzner. Liberty Fund, Indianapolis, IN</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_QUUzGVq">Lumber price falls to $399-down from $1,515 this spring</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lambert</surname></persName>
+		</author>
+		<ptr target="https://fortune.com/2021/08/20/lumber-prices-rates-shortage-diy-projects-home-depot-lowes/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_B3pWxXt">Fortune</title>
+		<imprint>
+			<date type="published" when="2021-08-20">2021. August 20</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lambert L (2021) Lumber price falls to $399-down from $1,515 this spring. Fortune, August 20. https:// fortune.com/2021/08/20/lumber-prices-rates-shortage-diy-projects-home-depot-lowes/</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lavoie</surname></persName>
+		</author>
+		<title level="m" xml:id="_5W4eCJs">Rivalry and Central Planning: The Socialist Calculation Debate Reconsidered</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lavoie D (1985a) Rivalry and Central Planning: The Socialist Calculation Debate Reconsidered. Cam- bridge University Press, Cambridge, UK</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main" xml:id="_jMb3GPk">National Economic Planning. What Is Left?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lavoie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Ballinger Publishing Company</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lavoie D (1985b) National Economic Planning. What Is Left? Ballinger Publishing Company, Cambridge, MA</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_UudRkdC">The Market as a Procedure for Discovery and Conveyance of Inarticulate Knowledge</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lavoie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Zwfr2cX">Comp Econ Stud</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lavoie D (1986) The Market as a Procedure for Discovery and Conveyance of Inarticulate Knowledge. Comp Econ Stud 28(1):1-19</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_UcT6JkF">Did the small business administration’s COVID-19 assistance go to the hard hit firms and bring the desired relief?</title>
+		<author>
+			<persName><forename type="first">Meng</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jeconbus.2020.105969</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Gpkszm9">Journal of Economics and Business</title>
+		<title level="j" type="abbrev">Journal of Economics and Business</title>
+		<idno type="ISSN">0148-6195</idno>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">105969</biblScope>
+			<date type="published" when="2020-05">2020. May-June</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Li M (2020) Did the Small Business Administration&apos;s COVID-19 Assistance Go to the Hard Hit Firms and Bring the Desired Relief? Journal of Economics and Business 115, May-June: article 105969</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main" xml:id="_8PK6N4m">Houston is now home to Texas&apos; first drive-thru strip club</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Licea</surname></persName>
+		</author>
+		<ptr target="https://nypost.com/2020/07/22/texas-first-drive-thru-strip-club-has-2-song-limit/" />
+		<imprint>
+			<date type="published" when="2020-07-22">2020. July 22</date>
+			<pubPlace>New York Post</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Licea M (2020) Houston is now home to Texas&apos; first drive-thru strip club. New York Post, July 22. https:// nypost.com/2020/07/22/texas-first-drive-thru-strip-club-has-2-song-limit/</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_ATsbwap">Self-Governance, Polycentricity, and Environmental Policy</title>
+		<author>
+			<persName><forename type="first">Jordan</forename><forename type="middle">K</forename><surname>Lofthouse</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.4628309</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_q4fJdS2">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Jenkins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Simmon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Wardle</surname></persName>
+		</editor>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="page" from="31" to="59" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Elsevier BV</publisher>
+			<pubPlace>Logan</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lofthouse JK (2020) Self-Governance, Polycentricity, and Environmental Policy. In: Jenkins ME, Sim- mon RT, Wardle CH (eds) The Environmental Optimism of Elinor Ostrom. Center for Growth and Opportunity at Utah State University, Logan, pp 31-59</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_HDmxxsy">Texas schools can again set their own face mask rules after federal judge overrules Gov. Greg Abbott&apos;s ban</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lopez</surname></persName>
+		</author>
+		<ptr target="https://www.texastribune.org/2021/11/10/texas-schools-mask-mandate-ban-overturned/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FmzVjGn">The Texas Tribune</title>
+		<imprint>
+			<date type="published" when="2021-11-10">2021. November 10</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lopez B (2021) Texas schools can again set their own face mask rules after federal judge overrules Gov. Greg Abbott&apos;s ban. The Texas Tribune, November 10. https://www.texastribune.org/2021/11/10/ texas-schools-mask-mandate-ban-overturned/</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_EydcHfh">The Substance of Entrepreneurship and the Entrepreneurship of Substances</title>
+		<author>
+			<persName><forename type="first">A ;</forename><surname>Markowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>March</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Redford</forename><forename type="middle">A</forename></persName>
+		</author>
+		<ptr target="https://www.aarp.org/health/healthy-living/info-2020/states-mask-mandates-coronavirus" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rnAQm46">J Entrepreneurship Public Policy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="201" to="220" />
+			<date type="published" when="2016">2022. January 11. 2016. 2020. March 31</date>
+			<publisher>AARP</publisher>
+			<pubPlace>Maryland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>State-by-State Guide to Face Mask Requirements. Maryland Essential Business List 3-31-20</note>
+	<note type="raw_reference">Markowitz A (2022) State-by-State Guide to Face Mask Requirements. AARP, January 11. https://www. aarp.org/health/healthy-living/info-2020/states-mask-mandates-coronavirus.html#Arizona March RJ, Martin AG, Redford A (2016) The Substance of Entrepreneurship and the Entrepreneurship of Substances. J Entrepreneurship Public Policy 5(2):201-220 Maryland (2020) Maryland Essential Business List 3-31-20. March 31</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_uUrayQK">&lt;scp&gt;Stay‐at‐home&lt;/scp&gt; orders were issued earlier in economically unfree states</title>
+		<author>
+			<persName><forename type="first">Bryan</forename><forename type="middle">C</forename><surname>Mccannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joshua</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/soej.12495</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ryzSjaW">Southern Economic Journal</title>
+		<title level="j" type="abbrev">Southern Economic Journal</title>
+		<idno type="ISSN">0038-4038</idno>
+		<idno type="ISSNe">2325-8012</idno>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1138" to="1151" />
+			<date type="published" when="2021-02-25">2021</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McCannon BC, Hall JC (2021) Stay-at-home Orders Were Issued Earlier in Economically Unfree States. South Econ J 87(4):1138-1151</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main" xml:id="_rrNndyf">Socialism: An Economic and Sociological Analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Mises</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1929">1981. 1929. 2011</date>
+			<publisher>Liberty Fund</publisher>
+			<pubPlace>Indianapolis, IN Mises LV</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises LV (1981) Socialism: An Economic and Sociological Analysis. Liberty Fund, Indianapolis, IN Mises LV ([1929] (2011)</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_trVrA6P">A Critique of Interventionism (Kritik des Interventionismus</title>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_YYfTEa2">Bureaucracy. Liberty Fund</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Auburn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Mises</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Indianapolis, IN Mises LV</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1949">2007. 1949. 1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>Mises Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note>Human Action, Scholars&apos; edition</note>
+	<note type="raw_reference">A Critique of Interventionism (Kritik des Interventionismus). Mises Institute, Auburn, AL Mises LV (ed) (2007) Bureaucracy. Liberty Fund, Indianapolis, IN Mises LV ([1949] 1998) Human Action, Scholars&apos; edition.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_vQra5eY">Americans Have Baked All the Flour Away</title>
+		<author>
+			<persName><forename type="first">Mises</forename><surname>Institute</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Auburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mull</surname></persName>
+		</author>
+		<ptr target="https://www.theatlantic.com/health/archive/2020/05/why-theres-no-flour-during-coronavirus/611527/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_49r9Zxm">The Atlantic</title>
+		<imprint>
+			<date type="published" when="2020-05-12">2020. May 12</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises Institute, Auburn, AL Mull A (2020) Americans Have Baked All the Flour Away. The Atlantic, May 12. https://www.theatlantic. com/health/archive/2020/05/why-theres-no-flour-during-coronavirus/611527/</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main" xml:id="_yzN8keu">Leveraging 13 million responses to the U.S. COVID-19 Trends and Impact Survey to examine vaccine hesitancy, vaccination, and mask wearing, January 2021-February 2022</title>
+		<author>
+			<persName><forename type="first">Quynh</forename><forename type="middle">C</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Isha</forename><surname>Yardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francia</forename><forename type="middle">Ximena Marin</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heran</forename><surname>Mane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xiaohe</forename><surname>Yue</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-022-14286-3</idno>
+		<ptr target="https://www.wsj.com/articles/ppp-borrowers-are-asked-to-jus-tify-need-for-loans-over-2-million-11605903702?st=ukqyyri4fpczd7b&amp;reflink=desktopwebshare_permalink" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8wyg6KZ">BMC Public Health</title>
+		<title level="j" type="abbrev">BMC Public Health</title>
+		<idno type="ISSNe">1471-2458</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020-11-20">2022. January 5. 2020. November 20</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">National Academy for State Health Policy (2022) States&apos; COVID-19 Public Health Emergency Declara- tions and Mask Requirements. January 5. https://www.nashp.org/governors-prioritize-health-for-all/ Omeokwe A (2020) PPP Borrowers Are Asked to Justify Need for Loans Over $2 Million. The Wall Street Journal, November 20. https://www.wsj.com/articles/ppp-borrowers-are-asked-to-jus- tify-need-for-loans-over-2-million-11605903702?st=ukqyyri4fpczd7b&amp;reflink=desktopwebsh are_permalink</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main" xml:id="_eWyApXQ">The Delivery of Urban Services: Outcomes of Change</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ostrom</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<pubPlace>Sage, Beverly Hills, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ostrom E (1976) The Delivery of Urban Services: Outcomes of Change. Sage, Beverly Hills, CA</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main" xml:id="_eecNkDy">Understanding Institutional Diversity</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ostrom</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ostrom E (2005) Understanding Institutional Diversity. Princeton University Press, Princeton, NJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_pa2PK5Z">Beyond Markets and States: Polycentric Governance of Complex Economic Systems</title>
+		<author>
+			<persName><forename type="first">Elinor</forename><surname>Ostrom</surname></persName>
+		</author>
+		<idno type="DOI">10.1257/aer.100.3.641</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fNSzEy2">American Economic Review</title>
+		<title level="j" type="abbrev">American Economic Review</title>
+		<idno type="ISSN">0002-8282</idno>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="641" to="672" />
+			<date type="published" when="2010-06-01">2010</date>
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ostrom E (2010) Beyond Markets and States: Polycentric Governance of Complex Economic Systems. Am Econ Rev 100(3):641-672</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_UrNVWwE">A Conceptual-Computational Logic for Federal Systems of Governance</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ostrom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_8exCpZD">Constitutional Design and Power-Sharing in the Postmodern Epoch</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Elazar</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>University Press of America, Lanham</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="2" to="22" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ostrom V (1979) A Conceptual-Computational Logic for Federal Systems of Governance. In: Elazar DJ (ed) Constitutional Design and Power-Sharing in the Postmodern Epoch. University Press of Amer- ica, Lanham, pp 2-22</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_5bJHzNK">The Organization of Government in Metropolitan Areas: A Theoretical Inquiry</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ostrom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Tiebout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Warren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yX8p8St">Am Political Sci Rev</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="831" to="842" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ostrom V, Tiebout CM, Warren R (1961) The Organization of Government in Metropolitan Areas: A Theo- retical Inquiry. Am Political Sci Rev 55(4):831-842</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_F3M6nrr">UI Generosity and Job Acceptance: Effects of the 2020 CARES Act</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Petrosky-Nadeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Valletta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_4xrqjVc">Working Paper Series 2021-13</title>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<publisher>Federal Reserve Bank</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Petrosky-Nadeau N, Valletta RG (2021) UI Generosity and Job Acceptance: Effects of the 2020 CARES Act. Working Paper Series 2021-13, Federal Reserve Bank of San Francisco</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_C3XYcwH">A Portland Strip Club Has Started a Meal Delivery Service Where Dancers Bring Food Directly to Your Door</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prewitt</surname></persName>
+		</author>
+		<ptr target="https://www.wweek.com/bars/2020/03/17/a-portland-strip-club-has-started-a-meal-delivery-service-where-dancers-bring-food-directly-to-your-door-to-your-home/" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KruZVBX">Willamette Week</title>
+		<imprint>
+			<date type="published" when="2020-03-17">2020. March 17</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Prewitt A (2020) A Portland Strip Club Has Started a Meal Delivery Service Where Dancers Bring Food Directly to Your Door. Willamette Week, March 17. https://www.wweek.com/bars/2020/03/17/a- portland-strip-club-has-started-a-meal-delivery-service-where-dancers-bring-food-directly-to-your- door-to-your-home/</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Randall</surname></persName>
+		</author>
+		<ptr target="https://www.sun-sentinel.com/business/fl-bz-northeast-businesses-south-florida-concierge-services-pandemic-20210318-njw6oesz4jh5reebcz6wkmwfdm-story.html" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tYWcUCa">More Northeast-based businesses look to put down roots in South Florida</title>
+		<imprint>
+			<date type="published" when="2021-03-18">2021. March 18</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Randall A (2021) More Northeast-based businesses look to put down roots in South Florida. South Florida Sun Sentinel, March 18. https://www.sun-sentinel.com/business/fl-bz-northeast-businesses-south- florida-concierge-services-pandemic-20210318-njw6oesz4jh5reebcz6wkmwfdm-story.html</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main" xml:id="_QRmWHbR">The political economy of drug and alcohol regulation during the COVID-19 pandemic</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Redford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Dills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_UmDwgQM">South Econ J</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1175" to="1209" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Redford A, Dills AK (2021) The political economy of drug and alcohol regulation during the COVID-19 pandemic. South Econ J 87(4):1175-1209</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q8z6VfM">Tesla&apos;s move to Texas from California is officially complete</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reuter</surname></persName>
+		</author>
+		<ptr target="https://www.businessinsider.com/tesla-texas-headquarters-move-from-california-officiallly-complete-elon-musk-2021-12" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JJN8JWS">Business Insider</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>December1</note>
+	<note type="raw_reference">Reuter D (2021) Tesla&apos;s move to Texas from California is officially complete.Business Insider, Decem- ber1. https://www.businessinsider.com/tesla-texas-headquarters-move-from-california-officiallly- complete-elon-musk-2021-12</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_7JHA69B">Elon Musk has a $2.5 billion reason to move to Texas: avoiding California capital gains tax</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kierz</surname></persName>
+		</author>
+		<ptr target="https://www.businessinsider.com/why-did-elon-musk-move-texas-wealth-tax-capital-gains-2021-11" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hrtPutj">Business Insider</title>
+		<imprint>
+			<date type="published" when="2021">2021. November30</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reuter D, Kierz A (2021) Elon Musk has a $2.5 billion reason to move to Texas: avoiding Cali- fornia capital gains tax.Business Insider, November30. https://www.businessinsider.com/ why-did-elon-musk-move-texas-wealth-tax-capital-gains-2021-11</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main" xml:id="_NK7T3Jp">Prosecutors: Massachusetts man who faked his own death gets sentenced to 56 months for COVID business loan fraud</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Santucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mulvaney</surname></persName>
+		</author>
+		<ptr target="https://www.usatoday.com/story/news/nation/2021/10/08/first-covid-fund-fraud-sentence-man-who-faked-suicide/6058161001/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_8udpCpd">USA Today</title>
+		<imprint>
+			<date type="published" when="2021">2021. October8</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Santucci J, Mulvaney K (2021) Prosecutors: Massachusetts man who faked his own death gets sentenced to 56 months for COVID business loan fraud. USA Today, October8. https://www.usatoday.com/story/ news/nation/2021/10/08/first-covid-fund-fraud-sentence-man-who-faked-suicide/6058161001/</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_fwhHHtW">North Texas man admits to orchestrating $23 million PPP loan fraud scheme</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sentendrey</surname></persName>
+		</author>
+		<ptr target="https://www.fox4news.com/news/north-texas-man-admits-to-orchestrating-23-million-ppp-loan-fraud-scheme" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RhRzBYk">FOX</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2021-10-19">2021. October 19</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sentendrey D (2021) North Texas man admits to orchestrating $23 million PPP loan fraud scheme. FOX 4, October 19. https://www.fox4news.com/news/ north-texas-man-admits-to-orchestrating-23-million-ppp-loan-fraud-scheme</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main" xml:id="_VA5zfDb">After panicked crowds swarm Denver liquor stores and dispensaries, mayor reverses order to close both</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sexton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brothers</surname></persName>
+		</author>
+		<ptr target="https://www.denverpost.com/2020/03/23/liquor-stores-dispensaries-closing-denver-shelter-in-place/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FCweUgv">The Denver Post</title>
+		<imprint>
+			<date type="published" when="2020-03-23">2020. March 23</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sexton J, Rubino J, Brothers A (2020) After panicked crowds swarm Denver liquor stores and dispen- saries, mayor reverses order to close both.The Denver Post, March 23. https://www.denverpost. com/2020/03/23/liquor-stores-dispensaries-closing-denver-shelter-in-place/</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main" xml:id="_rsCqAVe">PPP Changes Trip Up Small Businesses</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rudegeair</surname></persName>
+		</author>
+		<ptr target="https://www.wsj.com/articles/paycheck-protection-program-changes-trip-up-small-businesses-11589288403?st=agoicz8v3kcjgga&amp;reflink=desktopwebshare_permalink" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_TNHXwHq">The Wall Street Journal</title>
+		<imprint>
+			<date type="published" when="2020-05-12">2020. May 12</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Simon R, Rudegeair P (2020) PPP Changes Trip Up Small Businesses. The Wall Street Jour- nal, May 12. https://www.wsj.com/articles/paycheck-protection-program-changes- trip-up-small-businesses-11589288403?st=agoicz8v3kcjgga&amp;reflink=desktopwebsh are_permalink</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Storey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Manansala</surname></persName>
+		</author>
+		<ptr target="https://www.businessinsider.com/where-americans-moved-covid-pandemic-2021-8" />
+		<title level="m" xml:id="_Fkzedyh">One in every 10 Americans moved during the pandemic</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>Here&apos;s where they went. Business Insider</note>
+	<note type="raw_reference">Storey W, Manansala L (2021) One in every 10 Americans moved during the pandemic. Here&apos;s where they went, vol 10. Business Insider. https://www.businessinsider.com/ where-americans-moved-covid-pandemic-2021-8</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_DmPEm4D">Essential or not? Knowledge problems and COVID-19 stay-at-home orders</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Storr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Haeffele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lofthouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Grube</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7JcqnFK">South Econ J</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1229" to="1249" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Storr VH, Haeffele S, Lofthouse JK, Grube LE (2021) Essential or not? Knowledge problems and COVID- 19 stay-at-home orders. South Econ J 87(4):1229-1249</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_CzbqTfy">Entrepreneurship during a pandemic</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Storr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Haeffele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Lofthouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WpRSdS3">Eur J Law Econ</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="83" to="105" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Storr VH, Haeffele S, Lofthouse JK, Hobson A (2022) Entrepreneurship during a pandemic. Eur J Law Econ 54:83-105</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main" xml:id="_FwXG33w">Liquor license loophole allows some Pa. restaurants to remain open during December shutdown</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Strebig</surname></persName>
+		</author>
+		<ptr target="https://www.timesonline.com/story/news/state/2020/12/28/how-does-covid-liquor-enforcement-work-pa-restaurants/4025259001/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nZftjkU">Times Online</title>
+		<imprint>
+			<date type="published" when="2020-12-28">2020. December 28</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strebig N (2020) Liquor license loophole allows some Pa. restaurants to remain open during December shutdown. Times Online, December 28. https://www.timesonline.com/story/news/state/2020/12/28/ how-does-covid-liquor-enforcement-work-pa-restaurants/4025259001/</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main" xml:id="_97jUccZ">Evidence of PPP Fraud Mounts, Officials Say</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tracy</surname></persName>
+		</author>
+		<ptr target="https://www.wsj.com/articles/ppp-was-a-fraudster-free-for-all-investigators-say-11604832072?st=hydq5nbc1ekh6mp&amp;reflink=desktopwebshare_permalinkUSCongress" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cTzCNsQ">The Wall Street Journal</title>
+		<imprint>
+			<date type="published" when="2020">2020. November8. 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tracy R (2020) Evidence of PPP Fraud Mounts, Officials Say. The Wall Street Journal, November8. https://www.wsj.com/articles/ppp-was-a-fraudster-free-for-all-investigators-say-11604832072?st=h ydq5nbc1ekh6mp&amp;reflink=desktopwebshare_permalink US Congress (2020a)</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<ptr target="https://www.congress.gov/bill/116th-congress/senate-bill/3548/textUSCongress" />
+		<title level="m" xml:id="_S6ZD8pS">CARES Act</title>
+		<imprint>
+			<date type="published" when="2020">2020b</date>
+			<biblScope unit="page">3548</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.3548 -CARES Act. https://www.congress.gov/bill/116th-congress/ senate-bill/3548/text US Congress (2020b)</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename></persName>
+		</author>
+		<ptr target="https://www.congress.gov/bill/116th-congress/house-bill/133" />
+		<title level="m" xml:id="_cGh5PCJ">Consolidated Appropriations Act</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">133</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H.R.133 -Consolidated Appropriations Act, 2021. https://www.congress.gov/ bill/116th-congress/house-bill/133</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<ptr target="https://www.usa.gov/coronavirus" />
+		<title level="m" xml:id="_fcgTkUh">Coronavirus (COVID-19) Update: FDA Authorizes First COVID-19 Test for Self-Testing at Home. FDA News Release</title>
+		<imprint>
+			<publisher>US Government Information and Services</publisher>
+			<date type="published" when="2020-11-17">2021. October 13. 2021. October 15. 2020. November 17. 2020</date>
+		</imprint>
+	</monogr>
+	<note>Government Response to Coronavirus</note>
+	<note type="raw_reference">US Department of Justice (2021a) Two Individuals Sentenced for COVID-19 Relief Fraud. October 13. https://www.justice.gov/opa/pr/two-individuals-sentenced-covid-19-relief-fraud US Department of Justice (2021b) Former McKinney Man Indicted for COVID-19 Relief Fraud. October 15. https://www.justice.gov/usao-edtx/pr/former-mckinney-man-indicted-covid-19-relief-fraud US Food and Drug Administration (2020) Coronavirus (COVID-19) Update: FDA Authorizes First COVID-19 Test for Self-Testing at Home. FDA News Release, November 17. https://www.fda.gov/news-events/press-announcements/ coronavirus-covid-19-update-fda-authorizes-first-covid-19-test-self-testing-home US Government Information and Services (2020) Government Response to Coronavirus, COVID-19. https://www.usa.gov/coronavirus</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wagner</surname></persName>
+		</author>
+		<title level="m" xml:id="_PCqMncA">Politics as a Peculiar Business</title>
+		<meeting><address><addrLine>Cheltenham, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wagner RE (2016) Politics as a Peculiar Business. Edward Elgar Publishing, Cheltenham, UK</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main" xml:id="_Yvr8NUA">Self-governance, polycentrism, and federalism: Recurring themes in Vincent Ostrom&apos;s scholarly oeuvre</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_cg8qQCv">J Econ Behav Organ</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="188" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wagner RE (2005) Self-governance, polycentrism, and federalism: Recurring themes in Vincent Ostrom&apos;s scholarly oeuvre. J Econ Behav Organ 57(2):173-188</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main" xml:id="_th83T68">GM to build 30,000 ventilators for national stockpile for $489.4 million</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wayland</surname></persName>
+		</author>
+		<ptr target="https://www.cnbc.com/2020/04/08/gm-to-build-30000-ventilators-for-us-for-489point4-million.html" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_KkmXFzZ">CNBC</title>
+		<imprint>
+			<date type="published" when="2020-04-08">2020. April 8</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wayland M(2020) GM to build 30,000 ventilators for national stockpile for $489.4 million. CNBC, April 8. https://www.cnbc.com/2020/04/08/gm-to-build-30000-ventilators-for-us-for-489point4-million. html</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main" xml:id="_RDSqQde">What happens to telemedicine after COVID-19? AAMC</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weiner</surname></persName>
+		</author>
+		<ptr target="https://www.aamc.org/news-insights/what-happens-telemedicine-after-covid-19" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weiner S (2021) What happens to telemedicine after COVID-19? AAMC, p 21. https://www.aamc.org/ news-insights/what-happens-telemedicine-after-covid-19</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main" xml:id="_urtXNTb">NC strip club starts bikini car wash after closing due to COVID-19</title>
+		<author>
+			<persName><surname>Wnct</surname></persName>
+		</author>
+		<ptr target="https://www.cbs17.com/news/north-carolina-news/nc-strip-club-starts-bikini-car-wash-after-closing-due-to-covid-19/" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_yHvZxWd">CBS 17 News</title>
+		<imprint>
+			<date type="published" when="2020">2020. March20</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">WNCT (2020) NC strip club starts bikini car wash after closing due to COVID- 19. CBS 17 News, March20. https://www.cbs17.com/news/north-carolina-news/ nc-strip-club-starts-bikini-car-wash-after-closing-due-to-covid-19/</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main" xml:id="_twpVawH">PA list of essential and non-essential businesses</title>
+		<author>
+			<persName><surname>Wfmz</surname></persName>
+		</author>
+		<ptr target="https://www.wfmz.com/pa-list-of-essential-and-non-essential-businesses/pdf_c18a1c60-6b71-11ea-ba4c-778e1c007dd3.html" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_qx56SEV">WFMZ-TV 69 News</title>
+		<imprint>
+			<date type="published" when="2020-03-21">2020. March 21</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">WFMZ (2020) PA list of essential and non-essential businesses. WFMZ-TV 69 News, March 21. https:// www.wfmz.com/pa-list-of-essential-and-non-essential-businesses/pdf_c18a1c60-6b71-11ea-ba4c- 778e1c007dd3.html</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

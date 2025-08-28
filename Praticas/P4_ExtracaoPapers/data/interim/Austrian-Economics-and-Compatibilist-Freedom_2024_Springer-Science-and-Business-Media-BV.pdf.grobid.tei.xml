@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_s2w9s3Q"></title>
+				<funder ref="#_ytkda6c">
+					<orgName type="full">National Science Centre, Poland</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-06-06">6 June 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Igor</forename><surname>Wysocki</surname></persName>
+							<email>igorwysocki82@wp.pl</email>
+							<idno type="ORCID">0000-0002-4926-4010</idno>
+							<affiliation key="aff0">
+								<orgName type="department">The Interdisciplinary Doctoral School of Social Sciences (Academia Rerum Socialum)</orgName>
+								<orgName type="institution">Nicolaus Copernicus University</orgName>
+								<address>
+									<postCode>87-100</postCode>
+									<settlement>ToruńWładysława Bojarskiego 1</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Łukasz</forename><surname>Dominiak</surname></persName>
+							<email>lukasdominiak80@gmail.com</email>
+							<idno type="ORCID">0000-0001-6192-8468</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Philosophy and Social Sciences</orgName>
+								<orgName type="institution">Nicolaus Copernicus University</orgName>
+								<address>
+									<addrLine>87-100</addrLine>
+									<settlement>ToruńFosa Staromiejska 1A</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2023-06-06">6 June 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AB17565602D7F45F6C71BD4E8D2BF120</idno>
+					<idno type="DOI">10.1007/s10838-023-09640-x</idno>
+					<note type="submission">Accepted: 25 January 2023 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_Px3AubW">Austrian economics</term>
+					<term xml:id="_p4FKRwr">compatibilism</term>
+					<term xml:id="_psdUyuq">metaphysical libertarianism</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_pjW444y"><p xml:id="_6TrsktG"><s xml:id="_tFBHV9y">The present paper probes the relation between the metaphysics of human freedom and the Rothbardian branch of Austrian economics.</s><s xml:id="_kFTJkeh">It transpires that Rothbard and his followers embrace metaphysical libertarianism, which holds that free will is incompatible with determinism and that the thesis of determinism is false as pertaining to human action.</s><s xml:id="_jwy9hyW">However, as we demonstrate, their economics with its reliance on value scales requires for its tenability compatibilist freedom.</s><s xml:id="_zXRMWcW">Moreover, we attempt to show that the notion of value scales (or preferences) postulated by them implies that value scales are determinative of choices people make.</s><s xml:id="_yWsu9BX">We contend that it is for this reason that the said Austrians should jettison their metaphysical libertarianism.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_7UWNqMG">Introduction</head><p xml:id="_ZCKKvkE"><s xml:id="_ThhNGPn">Whether human agents are endowed with metaphysical libertarian freedom 1 seems to be no petty matter.</s><s xml:id="_u3Zdc34">Although the present paper focuses on the type of human freedom purportedly cohering with the overall conceptual framework of Austrian economics, we cannot 1 Under metaphysical libertarianism, for agent S to perform an act x freely implies that at the very least the agent could have refrained from performing x, everything else equal.</s><s xml:id="_kn6gbsA">In other words, just to resort to the possible worlds semantics, according to metaphysical libertarians, an act x is performed freely by the agent S at time t only if there is a possible world where everything is the same up until t and S does something other than x at t. but notice that the metaphysics of human freedom matters most in moral philosophy, and especially in assigning moral responsibility.</s><s xml:id="_uUJFvYf">Before <ref type="bibr" target="#b19">Frankfurt's (1969)</ref> seminal paper, it was almost universally accepted in the philosophical literature that moral responsibility requires metaphysical libertarian freedom (hereinafter referred to as MLF); that is, the ability to do otherwise, ceteris paribus.</s><s xml:id="_nzyTKjg">And it must be granted that this dominant pre-Frankfurt view has some intuitive appeal.</s><s xml:id="_VTD69Tm">After all, at least prima facie, it seems that, given determinism, an ought-implies-can principle 2 would be violated.</s><s xml:id="_nWUGMqF">For, under determinism, if a person fails to discharge his duty and thus violates somebody's right, the former does so necessarily.</s><s xml:id="_4nGVfaV">But, if he could not have done otherwise, then a fortiori he could not have discharged his duty, everything else equal.</s><s xml:id="_qQxWzuK">In other words, there is no possible world sharing the history of the actual world (up to the moment of him actually failing to discharge his duty) and its laws of nature in which he discharges his duty.</s><s xml:id="_PvmuFdD">And if so, it appears to be odd to hold people responsible for the actions that were unavoidable, keeping everything else fixed.</s></p><p xml:id="_W4jAKj5"><s xml:id="_huSC37C">And indeed, even after <ref type="bibr" target="#b19">Frankfurt (1969)</ref>, there is a strand of thought associated for example with <ref type="bibr" target="#b54">Pereboom (2001;</ref><ref type="bibr" target="#b56">2014)</ref> or <ref type="bibr" target="#b10">Caruso (2021)</ref> arguing that the truth of determinism rules out moral responsibility in a basic-desert sense in which "the agent would deserve to be blamed or praised just because she has performed the action, given an understanding of its moral status, and not, for example, merely by virtue of consequentialist or contractualist considerations" <ref type="bibr">(Pereboom 2014, 2)</ref>.</s><s xml:id="_z853wRD">It is also <ref type="bibr">Parfit (2011, 265)</ref> who claims that, given the absence of MLF, we cannot be responsible for our acts in a way that could make us deserve to suffer.</s><s xml:id="_z2ZjEpZ">However, the controversy around the notion of basic desert aside, we cannot but stress that, generally speaking, compatibilism about moral responsibility and determinism is the dominant view nowadays. 3</s><s xml:id="_XX9K8za"> It might seem that, compared to the problem of compatibility of moral responsibility with determinism, settling the question of whether an economic choice is compatible with determinism is of lesser practical importance.</s><s xml:id="_GGcTA6X">However, the problem of metaphysical freedom is no less pressing in economics than it is in moral philosophy, for the obvious worry (whether well-warranted or not) is that there would be no economics were determinism to hold true. 4 2 Of course, 'can' in this context must be given the incompatibilist reading, that is the ability to do otherwise, everything else equal, which contrasts with the so-called motivational 'can', with the latter denoting the ability to do otherwise if only one had chosen otherwise.</s><s xml:id="_HT6NHAN">On a classic analysis of different senses of 'can', see: <ref type="bibr" target="#b0">Austin (1961)</ref>.</s><s xml:id="_jcnKx4P">On the ought-implies-can principle, see: e.g.</s><s xml:id="_E9YTKxc"><ref type="bibr" target="#b52">Otsuka (1998)</ref>; <ref type="bibr">Kramer (2006)</ref>; <ref type="bibr" target="#b21">Graham (2011)</ref>. 3</s><s xml:id="_rTfusED">Most certainly, compatibilism about moral responsibility and determinism is not a novel view but it traces back to ancient times.</s><s xml:id="_G6DSusM">Much more recently, but still before <ref type="bibr">Frankfurt, Strawson (1962)</ref> powerfully argued that our responsibility practices undercut the whole debate between libertarian free will and determinism.</s><s xml:id="_BfcYaUT">But if so, there is no obstacle to have meaningful responsibility practices under determinism.</s><s xml:id="_tT9CKmq">This Strawsonian view with a Humean twist was brilliantly defended by <ref type="bibr" target="#b63">Russell (1995)</ref>.</s><s xml:id="_EzVg2RR"><ref type="bibr" target="#b43">Mele (1995)</ref> purports to offer an account of moral responsibility that would satisfy both compatibilists and incompatibilists.</s><s xml:id="_yqdGgEu">More recently, compatibilism about moral responsibility and determinism was argued for by e.g.</s><s xml:id="_zngQyRr">Bok (1998), <ref type="bibr" target="#b18">Fischer and Ravizza (1998)</ref>, <ref type="bibr" target="#b40">McKenna (1998)</ref>, <ref type="bibr" target="#b1">Beebee and Mele (2002)</ref>, <ref type="bibr" target="#b15">Dennett (2003)</ref>, <ref type="bibr" target="#b17">Fischer (2006)</ref>, <ref type="bibr" target="#b44">Mele (2006)</ref>, <ref type="bibr" target="#b47">Moore (2020)</ref>.</s><s xml:id="_szge3Ux">However, as mentioned above, compatibilism about moral responsibility and determinism is still open to criticism.</s><s xml:id="_f4trDkG">For a dissenting (i.e.</s><s xml:id="_VWvK5tM">incompatibilist) view, see: e.g.</s><s xml:id="_DVqQr7H"><ref type="bibr" target="#b69">van Inwagen (1983)</ref>, <ref type="bibr" target="#b32">Kane (1996)</ref>, <ref type="bibr" target="#b13">Copp (1997)</ref>, <ref type="bibr" target="#b50">O'Connor (2000)</ref>, <ref type="bibr" target="#b55">Pereboom (2005)</ref>.</s><s xml:id="_RRXh4Hk">Incidentally, it should be borne in mind that although Mele's works cited herein defend the compatibilist view, this author actually remains agnostic about the disagreement between compatibilists and incompatibilists and he simply strives to examine and critically assess the arguments of both camps. 4</s><s xml:id="_TYYQdFG">Still, <ref type="bibr" target="#b26">Heisenberg (2009)</ref> famously argued that determinism is plainly false and so there are no problems with the freedom of will.</s><s xml:id="_323KpUU">Hence, it might look as if there is also no need to call upon compatibilism to rescue the free will.</s><s xml:id="_bxgdM3j">However, first, that determinism is false is by no means conclusively established.</s><s xml:id="_W9Xajrw">Second,</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_pam2f9R">3</head><p xml:id="_SkFZRFa"><s xml:id="_jJ5nHtQ">After all, economics is a science of human choices and it appears that if certain choices (i.e. the ones that will actually and necessarily be made under determinism) were inevitable, this ipso facto would nullify their existence.</s><s xml:id="_MH5994g">In other words, there is a concern that the concept of choice would not apply under determinism, which would in turn entail the inapplicability of economics. 5</s><s xml:id="_4YGJMjb"> However, we hold that the worry that the truth of determinism would drain economics and Austrian economics in particular of its significance is unfounded.</s><s xml:id="_WBzVZUY">Even more, we argue that adopting MLF, as some Austrian economists do, does not cohere with subscribing to the conceptual framework of Austrian economics and it is precisely the compatibilist freedom (i.e. the one compatible with determinism) that Austrian economics requires. <ref type="foot" target="#foot_0">6</ref></s><s xml:id="_a4vGxUc">More specifically, our point is-contra quite a few Austrians with a notable exception of Ludwig von Mises <ref type="bibr">([1949] 1998)</ref> or <ref type="bibr" target="#b25">Hayek ([1960]</ref> 2011)-that Austrian economics with its reliance on value scales and the relation of strict preference, which economic agents act on, coheres only with the compatibilist sort of freedom.</s><s xml:id="_5DXnbgf">However, let us not precipitate things as the technicalities of our solution will play out in Sect. 2. For the time being, let us provide some textual support for Austrians' avowed sympathies with MLF.</s></p><p xml:id="_H65kVKN"><s xml:id="_3TqhmxU">By far the most eloquent expression of the adherence to MLF among Austrian economists is to be found in <ref type="bibr">Rothbard (2011b, 5-6</ref>):</s></p><p xml:id="_8fT5ukV"><s xml:id="_eavDvUE">Surely we can, at the very least, tell the determinists to keep quiet until they can offer their determinations-including, of course, their advance determinations of each of our reactions to their determining theory.</s><s xml:id="_RY6H9dR">But there is far more that can be said.</s><s xml:id="_m7rGnhR">For determinism, as applied to man, is a self-contradictory thesis, since the man who employs it relies implicitly on the existence of free will.<ref type="foot" target="#foot_1">foot_1</ref></s><s xml:id="_KsxJ7Yn">compatibilism per se is not committed to any existential claims about determinism or the freedom of will.</s><s xml:id="_chn9GZR">It simply asserts the compatibility between the two regardless of whether in the actual world determinism is true or false and of whether we have the free will or not. 5</s><s xml:id="_sEgvABW">One of the reviewers drew our attention to the possibility that, after all, 'choice' might be just "a technical term not intended to involve metaphysical libertarian freedom (MLF) in the first place".</s><s xml:id="_ZY2pxpD">As a next step, the reviewer invites us to "[c]onsider the case of an agent who maximizes her utility", adding that "[h]er 'choices' do not seem free in the relevant MLF sense".</s><s xml:id="_hdcFN7h">Not wanting to precipitate things at this expository stage of our paper, we just want to mention that we are going to argue in subsequent parts of the paper that the Austrian idea of choice precisely necessitates the compatibilist rather than libertarian metaphysics of free will.</s><s xml:id="_xSy7xHv">However, to make the strongest charge out of the reviewer's remark, we should probably take it to imply that, technically speaking, choice can be understood in abstraction from any metaphysics of its freedom, which points to a sort instrumentalist reading of the concept of choice.</s><s xml:id="_tvSJyR8">Granted, this is a feasible (methodological) position.</s><s xml:id="_jkW3Hfj">However, Austrians adhere to so-called causal realism, which seeks to identify causal laws underlying market phenomena.</s><s xml:id="_XACvK6T">The Austrian causal-realist approach was commenced by <ref type="bibr">Menger himself ([1871]</ref> 2007).</s><s xml:id="_YaAAA6C">In the words of <ref type="bibr">Salerno (2010, 3)</ref>: "He <ref type="bibr">[Menger]</ref> concluded that all product prices, rents, wage rates, and interest rates were interrelated and were the systematic outcome of the value judgments of individual consumers who chose between concrete units of different goods according to their subjective values or "marginal utilities"".</s><s xml:id="_ysmbYgj">That is to say, according to Menger, it is real human valuations that causally explain the emergent market phenomena.</s><s xml:id="_NKcyHxz">Given this, merely instrumentalist reading of choice would not do for Austrians.</s><s xml:id="_4RJAUwy">For more on causal-realist approach, see <ref type="bibr" target="#b64">Salerno (2007)</ref>.</s></p><p xml:id="_xEZD3xX"><s xml:id="_EsnwdGv">The last sentence of the above excerpt is the most telling: Rothbard makes it explicit that one cannot coherently state the thesis of determinism since the very statement thereof putatively presupposes the existence of libertarian free will. 8</s><s xml:id="_Y97jxK4">But if so, we can easily attribute apparently leads to a contradiction: "If we are determined in the ideas we accept, then X, the determinist, is determined to believe in determinism, while Y, the believer in free will, is also determined to believe in his own doctrine.</s><s xml:id="_jbGGkH7">Since man's mind is, according to determinism, not free to think and come to conclusions about reality, it is absurd for X to try to convince Y or anyone else of the truth of determinism.</s><s xml:id="_3g9kRWc">In short, the determinist must rely, for the spread of his ideas, on the nondetermined, free-will choices of others, on their free will to adopt or reject ideas (footnote deleted).</s><s xml:id="_fQM874R">In the same way, the various brands of deterministsbehaviorists, positivists, Marxists, and so on-implicitly claim special exemption for themselves from their own determined systems (footnote deleted).</s><s xml:id="_U6QATdQ">But if a man cannot affirm a proposition without employing its negation, he is not only caught in an inextricable self-contradiction; he is conceding to the negation the status of an axiom." 8</s><s xml:id="_xUv92JC">At this point we would like to offer a suggestion to the effect that Rothbard's commitment to MLF is to some extent an outcome of his aprioristic style of reasoning.</s><s xml:id="_qEsc3Z3">It is noteworthy that in his Mantle of Science, Rothbard almost exclusively argues for MLF by resorting to a priori reasoning.</s><s xml:id="_xgH7ush">Most notably, as observed in the footnote above, Rothbard posits that an attempt to convince others of the truth of determinism enmeshes the determinist in a performative contradiction.</s><s xml:id="_wbXzEjS">For, it is the act of attempting to convince others that apparently presupposes their free will (in the libertarian sense).</s><s xml:id="_GjceYzT">Hence, allegedly, what the determinist preaches is at odds with what her preaching presupposes (i.e. the audience's ability to freely (in the MLF sense) "adopt or reject ideas".</s><s xml:id="_VJe2gyR">Yet, as we claim, the act of trying to convince others of some beliefs is reconcilable with compatibilist metaphysics.</s><s xml:id="_N22WM94">After all, to try to convince one's audience of a certain claim is to give them a reason to believe it.</s><s xml:id="_7XmZeET">Presumably, it should not matter whether one's interlocutor was ultimately determined to appreciate the strength of the reason provided.</s><s xml:id="_ryGpsUh">However, what does matter is that the interlocutor changes her mind via reasons.</s><s xml:id="_v6GD4Fy">Moreover, we contend that the Rothbardian belief of the interlocutor's being free "to adopt or reject ideas" can be best explained in terms of uncertainty (or the present ignorance of future facts) rather than determinism.</s><s xml:id="_9eR5fxC">That is, the convincing party does not know whether her interlocutor is going to be effectively convinced or not.</s><s xml:id="_2JFAQxQ">If the former somehow knew that the latter is going to reject determinism, she would never engage in the act of persuasion in the first place.</s><s xml:id="_VMDK5MB">Therefore, if anything, it is the persuading party's ignorance of an outcome rather than the audience's MLF that the act of persuasion presupposes.</s><s xml:id="_5PeYust"><ref type="bibr">Rothbard (2011b, 7</ref>) makes a similarly conceptual point when professing that "if our ideas are determined, then we have no way of freely revising our judgments and of learning truth".</s><s xml:id="_gu9NRpV">It is now the concept of learning that seemingly presupposes MLF on the part of learners.</s><s xml:id="_eYFeeQc">But suppose person P learned the truth of 2 + 2 = 4 and P was determined to accept (and not reject) the soundness of this proposition.</s><s xml:id="_hdzBvbU">Would not we be prone to saying that P learned that 2 + 2 = 4 even though he was not free (in MLF sense) to reject this proposition?</s><s xml:id="_J3suDSv">Certainly, Rothbard might argue that this act of P could not amount to learning since the presupposition (i.e.</s><s xml:id="_KjrGk8t">P's MLF) was not met.</s><s xml:id="_W6ca9h6">Fair enough, by stipulation, P's coming to accept the truth of 2 + 2 = 4 would not be the act of learning in the Rothbardian sense but it would clearly be one in the ordinary sense.</s><s xml:id="_PtzjbVq">We can reconstruct another Rothbardian argument for MLF along the following lines.</s><s xml:id="_HEBvMje">Says our author: "On the formal fact that man uses means to attain ends we ground the science of praxeology, or economics; psychology is the study of how and why man chooses the contents of his ends", while adding that "[i]f men are like stones, if they are not purposive beings and do not strive for ends, then there is no economics, no psychology" <ref type="bibr">(Rothbard 2011b, 4)</ref>.</s><s xml:id="_G6g8qPj">Apparently, the Rothbardian reasoning assumes the form of modus tollens.</s><s xml:id="_DWp9m3e">That is, if human agents are determined, then the disciplines of praxeology, economics or psychology are impossible.</s><s xml:id="_dAnpQ29">But the said disciplines are possible (or even impossible to deny without running into a performative contradiction).</s><s xml:id="_BAHUjqx">Therefore, human agents are not determined, which was to be demonstrated.</s><s xml:id="_yN6RbY4">However, what we must take heed of is that this argument is question-begging.</s><s xml:id="_Yye2Xet">That is, since, by Rothbardian lights, the existence of praxeology or economics presupposes MLF, how does he know that praxeology is applicable in the first place.</s><s xml:id="_F5JteVX">After all, whether human agents are endowed with MLF or not is a point at issue.</s><s xml:id="_Rsmqb3C">Hence, to reason from the existence of praxeology to the existence of MLF is to beg the question.</s><s xml:id="_HVwZ4dx">For, according to Rothbard, praxeology is possible (or is applicable) only when determinism is ruled out but whether determinism is true or not is something yet to be established.</s><s xml:id="_es9WJfW">And the presumed fact that the possibility of praxeology requires MLF cannot in and of itself establish the truth of MLF, for when MLF is in doubt, so is praxeology.</s><s xml:id="_3Xwsnqf">The same criticism applies to Rothbard's a priori arguments from the concepts of persuasion or of learning, which seemingly serve to establish the truth of MLF.</s><s xml:id="_fwyj8n8">Even if the concept of learning and persuading were (contrary to fact, as we believe) to imply MLF, we could not nonquestion-beggingly infer MLF from the said concepts.</s><s xml:id="_tFhbjpn">After all, if we do not know just yet whether MLF holds in the actual world, we cannot know whether the concepts of learning and persuading are ever exem-to Rothbard the belief in MLF as this author clearly subscribes to the existence of free will which simultaneously rules out determinism, the position being nothing short of metaphysical libertarianism.</s><s xml:id="_S2TstaZ"><ref type="bibr">Hülsmann (2003, 7)</ref> is another prominent Austrian economist who is most explicitly sympathetic to MLF: Irrespective of how small the scope for choice is, within this scope, choice is to some extent undetermined and undeterminable; here, the human being is self-determining.</s><s xml:id="_Hnq8srF">To sum up, because of the existence of choice, it is impossible to give a full explanation of human behaviour in the mere light of any other event, or a combination of other events.</s></p><p xml:id="_3udxcBM"><s xml:id="_z9KECPx">If we are to take Hülsmann's view at its face value, we are to conclude that since human behavior cannot be explained "in the mere light of any other event", then a fortiori human (purposeful) behavior cannot be explained by such mental events (or states) as the occurrences of certain desires and beliefs, the view we are about to deem irreconcilable with Austrian economics in the forthcoming section.</s></p><p xml:id="_E7VGXkx"><s xml:id="_wnRFsYK">It is also <ref type="bibr">Block (2015, 6)</ref> who unwaveringly subscribes to MLF, while claiming that it is only the libertarian free will that is compatible with Austrian economics, whereas determinism is not:</s></p><p xml:id="_DSADqJd"><s xml:id="_5FATHn7">Another difficulty for the determinist philosophy is that it runs counter to Austrian economics.</s><s xml:id="_ECpEHDa">One of the key elements of this school of the dismal science is methodological dualism: that a different perspective must be brought to bear in the study of human action, on the one hand, and the physical world, on the other.</s><s xml:id="_fBBaYXJ">Since under determinism man is merely in effect a machine, contrary to Austrianism, there is a need for a separate method to study these two very different aspects of reality.</s></p><p xml:id="_dD5Vg6e"><s xml:id="_XdSKnRQ">plified.</s><s xml:id="_HaGyMW6">Therefore, the Rothbardian a priori conceptual reasoning seems to get it backwards.</s><s xml:id="_8QYMtvZ">Now a word of caution is advisable at this point regarding classifying Rothbard's reasoning as aprioristic.</s><s xml:id="_EqE8JaY">As rightly pointed out to us by an anonymous referee of this journal, Rothbard presents his position as an alternative to the alleged Kantian apriorism of Mises and thinks that the truth of the fundamental axioms of his system can be assessed by observation, especially by introspection.</s><s xml:id="_55EwvFR">However, at the same time <ref type="bibr">Rothbard (2011, 108-109)</ref> claims that "this type of 'empiricism' is so out of step with modern empiricism that I may just as well continue to call it a priori for present purposes.</s><s xml:id="_XjMYUFf">For (1) it is a law of reality that is not conceivably falsifiable."</s><s xml:id="_Phnrsgv">And elsewhere <ref type="bibr">(Rothbard 2011b, 6)</ref> he contends that "if a man cannot affirm a proposition without employing its negation, he is not only caught in an inextricable self-contradiction; he is conceding to the negation the status of an axiom."</s><s xml:id="_ysw6wQD">It is therefore important to distinguish between, on the one hand, Kantian apriorism-sometimes problematically ascribed to Mises and his understanding of the action axiom-which claims, in a nutshell, that Formen der Anschauung (space and time) and categories of Verstand are logical conditions of possibility of any experience (even an introspective one) and knowledge (even an unfalsifiable one) whatsoever and that they must be assumed in order for the latter to even occur and, on the other hand, Aristotelian-Thomistic apriorism-subscribed to by Rothbard-according to which the first principles of theoretical and practical knowledge, although grasped by our nous or intellectus by way of insight into the previous experience, are aprioristic in the sense of being per se nota, self-evident or underived from any prior proposition and thus capable of being justified only via dialectical arguments demonstrating that any negation of these principles presupposes their truth.</s><s xml:id="_TSzkWPG">Rothbard's reasoning is aprioristic only in this second, less radical, sense of the word.</s><s xml:id="_bxc5Cg3">On the relation between these two kinds of apriorism as well as on each of them in separation see, inter alia, <ref type="bibr">Veatch (1965, 239-263)</ref>, <ref type="bibr">Timmons (1997, 1-13)</ref>, <ref type="bibr" target="#b12">Copleston (1955)</ref>, <ref type="bibr">Finnis (1998, 86-90)</ref>.</s><s xml:id="_RsHt67A"><ref type="bibr">Elsewhere, van Schoelandt et al. (2016, 91)</ref> maintain that:</s></p><p xml:id="_e7sTYGA"><s xml:id="_VdgW74E">[T]he Austrian tradition, in contrast to theories in the grip of scientism and adopting an overly mechanistic view of human behaviour, sees humans as purposeful choice makers, responding not merely in instructive ways to external stimuli, but through their own desires and preferences in ways that are largely unpredictable.</s></p><p xml:id="_c2GNHN5"><s xml:id="_RKhXSaS">But then again, as we are going to claim, holding that humans respond "in ways that are largely unpredictable" to their respective "desires and preferences" is to distort the Austrianspirited view on the relation between choice and preference.</s></p><p xml:id="_hFqEGPG"><s xml:id="_n6znRQA">Eventually, most recently, <ref type="bibr" target="#b74">Wiśniewski (2009)</ref> took a stand on the problem of free will vis-à-vis determinism.</s><s xml:id="_SzsxQMT">This author (2009, 1) argues that "the nomenclatural affinity" of metaphysical libertarianism "with political and economic libertarianism […] is by no means accidental".</s><s xml:id="_ppyvsyD">Moreover, he (2009, 1) decidedly states his case against compatibility of determinism with laissez-faire in the following manner: I remain convinced that as soon as one grants that every human decision can be traced back to factors beyond one's control (e.g., genetic makeup, environmental influences, personal upbringing etc.), the notions of sovereign choice and personal liberty become empty.</s></p><p xml:id="_EAedtxN"><s xml:id="_m7uZxFz">The above statement coupled with the fact that Wiśniewski is a declared Austrian economist leaves no doubt as to the way we should interpret his conception of "sovereign choice": that it is incompatible with determinism.</s></p><p xml:id="_cGH2rep"><s xml:id="_VbtM9aj">By contrast, and as promised, we are about to argue-contra some prominent Austriansthat Austrian economics with its overall conceptual framework and especially with its reliance on value scales and with its conception of action as reflecting strict preference<ref type="foot" target="#foot_2">foot_2</ref> should embrace compatibilist freedom (i.e. the one compatible with the truth of determinism) and it is precisely the exposition of key features of Austrianism and the statement of our argument that we are now turning to.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_ezJk82R">Why Austrians' Belief in MLF Is Incompatible with Their Economics</head><p xml:id="_Ke3vv9z"><s xml:id="_Tbzp37p">The purpose of the present section is to establish the incompatibility between Austrians' avowed belief in MLF and the sort of economics (i.e.</s><s xml:id="_P9JjKX3">Austrian economics) they subscribe to.</s><s xml:id="_mzvuq8U">In order to do this, we should have a closer look at the notions of value scales and strict preference employed by Austrians, for it is there that the key to our compatibilist solution lies.</s><s xml:id="_Mvrg7Pr">First and foremost, what needs illuminating is the Austrian view on the relation between value scales (or preferences for that matter) and actual choices.</s><s xml:id="_kk2j9mV">This view is best expressed in <ref type="bibr" target="#b58">Rothbard ([1962]</ref> 2009, 6):</s></p><p xml:id="_5nK6Dfz"><s xml:id="_jqxEzEA">Thus, suppose that Jones ranked his alternative ends for the use of an hour of time as follows:</s></p><p xml:id="_erMAyNV"><s xml:id="_JnX3qHA">(First) 1.</s></p><p xml:id="_r5t2Skk"><s xml:id="_6zgCgaq">Continuing to watch the baseball game.</s></p><p xml:id="_JmZsNYN"><s xml:id="_Xx9Va5r">(Second) 2.</s></p><p xml:id="_Nx8qePS"><s xml:id="_hdSQhnJ">Going for a drive.</s><s xml:id="_suz8YsT">(Third) 3.</s></p><p xml:id="_fFc8drA"><s xml:id="_UwpT8qU">Playing bridge.</s></p><p xml:id="_GaF3Rxb"><s xml:id="_xvDrn23">This was his scale of values or scale of preferences.</s></p><p xml:id="_zCKCu2x"><s xml:id="_rqUhrRv">[…] Suppose now that he is allocating two hours of his time and can spend an hour on each pursuit.</s><s xml:id="_hEDNYtA">If he spends one hour on the game and then a second hour on the drive, this indicates that his ranking of preferences is as above.</s><s xml:id="_DcSAYyD">The lowest-ranking end-playing bridge-goes unfulfilled.</s></p><p xml:id="_TVtJ5cX"><s xml:id="_5RzQMye">And elsewhere, <ref type="bibr">Rothbard ([1956]</ref> 2011a, 290) expresses the very same point explicitly in terms of demonstrated preference:</s></p><p xml:id="_aWUEZsu"><s xml:id="_TfCwMgj">Man has means, or resources, which he uses to arrive at various ends; these resources may be time, money, labor energy, land, capital goods, and so on.</s><s xml:id="_W7PHgVj">He uses these resources to attain his most preferred ends.</s><s xml:id="_hCQg4uD">From his action, we can deduce that he has acted so as to satisfy his most highly valued desires or preferences.</s></p><p xml:id="_8HC9fre"><s xml:id="_Dj5dyRa">[…] The concept of demonstrated preference is simply this: that actual choice reveals, or demonstrates, a man's preference; that is, that his preferences are deducible from what he has chosen in action.</s><s xml:id="_4dXBqmq">Thus, if a man chooses to spend an hour at a concert rather than a movie, we deduce that the former was preferred, or ranked higher on his value scale.</s></p><p xml:id="_Y5Rs8D6"><s xml:id="_mMnawWN">Now, how should we conceive of the above fragments?</s><s xml:id="_KWFvF3u">First, let us note that Rothbard maintains that actual choices people make are indicative of their respective value scales.</s><s xml:id="_8sN37Tt">Moreover, he seems to hold (however implicitly) that value scales exist independently of choices; after all, he concludes that once the economic actor picks up option 1, that is, continuing to watch the baseball game, his option 3 (playing bridge) "goes unfulfilled".</s><s xml:id="_5QA6czw">So, he seemingly grants the possibility of the existence of some preferences which the actor does not actually choose to act on.</s><s xml:id="_W9zkxMm">And with preferences being independent of choices, we can infer the former from the latter.<ref type="foot" target="#foot_3">foot_3</ref></s><s xml:id="_KsUsypP">Furthermore, the said inference seems to be all the more possible (if not apodictically valid) when we assume along with Austrians that people choose the most preferred option, all things considered.<ref type="foot" target="#foot_4">foot_4</ref></s><s xml:id="_bJVPSnm">And it must be borne in mind that Austrian economics by virtue of its nature strips the human action down to its bare essentials (e.g.</s><s xml:id="_t3FHenX"><ref type="bibr" target="#b72">Mises [1949</ref><ref type="bibr" target="#b72">Mises [ ] 1998;;</ref><ref type="bibr" target="#b58">Rothbard [1962</ref><ref type="bibr" target="#b58">Rothbard [ ] 2009))</ref>.</s><s xml:id="_VurPKeb">That is to say, Austrians are not interested in which specific reasons were relevant to the actor's final resolution as to which course of action to undertake or indeed which specific reason tipped the balance in favor of the actual action performed.</s><s xml:id="_hE2kGDb">For instance, suppose that subject S buys a blue shirt instead of a white one.</s><s xml:id="_3b3zMuj">Are Austrians entitled to infer that S bought the blue shirt just because he preferred this very shirt to its white equivalent?</s><s xml:id="_gRhDPZ7">Not quite.</s><s xml:id="_g2FEXbc">What they can at most infer is that S preferred to buy the blue shirt rather than the white one, all things considered.</s><s xml:id="_fYK2v47">Perhaps, S knew that his wife would rather have him dressed in blue.</s><s xml:id="_nPYtaHp">S can even sincerely declare that he prefers white shirts to blue ones himself.<ref type="foot" target="#foot_5">foot_5</ref></s><s xml:id="_Svev63c">However, this declaration is mute on S's wife's preferences as to the color of S's shirts, which in turn might count as a reason when it comes to S's choosing between shirts.</s><s xml:id="_tn9ETn6">So, whatever the reason (S's wife preferences or anything else for that matter) that tipped the balance in favor of S's buying the blue shirt, the very fact that S did so indicates that S preferred to buy the blue shirt rather than the white one (or indeed, rather than to do anything else), all things considered.</s><s xml:id="_UcTtuHR">Still, there is another aspect of Austrian economics around which our argument revolves.</s><s xml:id="_myCBvAA">The aspect in question is the Austrian view on indifference.</s><s xml:id="_wPfVKbG">The dominant view within the Austrian school is that man acts on strict preference<ref type="foot" target="#foot_6">foot_6</ref> but never on indifference.<ref type="foot" target="#foot_7">foot_7</ref></s><s xml:id="_7grZzVA">Or, positively speaking, man's actual choice reflects the fact that he strictly prefers the option actually chosen to other actions he deemed feasible (including inaction).</s><s xml:id="_dV3cCEW">The pertinent fragment from Rothbard<ref type="foot" target="#foot_8">foot_8</ref>  <ref type="bibr">([1956]</ref> 2011a, 304-305) runs as follows:</s></p><p xml:id="_YnGh42K"><s xml:id="_ShS83rZ">Indifference can never be demonstrated by action.</s><s xml:id="_BvJcgwg">Quite the contrary.</s><s xml:id="_Cg3MCG5">Every action necessarily signifies a choice, and every choice signifies a definite preference.</s><s xml:id="_8JzCFYM">Action specifically implies the contrary of indifference.</s><s xml:id="_7MRk5Ss">The indifference concept is a particularly unfortunate example of the psychologizing error <ref type="bibr">[…]</ref>.</s><s xml:id="_TAAy29c">If a person is really indifferent between two alternatives, then he cannot and will not choose between them.</s></p><p xml:id="_r4PzwYV"><s xml:id="_6XGtrcR">To put it more formally, if the economic actor S is indifferent between x and y, then he or she does not choose between these two options.</s><s xml:id="_Y84qkfR">And conversely, if S chooses x over y, then he or she has not been indifferent between x and y.</s><s xml:id="_zu832Uq">Now, we believe that this exposition of the two crucial aspects (i.e.</s><s xml:id="_rfP8e2c">actors' value scales being aligned with their respective choices and man acting on strict preference, with the latter relegating indifference out of the realm of human action) of Austrian economics suffices to allow us to make our compatibilist point.</s><s xml:id="_xxCQFr9">So, let us stipulate that in the actual world W a certain economic actor S has the following value scale and that he has 2 hours to economize, with each end (1-3) taking an hour to be satisfied.</s></p><p xml:id="_sSkqFBT"><s xml:id="_rWT3KKu">Value scale v 1 :</s></p><p xml:id="_yVJGGSM"><s xml:id="_zPdkqse">1. Resting on the couch.</s><s xml:id="_BbpkzS3">2. Walking in the forest.</s></p><p xml:id="_rMdvf86"><s xml:id="_QckGC7v">3. Reading a book.</s></p><p xml:id="_TXnv587"><s xml:id="_nVGDxHh">Note that the above postulated value scale is just a slight variation on the scenario adduced earlier.</s><s xml:id="_K8VtwPc">So, let us mutatis mutandis apply Rothbard's reasoning to S's preference scale.</s><s xml:id="_VyHdqPM">Then, we can say that if S spends an hour on resting on the couch and subsequently an hour on walking in the forest, this indicates that S's value scale is as above and that the lowest-ranking end-reading a book-goes unfulfilled.</s><s xml:id="_kG55zY6">At this point, it would be also worth noting that the inference running from actual actions (or choices) to underlying value scales is of epistemic nature.</s><s xml:id="_fTSKa7C">However, genetically speaking, it is only a combination of desires (represented on value scales) and beliefs (but not desires alone) that issue in action.</s><s xml:id="_CXgnWMF">Just to illustrate the point further, if our S in W did not believe that there was a forest nearby he or she could access, he would never attempt to satisfy his end 2 (i.e.</s><s xml:id="_VU4uQ5k">walking in the forest).</s></p><p xml:id="_P7ZUdJv"><s xml:id="_hkbkW9W">That is to say, his desire to walk in the forest in and of itself was powerless to cause him to act.</s><s xml:id="_jDJ3udZ">However, that very desire coupled with relevant beliefs already can issue in S's action.</s></p><p xml:id="_9PfqcJy"><s xml:id="_pGWxgSd">Having elucidated the causal role of beliefs, let us consider a slight variation on S's behaviour in W described above.</s><s xml:id="_hCk3Wku">Suppose now that in a close possible world (W*) S economizes his two hours differently.</s><s xml:id="_hpnxn2G">Instead of prioritizing resting, S spends his first hour on walking in the forest and only subsequently he or she is resting on the couch for an hour.</s><s xml:id="_FxrX6Qz">On Austrian grounds, this differential action would be aptly accommodated by a different value scale informing S's action in W*.</s><s xml:id="_tbk5aXs">Specifically, S's action in W* would indicate that his value scale therein is as follows 16 :</s></p><p xml:id="_EE2DNYc"><s xml:id="_ZZWChjM">Value scale v 2 :</s></p><p xml:id="_7tVvKn7"><s xml:id="_54WvTck">1. Walking in the forest.</s><s xml:id="_nvg9A7F">2. Resting on the couch.</s><s xml:id="_uqekwSq">3. Reading a book.</s></p><p xml:id="_AbQtbRB"><s xml:id="_fcnQrkF">It therefore follows that for any world W and any agent S it is impossible for S to choose anything but the highest ranked option in W on Austrian grounds.</s><s xml:id="_sak2mdp">For on this view any actual choice indicates the fact that the actor picks up the most preferred option available, thus maximizing his welfare at least in expectation.</s><s xml:id="_rGJBW38">So, to come back to our example, given that the value scale v 1 operates in W (i.e.</s><s xml:id="_gADHzS4">resting on the couch is the most valued end for S), Austrian economics does not allow us to envisage a possible world in which S chooses 16 As noted by one of the referees, there are other possible value scales that S's behaviour in W* may be evidentiary of.</s><s xml:id="_vcy4FFn">Indeed, from the fact that S spends his first hour on walking and his subsequent hour on resting we cannot infer with apodictic certainty how S framed his choice.</s><s xml:id="_RHnzWAQ">It might as well be the case that the value scale underlying S's behaviour was the following: (1) first walking and then resting; (2) first resting and then walking;</s></p><p xml:id="_frEECCt"><s xml:id="_wj6pqgQ">(3) doing a salto.</s><s xml:id="_fWAAFRJ">Still, various ways in which S can frame his choice have interesting ramifications.</s><s xml:id="_KCFch7c">First, given the framing envisaged by the referee, options 2 and 3 on the proposed value scale are not demonstrated, whereas on the grounds of the value scale we suggested in the body of the text, options 1 and 2 are demonstrated and only option 3 remains undemonstrated.</s><s xml:id="_MeydzzU">The reviewer's framing, by contrast, is agnostic about the content of option 2 and 3 as there is no behaviour on the part of S that would satisfy either preference (desire) 2 or preference (desire) 3. Second, from our framing it follows that S preferred walking to resting, which, in turn, does not follow from the framing proposed by the referee, for if S had had only one hour to economize, he might have preferred resting to walking even though he in fact preferred first walking and resting to resting and then walking.</s><s xml:id="_DNsnJUQ">Finally, our way of framing choices resembles Rothbard's simply because we mainly discuss this author's position.</s><s xml:id="_TxbMu8Y">In this regard, it seems preferable to alternative framings.</s></p><p xml:id="_swtSEKy"><s xml:id="_ZDX8zzG">anything but the most preferred option, 17 for if S were to choose in W* to spend his first hour walking in the forest (i.e. a less preferred option in W), this fact would automatically imply that walking in the forest is the most valued end for S in W*.</s><s xml:id="_4MwYx4w">But if so, then preferences appear to be determinative 18 of choices under Austrian economics.</s><s xml:id="_u88SG4k">And if preferences are determinative of choices, then there seems to be no room for MLF.</s><s xml:id="_vb52Skj">In other words, given the actor's actual choice at a given time, he could not have done otherwise at that time, with his or her value scale fixed.</s></p><p xml:id="_zaqVJQE"><s xml:id="_WjjFDbS">As it seems, probably the most obvious escape route open to MLF-inclined Austrians is to claim that human preferences are indeed unstable <ref type="bibr">(Rothbard 2011b, 295)</ref>.</s><s xml:id="_yGdGAkm">Let us consider two possible interpretations of this claim.</s><s xml:id="_7cQbttX">The most straightforward one (interpretation 1) amounts to the repudiation of the so-called assumption of constancy, which has it that people's preferences are stable over time. 19</s><s xml:id="_yskuUds">So, technically speaking, Austrians might argue that at time t 1 one's choice may be informed by the value scale v 1 , whereas at time t 2 it might be informed by the value scale v 2 , where v 1 and v 2 are not identical.</s><s xml:id="_PD96JVZ">So certainly, a human actor is not stuck with one and the same value scale over time.</s><s xml:id="_FScJ8DB">However, this does not affect our compatibilist point at all.</s><s xml:id="_ewCcXgm">Granted, the value scales might be different but this may simply mean that different value scales guide the actor's choices at different times; that is, it is easily conceivable that a value scale v 1 guides the actor's action at t 1 , whereas at t 2 , v 2 does so, where v 1 ≠ v 2 .</s><s xml:id="_mSHVYhr">Yet, this feature of Austrian economics goes no distance towards establishing MLF.</s><s xml:id="_7k7JGG8">Value scales may be different in the sense that they may vary over time.</s></p><p xml:id="_Xe4wFnu"><s xml:id="_NNAVGTA">17 At least in the ex ante sense.</s><s xml:id="_XWy5Bfc">In Austrian economics, the actor's actual choice, as compared to other possible choices, benefits him most in expectation.</s><s xml:id="_BmhMf48">This is, of course, not to deny that it is only contingently true that it also benefits him most ex post.</s><s xml:id="_aQcQ6Gk">The human actor is fallible: he may misjudge probabilities, fail to appreciate relevant causal relations or simply may not be imaginative or knowledgeable enough to envisage alternative courses of action.</s><s xml:id="_vCh74M6">Given all this, it might as well be the case that he would have been better off ex post had he chosen otherwise. 18</s><s xml:id="_j7FAC34">It is important to note yet again that, strictly speaking, preferences alone do not determine choices.</s><s xml:id="_ebzXFnr">Contemporary philosophy of action has it that preferences (or desires) can issue in an action only when coupled with beliefs, as maintained by e.g.</s><s xml:id="_HMybM3t"><ref type="bibr" target="#b20">Goldman (1970)</ref> or <ref type="bibr">Davidson (1980, 3-19)</ref>.</s><s xml:id="_kkhNdw8">Some other philosophers (see e.g.</s><s xml:id="_AJ5Ejcm"><ref type="bibr">Moore 1993, 113-165)</ref> hold that we need to postulate some more immediate causes, such as, say, volitions, that eventually bring about actions.</s><s xml:id="_6GnE9Xq">And it is common sense: if a given actor's highest valued end is to marry a particular lady but he deems this end unattainable, he would not be acting on this unsatisfied preference.</s><s xml:id="_auGQ6hB">As Mises <ref type="bibr">([1949] 1998, 14)</ref> put it: "But to make a man act, uneasiness and the image of a more satisfactory state alone are not sufficient.</s><s xml:id="_McHStxu">A third condition is required: the expectation that purposeful behavior has the power to remove or at least to alleviate the felt uneasiness.</s><s xml:id="_vAFG2SB">In the absence of this condition no action is feasible".</s><s xml:id="_Te3VhrE">Therefore, it should be borne in mind that the sentence 'preferences determine choices' is not literally true for unsatisfied preferences alone are insufficient for an action to be taken.</s><s xml:id="_nCK2eWS">Accompanying beliefs of the proper content are necessary.</s><s xml:id="_yRyqsEq">Technically speaking, if one most wants the state of affair S to obtain, one will do nothing to bring it about unless one also believes that he can employ some means M that will make S obtain.</s><s xml:id="_uGX6xXM">It is only then that one starts employing M, which is another way (however convoluted) way of saying that one starts acting. 19</s><s xml:id="_Rtn9ukh">A very interesting debate concerning the stability of preferences ensued between <ref type="bibr" target="#b7">Block and Barnett (2012)</ref>, who explicitly reject the idea, and <ref type="bibr" target="#b29">Hudik (2012)</ref>.</s><s xml:id="_zvQ6aJt">Slightly ironically, the former authors attempted to debunk the alleged rational requirement of transitive preferences as their main target.</s><s xml:id="_ktGMYQ8">However, as demonstrated by <ref type="bibr">Hudik (2012, 459-460)</ref>, if the assumption of transitivity of preferences is dropped, then the observer cannot distinguish between the agent's having unstable or intransitive preferences.</s><s xml:id="_U6bEhMa">Consequently, if Block and Barnett want to remain unyielding about the apparent instability of preferences as explanatory of "all observed choice inconsistency", they should rather embrace their transitivity rather than reject it.</s><s xml:id="_cpq87cG"><ref type="bibr">Hudik (2012, 460-461)</ref> argues that when it comes to "market-level phenomena" such as an increased demand for a certain commodity or service, preference changes constitute sort of last-resort explanations.</s><s xml:id="_XHmYGYC">Instead, he submits that such facts might be better explained by an increase in real income or by a lower price of the said commodity or service.</s><s xml:id="_jXEfnr4">Given this, the assumption of stable preferences appears to be quite reasonable.</s></p><p xml:id="_uj2mBCc"><s xml:id="_B7aBH9D">Still, upon the reading under consideration, what their instability over time implies at most is that a particular value scale determines a choice at a particular time.</s><s xml:id="_un7ceZf">But this implication is simply indistinguishable from the compatibilist position.</s><s xml:id="_xY2Fym9">Hence, interpretation 1 does not pose any threat to the kind of compatibilism between (free) choice in Austrian economics and the truth of determinism we advance.</s></p><p xml:id="_87eW7Nq"><s xml:id="_QFbrBwD">So perhaps there is a way of reinterpreting the instability of value scales so that MLF can prove to be reconcilable with Austrianism.</s><s xml:id="_6m2dQGJ">More interestingly, Austrians may try to hold that for each time (t), an economic actor is free to choose a value scale guiding him at t.</s><s xml:id="_X4SCBZf">But note that this position, most crucially, invokes the notion of choice.</s><s xml:id="_aQjEvWZ">The fact that this time choice is presumed to operate among value scales rather than within them is irrelevant.</s><s xml:id="_MFQu6Wm">Remember, for Austrians, any actual choice is evidential of the underlying preference.</s><s xml:id="_g7wd9nZ">So, in the end, an actual choice among first-order value scales must imply the existence of a second-order value scale (or a second-order preference) informing that very choice (for an interesting objection suggesting a possibility of the free creation of value scales, which would allegedly not involve a choice behavior, see footnote 23).</s><s xml:id="_t6Fdx5H">For instance, if an economic actor was indeed choosing between v 1 and v 2 and eventually opted for, say, v 1 , this would ipso facto indicate that his or her second-order value scale ranked v 1 higher than v 2 .</s></p><p xml:id="_qqtRfeE"><s xml:id="_mVfb3U8">It is clear to see that the appeal to second-order preferences brings about the element of recursiveness here.</s><s xml:id="_6PsSA9P">For Austrians might now claim that there can obviously be various second-order preferences, which would in turn open the following two logical possibilities:</s></p><p xml:id="_DUSp3FE"><s xml:id="_tRYb2kF">1) A second-order preference might be determined itself.</s><s xml:id="_XhXzZ3P">If so, it would in turn determine a first-order value scale, which would eventually determine the pursuit of a particular highest valued end figuring in the said first-order value scale.</s><s xml:id="_BQxWDc9">It is to be noted that this possibility does not pose any threat to our compatibilist contention that preferences determine choices.</s><s xml:id="_mMwC9Zm">In the end, it was a second-order preference that ultimately determined (via a first-order preference) a particular choice.</s><s xml:id="_RnjAP2j">2) An economic actor might be free to choose among second-order preferences.</s><s xml:id="_d8wVjms">But then again, once the actor chooses a given second-order preference, this fact indicates that there was a certain third-order preference accounting for that choice.</s><s xml:id="_M5qckUF">3) And so on and so forth ad infinitum.</s><s xml:id="_E5SEHbV">Hence, Austrians would have to either accept the fact that preferences of whatever order are determined at a given time (interpretation 1 expressing the gist of compatibilism), which eventually determines the choice of pursuing a particular material end through the direct influence of a first-order value scale or face an explanatory regressus ad infinitum, with either way falling short of establishing MLF on Austrian grounds.</s><s xml:id="_aGFJcVZ">Metaphysical libertarians would have it that if S in W does indeed freely choose to spend his first hour on watching the baseball game, he ipso facto could have chosen to spend his first hour on going for a drive, everything else equal.</s><s xml:id="_U9DRh9n">However, and crucially, the condition of everything else equal implies-among other things-the value scale equal.</s></p><p xml:id="_c8gPwwB"><s xml:id="_XVWGjwv">Therefore, if S could have chosen to go for a drive first, everything else equal, then a fortiori, S could have decided to do so, with S's value scale fixed.</s><s xml:id="_mRcUETB">In other words, MLF commits us to the view that if S freely chooses to first watch the baseball game and only then to go for a drive (which is informed by value scale v 3 ), this very fact implies that there is a possible world W* in which the very same agent chooses to first go for a drive and only then to watch the baseball game, with, most crucially, S's choices in W* being still indicative of value scale v 3 -after all, everything but choices are equal across the two worlds under scrutiny.</s><s xml:id="_paz4sCK">But this in turn would mean that the situation in W* is as follows:</s></p><p xml:id="_pTShqWt"><s xml:id="_2bvadzA">Value Scale v 3 still applies:<ref type="foot" target="#foot_10">foot_10</ref></s></p><p xml:id="_uQ2dc97"><s xml:id="_kqjRAbG">1. Continuing to watch the baseball game.</s></p><p xml:id="_WKP6V73"><s xml:id="_pAf2DkP">2. Going for a drive.</s><s xml:id="_MGqNgbU">3. Playing bridge.</s></p><p xml:id="_kwRrPuE"><s xml:id="_Ws6SA93">However, in this scenario S chooses to first go for a drive and only then to watch the baseball game.</s><s xml:id="_NcEuft8">But then, no longer do choices indicate preferences.</s><s xml:id="_exjW7Ma">Even more, in W*, S's choices seem to run counter to his preferences, a sheer impossibility on Austrian grounds.</s><s xml:id="_xyMEpvG">And since MLF implies by definition an ability to do otherwise, ceteris paribus, and because an ability to do otherwise, ceteris paribus, implies that there must be a possible world in which actor's choices run counter to his value scales therein, which is impossible on Austrian grounds, we end up with the conclusion that MLF is incompatible with Austrian economics.</s><s xml:id="_WhzYgP4">We cannot retain the two at the same time: either actors' choices are aligned with their respective value scales, in which case we give up MLF, or we adopt MLF but disavow the characteristically Austrian commitment to a harmony between actions and preferences.</s><s xml:id="_95ZnfVj">This in turn gives rise to yet another problem.</s><s xml:id="_hHFs6bh">As we remember, taking MLF seriously led to the possibility that S acts differentially between the worlds (W and W*) without any accompanying alteration in S's value scale.</s><s xml:id="_wYhNp7y">Specifically, what we discovered is that, according to metaphysical libertarianism, S can spend his first hour either on watching the baseball game (the actual world W) or on going for a drive (a close possible world W*), with one and the same value scale (v 3 ) applying across these two worlds.</s><s xml:id="_cQpQxuy">But if so, then what explains S's differential action across these worlds?</s><s xml:id="_zAN64zj">Ex hypothesi, W and W* are identical in all respects but in S's choice.</s><s xml:id="_eVTBj3V">So, there seems to be nothing that can explain why during his first hour, S watches the baseball game in W and goes for a drive in W*.</s><s xml:id="_Ne6D5RD">Hence, it seems that whether S does one thing in W and another thing in W* ultimately depends on luck. 22</s><s xml:id="_u4NtSkT">However, as we believe, economists of any persuasion would like to have at their disposal a contrastive explanation of why a given actor chooses one thing rather than another.</s><s xml:id="_XxHcCGd">In fact, it is precisely for that reason that economists appeal to actors' preferences or value scales for that matter.</s><s xml:id="_K5rppqz">Hence, if there is nothing that can account for S's watching the baseball game in W and S's going for a drive in W*, this must count as a major embarrassment for Austrians, which is another reason that speaks against embracing MLF.</s></p><p xml:id="_zfCqY8j"><s xml:id="_cMzW8UK">To put it in still another way, if we take MLF seriously, then during his first hour, S acts differently in W* from the way he acts in W.</s><s xml:id="_5tw7Bdy">And what is it that explains the differential action of S across these two worlds?</s><s xml:id="_N2aXck7">It seems that MLF-inclined Austrians are caught in a particularly thorny dilemma: either (a) they have to concede that there is literally nothing that accounts for S's cross-world differential action or (b) they have to admit that W and W* after all differ with respect to some external circumstances since S's preferences (value scale) are held fixed ex hypothesi.</s><s xml:id="_s7TCmz4">If they decided on option (a), they would be deprived of a contrastive explanation of the cross-world difference in S's action.</s><s xml:id="_BCevBsd">If, on the other hand, they picked up option (b), they would indeed have a contrastive explanation (i.e.</s><s xml:id="_qgFmdQ9">W and W* differ in some external respect and that is why S's action varies accordingly across the two worlds) but at the cost of leaving their metaphysical libertarianism unsupported.</s><s xml:id="_Z8WCyEu">After all, it would then be some external factor that would be doing the explanatory work regarding S's differential action rather than S's free will.</s><s xml:id="_dtyURkV">In other words, appealing to some difference between W and W* to explain why S acts in W differently to the way he does in W* can be in no way supportive of metaphysical libertarianism since, as we remember, this doctrine has it that at least sometimes an agent (S) acts freely, which, technically speaking, implies that there is such a time t at which there are two possible worlds (one actual and the other merely possible) which share literally everything apart from S's action in them at t. 23 22 The problem of luck primarily arises in moral philosophy.</s><s xml:id="_FZ9Vy3q">Indeed, there are thinkers who believe that luck rules out responsibility in the basic-desert sense completely (e.g.</s><s xml:id="_dFU78hg">Levy 2011; Caruso 2019), the position labelled hard luck.</s><s xml:id="_fGkApeR"><ref type="bibr" target="#b44">Mele (2006)</ref>, on the other hand, offers probably the most comprehensive review of the problem to be found.</s><s xml:id="_634vwfK">For the classical exposition of luck and its taxonomy, see: <ref type="bibr" target="#b49">Nagel (1979)</ref>. 23</s><s xml:id="_MbBQdZB">An anonymous reviewer entertained a very interesting possibility of higher-order preferences being "the outcome of an indeterminate process that is not a choice process but still has some stable characteristics, so that it is not pure luck."</s><s xml:id="_5ThJjxY">The thought is that although first-order value scales would function deterministically (i.e.</s><s xml:id="_fWfZGw9">given the actor's beliefs and the first-order value scale at a certain time, he or she would inevitably make 1 3</s></p><p xml:id="_jyDVbrN"><s xml:id="_pySKttK">Faced with this dilemma, MLF-inclined Austrians might try to save their commitment to Austrianism by arguing that what explains S's differential action in the above scenario is the fact that S was in fact genuinely indifferent between watching the baseball game and going for a drive.</s><s xml:id="_bsDAsZc">In other words, they might claim that there is such a value scale (v 4 ) that can account for the fact that S watches the baseball game in W and goes for a drive instead in W*.</s></p><p xml:id="_Kyzyz95"><s xml:id="_VrtsmDv">Value Scale v 4 :</s></p><p xml:id="_pZsfCAS"><s xml:id="_2EXtnrS">1. Continuing to Watch the Baseball game or Going for a Drive 24 a definite choice), the actor's higher-order preferences (or value scales) would be governed only by propensities and would thus be indeterministic.</s><s xml:id="_46UTx5x">And if so, then in the end actual choices made by economic agents would not be fully determined.</s><s xml:id="_AtrE6G4">When taken seriously (i.e. on the realist reading thereof), propensities are such dispositions of an object that account for its differential behaviour (i.e.</s><s xml:id="_dCBHBB6">different relative frequencies of certain outcomes).</s><s xml:id="_V7Pd9qf">For instance, if a coin has a propensity 0.7 for landing heads uppermost, this very property is responsible for the coin landing (more or less) 70% of times heads uppermost in the long run, as opposed to landing (more or less) 30% of times tails uppermost, with everything else being equal (for an elaboration of the propensity interpretation of probability statements see: <ref type="bibr">Mackie (1973, 179-187)</ref>).</s><s xml:id="_J2wKtMg">Now, by analogy, if our actor has a 80% propensity for Value Scale 1 and 20% propensity for Value Scale 2 , this ipso facto predicts that in the long run he or she will be guided by V 1 four times as often as by V 2 .</s><s xml:id="_nrtYNmV">However, if so, then at least in the long run, the actor is determined to be guided by the ratio between these two value scales.</s><s xml:id="_3dAaQTm">To wit, if the actor's propensity under consideration is something which generates the stipulated ratio (i.e.</s><s xml:id="_mrZqUqT">4:1) of firstorder value scales, then the actor is not free to choose to be guided by the said two value scales at a different ratio.</s><s xml:id="_WK25ZgQ">To conclude, propensity argument seems to salvage a hint of indeterminism, while still facing determinism in the long run.</s><s xml:id="_y67spRv">However, rescuing indeterminism in this manner still runs into our luck challenge.</s><s xml:id="_gt7vF3q">To illustrate the point, let us stick to our previous example of the actor being guided by V 1 and V 2 at the ratio of 4:1.</s><s xml:id="_SyHaZkj">Suppose further that in the actual world (W 1 ), the actor is guided over time by the following series of the two value scales:</s></p><formula xml:id="formula_0">{V 1 , V 1 , V 1 , V 1 , V 2 , …}.</formula><p xml:id="_774p3ex"><s xml:id="_m9tybFU">Moreover, since the actor is presumed to be endowed with the above-defined propensity, there is a merely possible world W 2 , in which the same actor is guided over time by the following series of the two value scales:</s></p><formula xml:id="formula_1">{V 1 , V 1 , V 2 , V 1 , V 1 , …}.</formula><p xml:id="_Wf6Qv2b"><s xml:id="_gmSGvmw">Clearly then, the 4:1 ratio alone allows for some variability within series.</s><s xml:id="_2rDHqce">Specifically, in the envisaged worlds, the two value scales are distributed differently over time.</s><s xml:id="_A2kx53F">But then again, since everything is the same about W 1 and W 2 , the differential distributions of V 1 and V 2 cannot be explained by the propensity (or anything else, for that matter).</s><s xml:id="_qNZmM6b">Rather, they are lucky.</s><s xml:id="_39q7R6v">However, according to an anonymous referee, one worry still remains, for we do not conclusively rule out a possibility of "a creative construction of a value scale" in the first place since our example involving propensities still assumes pre-existing value scales and a choice between them.</s><s xml:id="_Y2vMPcX">By contrast, the referee invites us to imagine "free creation of value scales".</s><s xml:id="_fKMVvrS">To address this objection, we offer the following two points.</s><s xml:id="_vEx5Xsa">First, it seems to us that the most charitable reading of the referee's suggestion is to take it to be an allusion to contra-causal freedom in the form of agent causation (for the major problem haunting agent causation see footnote 37).</s><s xml:id="_qPHzXVG">For, in the absence of value scales of a higher order to choose from, it appears as if the only option left open is that it is the agent herself (as a cause) that "freely" creates a first-order value scale which, in turn, guides her actions.</s><s xml:id="_5VYR94N">However, as already mentioned, agent causation-as opposed to event causation-does not fare well among the contemporary views on the metaphysics of free will.</s><s xml:id="_s3cpghq">Second, we believe that since the scenario suggested by the referee involves no choice, it is automatically beyond the remit of Austrian economics.</s><s xml:id="_unxG76g">After all, Mises <ref type="bibr">([1949]</ref> 1988, 3) viewed "modern subjectivist economics" as "a general theory of human choice."</s><s xml:id="_9UkkSxA">Thus, praxeology aims at illuminating human choice.</s><s xml:id="_DF4TEGH">And hence, Mises would be prone to regarding "free creation of value scales" not involving a choice behaviour as an ultimate given, something that praxeology can only take for granted but cannot be a theory of.</s></p><p xml:id="_FbWyD7B"><s xml:id="_hfb72Mp">24 One of the reviewers pointed out that this value scale does not reflect the intended indifference since apparently every entry on a value scale contains several options which the agent is indifferent between and not only those entries with an "or".</s><s xml:id="_4p6CwMg">The reviewer indeed made a valid point and so we take no issue with it.</s><s xml:id="_UKmMAZz">Granted, each and every option on a value scale might be rendered in such a way as to include those aspects of an action that the agent is indifferent between.</s><s xml:id="_cuPH3Fk">For instance, our option 2 in v 4 might be rendered in the following way: 2. Playing bridge indoors or outdoors.</s><s xml:id="_t4m243F">For the Actor in question might as well be indifferent between various circumstantial aspects of the game.</s><s xml:id="_AHvrN43">The reason why we do not describe options in this manner is that we explicitly mark indifference (via "or") only when it is vital for our argument.</s><s xml:id="_eBkRUyt">Therefore, as it stands, v 4 signals that it is both continuing to watch the baseball game and going for a drive that S would strictly prefer</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_Px4Ek9w">Playing Bridge</head><p xml:id="_zR4d57a"><s xml:id="_4DcAKHm">And indeed, the dominant Austrian view on indifference 25 has it that if the agent S is indifferent between doing one thing or another (or between employing one means or another, given his end), the agent may do one thing in the actual world (W) and another thing in a close possible world (W*), with the same value scale (v 4 ) being operative.</s><s xml:id="_EcKeUYU">Given this, Austrians might hold that it is precisely v 4 that does explain S's cross-world differential action.</s></p><p xml:id="_zbbVPYA"><s xml:id="_Ms8UPAq">For while on v 3 S's differential action would indeed be impossible to account for in terms of some contrastive explanation, on v 4 it is relatively easy to explain; that is, in both worlds S chose option 1 over playing bridge but since he was indifferent between the disjuncts within his most preferred option, it transpired that in W he watches the baseball game whereas in W* he goes for a drive, with the condition of everything else being equal up to the moment of choice preserved.</s><s xml:id="_N6VJ2Nt">Hence, it seems that S might have exercised his libertarian freedom without running into any problems mentioned above.</s></p><p xml:id="_Pd6bqrc"><s xml:id="_QCwZB7c">Granted, on Austrian grounds, if S is indifferent between watching the baseball game and going for a drive, it would indeed follow that it might as well be the case that S spends his first hour on watching the baseball game in W and on going for a drive in W*, with S's value scale (v 4 ) held fixed.</s><s xml:id="_msJpNKT">Unfortunately, this would in turn imply that neither does S choose to watch the baseball game in W nor does he or she choose to go for a drive in W* since there is no choice under indifference.<ref type="foot" target="#foot_11">foot_11</ref></s><s xml:id="_29mqSmM">Hence, even if Austrians were able to explain different behaviours of S in W and W* by resorting to the concept of indifference, they would still be unable to explain S's different choices.</s><s xml:id="_Ns5eG2W">For in order to say that S chooses differentially in W and W*, Austrians would have to admit that S's behavior is informed by strict preference between watching the baseball game and going for a drive.</s><s xml:id="_mqEXdZB">Since indifference excludes this possibility, Austrians are barred from appealing to this concept insofar as they are interested in explaining economic actor's choices and actions.</s><s xml:id="_DCnSweD">Indeed, it would be a very strange sort of economics that would have it that economic actors do not value their ends (and derivatively: their actions) differentially; that is, for any agent S and any action x, S might as well do something other than x and be equally well off-the most absurd conclusion.</s><s xml:id="_ybEW4JJ">Given that, on Austrian grounds, once we admit that agents do choose at times, we cannot appeal to indifference any more.</s><s xml:id="_kxfnYgJ">So, technically, if S chooses option x over y in W and option y over x in W*, this differential action must be explained by a corresponding shift in relative evaluations of these two options; that is, S prefers x to y in W but when it comes to W*, S ranks these two options in the opposite order.</s></p><p xml:id="_usmQ8nR"><s xml:id="_UDDNCm4">Moreover, resorting to indifference suffers from infinite regress.</s><s xml:id="_H3g65Mg">Note that metaphysical libertarianism predicts that, given v 4 , S could have still chosen the less preferred option (2), that is playing bridge, everything else being equal up to the moment of decision.</s><s xml:id="_wsKKxRj">However, S's choosing in W* to play bridge rather than to watch the baseball game or go for a drive would immediately imply that this option is strictly preferred to anything else, which would to playing bridge, with the question of whether there are some ways of playing it or some circumstantial elements of the game that S is indifferent between being left open 25 Again, see footnote 14.</s></p><p xml:id="_e43SaNz"><s xml:id="_4HtuPcq">in turn render v 4 inoperative in W*.</s><s xml:id="_22NYGpH">Most certainly, Austrians do have resources to accommodate the fact that there is a possible world in which S plays bridge instead of continuing to watch the baseball game or going for a drive.</s><s xml:id="_aCxGmKa">So, in order to account for the libertarian possibility of S's playing bridge instead of continuing to watch the baseball game or going for a drive, Austrians would have to postulate S's indifference between all these three options.</s></p><p xml:id="_tTRTcmm"><s xml:id="_25Twjbn">Value Scale v 5 :</s></p><p xml:id="_cPXBbKg"><s xml:id="_VZrTp6p">1. Continuing to Watch the Baseball game or Going for a Drive, or Playing Bridge 2. Playing Chess But now, metaphysical libertarianism would predict that, given v 5, the economic actor S could still have played chess.</s><s xml:id="_8xU2y7r">In other words, there was a possible world in which S plays chess, everything else equal.</s><s xml:id="_gtUC96w">However, this statement could only<ref type="foot" target="#foot_12">foot_12</ref> be saved by postulating that in fact it was v 6 that could account for this possibility.</s></p><p xml:id="_qhxnwNE"><s xml:id="_ZHPnCNF">Value Scale v 6 :</s></p><p xml:id="_xtDEEDh"><s xml:id="_hwzp9Up">1. Continuing to watch the baseball game or going for a drive, or playing bridge or playing chess.</s><s xml:id="_55QVjCa">2. Watching a film (or whatever else).</s></p><p xml:id="_uKpxqw7"><s xml:id="_QuG2X2d">But now we can appreciate the gravity of the problem.</s><s xml:id="_mBSAkkc">It is clear to see that appealing to indifference cannot explain differential choices across worlds.</s><s xml:id="_PNRU3s3">Granted, resorting to indifference is able to explain why S does one thing in W, another thing in W* and still some other thing in W** but at the cost of S being barred from choosing between the said options.</s><s xml:id="_FkQ6vg2">And more critically, it seems that once we employ indifference to accommodate S's crossworld differential behavior, the implication is that whatever S happens to do across worlds, he is always equally well off.</s><s xml:id="_7USbX96">In other words, even though his behavior may vary considerably across worlds, his welfare would be fixed<ref type="foot" target="#foot_13">foot_13</ref> -the most unwelcome consequence for economics.</s></p><p xml:id="_yeZKdad"><s xml:id="_8bpqMRC">Therefore, it seems that Austrians have little (if anything) to appeal to in order to save their proclaimed metaphysical libertarianism.</s><s xml:id="_krbKanu">The characteristically Austrian rejection of the assumption of constancy of preferences poses no problems to the compatibilist view, whereas citing the existence of second-order preferences catches MLF-oriented Austrians in a predicament, for then they either have to face an explanatory infinite regress or admit that n-order preferences are determined and they eventually (regardless of their order) issue in an action, with neither option being palatable to metaphysical libertarians.</s><s xml:id="_Q7KkV63">Moreover, once we take MLF seriously and spell out its implications, we-rather unsurprisingly-discover that the adoption of MLF runs into the problem of luck.</s><s xml:id="_sZssVyp">That is to say, if Austrians accept that sometimes an economic actor chooses freely (in the metaphysical libertarian's sense), they are at a loss to explain the cross-world difference in the actor's behavior, for they can neither resort to the actor's value scale varying across the worlds or to a cross-world differ-ence in some external conditions. 29</s><s xml:id="_JD2fbg4">And as long as we speak of two distinct choices made by S (i.e. one option being chosen in W and the other in W*), Austrians are barred from explaining this sort of cross-world difference in terms of S's indifference between the said two options.</s></p><p xml:id="_cAzx3Eb"><s xml:id="_GYrkp5p">Having thus made a preliminary case for compatibilism as a metaphysical stance that Rothbardians seem to be logically committed to adopting, let us now proceed to consider whether there are other prominent Austrians who already embrace compatibilism or at least have a good reason to do so.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3" xml:id="_6tTTGFb">Compatibilist Freedom vis-à-vis Other Austrians</head><p xml:id="_4HBMkNw"><s xml:id="_s58by3n">If the arguments made thus far count for something, it seems that the branch of Austrian economics which relies on value scales, with the value scales being evidenced by actual choices, indeed has a rather compelling reason to embrace compatibilist freedom.</s><s xml:id="_3PjAmrB">However, as our reasoning targeted Rothbardians, the question arises whether there are other prominent Austrians for whom a compatibilist notion of freedom might well prove to be attractive.</s></p><p xml:id="_umyCyHq"><s xml:id="_vxgX9AC">Starting our investigations with Mises would be much in order.</s><s xml:id="_CqvCbZV">As aptly put by Linsbichler (2017, 14-15), Mises "denies individuals a free will in the metaphysical sense", while "explicitly acknowledge[ing] the possibility of absolute determinism on a purely physical or physiological basis."</s><s xml:id="_ud5ErN2">However, there are places in which Mises makes an even stronger case for the sway of determinism over human action.</s><s xml:id="_5y77uJM">Says this author: "To be sure, even the valuations of individuals are causally determined" <ref type="bibr" target="#b71">(Mises [1933]</ref> 2003, 129). 30</s><s xml:id="_M6yvU4u">Elsewhere, Mises <ref type="bibr">([1957]</ref> 2007, 77) avers that "[t]he determinist is right in asserting that everything that happens is the necessary sequel of the preceding state of things."</s><s xml:id="_D9TzuNt">Given the above citations, it appears as though it is no stretch to classify Mises as a determinist. 31</s><s xml:id="_28tPFQ8">Still, being a determinist does not by itself makes one a compatibilist, for one might as well believe that the truth of determinism is indeed incompatible with free will.</s><s xml:id="_gfMBDGw">Therefore, we should make sense of Linsbichler's assertion to the effect that Mises "denies individuals a free will in the metaphysical sense", for if he denies individuals a libertarian free will, he might as well be a compatibilist.</s><s xml:id="_jWxxrRH">Specifically, what would make Mises a compatibilist is his allowing the possibility of the economic actor acting on his or her reasons, desires, preferences, beliefs or what have you.</s><s xml:id="_uqzfdQC">As we stressed time and time again, compatibilist freedom reduces to man's having power to do what they happen to want to do.</s><s xml:id="_7DqXte8">That is to say, compatibilist freedom requires one's utmost desires or preferences (coupled with relevant beliefs) to be causally efficacious even if they were to be determined themselves.</s><s xml:id="_8KVB2aa">There is indeed ample evidence 29 It is indeed puzzling that MLF-oriented Austrians would ever want to have this variety of will.</s><s xml:id="_bcwjNh9">After all, would they really want the sort of control (or the lack thereof) whereby their respective differential crossworld behaviors (e.g.</s><s xml:id="_t8EzKSG">whether they play cards in W and go swimming in W*) is just a matter of luck and not of their preferences or anything else for that matter?</s><s xml:id="_suvKNUY">Upon reflection, this sort of control looks like a travesty of control. 30</s><s xml:id="_dFqnUDh">It is worth noting in passing that it was also Menger that was most probably a determinist too.</s><s xml:id="_7STNhmZ">Consider the following citation: "All things are subject to the law of cause and effect.</s><s xml:id="_FBjd67f">This great principle knows no exception, and we would search in vain in the realm of experience for an example to the contrary."</s><s xml:id="_9JwdC9r"><ref type="bibr" target="#b42">(Menger [1871]</ref> 2007, 51) 31 A very persuasive construal of Mises' philosophy along determinist (compatibilist) lines can be found in <ref type="bibr" target="#b41">Megger (2021)</ref>.</s></p><p xml:id="_8Rudpbd"><s xml:id="_VrzDt2W">1 3 that Mises might be read along compatibilist lines.</s><s xml:id="_kgnZ25A">For instance, says Mises <ref type="bibr">([1949] 1998, 97)</ref>:</s></p><p xml:id="_Sx3Ww3h"><s xml:id="_gqqsa2c">Action is an attempt to substitute a more satisfactory state of affairs for a less satisfactory one <ref type="bibr">[…]</ref>.</s><s xml:id="_tq2RvxM">A less desirable condition is bartered for a more desirable.</s><s xml:id="_9mndYb7">What gratifies less is abandoned in order to attain something that pleases more.</s><s xml:id="_crPr3a6">That which is abandoned is called the price paid for the attainment of the end sought.</s><s xml:id="_AtURwyQ">Now, crucially, Mises does not say that action might involve substituting a less satisfactory state of affairs for a more satisfactory one, something MLF would permit by all means.</s><s xml:id="_VAaSfrb">Rather, he seems to imply that actors via their action attempt to bring about the most preferred state of affairs.</s><s xml:id="_Z2PWpYk">But if so, this position is nothing short of compatibilism avowed here.</s><s xml:id="_JQ9WGSq">To put it succinctly, actors strive to attain their highest ranked ends by dint of their causally efficacious desires (and beliefs) even if the latter are causally determined.</s></p><p xml:id="_fBVrYxN"><s xml:id="_8zXpWED">Hence, metaphysically speaking, one can rather unproblematically conceive of Mises as a compatibilist.</s><s xml:id="_5Ra6mm5">However, one caveat is important at this point.</s><s xml:id="_VVw6tms">Although, metaphysically speaking, Mises can be undoubtedly ranked as a determinist, he remains an epistemological indeterminist.</s><s xml:id="_qUrDxaC">That is to say, even though all the events (including human action) might indeed be causally determined, future events are unknowable in principle.</s><s xml:id="_4uqeuaR">Mises <ref type="bibr">([1957]</ref> 2007, 77) indeed acknowledges that "[th]e choices a man makes are determined by the ideas that he adopts".</s><s xml:id="_ARfQz2m">However, he also believes that the thesis of determinism is "considerably weakened by the fact that nothing is known about the way in which ideas arise."</s><s xml:id="_5hxdEZ4">Allegedly then, metaphysical determinism does not automatically translate into epistemological determinism since we do not know the way in which ideas governing our actions are formed. 32</s><s xml:id="_udHDfpJ"> In other words, because we do not know which ideas are going to determine our actions, our future remains epistemically indeterminate.</s></p><p xml:id="_UVBd2e4"><s xml:id="_G7BxzRm">We submit that Hayek might be equally plausibly ranked as a compatibilist. 33</s><s xml:id="_GftBqjA">It is especially his Constitution of Liberty that contains most pertinent and telling assertions.</s><s xml:id="_nbvrFqF">For instance, <ref type="bibr" target="#b25">Hayek ([1960</ref><ref type="bibr">Hayek ([ ] 2011, 136) , 136)</ref> says that "the whole suggestion that "free" in any relevant or meaningful sense precludes the idea that action is necessarily determined by some 32 The idea is that the truth of determinism does not entail perfect knowledge.</s><s xml:id="_qdVN4vv">Especially, and crucially, the former does not in and of itself entail present knowledge of future actions.</s><s xml:id="_9jRmHpp">And since the relation of entailment between the two does not hold, it is conceivable to have (radical) uncertainty coupled with determinism.</s><s xml:id="_F2Uq3xT">That is, even if all the events were to be causally determined, this very fact would still not guarantee that future events (esp.</s><s xml:id="_zmG8zgK">actions) can be knowable now.</s><s xml:id="_W35D6m8">Actually, <ref type="bibr">Morgenstern (1928, 96)</ref> advanced a stronger thesis, while trying to demonstrate that predictions in social sciences are necessarily flawed.</s><s xml:id="_eKK9Z64">For, if a social scientist is to publicly announce her prediction, the prediction will fail once it affects the information set on which economic agents act.</s><s xml:id="_r6PkY9v">This finding only strengthens our point that metaphysical determinism does not immediately translate into epistemic determinism.</s><s xml:id="_AEDQ7eJ">For, if epistemic determinism is ruled out on independent grounds, then the possibility of ending up with metaphysical determinism and epistemic indeterminism is all the more viable. 33</s><s xml:id="_hzrpyPb">This is explicitly acknowledged by <ref type="bibr" target="#b22">Gray ([1960</ref><ref type="bibr">Gray ([ ] 1984, 9), 9)</ref>, who has it that "Hayek's 'compatibilist standpoint in respect of freedom of the will-his belief that the causal determination of human actions is fully compatible with ascribing responsibility to human agents for what they do-is analogous with his stance on the mind-body question."</s><s xml:id="_vVjWbXc">For a classic exposition of the way Hayek tackles the mind-body problem, see <ref type="bibr" target="#b24">Hayek (1952)</ref>.</s><s xml:id="_qNXqNc6">In fact, Hayek's skepticism as to the possibility of the mind explaining itself constitutes yet another reason why he may be validly described as a metaphysical determinist (compatibilist) and an epistemological indeterminist.</s><s xml:id="_SWVfzjS">Again, as <ref type="bibr" target="#b22">Gray ([1960]</ref> 1984, 9) puts it, "Hayek is concerned to deny any ultimate dualism in metaphysics or ontology, while at the same time insisting that a dualism in our practical thought and in scientific method is unavoidable for us."</s></p><p xml:id="_U7xpUZY"><s xml:id="_YFj9595">1 3 factors proves on examination to be entirely unfounded."</s><s xml:id="_aDhcRDk">Incidentally, it is worth noting that whereas Mises allowed for "the possibility of absolute determinism", Hayek's thesis is even stronger.</s><s xml:id="_vmz3RjF">For the latter author claims that "the conception of responsibility rests, in fact, on a determinist view."</s><s xml:id="_4U8aX5Q">In other words, while Mises apparently regards free will (i.e.</s><s xml:id="_EK594Eb">having one's actions guided by one's ideas) as simply compatible with the truth of determinism, Hayek conceives of responsibility assignments as requiring determinism. 34</s><s xml:id="_pgcZAC3">Generally, Hayek's idea of responsibility assignments is forward-looking.</s><s xml:id="_mn6YmH3">That is, he views the institution of responsibility as serving to influence the prospective behaviour on the part of human agents who are eligible for responsibility ascriptions in the first place.</s><s xml:id="_wwnDGmc">To this effect, says <ref type="bibr" target="#b25">Hayek ([1960]</ref> 2011, 137): "It is just because there is no separate "self" that stands outside the chain of causation that there is also no "self" that we could not reasonably try to influence by reward or punishment."</s><s xml:id="_4GmX84V">Hayek's compatibilism is probably most plainly expressed in the following fragment:</s></p><p xml:id="_hgMrVjx"><s xml:id="_fRYhCW8">If we say that a person is responsible for the consequences of an action, this is not a statement of fact or an assertion about causation.</s><s xml:id="_mGDm8dr">The statement would, of course, not be justifiable if nothing he "might" have done or omitted could have altered the result.</s><s xml:id="_KH2mqsb">But when we use words like "might" or "could" in this connection, we do not mean that at the moment of his decision something in him acted otherwise than was the necessary effect of causal laws in the given circumstances.</s><s xml:id="_qNZThfw">Rather, the statement that a person is responsible for what he does aims at making his actions different from what they would be if he did not believe it to be true.</s><s xml:id="_TnbaGDh">We assign responsibility to a man, not in order to say that as he was he might have acted differently, but in order to make him different.</s><s xml:id="_qVR8d7h"><ref type="bibr" target="#b25">(Hayek [1960</ref><ref type="bibr">(Hayek [ ] 2011, 137) , 137)</ref> The above fragment clearly contains a compatibilist (and not libertarian) reading of "can".</s><s xml:id="_2d9jKW7">Hayek most definitely does not view the ability to do otherwise as a contra-causal power.</s><s xml:id="_uMtb6YT">Rather, human agents can act otherwise, given the institution of responsibility assignment.</s><s xml:id="_Zs8ckn3">Or to put the point more precisely, it is the said institution that makes human agents act differently from the way they would have acted in the absence of the institution.</s><s xml:id="_bfQc6rA">By contrast, believers in MLF would have it that, first of all, human agents can still act counter to institutions' causal influence 35 and, second of all, would claim that the ascription of responsibility depends on agents' ability to do otherwise, everything else equal, to start with. 34</s><s xml:id="_rN6nwJ3">Hayek's compatibilist stance falls into what is recently labelled "cheap compatibilism", the idea that punitive measures as justified by forward-looking deterrence-related utilitarian considerations are compatible with determinism.</s><s xml:id="_gruFNRg">What is "cheap" about this sort of compatibilism is that responsibility assigned is not desert-based.</s><s xml:id="_32Z3WN5"><ref type="bibr">(Moore 2020, 208)</ref> That is to say, on the grounds of cheap compatibilism, responsibility assignments do not reflect the offender's moral desert and is thus not backward-looking.</s><s xml:id="_wDZcjYe">Rather, the institution of punishment is justified instrumentally as it is supposed to deter potential offenders and is therefore, by contrast, forward-looking. 35</s><s xml:id="_4rZgmtV">Compare <ref type="bibr">Rothbard's (2011b, 8-10)</ref> treatment of social and institutional determinism in his The Mantle of Science.</s><s xml:id="_HD4ezC4">Moreover, it is worth noting that the Rothbardian <ref type="bibr">(1982 [2002]</ref>) theory of punishment also contrasts sharply with that of Hayek's.</s><s xml:id="_n2bETWJ">For Rothbard, the rationale of responsibility assignment has nothing to with the deterrence of future crimes.</s><s xml:id="_4nyh5Xw">Rather, ascriptions of responsibility are motivated by backward-looking considerations.</s><s xml:id="_jeJyrhM">Specifically, Rothbard's theory of punishment is retributive.</s><s xml:id="_K3D3xQd">That is to say, the reason why punishment is inflicted is that the punished person culpably committed a prior wrong.</s><s xml:id="_b8fCmUY">Or still in other words, according to Rothbard, the institution of punishment is desert-based rather than informed by forward-looking considerations such as, say, minimizing future crimes.</s></p><p xml:id="_zJcTAUX"><s xml:id="_a3rzF9Q">Moreover, as in the case of Mises, Hayek makes room for indeterminism in the realm of epistemology.</s><s xml:id="_uJbdEnm">Elsewhere in his Constitution of Liberty, he submits that when we call our actions free, we imply that "we do not know what has determined it, and not that it has not been determined by something".</s><s xml:id="_frtX4uW"><ref type="bibr" target="#b25">(Hayek [1960]</ref> 2011, 138) So then again, as Mises, Hayek appears to be a determinist (compatibilist) metaphysically and an indeterminist epistemologically.</s><s xml:id="_3HzMXvB">Therefore, it seems that the Misesian and Hayekian position scrutinized above is unproblematically reconcilable with our view that human action is determined by a combination of the actor's ordinally ranked desires (represented by value scales) and his or her fallible knowledge.</s></p><p xml:id="_mNYu8kv"><s xml:id="_DHppHgS">Concluding, it appears as though Mises and Hayek already embrace compatibilist metaphysics.</s><s xml:id="_92JcXvc">We submit that this fact alone serves to support our contention that Austrians in general should adopt this very sort of metaphysics.</s><s xml:id="_y2bewcb">And yet, there are other (non-Rothbardian) prominent Austrians who explicitly advocate MLF.</s><s xml:id="_YunsA23">The following authors who we are going to subject to critical scrutiny are, metaphysically speaking, pretty much like Rothbardians.</s><s xml:id="_TXyC2Vd">Still, we contend that they might find our compatibilist account attractive as it would enable them to avoid otherwise problematic agent causation, while keeping everything they hold dear (e.g.</s><s xml:id="_EnrZa34"><ref type="bibr">Kirznernian (2000)</ref> entrepreneurship or Lachmannian (1977) radical subjectivism) intact.</s></p><p xml:id="_sqbu7tq"><s xml:id="_8GyDxQd">Moreover, it is the very distinction between metaphysical and epistemological (in)determinism drawn above that can help us demonstrate that it is precisely compatibilist metaphysics that may prove to be friendly to the said MLF-inclined Austrians notwithstanding their pretentions to the contrary.</s><s xml:id="_USuDcqP">For example, O' <ref type="bibr">Driscoll and Rizzo (1996, 257)</ref> have it that [t]he approaches of both Kirzner and Schumpeter remove entrepreneurial discovery from the confines of maximization models.</s><s xml:id="_E8xaAhZ">The latter imply that, given the data, the outcome is inevitable.</s><s xml:id="_RkCEwJj">It is in this sense that these models are deterministic.</s><s xml:id="_YRhJM8X">Entrepreneurial discovery or creativity is not, however, a determinate outcome of the data.</s><s xml:id="_At2F5wr">If it were, it would not be entrepreneurship!</s><s xml:id="_B2fCx7E">However, the above-quoted "determinate outcome of the data" is underdescribed, given the bifurcation of determinism into metaphysical or epistemological one.</s><s xml:id="_C7F9M3t">When we employ the epistemological reading of the cited phrase, then O'Driscoll and Rizzo's point amounts to the assertion of a conceptual truth.</s><s xml:id="_RvwcRYF">Indeed, if a certain discovery were to be known in advance, it would never be a discovery in the first place.</s><s xml:id="_tpbV3jd">Still, metaphysically speaking, discoveries might as well be determined.</s><s xml:id="_W3f9HZj">Hence, as it seems, Kirznerian or Schumpeterian entrepreneurship are in principle reconcilable with the compatibilist metaphysics we are advancing here.</s></p><p xml:id="_psFkAT8"><s xml:id="_j7Jrq7K">On the other hand, elsewhere, <ref type="bibr">Kirzner (2000, 56)</ref> advanced a stronger thesis, while laying bare his metaphysical indeterminism within the purview of human action.</s><s xml:id="_SE6FJQb">Says our author: "For the subjectivist, human action is, in this sense, "uncaused"; it is not determined by circumstances (even by the agent's own preferences)." 36</s><s xml:id="_hdUCACt">However, to try to conceive of human action as "uncaused" is to call forth otherwise controversial agent causation. 37</s><s xml:id="_2dJxxsF">And 36 One cannot fail to see that these remarks are indicative of the author's belief in MLF. 37</s><s xml:id="_97j3dj9">For a defense of agent causal accounts of free will, see e.g.</s><s xml:id="_rcTGkz2"><ref type="bibr" target="#b11">Clarke (1993</ref><ref type="bibr" target="#b50">), O'Connor (2000)</ref>.</s><s xml:id="_Mudy2EU">It must be heeded, though, that agent causation is rather severely criticised these days.</s><s xml:id="_CRDbPTt">For a critique of this doctrine, see e.g.</s><s xml:id="_NSCTpJm"><ref type="bibr">Moore (2020, 61)</ref>, where the author contends that postulating "the "agent-causation" supposedly 1 3</s></p><p xml:id="_6ujn4U9"><s xml:id="_Y6ZgmJR">as <ref type="bibr">Hodgson (2004, 187)</ref> aptly put it, "[w]e may not find the cause, but in which case it is better to leave the matter open, rather than proclaiming an uncaused cause".</s><s xml:id="_HQY8WFZ">Moreover, it seems to us that there is indeed no need for Kirzner to postulate agent causation.</s><s xml:id="_ksX6uqA">The author, while approvingly drawing on <ref type="bibr" target="#b35">Lachmann's (1977)</ref> subjectivism, admits that "economic outcomes are not determined by any objective physical phenomena whatever" and that "[a]ll the powerful influences exercised upon human affair by external phenomena are exercised strictly through the intermediation of active human minds."</s><s xml:id="_Y64qpyQ"><ref type="bibr">(Kirzner 2000, 55)</ref> If we take this citation at its face value, it tallies well with compatibilist metaphysics.</s><s xml:id="_g2QyqZt">That is to say, actors effectuate certain states of affairs via their respective preferences even though these preferences are determined themselves.</s></p><p xml:id="_8Sn9hAG"><s xml:id="_uJSQ9t9">However, a few passages later, <ref type="bibr">Kirzner (2000, 56)</ref> cautiously adds what follows: "What people believe, expect and know is not determined by outside phenomena.</s><s xml:id="_qW8jHad">What they do is therefore, indeed likely to have been significantly affected by, even influenced by, physical phenomena, but is never determined by them."</s><s xml:id="_sBYXPaS">However, this seems to amount to yet another invocation of the problematic doctrine of agent causation.</s><s xml:id="_q9DB3VD">Moreover, it is not readily noticeable what is purchased at this cost.</s><s xml:id="_AW5EjsQ">As observed above, Kirznerian entrepreneurship is not threatened by the truth of determinism.</s><s xml:id="_Z4xe87N">Rather, what the phenomenon of entrepreneurship presupposes is the present ignorance of a future discovery, the ignorance that the truth of determinism leaves unaffected.</s></p><p xml:id="_UgvGh5q"><s xml:id="_NF4yx8u">Concluding, we submit that trying to save indeterminism by resorting to agent causation is more trouble than it's worth.</s><s xml:id="_skFnKXe">Additionally, we claim that for the notion of entrepreneurship as well as for the entire Austrian subjectivism to fare well it is enough to posit causal efficacy of certain mental states (most notably, preferences and beliefs).</s><s xml:id="_nxUecpN">In other words, it is compatibilist metaphysics that appears to adequately (and most parsimoniously) account for many phenomena Austrians firmly adhere to such as entrepreneurship or their programmatic subjectivism, to name but a few.</s><s xml:id="_vsu2TA5">Hence, even if <ref type="bibr" target="#b33">Kirzner (2000)</ref> 38 and <ref type="bibr" target="#b35">Lachmann (1977)</ref> explicitly subscribed to indeterminism, we claimed that (less expensive) compatibilism could constitute an adequate metaphysics grounding their respective conceptual frameworks.</s></p><p xml:id="_TndesaE"><s xml:id="_2fGFGaP">distinctive of persons bringing about changes in the world through their actions" is a desperate move which "could say little about the nature of this sui generis kind of causation, other than it was not to be confused with ordinary causation and it is the kind of causation persons uniquely originate."</s><s xml:id="_aHCzmRf">As such, most apparently, agent-causation is of little explanatory value and makes our ontology unnecessarily expensive. 38</s><s xml:id="_VXaNuQt">At some other place, <ref type="bibr">Kirzner (2000, 58-59)</ref> laments that "the Paretian device of accounting for market outcomes" eliminates "[a]ny freedom of the consumer to choose a market basket in a way that might permit him to err, to exercise imagination concerning, say future price changes" and it is for that reason that Kirzner believes we need (libertarian) freedom or-which is pretty much the same thing-Lachmannian (1977) "autonomy of the human mind".</s><s xml:id="_Zbgh2hP">But then again, our compatibilism is unscathed by this criticism.</s><s xml:id="_99VYXTq">After all, we submit that it is a combination of the actor's fallible knowledge and preferences that determine his or her action.</s><s xml:id="_VTk3VrS">Hence, on our grounds, it is unproblematic to envisage, say, a speculative act wherein the actor overestimates some future demand for a given commodity and makes purchases which only ex post prove to amount to an entrepreneurial error.</s><s xml:id="_7ez9J4B">To put it simply, since the actor was acting-among other things-on a false belief, he ultimately erred.</s><s xml:id="_eeWCpcK">It should be clear to see that the explanation of entrepreneurial errors does not need to resort to "uncaused" agential causes.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_BmQP5Kk">3 4 Conclusion</head><p xml:id="_CsJ2Q7V"><s xml:id="_YmxpTw6">The aim of this paper was to demonstrate that MFL and some essential features of Austrian economics (i.e. its reliance on value scales and the view of action as indicating strict preference) are incompatible.</s><s xml:id="_QBJAweQ">As we observed, the metaphysical libertarian view of freedom of action has it that once an actor has acted (or chosen) freely, this fact implies that the actor could have done otherwise, everything else, including value scales, equal.</s><s xml:id="_pbk35Pk">However, as demonstrated, this fatally collides with the Austrian view to the effect that economic actors' actual choices are indicative of their most (and strictly) preferred ends.</s><s xml:id="_cukTDnh">Moreover, it appeared as though citing the lack of constancy of preferences and appealing to secondorder value scales fall short of saving MLF within Austrian economics.</s><s xml:id="_3FZJ5aV">If anything, it is the compatibilist freedom that accommodates the above two phenomena easily, while holding firmly to the spirit of Austrianism.</s><s xml:id="_shRKx2R">Eventually, it transpired that resorting to indifference, as conceived of by Austrians, would go no distance towards supporting MLF either.</s></p><p xml:id="_DEepysw"><s xml:id="_8G2KUrv">On a positive note, it was clear to see that we can easily make sense of value scales (coupled with relevant beliefs) being determinative of choices if we submit to the compatibilist notion of freedom.</s><s xml:id="_y5CvxwR">As opposed to MLF, which is haunted by the problem of luck, the compatibilist freedom is a power to do what we happen to want to do, with the latter being most certainly a "variety of free will worth wanting".</s><s xml:id="_egMwFCH">But even more critically, it appears to be only the compatibilist freedom that is compatible with the conceptual edifice of Austrian economics.</s><s xml:id="_AjHEUMX">Additionally, it is worth remembering that even though compatibilism per se does not assert the truth of determinism, the very essence of the former doctrine is that free will is indeed compatible with determinism.</s><s xml:id="_CesaPpZ">And since determinism seems to govern the natural world at least on a macroscale, a welcome corollary of our investigations is that Austrian economics (with its reconstructed notion of free choice along the compatibilist lines) smoothly coheres with the general scientific world-view.</s><s xml:id="_WJgXAsb">In other words, if Austrian economics proves to be compatible with determinism, then so much the better for Austrian economics, for it is only then that this sort of economics is internally consistent and that the gap between sciences of human action and nature gets at least partially narrowed.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>20</head><label></label><figDesc><div><p><s xml:id="_nAHnGeH">Rothbard ([1962point further, let us now take the idea of MLF seriously and study what sort of implications we can draw therefrom.If any of them proves to be inconsistent with Austrian economics, this would provide us with another reason why Austrians should adopt compatibilist freedom.So, consider again the following value scale taken fromRothbard ([1962Rothbard  ([ ] 2009, 6), 6).</s><s xml:id="_5dVj9Ke">Now, we know from the earlier analysis that if S does actually spend his first hour on watching the baseball game and only the second hour on going for a drive, his value scale is indeed the one right above.</s><s xml:id="_yuvuDKe">So, for all we know so far, in W the agent S in fact chooses to spend his first hour on watching the baseball game and his second hour on going for a drive, from which actions we inferred the value scale v 3 .</s><s xml:id="_3KHmaMQ">That much can be granted just for the sake of argument.</s><s xml:id="_hzRV5Yc">But now we should investigate what are the demands of MLF in the scenario under scrutiny.</s><s xml:id="_2qGTzqF">Remember, metaphysical libertarianism envisages the freedom of an action in a characteristically demanding manner; that is, for agent S to perform the act x freely implies that S can do otherwise, everything else equal.</s><s xml:id="_XSJPdhR">Or to put it in the vernacular of possible worlds, an act x is performed freely by the agent S at time t only if there is a possible world where everything is the same up until t and S does something other than x at t.</s><s xml:id="_qEdKVEN">Given this, let us spell out what MLF predicts in the Austrian scenario considering the actor whose actual choices are indicative of value scale v 3 .</s></p></div></figDesc><table><row><cell>Value Scale v 3 :</cell></row><row><cell>1. Continuing to watch the baseball game.</cell></row><row><cell>2. Going for a drive.</cell></row><row><cell>3. Playing bridge.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p xml:id="_PMJTcPp"><s xml:id="_uj6u9ke">Note that if we indeed succeeded in demonstrating that Austrian economics requires the adoption of compatibilist metaphysics of freedom, we would, as an interesting corollary, make a considerable step towards the unification of sciences.</s><s xml:id="_NJSJFQu">For then, we would not only employ the univocal sort of freedom (i.e.</s><s xml:id="_NV6hZ5f">compatibilist one) both in moral philosophy and in economics but we would also thus render the said two disciplines coherent with a scientific deterministic world-view.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_1"><p xml:id="_EsN4DxD"><s xml:id="_8JC2P49">This argument is actually strengthened byRothbard (2011b, 6)  in a later passage wherein he claims that he proves the existence of MLF indirectly, that is by assuming the truth of determinism arguendo, which 1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_2"><p xml:id="_VfAvSnT"><s xml:id="_RPCysjd">However, there are Austrians who deny that man never chooses under indifference.</s><s xml:id="_BW56GrA">See: footnote 14.1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_3"><p xml:id="_KNpqmdH"><s xml:id="_h7SXb9g">To use the parlance of mainstream economics, we shall henceforth refer to the Rothbardian view on the relation between choices and preference as the evidential view.</s><s xml:id="_VeTB9yP">Just to reiterate slightly, on this view, value scales (or preferences) exist prior to actual choices and, epistemologically speaking, we can infer the former from the latter, whereas, genetically speaking, it is the former that guide the latter.</s><s xml:id="_gMfZae5">For an excellent elaboration of the evidential view, see: Hausmann(2012,(88)(89)(90)(91)(92)(93)(94)(95)(96)(97)(98)(99)(100)(101)(102)(103).</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_4"><p xml:id="_mSVATwx"><s xml:id="_66mdpzc">These "total subjective comparative evaluations" (see: Hausman 2012, 34-35)  are precisely in the spirit of Austrian economics with its commitment to the idea that people's actions trace (are indicative of) their respective most valued ends.Jeffrey (1983, 225)  captures the idea of this sort of evaluations very sharply indeed: "I am concerned with preference all things considered, so that one can prefer buying a Datsun to buying a Porsche even though one prefers the Porsche qua fast (e.g., since one prefers the Datsun qua cheap, and takes that desideratum to outweigh speed under the circumstances).</s><s xml:id="_avAygWr">Pref = preference tout court = preference on the balance".1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_5"><p xml:id="_TsGyPx9"><s xml:id="_utHN8Tr">That is to say, it may well be true that were S to be a single man, he would buy white shirts instead of blue ones.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_6"><p xml:id="_8PvHD8D"><s xml:id="_xuPx2dF">For a very clear exposition of this view, see: e.g.Block (2009a; 2009b);<ref type="bibr" target="#b6">Block and Barnett (2010)</ref>.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_7"><p xml:id="_e4vDeAq"><s xml:id="_XTvwxsy">However, there are dissenting views within the Austrian camp having it that it is the relation of weak preference that is fundamental to action, with strict preference being only derivative (see: e.g.</s><s xml:id="_eyXac7g">Machaj 2007; O'Neill 2010).</s><s xml:id="_BNFhjrn">That is, subject S strictly prefers x to y iff he weakly prefers x to y and he does not weakly prefer y to x. Mind you, if the actor weakly prefers x to y, it is by definition possible that he is indifferent between x to y.</s><s xml:id="_YpNMWgB">And if it is weak preference that governs actions, it is conceptually possible for man to act (or choose) under indifference.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_8"><p xml:id="_tWmBbFB"><s xml:id="_Pd23Fnw">We picked up Rothbard's exposition for we believe it is probably the most pellucid.</s><s xml:id="_8duZmwv">However, as mentioned above, the view that man acts only on strict preference is the prevailing view among Austrians.</s><s xml:id="_RjaudfV">Its most prominent proponents also include Mises([1949]  1998);<ref type="bibr" target="#b2">Block (1980;</ref><ref type="bibr" target="#b3">1999;</ref> 2009<ref type="bibr" target="#b28">) Hoppe (2005))</ref>.1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_9"><p xml:id="_QHqvW2K"><s xml:id="_NCEXCKF">We can easily generalize the above point.</s><s xml:id="_KVfUbGX">To avoid explanatory regressus ad infinitum, Austrian must assume that there exists such an n-order preference that determines a choice of a particular n-1-order value scale, which in turn determines a choice of a particular n-2-order value scale etc. until we reach the level of a first-order value scale, which directly determines an action towards the satisfaction of a particular highest valued material end.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_10"><p xml:id="_rK6mVXE"><s xml:id="_CpVkR7m">After all, we seriously take the libertarian claim that literally everything else is equal in W* but S acts in W* in a different way from the one in which he acts in W.1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_11"><p xml:id="_RqJFhVx"><s xml:id="_uUUjRgh">Let us quoteRothbard ([1956]  2011a, 301-305) again: "Indifference can never be demonstrated by action.</s><s xml:id="_gSEz2vt">Quite the contrary.</s><s xml:id="_Tu54Qs2">Every action necessarily signifies a choice, and every choice signifies a definite preference.</s><s xml:id="_2uhbxvC">Action specifically implies the contrary of indifference.</s><s xml:id="_8ne6bMZ">The indifference concept is a particularly unfortunate example of the psychologizing error[…].</s><s xml:id="_9TuSBsm">If a person is really indifferent between two alternatives, then he cannot and will not choose between them." 1 3</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_12"><p xml:id="_KUThwf6"><s xml:id="_jyMVKzJ">As already observed, Austrians are barred from saying that S could have chosen to play chess, everything else equal for-at the very least-S's underlying preferences must have changed too.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_13"><p xml:id="_4nBT299"><s xml:id="_QPpdFwR">After all, he would be ex hypothesi indifferent between indefinitely many options, which seems to be the only way to grant to him the possibility of behaving differentially across worlds, everything else equal.1 3</s></p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xml:id="_5bN3yE3"><p xml:id="_jTNdUv3"><s xml:id="_STZeECA">Funding This research was funded in whole or in part by the <rs type="funder">National Science Centre, Poland</rs>, grant number <rs type="grantNumber">2020/39/B/HS5/00610</rs>.</s><s xml:id="_D7wPUwr">For the purpose of Open Access, the author has applied a CC-BY public copyright licence to any Author Accepted Manuscript (AAM) version arising from this submission.</s></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ytkda6c">
+					<idno type="grant-number">2020/39/B/HS5/00610</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_hzh5eCc">Supplementary Information</head><p xml:id="_y7kQxdg"><s xml:id="_Ss8w9rA">The online version contains supplementary material available at <ref type="url" target="https://doi">https://doi</ref>.</s><s xml:id="_Gew3pWT">org/10.1007/s10838-023-09640-x.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_avpc6jc">Declarations</head><p xml:id="_BetBv9G"><s xml:id="_gtTKuGS">Conflict of interest The authors have no competing interests to declare that are relevant to the content of this article.</s></p><p xml:id="_mgFQQTr"><s xml:id="_YDkxmFJ">Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</s></p><p xml:id="_FYwAQuz"><s xml:id="_3nHPtZB">Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</s></p><p xml:id="_jTMeJvS"><s xml:id="_y7N3PKH">1 3</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_Kd8gfV9">Ifs and Cans</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Austin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Urmson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Warnock</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/019283021x.003.0009</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_2Ryj3E3">Philosophical Papers</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Urmson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Warnock</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressOxford</publisher>
+			<date type="published" when="1961">1961</date>
+			<biblScope unit="page" from="205" to="232" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Austin, J. 1961. &quot;Ifs and cans&quot;. In Philosophical papers, eds. J. O. Urmson, and G. Warnock, Oxford: Clarendon Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_zN4wn6k">Humean compatibilism</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Beebee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_MBydDCU">Mind</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="201" to="224" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beebee, H., and A. Mele. 2002. &quot;Humean compatibilism&quot;. Mind 111: 201-224.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_rKdd95n">On Robert Nozick&apos;s &apos;On austrian methodology</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Block</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pGsTJj3">Inquiry: A Journal of Medical Care Organization, Provision and Financing</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="397" to="444" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W. 1980. &quot;On Robert Nozick&apos;s &apos;On austrian methodology&apos;&quot;. Inquiry: A Journal of Medical Care Organization, Provision and Financing 23 (4): 397-444.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_gxjdsRT">Austrian theorizing, recalling the foundations: reply to Caplan</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Block</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_AcyGM6h">Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="21" to="39" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W. 1999. &quot;Austrian theorizing, recalling the foundations: reply to Caplan&quot;. Quarterly Journal of Austrian Economics 2 (4): 21-39.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_NpQm5hB">Rejoinder to Machaj on Indifference</title>
+		<author>
+			<persName><forename type="first">Walter</forename><forename type="middle">E</forename><surname>Block</surname></persName>
+		</author>
+		<idno type="DOI">10.62374/bnejq268</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YXWeH2r">New Perspectives on Political Economy</title>
+		<title level="j" type="abbrev">New Perspect. Polit. Econ.</title>
+		<idno type="ISSN">1804-6290</idno>
+		<idno type="ISSNe">1801-0938</idno>
+		<imprint>
+			<biblScope unit="volume">05</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="65" to="71" />
+			<date type="published" when="2009-12-08">2009</date>
+			<publisher>Cevro Institut</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W. 2009a. &quot;Rejoinder to Machaj on indifference&quot;. New Perspectives on Political Economy 5 (1): 665-671.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_Gfp3yGc">Rejoinder to Hoppe on indifference</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Block</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dUD7wpB">Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="52" to="59" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W. 2009b. &quot;Rejoinder to Hoppe on indifference,&quot; Quarterly Journal of Austrian Economics, 12(1): 52-59.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_whv7nbe">Rejoinder to Hoppe on indifference, once again</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Block</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Barnett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7FZrHAZ">Reason Papers</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="141" to="154" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W., and W. Barnett. 2010. &quot;Rejoinder to Hoppe on indifference, once again&quot;. Reason Papers 32: 141-154.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_u7fh4Fy">Transitivity and the money pump</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Block</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Barnett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_erfZnCS">Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="237" to="251" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W., and W. Barnett. 2012. &quot;Transitivity and the money pump&quot;. Quarterly Journal of Austrian Eco- nomics 15 (2): 237-251.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_DyT3yAG">Free will, determinism, libertarianism and austrian economics</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Block</surname></persName>
+		</author>
+		<ptr target="http://con-nection.ebscohost.com/c/articles/110798998/free-will-determinism-libertarianism-austrian-economicsBok" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_mGWJwWx">Freedom and responsibility</title>
+		<meeting><address><addrLine>Princeton, New Jersey</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1998">2015. 1998</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Block, W. 2015. &quot;Free will, determinism, libertarianism and austrian economics&quot;. Dialogue, Issue 3, p.1; http://con- nection.ebscohost.com/c/articles/110798998/free-will-determinism-libertarianism-austrian-economics Bok, H. 1998. Freedom and responsibility. Princeton, New Jersey: Princeton University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_FF99Q6A">In Defense of Moral Luck</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Caruso</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315232041-5</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kznXukN">In Defense of Moral Luck</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="90" to="117" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Caruso, G. 2019. &quot;A defense of the luck pincer: why luck (still) undermines moral responsibility&quot;. Journal of Information Ethic 28 (1): 51-72.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Caruso</surname></persName>
+		</author>
+		<title level="m" xml:id="_AFYum6Y">Rejecting retributivism: free will, punishment and criminal justice</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Caruso, G. 2021. Rejecting retributivism: free will, punishment and criminal justice. New York: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_sg7DCTj">Toward A Credible Agent-Causal Account of Free Will</title>
+		<author>
+			<persName><forename type="first">Randolph</forename><surname>Clarke</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2215755</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_faYS3xN">Noûs</title>
+		<title level="j" type="abbrev">Noûs</title>
+		<idno type="ISSN">0029-4624</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">191</biblScope>
+			<date type="published" when="1993-06">1993</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clarke, R. 1993. &quot;Toward a credible agent-causal account of free will&quot;. Noûs 27 (2): 191-203.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Copleston</surname></persName>
+		</author>
+		<title level="m" xml:id="_YPhYEa4">Aquinas</title>
+		<meeting><address><addrLine>Harmondsworth, Middlesex</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Books</publisher>
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Copleston, F. 1955. Aquinas. Harmondsworth, Middlesex: Penguin Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_XzNZrD3">Defending the Principle of Alternate Possibilities: Blameworthiness and Moral Responsibility</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Copp</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/0029-4624.00055</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zjYujw7">Noûs</title>
+		<title level="j" type="abbrev">Nous</title>
+		<idno type="ISSN">0029-4624</idno>
+		<idno type="ISSNe">1468-0068</idno>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="441" to="456" />
+			<date type="published" when="1997-12">1997</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Copp, D. 1997. &quot;Defending the principle of alternate possibilities: blameworthiness and moral responsibil- ity&quot;. Noûs 31 (4): 441-456.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Davidson</surname></persName>
+		</author>
+		<title level="m" xml:id="_Tzaegy9">Essays on actions and events</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davidson, D. 1980. Essays on actions and events. Oxford: Clarendon Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main" xml:id="_ay5eSHw">Freedom evolves</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dennett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Penguin Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dennett, D. 2003. Freedom evolves. London: Penguin Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Finnis</surname></persName>
+		</author>
+		<title level="m" xml:id="_SjwzxTs">Aquinas: moral, political, and legal theory</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Finnis, J. 1998. Aquinas: moral, political, and legal theory. Oxford: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fischer</surname></persName>
+		</author>
+		<title level="m" xml:id="_aGccWBD">My way</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fischer, J. 2006. My way. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ravizza</surname></persName>
+		</author>
+		<title level="m" xml:id="_ncSfxXu">Responsibility and control: an essay on moral responsibility</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fischer, J., and M. Ravizza. 1998. Responsibility and control: an essay on moral responsibility. Cambridge: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_uaNaTaZ">Alternate Possibilities and Moral Responsibility</title>
+		<author>
+			<persName><forename type="first">Harry</forename><forename type="middle">G</forename><surname>Frankfurt</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2023833</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_E828aMc">The Journal of Philosophy</title>
+		<title level="j" type="abbrev">The Journal of Philosophy</title>
+		<idno type="ISSN">0022-362X</idno>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page">829</biblScope>
+			<date type="published" when="1969-12-04">1969</date>
+			<publisher>Philosophy Documentation Center</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frankfurt, H. 1969. &quot;Alternate possibilities and moral responsibility&quot;. Journal of Philosophy 66 (23): 829-839.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goldman</surname></persName>
+		</author>
+		<title level="m" xml:id="_QskXu94">A theory of human action</title>
+		<meeting><address><addrLine>Princeton, New Jersey</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goldman, A. 1970. A theory of human action. Princeton, New Jersey: Princeton University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_9y9y7nH">Ought&apos; and ability</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3xmZxVH">Philosophical Review</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="337" to="382" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Graham, P. 2011. &quot;&apos;Ought&apos; and ability&quot;. Philosophical Review 120 (3): 337-382.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_5XJRbb4">Hayek on Liberty</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Gray</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203004012</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_99W5jQW">Hayek on liberty</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1960">1960. 1984</date>
+		</imprint>
+	</monogr>
+	<note>3rd edition</note>
+	<note type="raw_reference">Gray, J. [1960] 1984. Hayek on liberty. 3rd edition London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hausman</surname></persName>
+		</author>
+		<title level="m" xml:id="_Nm46BKj">Preference, value, choice and welfare</title>
+		<meeting><address><addrLine>Cambridge and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hausman, D. 2012. Preference, value, choice and welfare. Cambridge and New York: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<title level="m" xml:id="_mdBEeBt">The sensory order: an inquiry into the foundations of theoretical psychylogy</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chicago University Press</publisher>
+			<date type="published" when="1952">1952</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. A. 1952. The sensory order: an inquiry into the foundations of theoretical psychylogy. Chicago: Chicago University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<title level="m" xml:id="_5xKKVJ9">The constitution of liberty</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1960">1960. 2011</date>
+		</imprint>
+	</monogr>
+	<note>The definitive edition</note>
+	<note type="raw_reference">Hayek, F. A. [1960] 2011. The constitution of liberty. The definitive edition Chicago: University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_yjKARF2">Is free will an illusion?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heisenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WecSSPy">Nature</title>
+		<imprint>
+			<biblScope unit="volume">459</biblScope>
+			<biblScope unit="page" from="164" to="165" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heisenberg, M. 2009. &quot;Is free will an illusion?&quot;. Nature 459: 164-165.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_wxCSdNM">Darwinism, causality and the social sciences</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hodgson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_jbueZQG">Journal of Economic Methodology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="194" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hodgson, G. 2004. &quot;Darwinism, causality and the social sciences&quot;. Journal of Economic Methodology 11 (2): 175-194.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_Svwt2sE">Must austrians embrace indifference?</title>
+		<author>
+			<persName><forename type="first">H.-H</forename><surname>Hoppe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_SJB7MEZ">Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="91" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hoppe, H.-H. 2005. &quot;Must austrians embrace indifference?&quot;. Quarterly Journal of Austrian Economics 13 (1): 87-91.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_yhUrzg9">Transitivity: A Comment on Block and Barnett</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hudik</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2147436</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dMKRKHe">SSRN Electronic Journal</title>
+		<title level="j" type="abbrev">SSRN Journal</title>
+		<idno type="ISSNe">1556-5068</idno>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="456" to="462" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hudik, M. 2012. &quot;Transitivity: a comment on Block and Barnett&quot;. Quarterly Journal of Austrian Economics 15 (4): 456-462.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_zCE97bs">Facts and counterfactuals in economic law</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Hülsmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hKwk5GE">Journal of Libertarian Studies</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="102" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hülsmann, J. G. 2003. &quot;Facts and counterfactuals in economic law&quot;. Journal of Libertarian Studies 17 (1): 57-102.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jeffrey</surname></persName>
+		</author>
+		<title level="m" xml:id="_ezDeas8">The logic of decision</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note>2nd ed</note>
+	<note type="raw_reference">Jeffrey, R. 1983. The logic of decision. 2nd ed. Chicago: University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kane</surname></persName>
+		</author>
+		<title level="m" xml:id="_89QX34c">The significance of free will</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kane, R. 1996. The significance of free will. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kirzner</surname></persName>
+		</author>
+		<title level="m" xml:id="_BU7PjmA">The driving force of the market: essays in austrian economics</title>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirzner, I. 2000. The driving force of the market: essays in austrian economics. London and New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ryas8Ea">Moral Rights and the Limits of the Ought‐Implies‐Can Principle: Why Impeccable Precautions are No Excuse</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">H</forename><surname>Kramer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00201750510022844</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_bDp86rf">Inquiry</title>
+		<title level="j" type="abbrev">Inquiry</title>
+		<idno type="ISSN">0020-174X</idno>
+		<idno type="ISSNe">1502-3923</idno>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="307" to="355" />
+			<date type="published" when="2005-08">2005</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kramer, M. 2005. &quot;Moral rights and the limits of the ought-implies-can principle: why impeccable precau- tions are no excuse&quot;. Inquiry: An Interdisciplinary Journal of Philosophy 48 (4): 307-355.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</author>
+		<title level="m" xml:id="_uWGmxPQ">Capital, expectation and the market process</title>
+		<meeting><address><addrLine>Kansas City</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sheed Andrews and McMeel</publisher>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lachmann, L. M. 1977. Capital, expectation and the market process. Kansas City: Sheed Andrews and McMeel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_DJcRbRN">Hard luck: how luck undermines free will and moral responsibility</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Levy</surname></persName>
+		</author>
+		<idno type="DOI">10.5860/choice.50-1391</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_krvP5kr">Choice Reviews Online</title>
+		<title level="j" type="abbrev">Choice Reviews Online</title>
+		<idno type="ISSN">0009-4978</idno>
+		<idno type="ISSNe">1523-8253</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page">50-1391-50-1391</biblScope>
+			<date type="published" when="2011">2011</date>
+			<publisher>American Library Association</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Levy, N. 2011. Hard luck: how luck undermines free will and moral responsibility. New York: Oxford Uni- versity Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main" xml:id="_WJMy4ZN">Was Ludwig von Mises a conventionalist? A new analysis of the epistemology of the austrian school of economics</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Linsbichler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Linsbichler, A. 2017. Was Ludwig von Mises a conventionalist? A new analysis of the epistemology of the austrian school of economics. Palgrave Macmillan.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main" xml:id="_Ujf3CwU">Truth, probability and paradox</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mackie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Oxford at the Clarendon Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mackie, J. 1973. Truth, probability and paradox. Oxford at the Clarendon Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_7ZeDWmr">A Praxeological Case for Homogeneity and Indifference</title>
+		<author>
+			<persName><forename type="first">Mateusz</forename><surname>Machaj</surname></persName>
+			<idno type="ORCID">0000-0002-1497-782X</idno>
+		</author>
+		<idno type="DOI">10.62374/b94z8y61</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DFACFHS">New Perspectives on Political Economy</title>
+		<title level="j" type="abbrev">New Perspect. Polit. Econ.</title>
+		<idno type="ISSN">1804-6290</idno>
+		<idno type="ISSNe">1801-0938</idno>
+		<imprint>
+			<biblScope unit="volume">03</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="231" to="238" />
+			<date type="published" when="2007-12-30">2007</date>
+			<publisher>Cevro Institut</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Machaj, M. 2007. &quot;A praxeological case for homogeneity and indifference&quot;. New Perspectives in Political Economy 3 (2): 231-238.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_GJpPQtB">The limits of evil and the role of moral address: a defense of Strawsonian compatibilism</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mckenna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_BZZJbvu">Journal of Ethics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="123" to="142" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McKenna, M. 1998. &quot;The limits of evil and the role of moral address: a defense of Strawsonian compatibil- ism&quot;. Journal of Ethics 2: 123-142.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_gw2cjea">Determinism, free will, and the Austrian School of Economics</title>
+		<author>
+			<persName><forename type="first">Dawid</forename><surname>Megger</surname></persName>
+			<idno type="ORCID">0000-0002-2827-4607</idno>
+		</author>
+		<idno type="DOI">10.1080/1350178x.2021.1926528</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5Z8AJsw">Journal of Economic Methodology</title>
+		<title level="j" type="abbrev">Journal of Economic Methodology</title>
+		<idno type="ISSN">1350-178X</idno>
+		<idno type="ISSNe">1469-9427</idno>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="304" to="321" />
+			<date type="published" when="2021-05-12">2021</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Megger, D. 2021. &quot;Determinism, free will, and the austrian school of economics&quot;. Journal of Economic Methodology 28 (3): 304-321.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Menger</surname></persName>
+		</author>
+		<title level="m" xml:id="_ycrphtf">Principles of economics</title>
+		<meeting><address><addrLine>Auburn, AL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<date type="published" when="1871">1871. 2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Menger, C. [1871] 2007. Principles of economics. Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mele</surname></persName>
+		</author>
+		<title level="m" xml:id="_ssqFMta">Autonomous agents</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mele, A. 1995. Autonomous agents. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_rHsrSwt">Free Will and Luck</title>
+		<author>
+			<persName><forename type="first">Alfred</forename><forename type="middle">R</forename><surname>Mele</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/0195305043.001.0001</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_5KPccC2">Free will and luck</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University PressNew York</publisher>
+			<date type="published" when="2006-02-01">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mele, A. 2006. Free will and luck. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><surname>Morgenstern</surname></persName>
+		</author>
+		<title level="m" xml:id="_8YHGqAM">Wirtschaftsprognosen</title>
+		<meeting><address><addrLine>Vienna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Julius Springer</publisher>
+			<date type="published" when="1928">1928</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Morgenstern, O. 1928. Wirtschaftsprognosen. Vienna: Julius Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moore</surname></persName>
+		</author>
+		<title level="m" xml:id="_BrTCXB7">Act and crime</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moore, M. 1993. Act and crime. Oxford: Clarendon Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moore</surname></persName>
+		</author>
+		<title level="m" xml:id="_h5JqFBH">Mechanical choices. The responsibility of the human machine</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moore, M. 2020. Mechanical choices. The responsibility of the human machine. New York: Oxford Univer- sity Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>O'driscoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rizzo</surname></persName>
+		</author>
+		<title level="m" xml:id="_4sNcc5n">The economics of time and ignorance</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;Driscoll, G. and M. Rizzo. 1996. The economics of time and ignorance. London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nagel</surname></persName>
+		</author>
+		<title level="m" xml:id="_pWxcjyp">Mortal questions</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nagel, T. 1979. Mortal questions. New York: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>O'connor</surname></persName>
+		</author>
+		<title level="m" xml:id="_VaHwuYj">Persons and causes</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;Connor, T. 2000. Persons and causes. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main" xml:id="_mnzc82a">Choice and indifference: a critique of the strict preference approach</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'neill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_v9mYyKf">Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="98" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;Neill, B. 2010. &quot;Choice and indifference: a critique of the strict preference approach&quot;. Quarterly Journal of Austrian Economics 13 (1): 71-98.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_EKgAwGe">Incompatibilism and the avoidability of blame</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Otsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Pv9rdW6">Ethics</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="685" to="701" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Otsuka, M. 1998. &quot;Incompatibilism and the avoidability of blame&quot;. Ethics 108 (4): 685-701.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Parfit</surname></persName>
+		</author>
+		<title level="m" xml:id="_sYhuPYn">On what matters</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Parfit, D. 2011. On what matters. vol. 1. Oxford: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pereboom</surname></persName>
+		</author>
+		<title level="m" xml:id="_5n9S8jK">Living without free will</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pereboom, D. 2001. Living without free will. New York: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_8PvAfxP">Defending hard incompatibilism</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pereboom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3MjBA6w">Midwest Studies in Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="228" to="247" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pereboom, D. 2005. &quot;Defending hard incompatibilism&quot;. Midwest Studies in Philosophy 29 (1): 228-247.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pereboom</surname></persName>
+		</author>
+		<title level="m" xml:id="_jCNyntr">Free will, agency and meaning of life</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pereboom, D. 2014. Free will, agency and meaning of life. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rothbard</surname></persName>
+		</author>
+		<title level="m" xml:id="_4nCbwXx">Ethics of liberty</title>
+		<meeting><address><addrLine>New York and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>New York University Press</publisher>
+			<date type="published" when="1982">1982. 2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rothbard, M. [1982] 2002. Ethics of liberty. New York and London: New York University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main" xml:id="_Un8FXhv">Man, economy, and state, with power and market</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rothbard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962. 2009</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<pubPlace>Auburn, AL</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rothbard, M. [1962] 2009. Man, economy, and state, with power and market. Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_bnqnWVt">Toward a reconstruction of utility and welfare economics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rothbard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_vndZp78">Economic controversies</title>
+		<imprint>
+			<date type="published" when="1956">1956. 2011</date>
+			<biblScope unit="page" from="289" to="333" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rothbard, M. [1956] 2011a. &quot;Toward a reconstruction of utility and welfare economics&quot;. In: Economic con- troversies: 289-333.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Auburn</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Ludwig von Mises Institute</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_WSpsMHg">In Defense of &quot;Extreme Apriorism&quot;</title>
+		<author>
+			<persName><forename type="first">Murray</forename><forename type="middle">N</forename><surname>Rothbard</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1054221</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_y57HaQR">Southern Economic Journal</title>
+		<title level="j" type="abbrev">Southern Economic Journal</title>
+		<idno type="ISSN">0038-4038</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">314</biblScope>
+			<date type="published" when="1956">1956. 2011</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rothbard, M. [1956] 2011b. &quot;The mantle of science&quot;. In: Economic controversies: 3-23.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main" xml:id="_EMb5R66">Ludwig von Mises Institute</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Auburn</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Auburn, AL: Lud- wig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Russell</surname></persName>
+		</author>
+		<title level="m" xml:id="_Jpb3cfx">Freedom and moral sentiment: Hume&apos;s way of naturalizing responsibility</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Russell, P. 1995. Freedom and moral sentiment: Hume&apos;s way of naturalizing responsibility. New York: Oxford University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salerno</surname></persName>
+		</author>
+		<ptr target="mises.org/library/what-causal-realist-approach" />
+		<title level="m" xml:id="_4u8DmEs">What is a causal-realist approach</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Salerno, J. 2007. &quot;What is a causal-realist approach,&quot; mises.org/library/what-causal-realist-approach.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_HWB4pzR">Menger&apos;s causal-realist analysis in modern economics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salerno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fqAjuyk">Review of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Salerno, J. 2010. &quot;Menger&apos;s causal-realist analysis in modern economics&quot;. Review of Austrian Economics 23: 1-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_axDKKYD">Freedom and resentment</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Strawson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_j5XC5xN">Proceedings of the British Academy</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="187" to="211" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strawson, P. 1962. &quot;Freedom and resentment&quot;. Proceedings of the British Academy 48: 187-211.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main" xml:id="_2q39KMr">Thomistic metaphysics and the synthetic a priori</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Timmons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VZjdtnN">Episteme</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="1997-09">1997. September</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Timmons, B. 1997. &quot;Thomistic metaphysics and the synthetic a priori&quot;. Episteme 8 (September): 1-13.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main" xml:id="_85yPa6H">Rejoinder on free will, determinism, libertarianism and austrian economics</title>
+		<author>
+			<persName><surname>Van Schoelandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jankovic</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Block</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_eZP8cR8">АИ &quot;Ценов</title>
+		<imprint>
+			<biblScope unit="page" from="81" to="95" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Schoelandt, Ch., I. Jankovic, and W. Block. 2016. &quot;Rejoinder on free will, determinism, libertarianism and austrian economics&quot;. АИ &quot;Ценов&quot;: 81-95.</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Inwagen</surname></persName>
+		</author>
+		<title level="m" xml:id="_XAAyheB">An essay on free will</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Inwagen, P. 1983. An essay on free will. Oxford: Clarendon.</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main" xml:id="_vPbYnvM">St. Thomas and the question, &apos;How are synthetic judgments a priori possible?</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Veatch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_2EVgZhZ">Modern Schoolman</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="239" to="263" />
+			<date type="published" when="1965-03">1965. March</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Veatch, H. 1965. &quot;St. Thomas and the question, &apos;How are synthetic judgments a priori possible?&apos;&quot;. Modern Schoolman 42 (March): 239-263.</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main" xml:id="_ANxdAec">Epistemological problems of economics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1933">1933. 2003</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<pubPlace>Auburn, AL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3rd ed</note>
+	<note type="raw_reference">von Mises, L. [1933] 2003. Epistemological problems of economics. 3rd ed. Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main" xml:id="_efj8jQX">Human action: a treatise on economics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1949. 1998</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<pubPlace>Auburn, AL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The scholar&apos;s edition</note>
+	<note type="raw_reference">von Mises, L. [1949] 1998. Human action: a treatise on economics. The scholar&apos;s edition. Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main" xml:id="_hCky8E7">Theory and history. An interpretation of social and economic evolution</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Mises</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1957">1957. 2007</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<pubPlace>Auburn, AL</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Mises, L. [1957] 2007. Theory and history. An interpretation of social and economic evolution. Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main" xml:id="_WVgbatX">Free will and preactions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wiśniewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_speY3bn">Libertarian Papers</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wiśniewski, J. 2009. &quot;Free will and preactions&quot;. Libertarian Papers 1 (23): 1-9.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

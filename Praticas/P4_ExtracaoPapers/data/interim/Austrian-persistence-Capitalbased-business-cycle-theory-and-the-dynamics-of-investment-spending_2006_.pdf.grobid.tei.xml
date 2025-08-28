@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_8eNmwYg">Austrian persistence? Capital-based business cycle theory and the dynamics of investment spending</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Michael</forename><forename type="middle">R</forename><surname>Montgomery</surname></persName>
+							<email>michael.montgomery@umit.maine.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Springer Science + Business Media</orgName>
+								<orgName type="institution" key="instit2">Inc</orgName>
+								<address>
+									<postCode>2006</postCode>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Economics</orgName>
+								<orgName type="institution" key="instit1">University of Maine</orgName>
+								<orgName type="institution" key="instit2">Stevens Hall</orgName>
+								<orgName type="institution" key="instit3">University of Maine</orgName>
+								<address>
+									<postCode>04469-5774 207-866-0128</postCode>
+									<settlement>Orono</settlement>
+									<region>ME</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_PzPDhfp">Austrian persistence? Capital-based business cycle theory and the dynamics of investment spending</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3DB396616528564691353C374791E3B0</idno>
+					<idno type="DOI">10.1007/s11138-006-6092-x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_jCbhJrm">Accelerator . Austrian economics . Business cycle theory . Capital complementarity . Hayekian business-cycle theory . Lag length JEL Code E3</term>
+					<term xml:id="_gPCkmGX">E4</term>
+					<term xml:id="_tktmdSg">C1</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_2SHMQFH"><p xml:id="_UjKmMtn"><s xml:id="_DZxjM2j">Survey data are used to investigate the very long spending lags estimated in neoclassical studies of investment expenditures.</s><s xml:id="_NBkUZV9">Neoclassical investment theory has trouble explaining the length of these lags.</s><s xml:id="_KfaYScG">By recognizing the Austrian concept of the capital structure and applying it to the problem, the present paper explains the length of these lags as proceeding from interactions between types of capital.</s><s xml:id="_FD4w34F">Austrian arguments stemming from Austrian business-cycle theory seem to be needed to explain these lags.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1." xml:id="_XSjFusM">Introduction</head><p xml:id="_jWS2M3h"><s xml:id="_vvPv4WX">Austrian economists long have held that there is more to the business cycle than that which meets the Neoclassical eye.</s><s xml:id="_B4DQwVV">Neoclassical macroeconomists believe that an understanding of the aggregate economy is best achieved by assuming one type of capital good (or, very occasionally, two types of capital goods) when studying the cycle.</s><s xml:id="_ZRHY8dD">More detail about the interrelationships within or between these aggregates is, in the main, considered a distraction by mainstream theorists.</s><s xml:id="_mt6B9RG">By contrast, Austrian macroeconomists emphasize the capital stock's heterogeneity (its "capital structure").</s><s xml:id="_pumUxDq">They see relationships between different types of capital goods-particularly complementary relationships-as having important cyclical effects. <ref type="bibr">1</ref> This paper presents empirical evidence that the heterogeneity of capital-goods matters crucially to macroeconomics. 2 Such evidence indirectly supports Austrian business-cycle theory by strengthening the case for one of its key building blocks-a building block rejected by mainstream macro-theory.</s><s xml:id="_y95VAVC">Here, focus is on the "persistence" of investment expenditures: the long drawn-out response over time by investment spending to changes in its determinants.</s><s xml:id="_GhbtvZH">Neoclassical theory seeks to explain the somewhat mysterious length of the investmentspending "distributed lag" through time-to-build, and/or backlogging of projects, and/or delays in forming accurate expectations, and/or other mechanisms that work within the homogeneous capital-good paradigm.</s><s xml:id="_Xrh36nA">In contrast, this paper will argue that the observed persistence of investment expenditures makes little sense unless interpreted explicitly in an Austrian manner that recognizes the significance of heterogeneous capital-goods and the complementary relationships between them.</s></p><p xml:id="_sEQwxXc"><s xml:id="_3KrSUEK">To make this argument, extensive U.S. Commerce Department survey data are utilized that capture the pace at which nonresidential buildings are constructed and completed over time.</s><s xml:id="_FAMWmsx">Such survey data then are compared against recent, reputable econometric studies which are relatively unrestrictive in the way they generate a "fit" with the data, and which, therefore, can be considered reasonably good summaries of the length and shape of the investmentspending distributed lag.</s><s xml:id="_K4K5sPb">The survey data are then manipulated in ways suggested by the neoclassical theory of investment expenditures.</s></p><p xml:id="_Y5g9tT7"><s xml:id="_BJk7bAT">Suppose that the neoclassical theory is true and complete and that the econometric studies of the lag are accurate.</s><s xml:id="_MmjCRPs">Then, if the right combination of these theories is used to manipulate the survey data, then the resulting pattern ought to match well with the lag estimated by the econometric studies.</s><s xml:id="_9JDf6aj">If on the other hand the theory is seriously incomplete, then the match should be poor.</s><s xml:id="_HkRSta8">Now suppose that a poor match generated by neoclassical theory can be transformed into a close match simply by adding in an intertemporal complementary relationship between different types of capital-goods.</s><s xml:id="_eas7RHW">Such a finding would offer support to one of the central contentions of Austrian business-cycle theory: that relationships among capital-goods matter crucially to macroeconomics, and that the homogenous capital assumption characterizing so much of mainstream macro-theory should be abandoned (or at least seriously reexamined).</s></p><p xml:id="_u9E4dXr"><s xml:id="_kY8tNhr">Sections 2 and 3 examine in detail the econometric studies and the survey data that form the backbone of this study.</s><s xml:id="_XccYWVu">Sections 4 through 7 attempt to find a match between the two using successively more intricate neoclassical frameworks.</s><s xml:id="_QkZ6sR7">Sections 8 and 9 bring in Austrian mechanisms.</s><s xml:id="_egDPT7s">Section 10 concludes.</s><s xml:id="_2EH5GME">rately reflect intertemporal consumer preferences.</s><s xml:id="_qtJDqxu">It eventually triggers a bust due, in part, to shortages of small capital goods that complement the large, long-lived capital-projects constructed in the boom.</s><s xml:id="_HSRH5rG">Crucial distinctions between types of capital-goods drive this story.</s><s xml:id="_CEWEXgH">Key references include Mises 1966 [1949]; Hayek  1932, 1975a [1933], 1975b [1937]; Lachmann (1977 [1940]), (1977 [1947]), and, more recently, Garrison  (2001). <ref type="bibr">2</ref> This paper is not first to present such evidence.</s><s xml:id="_2FfV4r3">Starting with the seminal work of Wainhouse (1984a,  1984b), Austrians have uncovered a substantial body of empirical evidence in support of the Austrian theory of the business cycle.</s><s xml:id="_GrwMCkU">Hughes (1997) identifies different activity patterns for "higher stage" vs. "lower stage" industries in the wake of the aggressively expansionary monetary policy of the early-to-mid 1980s.</s><s xml:id="_GgYCPMK">Using timeseries methods, Keeler (2001a, 2001b) finds that faster monetary growth is correlated with a steeper yield curve, which in turn is "correlated with a rise in the capacity utilization in primary processing industries relative to that in advanced processing industries" (Keeler 2001a, 346).</s><s xml:id="_UDTjuxr">Mulligan (2002) uses cointegration analysis to examine sectoral employment patterns over the business cycle, finding strong sectoral effects consistent with the predictions of the theory.</s><s xml:id="_63FZuQ6">Callahan and Garrison (2003) examine the recent dot-com boom and bust episode in the U.S. from the perspective of consistency with Austrian Business Cycle Theory, emphasizing sectoral effects in their interpretation of events.</s><s xml:id="_v9J6YMA">The present paper adds to this growing body of literature.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2." xml:id="_sPkZsEx">The neoclassical theory of investment spending</head><p xml:id="_yVew2cD"><s xml:id="_wmjqVxV">The most influential empirical work on investment expenditures to date is based on the pioneering studies of Dale Jorgenson and his successors (Jorgenson 1963, 1965, 1967, 1971;  Jorgenson and Stephenson 1967; Bischoff 1971).</s><s xml:id="_CZDywdB">In the present paper, empirical results of others that have been obtained using Jorgenson's approach and its variants are used as benchmarks.</s><s xml:id="_nCcXUm5">Accordingly, a thorough review of it is useful.</s></p><p xml:id="_eb8U9N9"><s xml:id="_4seqtQV">Empirical studies of investment spending typically consist of, [a] a theory of the determination of the desired capital stock (K * ), <ref type="bibr">3 and [b]</ref> a procedure for implementing the theory empirically by expressing current investment as a function of current and past values of the desired capital stock.</s><s xml:id="_QqPRug8">Prior to Jorgenson's contribution, the standard empirical investment model was the [fixed] accelerator model, in which the firm's desired capital stock was assumed to be a fixed function solely of the current level of economic activity (typically represented by output).</s><s xml:id="_gqkeJQh">The fixed-accelerator approach was not based on the standard optimization paradigm of the orthodox theory of the firm.</s><s xml:id="_yaCXktZ">Using dynamic optimization methods, Jorgenson developed a flexible accelerator model which was so based, in which the relationship between the capital-goods demand and output varied with the cost of capital.</s><s xml:id="_y59ERKZ">Jorgenson's expression for the typical firm's optimal capital stock level (K * )is</s></p><formula xml:id="formula_0">K t * = γ p t Y t c t</formula><p xml:id="_j9wfXkB"><s xml:id="_HuSwXUT">where GAMMA is a parameter, p t is the price of output, Y t is output in real terms, and c t , the cost of capital, includes interest rates, depreciation allowances, corporate tax rates, and investment tax credits (see Bernanke et al. 1988, 321 for details of the expression for c t ).</s></p><p xml:id="_mn6vpCt"><s xml:id="_n8PbqQU">As often is the case in empirical macroeconomics, reasonable people can differ about the adequacy of the model's assumptions.</s><s xml:id="_4vxaRC8">For example, when Jorgenson's K * measure is placed into the empirical implementation of the model, a framework is created whereby "investors' views of the future are grounded in their previous experience" (Kopcke 1993, 10).</s><s xml:id="_j5sRwhA">But how should past experience be translated in the model into expectations of future events?</s><s xml:id="_X5chaVT">Direct observation of such anticipations is not possible: In their empirical implementation, therefore, "models of investment spending use [present and past] realized sales and costs as surrogates for the unobserved expectations" (ibid.).</s><s xml:id="_RRnWMA9">In recent years, this feature of the model has been criticized for not being derived in a manner explicitly based on "rational"-expectations reasoning.</s><s xml:id="_EabZRVg">Questions such as whether firms perceive a just-implemented investment tax credit, a sudden surge in demand, or a change in interest rates to be temporary or permanent are unaddressed by the model's expectations assumptions.</s><s xml:id="_3SU6hJk">So is the question of whether firms might anticipate future changes in policy based on current information and change behavior based on that anticipation.</s></p><p xml:id="_JB96s7d"><s xml:id="_tMsPsJ9">Clearly, these are significant issues, and an empirical model should, ideally, incorporate them into its framework.</s><s xml:id="_kHd7gKg">However, in empirical work-and especially in applied macroeconomics-one must beware lest the best be the enemy of the good.</s><s xml:id="_mt3xPPF">As Kopcke  (1985a, 23) points out, if the processes generating variables like expected future prices, expected future interest rates, and expected future tax rates are not well-understood, then incorporating them into an empirical model by imposing a restrictive structure on that model can reduce, not increase, a model's ability to accurately capture the behavior of investment expenditures. <ref type="bibr">4</ref></s><s xml:id="_WPhspHv">For example, it is difficult to argue that firms would be particularly good at anticipating future tax changes over much of the period studied here.</s><s xml:id="_JzhNNgj">A reading of Kopcke's  (1985b) thorough review of the many corporate tax changes from 1954 to 1984 suggests that many [most?]</s><s xml:id="_7BrySMG">tax changes in the period would have been difficult to anticipate even by "rational" firms. 5</s><s xml:id="_S9HHXhB">Under these circumstances one would expect businesses to treat most tax changes as fairly transitory, and to be skeptical of forecasts of future policies.</s><s xml:id="_45JQm2e">If tax policy is quite difficult to forecast accurately, then the question of "rationality" of forecasting method is less significant.</s><s xml:id="_DbrjrnM">A similar argument might be made for firms' ability to accurately forecast future long-term interest rates. <ref type="bibr">6</ref></s><s xml:id="_XyGnNqf">orgenson's careful attention to the theory of the firm's desired capital-stock contrasts sharply with the atheoretical way in which he modeled how changes in K * at one point in time would translate into future investment expenditures.</s><s xml:id="_NXaTb2H">Jorgenson could have treated the speed of investment's response as an additional decision variable.</s><s xml:id="_jXHDyVb">Instead (and understandably), he chose not to impose theory on a time-intensive process that, then as now, was not well-understood. <ref type="bibr">7</ref></s><s xml:id="_8zdMdTf">In his model's empirical implementation, Jorgenson essentially regressed current and past values of his measure of capital-goods demand against current investment 4 One reason why is that "rational" expectations models consistently assume away the vital (but mathematically daunting) question of optimal information collection on the part of rational agents operating in a world characterized not just by uncertainty but also by non-trivial costs of acquiring and processing information.</s><s xml:id="_fkTRfdT">Austrian economists have been especially cognizant of such problems (cf.</s><s xml:id="_THVrUSr">Garrison 2001, Ch. 2).</s><s xml:id="_hUEcjt7">There also are well-known modeling tradeoffs: No "rational" expectations model of the investment process has yet been constructed that matches Jorgenson's model merely in incorporating separately all of the different types of taxes facing the business firm in the real world-a major advantage offered by Jorgenson-type models in carrying out empirical work. <ref type="bibr">5 Between 1954</ref></s><s xml:id="_Crm5E88">Between 1954<ref type="bibr">and 1984</ref><ref type="bibr" target="#b24">, Kopcke (1985b)</ref> reports passage of eleven separate major new tax bills plus two suspensions of key components of tax bills already in force (about one event every two-and-a-quarter years).</s><s xml:id="_3Dmx6Bd">Most involved changes in two or more of the separate tax "levers" affecting the cost of capital to business, making it difficult for business to anticipate the "mix" of tax changes that would be adopted the Federal government.</s><s xml:id="_frrvQsp">In at least five cases, tax changes that seemed bound to happen judging by Administration rhetoric were delayed or not implemented.</s><s xml:id="_WjjtF5s">In addition, writing just prior to the Tax Reform Act of 1986, Kopcke (op.</s><s xml:id="_czH2Eet">cit., 19) summarizes five quite different tax-reform proposals that were then receiving wide attention, arguably leaving business at sea as to what form the new Act would take.</s><s xml:id="_euJ6aNA">The empirical significance of "rational" expectations forecasting seems less in such a "noisy" tax-policy environment. <ref type="bibr">6</ref></s><s xml:id="_6QfBme3">The lessons of the 1970s, where simple "adaptive" expectations formulations of inflationary expectations were found to be wanting, should be applied to the Jorgenson framework with caution.</s><s xml:id="_wHqWdDc">The "adaptive" expectations framework seeks to forecast future inflation purely on the basis of past values of inflation, leaving out many important factors likely to be known by forecasters and used to improve on adaptive forecasts.</s><s xml:id="_KqEaMsf">By contrast, Jorgenson's framework includes current and past values of most of the crucial variables likely to affect a firm's investment decision.</s><s xml:id="_UvPJK3g">This is quite a bit more sophisticated than "adaptive" expectations.</s><s xml:id="_SBYqzEa">Many of the factors necessary to form a "rational" presentation are present in the Jorgenson framework, albeit in unstructured form. <ref type="bibr">7</ref></s><s xml:id="_fGP2Kus">In his review of econometric studies of investment, Jorgenson stated that "the most important current problem is the integration of the time structure of the investment process into the representation of technology" (Jorgenson 1971, 1142).</s><s xml:id="_65RxEe9">The problem has yet (2006) to be resolved (it is hoped that the present paper is a step towards a resolution).</s><s xml:id="_Zd6PP7k">Oliner et al. (1995) compare the empirical performance of Jorgenson's approach with other, more recent "Euler equation" models that present a unified theory of capital-goods demand and the time structure of investment spending in an explicit "rational" expectations framework.</s><s xml:id="_YKVFm67">Oliner et al. find that Jorgenson-type models outperform empirically the newer, more theoretically ambitious, models.</s><s xml:id="_utD923S">The Jorgenson/Bischoff approach also performs well when compared against older popular models (Accelerator, Tobin's "Q") that also do not model the time structure theoretically (e.g., Bernanke et al. 1988; see also Naylor  1985).</s><s xml:id="_64dSmJn">Springer spending.<ref type="foot" target="#foot_1">foot_1</ref></s><s xml:id="_BbQ6CkJ">His empirical model of the investment-spending process is</s></p><formula xml:id="formula_1">I t = α + N i=0 β s pY c t-s + u t</formula><p xml:id="_XktdfrZ"><s xml:id="_MEMCryD">where ALPHA and BETA are parameters, DELTA is the "change in" operator, and u t is a random error term.</s><s xml:id="_w5pVmDg">Investment spending is predicted to depend on current and past values of the desired capital stock (K * ) in a fashion constrained only by the form and components of K * (and any additional restrictions imposed for technical econometric reasons as described in Note 8).</s><s xml:id="_WRQquuE">Jorgenson's model and its offshoots give great leeway for the data itself to "select" the length and shape of the "investment-spending lag" (or "distributed lag")-terms denoting the drawn-out, hump-shaped way in which investment spending responds over time, in econometric studies, to changes in the desired capital stock.</s><s xml:id="_zVh2UEp">In these models, the underlying forces that are the cause of the lag (the "structure of the underlying model") is left open.<ref type="foot" target="#foot_2">foot_2</ref></s><s xml:id="_K8sBJqZ">Accordingly, Jorgenson's modeling strategy can be thought of as a kind of semi-reducedform approach, in which the key determinants of investment spending over time are assumed known, but where the exact theoretical details creating the dynamic response are not specified.</s></p><p xml:id="_5edRu9Z"><s xml:id="_PQQk92V">A popular offshoot of Jorgenson's "neoclassical" model of investment spending is Bischoff"s (1971) "modified neoclassical" model (for the equation see Bernanke et al. 1988;  the "modified neoclassical" regression equation does not have an intuitive interpretation and so is not presented here).</s><s xml:id="_HRHACMm">Noting that Jorgenson's K* expression is an amalgam of output, interest-rate, and tax effects, Bischoff developed a model with two distributed lags: one capturing the effect on investment of changes in output, the other capturing the effect on investment of changes in the tax and interest-rate "policy variables" taken together. <ref type="bibr">10</ref></s><s xml:id="_YqvDqCQ">The model accordingly "permit[s] the firm to respond differently to a change in output than to a change in interest rates, taxes, or prices" (Kopcke 1985a, 22).</s><s xml:id="_QSqzfyc">Still, in the estimation process all policy-related effects remain lumped together.</s><s xml:id="_Fnxxg4R">Both models therefore build in the assumption of a certain uniform response by investment spending to each of its main determinants.</s><s xml:id="_ugSDpYa">If the lag is primarily structural (not expectational) in nature, arising largely from inevitable delays due to the time-intensive nature of the capital-goods production process-as is implicit in the approach of the present paper-then this limitation of the models is not too important. <ref type="bibr">11</ref></s><s xml:id="_UJtkyqD">hat empirical findings do Jorgenson's and Bischoff's approaches generate?</s><s xml:id="_gujDZxz">Figures <ref type="figure">1</ref> and<ref type="figure">2</ref> present results from two more-recent empirical studies by Bernanke et al. and Oliner et al.  that make use of both empirical models. 12</s><s xml:id="_FD7U59P">Of the two, the "modified neoclassical" approach, which forges the closer connection between interest-rate changes and investment-spending changes, receives the primary emphasis.</s><s xml:id="_WcFc92f">Jorgenson-type estimates provided by Bernanke et al.  for equipment also are included.</s><s xml:id="_ZYZU6KD">The actual estimated equations and a detailed discussion of their properties are presented in the source studies and are not reproduced here. 13</s><s xml:id="_7zf2Tzj">11 Jorgenson's model and Bischoff's "modified neoclassical" model are still used by applied researchers to model investment dynamics.</s><s xml:id="_GYCDwuW">Both retain considerable influence and are still among the best-known empirical models of investment spending.</s><s xml:id="_3gFqNgM">Even today, they provide empirical estimates that are among the best produced by models of the investment-spending process. <ref type="bibr">12</ref></s><s xml:id="_Q8zjxSR">The Bernanke et al. (1988) and Oliner et al. (1995) studies are selected for several reasons.</s><s xml:id="_9F2AthS">First, they considerably overlap the 1961-91 period which is the focus of this paper.</s><s xml:id="_q3yRfRw">Second, each is estimated without imposing a particular lag structure (such as the questionable Koyck/Almon lag procedure).</s><s xml:id="_FQ2mqWN">Third, their results are fairly typical of work in this area.</s><s xml:id="_WpAQcDK">As is traditional in this (and much other) literature, data selection in these studies is determined largely by "data availability" (Bernanke et al. 1988, 306).</s><s xml:id="_rNJPRwJ">In macroeconomics, the relative paucity of data has more or less militated an emphasis on the availability criterion in sample selection.</s><s xml:id="_7UXvMqk">Recently, econometricians have given more attention to how features of the data itself might guide sample selection (see, for example, Spanos 1990, 347).</s><s xml:id="_pGhGsXP">Such recommendations, to the extent they are correct, enhance the case for "episodic empiricism" (study of individual episodes) as important "checks" on traditional macroeconometric work. <ref type="bibr">13</ref></s><s xml:id="_pjmY4vA">Two "modified neoclassical" estimated lag-patterns and two Jorgenson-type patterns-two each for structures and equipment-are taken from the Bernanke et al. study.</s><s xml:id="_zbJEQfY">Estimation is over the 1951:I-1983:IV period by Full Maximum Likelihood procedures with a first-order adjustment for serial correlation.</s><s xml:id="_8skBYJP">High R-Square values and acceptable Durbin-Watson coefficients are reported by the authors.</s><s xml:id="_26ZJSrG">Virtually all estimated coefficients are statistically significant at the 5% level or better.</s><s xml:id="_Cf8A84f">No unusual features of the estimated equations are reported by the authors.</s></p><p xml:id="_h7nAphg"><s xml:id="_BN45Yjk">The Oliner et al. study contributes two "modified neoclassical" estimated lag-patterns (one each for structures and equipment) and one Jorgenson-type lag-pattern for equipment (the authors' equation for structures performed poorly and was not selected for use here).</s><s xml:id="_DMSqN36">Estimation is over the 1955:II-1992:IV period by Ordinary Least Squares supplemented by use of the Newey-West correction for heteroskedasticity and autocorrelation in the standard error estimates.</s><s xml:id="_UuTKxZx">The authors do not adjust directly for serial correlation in the data due to their strong suspicion that such serial correlation reflects specification error rather than serially-correlated errors in the "true" model (in effect, identifying such a specification error is the purpose of the present paper).</s><s xml:id="_nKz4QsU">OLS generates unbiased (though inconsistent) estimates and is therefore acceptable for purposes of the present paper, given that the Newey-West procedure has been used to correctly estimate standard errors (thus allowing accurate inference).</s><s xml:id="_twmapMj">Reported R-squares of the equations are lower than those of Bernanke et al., likely due to the use of OLS vs. Bernanke's adjustment for autocorrelation.</s><s xml:id="_8tNw7y7">As with the Bernanke et al. study, a large majority of Oliner's reported lag coefficients are statistically significant at the 5% level or better, and no unusual features of the estimated equations are reported by the authors.</s></p><p xml:id="_cWdaxCz"><s xml:id="_jy9bjkD">Both the Bernanke et al. and Oliner et al. studies truncate the lag at eleven quarters to handle degrees-offreedom problems, as an alternative to use of the questionable Koyck/Almon lag procedure.</s><s xml:id="_v93zbUX">The estimated coefficients are presented (converted to percent form) in Figures <ref type="figure">1</ref> and<ref type="figure">2</ref>.</s><s xml:id="_aEg2dWk">The Bernanke et al. study uses net investment while Oliner et al. use [scaled] gross investment.</s><s xml:id="_kkQyCny">Neither the gross-nor net-investment concept gives quite the concept needed here, so having both is a reasonable compromise (for more details, see Footnote 34 ).</s><s xml:id="_gmce329">Additional technical details of the two studies are provided in the source papers.</s><s xml:id="_7Cn3vx7">Equations for equipment outperform equations for structures, a common finding in the investment-spending empirical literature.</s><s xml:id="_WwxUzPe">Figures <ref type="figure">1</ref> and<ref type="figure">2</ref> show that there is considerable consensus among the three studies regarding the distributed lag for equipment, while for structures, the Oliner "modified neoclassical" pattern is somewhat different than the two Bernanke distributed lags.</s><s xml:id="_czUaEJT">Figure <ref type="figure">1</ref> gives results for nonresidential structures (abbreviated below as "structures," or, in the Figures, as "NRS"].</s><s xml:id="_qpPePAA">Structures are factories, office buildings, gasoline stations, malls, etc. Figure <ref type="figure">2</ref> gives findings for producers' durable equipment (abbreviated below as "equipment," or, in the Figures, as "PDE"].</s><s xml:id="_bbtEVyq">"Equipment" denotes basically all business equipment.</s><s xml:id="_FghBMvQ">Each graph depicts a series of econometrically-estimated coefficients representing the time path followed by investment spending in response to a change in capital-goods demand.</s><s xml:id="_svfgwG2">Actual estimated coefficients are not presented; instead, the size of each coefficient relative to the sum of all coefficients is given (thus coefficients sum to 100%).</s><s xml:id="_KUNGeSd">Thus, suppose that the cost of capital falls due to, say, a fall in interest rates.</s><s xml:id="_C5UpynQ">A value of 10% at quarter 2 would mean that 10% of the total effect on investment spending occurs two quarters after the decline in the cost of capital. <ref type="bibr">14</ref></s><s xml:id="_WCKY8ep">n general, the response to a change in capital-goods demand that is estimated by Jorgenson's and Bischoff's approaches develops quite slowly over time.</s><s xml:id="_TPaRbxu">For example, Figure <ref type="figure">2</ref> suggests that a fall in interest rates in "Quarter 0" still would be having a significant impact on expenditures for producers' durable equipment two-and-a-half years later.</s><s xml:id="_bJz82qa">Why should this be?</s><s xml:id="_JegMYMz">Most equipment is manufactured quickly, with little "time to build," so that lengthy production periods for equipment is an unlikely explanation.</s><s xml:id="_UwWVASv">Nor are planning lags likely to be sufficiently long. <ref type="bibr">15</ref></s><s xml:id="_cwt78pp">A third popular neoclassical rationalization-backlogs of durablegoods orders which clear slowly and so cause spending lags-is more plausible.</s><s xml:id="_CYMf3ed">However, buyers and sellers of capital goods are leaving a suspiciously large amount of "money on the table" in the backlogs tale, especially since each has considerable incentive to complete such transactions quickly.</s><s xml:id="_zSsbU4J">Since rapid response is desirable (profitable) both to buyers and sellers of capital goods, investment's very slow response over time-particularly that by equipment expenditures-has been a longstanding incongruity dogging the neoclassical interpretation of investment-spending lags. <ref type="bibr">16</ref></s><s xml:id="_xqx36Kj">hus, while applied macroeconomists see Jorgenson's and Bischoff's methods as providing accurate estimates of the investment spending lag, the reasons why investment spending responds so slowly in these studies to changes in its determinants are not well-understooddespite the need for such understanding.</s><s xml:id="_qVv8kqN">Below, I will provide evidence that there is a simple and intuitive explanation for such long spending lags.</s><s xml:id="_8BNBdqy">That explanation is, in essence, an Austrian one.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3." xml:id="_Ehq3bEz">The survey data: "time-to-build" progress patterns and completion patterns</head><p xml:id="_VmxUHvz"><s xml:id="_x3qu6UA">In the interpretation of econometric studies of investment expenditures, survey data often have provided a useful alternative source of information.</s><s xml:id="_6n6YydD">Since the early 1960s, the U.S. Department of Commerce, Construction Statistics Division (henceforth, CSD) has conducted occasional surveys of the pace at which nonresidential construction projects progress toward completion following the start of their construction (CSD defines "start" to mean the physical start of construction; i.e., "groundbreaking").</s><s xml:id="_jHPqcvS">The first survey was over the 1961-65 period, while the most recent covered 1990-91. <ref type="bibr">17</ref></s><s xml:id="_ZsvYYtK">The data summarized in these surveys are collected as part of CSD's measurement of structures' value-put-in-place, a key component of the fixed investment part of the National Income and Product Accounts (henceforth, NIPA).</s><s xml:id="_m6XHUqK">The surveys are occasional due to the manpower required to assemble and process the data.</s></p><p xml:id="_XWfGshP"><s xml:id="_XCUTVMH">14 Throughout the paper it is convenient to discuss changes in capital-goods demand that move in a direction making for a more favorable investment climate.</s><s xml:id="_h28fGwB">Arguments are, however, symmetrical.</s><s xml:id="_cCMzJjx">Circumstances making for a less attractive investment climate mean opposite and equal effects on investment spending. <ref type="bibr">15</ref></s><s xml:id="_xyN6sZe">Evidence suggesting short equipment planning and production periods is summarized in Montgomery  (1997, 342-344).</s><s xml:id="_G3UMDFy">See also Footnote 27, below. <ref type="bibr">16</ref></s><s xml:id="_FAJuxFa">If one embraces a "monetary misperception" theory of the business cycle, where unanticipated changes in money growth drive economic fluctuations, then the length of the lag seems especially difficult to justify.</s><s xml:id="_PDPTjdV">However, the problem persists even for real business cycle theorists and others who do not emphasize short-term errors by individuals in the economy as being fundamental to business-cycle theory.</s><s xml:id="_Ecs5VDe">In particular, "time-tobuild" and other "structural" rationales for a lengthy lag do not automatically imply the long equipmentspending lag that is observed, as is emphasized in the main text.</s><s xml:id="_BtcFqYS">The question of whether such lags are too long to be plausible has a long history in empirical macroeconomics and pre-dates the "rational" expectations revolution (see, for example, discussion in Gordon 1992). <ref type="bibr">17</ref></s><s xml:id="_47GrcDk">The seven surveys cover 1961-65, 1976-77, 1978, 1979, 1980, 1982-83, and 1990-91.</s><s xml:id="_yJcEaZs">CSD carries out each survey by selecting about 6000 private nonresidential construction projects from their much larger total supply of surveyed projects.</s><s xml:id="_ASmwraa">Selection is made in a manner representative of the broader population of projects. <ref type="bibr">18</ref></s><s xml:id="_ND9uv6j">Authorities responsible for each project are surveyed about the amount of monthly progress.</s><s xml:id="_dHacWjU">Using this information, a monthly progress pattern is calculated for each project that describes month-by-month progress toward completion of the structure.</s><s xml:id="_JzSGvar">For example, a (small) project's progress pattern might state that 10 percent of all project value was put in place during the month of project start, 20% of project value was put in place during the first month after start of the project, 35% of value was put in place during the second month, etc.</s></p><p xml:id="_ReN5ReZ"><s xml:id="_zUZsMcN">When each project is completed, the number of months separating its month of start (groundbreaking) from its month of monthly completion is recorded.</s><s xml:id="_HPGhwr2">When many such projects are grouped together one can define a monthly completion monthly pattern for the group.</s><s xml:id="_FRChqvy">A completion monthly pattern gives the percent of total project-group value completed monthly.</s><s xml:id="_UAnbB5w">For example, for a group of small projects, 1% of the project-group's total value might be completed in the month the project was started, 5% might be completed in the month following the month of start, 20% might be completed in the second month following project start, etc.</s></p><p xml:id="_4k6Xxk8"><s xml:id="_RaE8x6g">For the 1990-91 survey, CSD grouped projects into six size-categories ranging from very large (over $10 million) to very small (under $250,000).</s><s xml:id="_dcaZpQM">For earlier surveys, CSD proceeded similarly but used eight size-categories.</s><s xml:id="_N9GTyuy">In all its surveys, CSD calculates progress patterns for each size-category, by averaging monthly progress across all projects in a particular sizecategory for months 0, 1, 2, etc. <ref type="bibr">19</ref> CSD then publishes these progress patterns as an appendix to their technical journal Current Construction Reports (Series C-30).</s><s xml:id="_sT5Hdb5">They do the same thing for completion patterns, and publish separately a distribution of completions over time for the survey period, broken down by size-category.</s></p><p xml:id="_meSaeu8"><s xml:id="_pnsezuW">Figure <ref type="figure" target="#fig_1">3</ref> charts progress patterns from CSD's progress-pattern survey covering 1990-91.</s><s xml:id="_PxdtetD">Small projects (gas stations, convenience ["7-11"] stores, small shops) have a high proportion of their value put into place early and are completed quickly.</s><s xml:id="_kRdBXdf">As project-size increases, the percent of monthly progress slows.</s><s xml:id="_V7ZMrH9">Curves of larger projects peak later and flatten out more than do curves of smaller projects.</s><s xml:id="_rkSb3sB">The largest projects (major office buildings, large factories, etc.) mark the slowest progress and have the lowest and latest peaks.</s><s xml:id="_ZpbM8YT">The other CSD progresspattern surveys have similar patterns.</s></p><p xml:id="_Qzm43XG"><s xml:id="_5Su2kDV">It is natural to ask what an aggregate progress pattern for the entire 1990-91 survey would look like, formed by value-weighted averaging across size-categories for months 0, 1, 2, etc. CSD does not calculate such a pattern.</s><s xml:id="_a2ytyDE">To do so, one must value-weight the dataenough value-weights are available to make it practical (for details, see Montgomery 1996).</s><s xml:id="_rE7cst9">Using these data in combination with the survey patterns yields Figure <ref type="figure">4</ref>, which charts valueweighted progress patterns for each size-category, as well as a value-weighted average pattern for the entire 1990-91 survey.</s><s xml:id="_M3PyrJc">The aggregate survey pattern has an early peak, and a relatively high proportion of value put into place occurs in the early months.</s><s xml:id="_rR39bxC">Smaller projects play a significant, even dominant, role in determining the aggregate survey pattern's shape.</s></p><p xml:id="_U4QGhQa"><s xml:id="_VTRnx4A">Using the above methods, one can construct value-weighted aggregate progress patterns for the six other CSD progress-pattern surveys.</s><s xml:id="_4yp6q9u">They are quite similar to the 1990-91 survey.</s><s xml:id="_yqCMGTg">All have quick peaks, followed by steady declines in value-put-in-place over roughly three years (for details, see Montgomery 1996).</s></p><p xml:id="_KPkxJRz"><s xml:id="_wYfCnH6">Next, it is useful to combine the aggregated progress patterns for the seven surveys into a single value-weighted average progress pattern for the entire 1961-91 period.</s><s xml:id="_Pu3nQcf">Doing so implicitly assumes that the seven surveys are generated independently, a reasonable assumption since they cover different years.</s><s xml:id="_pcBXRAZ">As a preliminary, suppose we combine the aggregated patterns for the seven surveys in the most straightforward way, by simply averaging them month-by-month, weighting each survey in proportion to the number of years it covers.</s></p><p xml:id="_qQwxhZt"><s xml:id="_WF7p5Um">Such an aggregated progress pattern likely is, by far, the most accurate measure available of "time-to-build," taking this term literally to mean "time-to-physically-construct."</s><s xml:id="_p9mfWa7">Over 44,000 nonresidential construction projects of many types and sizes are included in the CSD surveys.</s><s xml:id="_KnDFVMn">Further, they are included in proportion to their actual weight in the structures sector (Asanuma and Newman-Smith 1993, Montgomery 1996).</s><s xml:id="_BwDZMPe">Therefore, the 1961-91 survey pattern as so constructed offers a look at just the physical construction lag.</s><s xml:id="_stMUxCV">It excludes things like pre-construction planning lags, regulatory delays, delivery lags due to ordersbacklogs, and other delays in the construction process that contribute to its slow pace.</s><s xml:id="_H5Yu7GP">By contrast, all these factors are mixed together in the distributed lags estimated in Jorgensontype econometric studies.</s></p><p xml:id="_djMbVTU"><s xml:id="_BfwSYGa">Accordingly, comparing the survey record with econometric work in the Jorgenson tradition can give one an excellent impression of how much of the investment spending lag is due to "time-to-build" defined strictly, and how much is due to other mechanisms making up Springer Fig. <ref type="figure">4</ref> Weighted progress patterns the complex investment-spending process.</s><s xml:id="_paMG7mR">In order to carry out such a comparison, we need "benchmark" econometrically-generated patterns to compare against the 1961-91 survey pattern.</s><s xml:id="_pmqyaqe">The benchmark for structures is formed by averaging the patterns in Figure <ref type="figure">1</ref>, while an average of Figure <ref type="figure">2</ref>'s patterns is the benchmark for equipment.</s></p><p xml:id="_AFnYrr9"><s xml:id="_xrnNJ9g">Figure <ref type="figure" target="#fig_2">5</ref> charts the aggregated survey pattern (converted from months to quarters) against the benchmark structures econometric pattern.</s><s xml:id="_pvm2T2T">The two approaches generate vastly different rates of progress.</s><s xml:id="_tZJCByj">The survey-based pattern peaks much faster, showing a far more rapid rate of progress than does the econometric benchmark pattern.</s><s xml:id="_B4WxYuK">To be sure, the discrepancy might just indicate methodological problems with either the surveys or the econometric studies (or both).</s><s xml:id="_AWjgjTc">More likely, however, most of the vast gap is due to mechanisms other than "time-to-build" operating in the nonresidential structures investment spending process (including, possibly, Austrian-type mechanisms).</s><s xml:id="_qVhPdHk">Apparently, when it is defined strictly to mean physical construction, "time-to-build" is, at most, only a small part of the process generating investment expenditures over time.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4." xml:id="_VpVR29V">Strategy in the rest of the paper</head><p xml:id="_HTRvDt4"><s xml:id="_5D4FXSK">The comparison carried out above suggests the strategy that motivates the remainder of the paper.</s><s xml:id="_WhCF6vz">Suppose we begin with the 1961-91 survey pattern, and then add in measures of other pieces of the investment-spending process that are emphasized by neoclassical investment theory.</s><s xml:id="_Wz5Zkb2">By doing so, we create an aggregate survey pattern augmented by these other components of the investment-spending lag.</s><s xml:id="_UZ3sjxP">If we capture all significant pieces of the investment spending process, and if these pieces are measured reasonably accurately, then such an "augmented survey pattern" ought to look like the investment-spending distributed lags generated by Jorgenson-type econometric studies.</s><s xml:id="_Y6EZUMp">By contrast, if substantial differences The next section addresses one of the most prominent of the additional neoclassical mechanisms-planning (pre-construction) lags.</s><s xml:id="_VxKCPCB">Subsequent sections incorporate ordersbacklogs and bring investment in equipment into the story, in ways that are consistent with neoclassical thinking.</s><s xml:id="_tgVnrHG">Finally, having demonstrated that something is still missing, Austrian mechanisms will be deployed.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5." xml:id="_rvdNtuz">Planning lags</head><p xml:id="_hy8QJGj"><s xml:id="_bCjJXWh">Construction projects often require considerable planning prior to groundbreaking, which takes time.</s><s xml:id="_qxweQ7g">Accordingly, the "match" with the econometrically-estimated benchmark patterns ought to improve when the surveys are augmented with pre-construction planning lags.</s><s xml:id="_63B2BJF">Creating such an augmented survey pattern is, in principle, simple.</s><s xml:id="_zeGyPh2">A planning lag of "small," "medium," or "large" length is placed in front of each of the 54 progress patterns reported in the seven CSD surveys.</s><s xml:id="_MFg7cvQ">Once a planning lag has been assigned to each progress pattern, calculation of the 1961-91 survey-based progress pattern, now augmented by planning lags, is done by the methods described in the paper's third section.</s></p><p xml:id="_Pj6etqW"><s xml:id="_hdRsSn2">Planning periods are assigned to the several size-categories in each survey using a two-step process.</s><s xml:id="_zecaKUU">First, we need to split the 54 progress patterns into "small," "medium," and "large" classifications.</s><s xml:id="_EbZSRPe">CSD measures size-categories in current, not constant, dollars, so the NIPA implicit price index for structures was used to deflate CSD's size-categories.</s><s xml:id="_j5ejqmH">All progress patterns then were ranked by the real value of their size-category, and divisions between "small," "medium," and "large" were made where large breaks occurred in real value.</s><s xml:id="_6dKuPpn">As a check, all 54 progress patterns were charted on one graph.</s><s xml:id="_9EZHH3R">The result immediately suggested that the shapes of patterns fall roughly into three sizes.</s><s xml:id="_uneM6uY">Finally, the 54 patterns were ranked by the sizes of their average lags.</s><s xml:id="_wm6A52W">The three methods led to similar results.</s><s xml:id="_vJCdKcJ">Where rankings conflicted (rarely), the real-value-of-size-category criterion took priority.</s></p><p xml:id="_R2r4san"><s xml:id="_qsUAWg4">The planning lags assigned to the "small," "medium," and "large" classifications were determined by consulting scholarly studies of planning lags, of which there are regrettably few.</s><s xml:id="_AGjYpth">The most useful study is an important survey conducted by Thomas Mayer in 1954 (Mayer 1960).</s><s xml:id="_dhdN9b3">Mayer found that, for large industrial plants, seven months on average separated the date when drawing of plans commenced from the date that construction started.</s><s xml:id="_ausXRRQ">Mayer's survey methodology favored selection of larger projects, which tilted his findings upward somewhat.</s><s xml:id="_7vgjGAy">Shorter planning lags are associated with smaller plants in his survey. <ref type="bibr">20</ref></s><s xml:id="_Fqk9wQd">ayer's survey suggests seven months as an upper bound on the estimate of the average planning period for "large" projects.</s><s xml:id="_sxXu8mW">Accordingly, the CSD progress patterns are augmented with planning lags of zero quarters 21 (for "small" projects), one quarter (for "medium-sized" ones), or two quarters (for "large" ones). <ref type="bibr">22,</ref><ref type="bibr">23</ref></s><s xml:id="_maR5Rfc">ugmenting the survey data with planning lags subtly changes the definition of a project's "start."</s><s xml:id="_3d4NmZg">Previously "start" meant the date of project groundbreaking, as in the CSD surveys.</s><s xml:id="_YeVtx44">With planning lags added, "start" means the date when active, non-contingency project planning begins.</s><s xml:id="_5FGRHFq">"Start" is used this way from now on, unless stated otherwise.</s><s xml:id="_P3D472m">To keep the two meanings separate, future references to the CSD "start" concept include the word "groundbreaking."</s></p><p xml:id="_esKtqND"><s xml:id="_n4XukxJ">Figure <ref type="figure">6</ref> charts the monthly value-weighted aggregate progress pattern for 1961-91, augmented by planning lags.</s><s xml:id="_BxcVH2A">Adding planning lags flattens and lengthens the CSD survey pattern considerably, bringing it closer to the econometric studies (compare with Figure <ref type="figure">4</ref>). <ref type="bibr">20</ref></s><s xml:id="_Z97Zcq2">Another influential study is Zarnowitz (1973), who compares dates of cyclical peaks and troughs in contractawards series vs. investment-spending series.</s><s xml:id="_gzhxBYT">He is able to conclude little for nonresidential structures except that there is probably some lag in the data separating construction-contract award dates from the date that construction begins.</s><s xml:id="_nhYYJ65">However, for the broader category of nonresidential fixed investment (structures plus equipment) he arrives at estimates in the one-to-three quarter range.</s><s xml:id="_fkT429t">These somewhat ambiguous results are typical of the limited empirical work that has been done on pre-construction lags. <ref type="bibr">21</ref></s><s xml:id="_rFwkwJT">Assigning a zero-quarter planning lag implies an average lag of 1.5 months (the mid-point of a quarter)-not zero months.</s><s xml:id="_pqR3yQb">Similarly, a one-quarter planning lag assumes a planning delay averaging 4.5 months, etc. 22 Using Mayer's findings for 1954 as a guide to later years, while not ideal, is acceptable.</s><s xml:id="_cwAjWTZ">True, increasing regulatory hurdles since 1954 probably increased the planning period.</s><s xml:id="_G83RAgP">But on the other hand improvements in technologies since 1954 probably shortened it.</s><s xml:id="_DpMK9qJ">In any event, it is the best data source available.</s><s xml:id="_j83a27H">The fact that the progress patterns in the CSD surveys show quite a bit of stability over time might be taken as weak evidence suggesting stability over time also in the lengthiness of the pre-construction process. <ref type="bibr">23</ref></s><s xml:id="_rNBvDXf">The older literature speculates about what can be called a "decision lag" separating the date of change in investment's determinants from the date at which non-contingency, committed project planning begins.</s><s xml:id="_g8JNPKv">I am skeptical about the existence of such a lag, and do not think it should be taken too seriously in the postrational-expectations era.</s><s xml:id="_XhPju6s">Forward-looking firms would be likely to anticipate turns in the economy (which, unlike much government policy, is fairly predictable) and carry out this fairly cheap contingency planning well before the actual increase in capital-goods demand occurs.</s><s xml:id="_htKNUQM">The older empirical work that exists on this lag was unable to detect persuasive evidence of its existence (e.g., Zarnowitz 1973, op.</s><s xml:id="_9WKJeD9">cit.).</s><s xml:id="_vxvszy8">In his survey, Mayer queried firms about the time gap between the start of consideration of a project and its date of start in construction, and received an answer averaging 23 months (!) (Zarnowitz 1973, 509; Mayer 1958).</s><s xml:id="_vTEUvKw">Such a high estimate is implausible unless extensive contingency planning is carried out by firms anticipating a turn in the economy.</s><s xml:id="_r2DqUds">Thus the contingency planning would be complete by the time the investment climate improved, and the decision lag would be trivial.</s><s xml:id="_NaddVvF">The "decision lag" is set to zero in the present paper.</s><s xml:id="_s6WTgAt">Figure <ref type="figure">7</ref> converts the pattern to quarters and charts it against the structures econometric benchmark.</s><s xml:id="_9fbYjTJ">Adding planning lags to the survey pattern improves the match considerably, but the augmented survey pattern still peaks too high and too early.</s><s xml:id="_gPrbbVJ">Additional unidentified mechanisms, it would seem, still are involved in creating the investment-spending lag.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6." xml:id="_eWXvrbD">"Starts persistence": orders backlogs and bounded rationality</head><p xml:id="_8c5XMYX"><s xml:id="_3sq42VX">The value-weighted 1961-91 survey pattern furnishes no information about when starts of structures respond to a change in capital-goods demand.</s><s xml:id="_SeecgnR">Does groundbreaking for most such projects begin quickly when such a change happens, delayed only by planning lags?</s><s xml:id="_gh79m8G">Or, do project-starts spread out over time in response to such a change, even after differential planning lags across projects are taken into account?</s><s xml:id="_kYuANtQ">Such a staggering of project starts over time is called "starts persistence" in this paper.</s></p><p xml:id="_HzmrwSv"><s xml:id="_wbkGtWj">Neoclassical investment theory suggests two reasons why there might be some starts persistence.</s><s xml:id="_8THB2tH">First, only a few construction projects can be handled simultaneously by any one construction firm, so, when there is a spurt in demand, projects are backlogged by these firms.</s><s xml:id="_4KG44bu">A second reason for starts persistence is "bounded rationality" (e.g., Sargent 1993): News does not spread immediately from sector to sector, so there should be starts persistence as different sectors change their capital-goods demand in staggered fashion. <ref type="bibr">24</ref></s><s xml:id="_nvPmcNC">owever, the core neoclassical assumption of rational profit-maximizing behavior does not permit either explanation to be pushed very far.</s><s xml:id="_Reszy67">Long backlogs mean lost profits for suppliers and demanders of capital goods.</s><s xml:id="_eqbXMEB">Believers in long "rational backlogs" must explain why construction firms do not invest resources to shrink such backlogs.</s><s xml:id="_j7wGwx7">Similarly, problems dog bounded-rationality explanations of starts persistence.</s><s xml:id="_FGynUtN">Why don't profit-maximizing firms aggressively seek out new information about industry conditions?</s><s xml:id="_mCeQNrC">Doing so successfully can mean large profits for firms who build early, since their new capacity comes on line before less far-sighted firms get new capacity.</s><s xml:id="_VfZWvRD">Such counter-arguments suggest that one should be skeptical of arguments blaming long investment spending lags on either supply-constraints in the construction industries or on information lags.</s><s xml:id="_88Ecc2e">Large amounts of unexplained starts persistence should be viewed with suspicion-as a likely proxy for other unidentified forces.</s></p><p xml:id="_PSe2Suf"><s xml:id="_Km7J2gh">Not too much is known about how much persistence of structures-starts occurs when there are changes in capital-goods demand.</s><s xml:id="_qByWg9D">Therefore, in this paper starts persistence is examined that ranges widely from zero to seven quarters in duration.</s><s xml:id="_HXkVPZr">Lacking better information, starts are assumed to occur at a uniform rate over whatever number of quarters of persistence is assumed.</s></p><p xml:id="_shzUA37"><s xml:id="_SJgNDWa">Table <ref type="table" target="#tab_0">1,</ref><ref type="table"></ref>    <ref type="figure">8</ref> shows the same calculation as a graph.</s><s xml:id="_G3GCGmn">Starts persistence smooths out the survey pattern and lowers and flattens its peak.</s><s xml:id="_mKeaW5h">The effect is enhanced as more quarters of starts persistence are included (and vice versa).</s></p><p xml:id="_x3w7m36"><s xml:id="_7sr5RX6">Figure <ref type="figure">9</ref> charts augmented survey patterns depicting zero, three, four, and seven quarters of starts persistence.</s><s xml:id="_WSxDBka">Also in Figure <ref type="figure">9</ref> is the econometric benchmark pattern introduced in the paper's third section.</s><s xml:id="_CfEqCbW">Either three or four quarters of starts persistence creates a fairly good match with the benchmark.</s><s xml:id="_JCCVUQ9">The match suggests one (neoclassical) explanation of why the Independence Assumption (Compare with Figure <ref type="figure" target="#fig_9">11</ref>)</s></p><p xml:id="_Ar7Z8bM"><s xml:id="_CG4dYty">[1]</s></p><p xml:id="_NtzCj9V"><s xml:id="_p35m4jV">[2]</s></p><p xml:id="_egGKy5u"><s xml:id="_VEXVMw8">[3]</s></p><p xml:id="_ZyMsYQP"><s xml:id="_n9rFGtE">[4]</s></p><p xml:id="_EMSCnbr"><s xml:id="_Kaycs4f">[5]</s></p><p xml:id="_bVhtFbP"><s xml:id="_8HXmfUt">[6]</s></p><p xml:id="_EpFG5jk"><s xml:id="_jcJ5yVy">[7]</s></p><p xml:id="_GAXQUZk"><s xml:id="_M9Jqm2u">[8]</s></p><p xml:id="_A8ukUGa"><s xml:id="_mwXeneT">[9]</s></p><p xml:id="_GEqNebw"><s xml:id="_Unx2xgF">[10]</s></p><p xml:id="_9emqpwq"><s xml:id="_YWpGsnP">[11]</s></p><p xml:id="_6ZKEYCU"><s xml:id="_hMBDu6u">[12]</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7." xml:id="_V59cKWd">Producers' durable equipment</head><p xml:id="_A5B2KCv"><s xml:id="_CwwwuEm">While comparing structures survey patterns with structures econometric patterns is informative, more important are comparisons featuring nonresidential fixed investment [NRFI], the sum of expenditures on structures and equipment.</s><s xml:id="_qrNNUZz">To create an NRFI econometric benchmark pattern, we do value-weighted averaging of the six structures and equipment patterns that were charted earlier in Figures <ref type="figure">1</ref> and<ref type="figure">2</ref> (the value-weight, a ratio of equipment-to-structures that is appropriate for this study, is explained in Footnote 34).</s></p><p xml:id="_AMnEC5Z"><s xml:id="_wYgd296">How should a survey-based NRFI pattern be created?</s><s xml:id="_HBdQzvJ">For help in comparing the possibilities, it is useful to match the augmented structures, survey-based, progress patterns against the NRFI, econometric, benchmark pattern, as in Figure <ref type="figure" target="#fig_8">10</ref>.</s><s xml:id="_GpqHfjk">In Figure <ref type="figure" target="#fig_8">10</ref>, the best-performing augmented survey patterns peak a bit too high and late to match well with the NRFI econometric benchmark pattern.</s><s xml:id="_z3QVw4n">As in Figure <ref type="figure">9</ref>, a rather counter-intuitive three and four quarters of starts persistence match best.</s></p><p xml:id="_bgHpW7c"><s xml:id="_kUndG6z">Figure <ref type="figure" target="#fig_8">10</ref> is a kind of "control experiment:" Equipment is excluded altogether from Figure <ref type="figure" target="#fig_8">10</ref>'s survey-based pattern.</s><s xml:id="_k7ypYHV">Therefore, if a particular way of combining equipment patterns and structures patterns forms a pattern for NRFI that does little to improve on the performance in Figure <ref type="figure" target="#fig_8">10</ref>, then that way of forming the NRFI progress pattern ought to be rejected.</s></p><p xml:id="_UK53KX8"><s xml:id="_4FE9rqk">We return to the question of how to create a survey-based NRFI progress pattern.</s><s xml:id="_g6ekpzP">One possibility, explored in this section, is to do it the same way as that used to aggregate the seven CSD surveys in the paper's third section.</s><s xml:id="_NvGn2Ww">There, it was assumed that the seven surveys were generated independently.</s><s xml:id="_wvvmDcm">They then were combined by value-weighted averaging to form the 1961-91 survey pattern for structures.</s><s xml:id="_NQSph2T">Why not aggregate patterns for equipment and structures in the same way?</s><s xml:id="_fmyBSJQ">The 1961-91 progress pattern for structures can be merged of starts persistence sometimes lowered the amount of optimal persistence required, but the match with the benchmarks was improved little, if at all. with an equipment progress pattern by value-weighted-averaging, thereby forming a NRFI progress pattern.</s></p><p xml:id="_thZ79A4"><s xml:id="_2DzuubZ">Crucially, this approach assumes that the two components of NRFI (structures and equipment) are generated independently.</s><s xml:id="_6tuYjPv">It assumes that the pace of building completions has no significant impact on the timing of equipment production (and vice versa).</s><s xml:id="_8Jc8Bfe">Such an assumption has far-reaching implications, ones accepted by default in neoclassical work that studies investment spending.</s><s xml:id="_MNmzDr6">Neither intratemporal nor intertemporal complementarities between structures and equipment are allowed by such an assumption.</s><s xml:id="_J2B9CEC">Neoclassical theorists seem comfortable with the independence assumption, since they do not consider interactions between structures and equipment in their many studies of the investment sector.</s><s xml:id="_hZuzf3k">Moreover, in applied work neoclassical macroeconomists typically estimate structurally independent equations for structures and equipment.</s><s xml:id="_e3WFKF4">For these reasons, the method used in this section to create an NRFI survey-based progress pattern is labeled "neoclassical." <ref type="bibr">26</ref> To create the "neoclassical" NRFI survey pattern described above, an estimate is needed of the value-weighted average equipment progress pattern.</s><s xml:id="_p23Wwja">Equipment progress-pattern survey data do not exist.</s><s xml:id="_YzrJRcw">However, surveys of production periods for prominent components of equipment are available from several sources, and some other studies give additional information about production periods.</s><s xml:id="_7k4vUSG">The best evidence suggests a value-weighted average production period for equipment of no more than two-to-three quarters (it may well be shorter). <ref type="bibr">27</ref></s><s xml:id="_JVJ4bhB">Information about the production period, however, tells us nothing about quarterly progress-how rapidly production evolves within the equipment production period.</s><s xml:id="_HQKCQQD">Here, a three-quarter equipment production period is assumed, with progress within the period occurring at a uniform rate.</s><s xml:id="_HeUP6pd">No pre-construction lag is imposed since most equipment is made "to stock" rather than "to order," so that little planning is required prior to shipment (Zarnowitz 1973,  Ch. 2).</s></p><p xml:id="_tRTR9MT"><s xml:id="_keqamA9">The right-hand-side of Table <ref type="table" target="#tab_0">1</ref> illustrates how the equipment progress pattern is combined with the structures-survey progress pattern (augmented by planning lags), illustrated for the case where both structures and equipment respond to a change in capital-goods demand with three quarters of starts persistence.</s><s xml:id="_HE2EBD8">Column [6], the sum of Columns [2] through [5], is the sum form of the structures survey pattern that incorporates three quarters of structures starts persistence.</s><s xml:id="_Qs4XbWQ">Columns [8] through [11], in turn, capture the three quarters of equipment starts persistence.</s><s xml:id="_TBZFtM8">Column [12] is the row-by-row weighted horizontal sum of Columns [6] and Columns [8] through [11].</s><s xml:id="_stw9pSD">Column [13] converts these sums to percent form by expressing 26 I am unaware of any neoclassical work modeling equipment and structures so as to incorporate such interactions.</s><s xml:id="_ZtB3T8r">Certainly all the most influential applied work on investment has embraced something like the independence assumption.</s><s xml:id="_rkey5Ge">In his comments on Clark's (1979a) famous paper, Greenspan (1979) "was struck by the implicit assumption in the paper that investment in equipment and investment in structures are determined independently, even though their determinants are modeled similarly" (Greenspan 1979, 114).</s><s xml:id="_gVe3kUH">Clark replied that, "Alan Greenspan correctly emphasizes the interdependence of investment in equipment and structures.</s><s xml:id="_CbDuNRw">It is not clear, however, that this interdependence makes much difference in the empirical results" (Clark 1979b,  120).</s><s xml:id="_KBJtASV">His rationale for this statement rested wholly on the technical features of the estimated equations. <ref type="bibr">27</ref></s><s xml:id="_x9T4JWG">Surveys of the lag separating the date of equipment order from delivery date for numerous equipment components are reported by Rottenberg and Donahoe (1971), and in a regular monthly survey published for many years in Purchasing magazine.</s><s xml:id="_dMxuyue">In addition, Zarnowitz (1973, Ch. 4) provides estimates based on simple regressions as well as studies of differences in timing between orders and shipments at business cycle turns (for additional details see Montgomery, 1997).</s><s xml:id="_jXtDFq4">Finally, Abel and Blanchard (1988) have derived lags of 2 quarters for both fabricated metals and nonelectrical machinery, 3 quarters for electrical machinery, and 0 quarters for automobiles (this last being an example of an important component of equipment that is manufactured "to stock," not "to order").</s><s xml:id="_EBEpSKp">All these studies report results implying the value-weighted equipment production period is considerably under a year in length.</s><s xml:id="_A3WTsDp">). <ref type="bibr">28</ref></s><s xml:id="_kP5MWZw">he resulting NRFI progress pattern in Column [13] is interpreted as follows.</s><s xml:id="_6hr5bg4">Suppose that structures spending and equipment spending are generated independently of each other, as implicitly is assumed in neoclassical empirical studies of investment spending.</s><s xml:id="_ZpGsRg6">Suppose further that structures projects are subject to substantial planning lags as described in the paper's fifth section, while equipment projects have negligible planning lags.</s><s xml:id="_tJFcyef">Finally, suppose that, due to backlogs and/or slow information diffusion, an increase in capital-goods demand causes three quarters of starts persistence.</s><s xml:id="_UHyqSGD">Column [13] is the resulting NRFI progress pattern.</s></p><p xml:id="_xHwjS47"><s xml:id="_HUDkCva">How well do these NRFI survey-based progress patterns match up with the NRFI econometric benchmark?</s><s xml:id="_cgZFu4Y">Figure <ref type="figure" target="#fig_9">11</ref> shows that the match is poor.</s><s xml:id="_rswKjZm">The shapes of all survey-based patterns differ substantially from that of the benchmark, and the best match visually of five or six quarters of starts persistence involves too much persistence to be very appealing.</s><s xml:id="_sGcp6tN">The conclusion is robust to other assumptions about the length of the average production period for equipment.</s><s xml:id="_2RGj4Bt">It is also robust to replacing the assumption of a uniform rate of progress for equipment construction with various asymmetric (e.g.</s><s xml:id="_3RDkkBZ">"hump-shaped") patterns. <ref type="bibr">29</ref></s><s xml:id="_CqQTDt8">dding equipment to the survey data in the manner implied by the neoclassical approach to studying investment spending, then, does not make for a good "fit" with econometric studies of the investment-spending lag.</s><s xml:id="_mwkSKX8">The assumption of independence between equipment and structures characterizing neoclassical investment theory would seem to be a poor-or at least seriously incomplete-guide to understanding the processes responsible for generating the lengthy investment-spending lag.</s><s xml:id="_5G3PMdh">In the next two sections, we will see whether Austrian-based insights can fill any of the gap in understanding that is left by neoclassical theory.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8." xml:id="_PmrMceB">Austrian persistence: the capital-complementarity hypothesis</head><p xml:id="_GmeGEV2"><s xml:id="_aHRpFD9">The neoclassical theory of investment expenditures does not consider complementary relationships between types of capital-in particular, those between structures and equipment.</s><s xml:id="_f5E4EHj">By contrast, Austrian macroeconomics emphasizes such relationships.</s><s xml:id="_mWkg5jR">Can a complementary relationship between structures and equipment improve the match between the augmented survey pattern and the econometric benchmark pattern?</s><s xml:id="_NM74bCE">Can such a relationship even be introduced in a meaningful way using the structures survey data?</s></p><p xml:id="_j2WJTcC"><s xml:id="_SVUa8bM">At first glance, the attempt seems problematic.</s><s xml:id="_fbFHxBt">Since empirical studies of capital complementarity do not exist, we cannot adopt the prior strategy of using relevant neoclassical empirical work as guides to augmenting the 1961-91 survey pattern.</s><s xml:id="_uYUERvb">There is, however, an alternative approach.</s><s xml:id="_NpTjKnF">Suppose we know when nonresidential structures are completed.</s><s xml:id="_pV6XtMM">Most newly-produced equipment is installed in newly-completed structures (see Footnote 34).</s><s xml:id="_UxaZ6ZW">It follows that quarters when lots of structures are completed also should be quarters when lots of producers' durable equipment are shipped.</s><s xml:id="_7u83XBs">Since most equipment expenditures are counted in the National Income and Product Accounts at date of shipment, 30 equipment expenditures in the NIPA ought also to be linked to completions of nonresidential structures.</s><s xml:id="_4q7uXmr">This capital complementarity hypothesis (henceforth, CCH) can be implemented empirically if we have data describing how structures are completed over time following their start, and if we assume that the completion pattern derived from these data describes the time-path of structures-completions that follows an increase in capital-goods demand.</s></p><p xml:id="_pRhKbTe"><s xml:id="_eW45x6C">CSD surveys of nonresidential-structures completion patterns (discussed earlier in Section 3) furnish detailed information about how completions of structures evolve following their start of construction (i.e., following "groundbreaking").</s><s xml:id="_qtQKTnh">Like the CSD progress-pattern surveys, completion-pattern surveys are based on samples of many thousands of projects, and are value-weighted to reflect the size-distribution of the completed structures.</s><s xml:id="_jwWMT2z">CSD has published completion-pattern survey data, broken down by size-category, that complement their progress-pattern surveys.</s><s xml:id="_3vVNN2F">While the two are separate surveys, they cover nearly the same time-periods. 31</s><s xml:id="_br875xT">30 I thank David W. Cartwright (CSD, Investment Branch) for this information.</s><s xml:id="_5bavBdt">The text statement holds except for large ships, and aircraft constructed on a fixed-price contract basis.</s><s xml:id="_3tFEPsB">These are counted like structures, on a value-put-in-place basis. <ref type="bibr">31</ref></s><s xml:id="_p6bHTgy">The completion-pattern surveys cover 1961-69, 1970-71, 1976-77, 1978, 1979, 1980, 1982-83, and  1990-91.</s><s xml:id="_4gVpY2d">For more details about these surveys, see Montgomery (1995).</s></p><p xml:id="_vuuAj8U"><s xml:id="_87Uyb75">It would be most useful if the completion-pattern data also furnished information about cancellation of projects that were abandoned after their ordering and perhaps partial construction.</s><s xml:id="_eyUqGYK">As a referee points out, this is an important part of the Austrian theory of the business cycle.</s><s xml:id="_Rgu9w4r">However, CSD provides information on the speed of completion only for projects that are completed.</s><s xml:id="_7VsExKm">Non-completion of structures (and equipment) is a potentially significant additional factor, worthy of separate study, about which this paper can provide no information.</s><s xml:id="_PmaGm5a">Since the attempt here is to "match up" survey-based patterns with econometrically-estimated Using the methods of the paper's third and fifth sections, a value-weighted average completion pattern for 1961-91, augmented by the same planning lags that were used earlier to augment progress patterns, can be constructed from the CSD completion-pattern surveys.</s><s xml:id="_rda2mJK">The resulting quarterly pattern is given in Table <ref type="table" target="#tab_2">2</ref>, Column [3].</s><s xml:id="_JRGb2Y7">Suppose there is a favorable change in determinants of demand for structures (say, interest rates fall).</s><s xml:id="_MFYjjgf">The completion pattern in Column [3] tells how completions of resulting projects will be distributed over time, allowing for planning lags, and assuming no starts persistence.</s></p><p xml:id="_Kyw99JZ"><s xml:id="_Qq4xAUY">For example, consider the number "9.78" in Table <ref type="table" target="#tab_2">2</ref>, Column [3], at Quarter 6.</s><s xml:id="_gdu49hh">This number means that 9.78% of all the structures-value started during Quarter 0 will be completed in the sixth quarter following the improvement in the investment climate.</s><s xml:id="_PxpkPfg">So the CCH implies investment-spending distributed lags which are estimated over a period encompassing numerous completed business cycles, any distortion from failure to track non-completions likely is small.</s><s xml:id="_gWjGKN5">that, if the ratio of equipment-spending-to-structures-spending equals one, then 9.78% of all equipment ultimately slated to be placed in these new structures will be shipped in Quarter 6.</s><s xml:id="_9MfHUXc">(In fact this ratio exceeds one, so the predicted equipment shipments have to be adjusted accordingly.)</s><s xml:id="_4jWfXcW">The CCH implies that, if we know when structures-completions are occurring, then we know that equipment shipments are occurring in proportion to the value of those structures-completions.</s><s xml:id="_p6hApYx">By telling how structures-completions evolve following an increase in capital-goods demand, the completion-pattern survey data thereby allow the CCH to be made operational.</s></p><p xml:id="_mSwE7Gh"><s xml:id="_JZqsyNT">The CCH combines equipment spending patterns with the structures progress-pattern in a more theoretically appealing way than did the "neoclassical" approach of the previous section.</s><s xml:id="_6uV65tj">Under the CCH, the time-intensive response of equipment to changes in capital-goods demand is attributed wholly to the time-intensive response of equipment's complement, structures.</s><s xml:id="_JAuKqTX">It is the amply-documented lengthy production period for structures-not "time-to-build" of equipment-that the CCH uses to explain the drawn-out response of equipment to changes in capital-goods demand. <ref type="bibr">32</ref></s><s xml:id="_2cDsyE8">he CCH also is a more appealing assumption empirically.</s><s xml:id="_QB3Qhtj">It stretches credibility to suggest that the lengthy distributed lags estimated in Jorgenson-type econometric studies of equipment are due to lengthy equipment production periods.</s><s xml:id="_G8kNhVx">The estimated lags are just far too long (see Figure <ref type="figure">2</ref>).</s><s xml:id="_W3J3ADY">In fact, a main question dogging neoclassical empirical work on investment spending has been that the distributed lags estimated for equipment have been much more lengthy than can be justified by the standard neoclassical rationales for this lag.</s><s xml:id="_25MDThv">In the next section we will see whether the Austrian-based CCH accounts better for such a time-intensive response.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9." xml:id="_PXhUszu">Capital complementarity and the persistence of investment expenditures</head><p xml:id="_tSKq7Te"><s xml:id="_WupJ4R3">The capital complementarity hypothesis suggests that equipment should be joined with the survey-based progress patterns for structures in a way that captures the complementary relationship prevailing between structures and equipment.</s><s xml:id="_GhAwbXB">Table <ref type="table" target="#tab_2">2</ref> shows how the CCH combines the 1961-91 structures progress pattern with the implied equipment shipments (expenditures) pattern, illustrated for three quarters of starts persistence.</s><s xml:id="_dAbpc8t"><ref type="table" target="#tab_2">2</ref>. Table <ref type="table" target="#tab_2">2</ref>, Column [3] contains the 1961-91 value-weighted completion pattern for structures, augmented by planning lags.</s><s xml:id="_zku6Ewk">As interpreted by the CCH, it represents the equipment shipments (expenditures) per dollar of structures-completions that will be placed into the completed structures that were started in Quarter 0 (the quarter that capitalgoods demand rises).</s><s xml:id="_XMv6aGe">Since we are assuming starts persistence, we next move rightward in Table <ref type="table" target="#tab_2">2</ref> to Column [4], which captures the implied equipment shipments (expenditures) that Figure <ref type="figure" target="#fig_0">12</ref> compares the four best-performing CCH-augmented progress patterns with the NRFI econometric benchmark pattern.</s><s xml:id="_3xFsGB3">There is a much closer match with the econometric <ref type="bibr">33</ref>   <ref type="bibr">34</ref> The number "1.32" in Column [7]'s calculation formula is also used in Table <ref type="table" target="#tab_0">1</ref>, Column [12] and in forming the NRFI econometric benchmark.</s><s xml:id="_s9Kx83n">It is a ratio of equipment expenditures to structures expenditures that is appropriate to use as a weight in carrying out the summation in Column [7].</s><s xml:id="_xp2E6u3">In forming this ratio, the concept in the denominator is gross structures investment (including both "new" and "replacement" structures).</s><s xml:id="_uBJJHPg">All new buildings, whether NIPA accounting designates them as "new" or "replacement" buildings, will generate equipment expenditures under the CCH.</s><s xml:id="_c48X9PE">By contrast, the equipment concept in the ratio's numerator includes all equipment except that which is slated to be installed in already-existing structures.</s><s xml:id="_xnXcKJW">equipment going into already-existing structures is not part of the CCH story.</s><s xml:id="_DHg8pz8">The derivation of the equipment-to-structures ratio-which is available on request-uses a comparison between gross and net structures to estimate how much equipment goes into new structures.</s><s xml:id="_7HGN2nT">The derivation implies that about three-quarters of all equipment produced in a typical year over the 1961-91 period are slated to go into new structures (data used are from Economic Report of the President 1996).</s><s xml:id="_BrZhNwy">In any case conclusions in this section are insensitive to variation of the equipment/structures ratio over vast ranges.</s></p><p xml:id="_gyDGGJ6"><s xml:id="_QwjQPjA">Part 1 of Table <ref type="table">3</ref> compares the NRFI econometric benchmark pattern with the structuressurvey patterns.</s><s xml:id="_mc6Brs8">As discussed previously in Section 7, such a comparison is a kind of "control" in the table.</s><s xml:id="_9k3zTVC">That is, a minimum condition for success in Parts 2 and 3 of Table <ref type="table">3</ref> is that results exceed those in Part 1. <ref type="bibr">36</ref> When the augmented survey pattern is combined with equipment by applying the standard "neoclassical," time-to-build approach, Table <ref type="table">3</ref>, Part 2 shows that results are poor.</s><s xml:id="_R5Gp4sq">The best-performing pattern requires six quarters of starts persistence-three quarters more than the best-performing pattern in Table <ref type="table">3</ref>, Part 1, and too much persistence to be very plausible based on standard neoclassical arguments.</s><s xml:id="_PTH5yez">Further, the best-performing pattern in Part 2 of the table does not do too much better than the best-performing pattern in Part 1-and to do it, three additional quarters of starts persistence are required.</s><s xml:id="_GHw97F7">That is, adding in equipment as an independent component of the fixed investment sector does little better than leaving equipment expenditures entirely out of the survey-based pattern.</s><s xml:id="_HjBmqC3">Apparently, treating structures and equipment as independent components of investment in the NIPA-as is the norm in neoclassical studies-is not too appealing an assumption.</s></p><p xml:id="_967XsfG"><s xml:id="_Z5WPDFw">Part 3 of Table <ref type="table">3</ref> reports "goodness of fit" sums corresponding to the CCH.</s><s xml:id="_NNdpuan">The bestperforming pattern assumes just one quarters' worth of starts persistence.</s><s xml:id="_9uAYmPz">This is an amount consistent with rational profit maximization within the context of the backlogs/boundedrationality explanations for such persistence that are favored by neoclassical theory.</s><s xml:id="_RFUKmHx">The second-best-performing pattern assumes two quarters of starts persistence, and the third-best assumes zero quarters.</s><s xml:id="_aFKZEb9">Even the zero-quarter CCH pattern outperforms all patterns in Part 1 of Table <ref type="table">3</ref>, and all but the six-quarter SSD value in Part 2. That is, the strong hypothesis that all the persistence in the NRFI econometrics benchmark pattern is explained by the CCH performs very well compared with the two alternative hypotheses, regardless of how much starts persistence is allowed to the alternatives.</s></p><p xml:id="_fJPvqgc"><s xml:id="_N8GB5Cc">Part 3 of Table <ref type="table">3</ref> also quantifies the "one-quarter" CCH pattern's superior match with the benchmark in Figure <ref type="figure" target="#fig_0">12</ref>.</s><s xml:id="_5QJXS45">Under the CCH, the one-quarter SAVD value of 6.5 is half the size of the lowest SAVD reported in Part 1 of the table.</s><s xml:id="_uAzNd3Q">The SSD minimum value of 7.1 for the "one-quarter" CCH pattern is just over one-fourth the size of the lowest SSD in Part 1.</s><s xml:id="_TGRfW4b">The CCH one-quarter pattern also outperforms the "neoclassical" NRFI patterns in Part 2 by wide margins.</s><s xml:id="_SnN3SQE">These substantial improvements in "fit" reinforce the visual evidence in Figures <ref type="figure" target="#fig_11">10 through 12</ref>.</s></p><p xml:id="_wBePfeT"><s xml:id="_StPzTE6">The impressive performance of the CCH implies that much, perhaps most, of the persistence in the investment accounts can be explained as complementary interactions between structures and equipment.</s><s xml:id="_fmxVfh4">A key building block of the Austrian theory-the emphasis on complementary relationships among different types of capital-explains the lengthy investmentspending lags estimated by neoclassical econometric models of the investment-spending process.</s><s xml:id="_GhaSaYn">Neoclassical theory does not have a persuasive explanation of these lags.</s><s xml:id="_cGkHn85">Austrian theory does.</s></p><p xml:id="_rBP2W4x"><s xml:id="_fMtHnsV">the sum of the absolute value measure.</s><s xml:id="_vt26GNY">The next contribution to SAVD, at Quarter 1, will be |3.9-8.9|</s><s xml:id="_V5txwmn">= 5.0.</s><s xml:id="_T44vU5Q">The corresponding contributions to SSD will be (1.45) 2 = 2.105 at Quarter 0, and 5 2 = 25 at Quarter 1. Proceeding in this way and summing across quarters yields the values in Table <ref type="table">3</ref>. <ref type="bibr">36</ref> Part 4 of Table <ref type="table">3</ref> measures the match between the structures-survey pattern and the structures benchmark.</s><s xml:id="_xgcGkcs">Results show the best-performing patterns assume either three (using SSD) or four (using SAVD) quarters of starts persistence.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="10." xml:id="_XJjz3QN">Summary and conclusion</head><p xml:id="_Zqs9Zhb"><s xml:id="_adEqqtk">This paper has presented empirical evidence supporting the Austrian perspective that types of capital goods matter, and matter crucially, to the behavior of cyclical forces in the U.S. economy.</s><s xml:id="_yPknYYy">Using highly-detailed Department of Commerce survey data capturing the pace at which nonresidential buildings are constructed and completed over time, this paper argues that the long distributed lags estimated in neoclassical empirical studies of the fixed investment sector are best explained in Austrian terms-through an emphasis on complementary relationships prevailing between structures and equipment.</s><s xml:id="_EznYQBx">In neoclassical macroeconomics, such interactions between components of the fixed-capital sector are assumed to be insignificant.</s><s xml:id="_CYTc2WY">On the contrary, empirical evidence presented here suggests that such interactions are fundamental to understanding the cyclical behavior of investment expenditures-a vital problem in business-cycle theory.</s></p><p xml:id="_v2CFrnf"><s xml:id="_UNce4mr">Austrian macroeconomics has long emphasized complementary relationships among types of capital, while neoclassical macroeconomics has mostly ignored these relationships, both in theory and in most empirical work. <ref type="bibr">37</ref></s><s xml:id="_UTpRV7c">Still, in a sense, findings presented above are as much neoclassical as Austrian in their implications.</s><s xml:id="_z3QcwtW">In microeconomic theory, all schools of thought recognize that complementary (and substitute) relationships exist between types of goods, and that often such relationships are crucial to understanding economic phenomena.</s><s xml:id="_WFYk2Mu">What is surprising about neoclassical macroeconomics is that, despite its emphasis in recent years on building macroeconomic models based on microeconomic theory, the very basic microeconomic idea of capital complementarity has yet to be integrated into the neoclassical macroeconomic paradigm.</s><s xml:id="_2pk66En">The evidence presented above suggests that doing so can yield new insights into why investment has such a time-intensive response to changes in its determinants.</s><s xml:id="_MSNYDsj">Such understanding, in turn, can contribute to greater comprehension of the economy's cyclical forces.</s><s xml:id="_CxfE7zz">The concept of the "capital structure" associated with Austrian business-cycle theory, would seem to be a key missing link that is essential to an understanding of the complex dynamics of the fixed-investment sector and its implications to macroeconomic forces. 37</s><s xml:id="_88cgC9q">Mainstream theorists have recognized the significance of the investment-spending lag and have even associated the inevitable time-intensiveness of many investment projects with "the weighted average interval between the monetary change and the effects" (Friedman 1969, Ch. 11, p. 256).</s><s xml:id="_v6ybwxv">However, there has been little following-through with the promise of such ideas; for example, Friedman's macroeconomics theory as represented in his most famous papers is squarely labor-based (e.g., Friedman 1968; see also Garrison 2001,  Ch. 10).</s><s xml:id="_mzvetQs">Moreover, disaggregation of the capital stock and the associated notion of complementarity remains unrecognized as a significant force in monetary/business-cycle theory.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="11." xml:id="_2ug24G7">APPENDIX: ABBREVIATIONS OF KEY CONCEPTS</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 Fig. 2</head><label>12</label><figDesc><div><p xml:id="_zNzGQxy"><s xml:id="_4USvFPu">Fig. 1 Three studies of the time structure of investment spending, nonresidential structures [NRS]</s></p></div></figDesc><graphic coords="7,61.85,57.17,324.00,176.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc><div><p xml:id="_pxkgKk6"><s xml:id="_Sm3949x">Fig. 3 Progress patterns, six size categories, 1990-91</s></p></div></figDesc><graphic coords="10,46.96,57.62,339.59,226.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 5</head><label>5</label><figDesc><div><p xml:id="_pxXZhcQ"><s xml:id="_cyPn73e">Fig. 5 Survey pattern versus neoclassical benchmark</s></p></div></figDesc><graphic coords="12,45.20,57.17,343.29,225.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 6 Fig. 7</head><label>67</label><figDesc><div><p xml:id="_NTXbXGd"><s xml:id="_tusBYbm">Fig. 6 NRS 1961-91 survey-based progress pattern, augmented by planning lags</s></p></div></figDesc><graphic coords="14,48.86,57.21,335.74,190.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc><div><p xml:id="_Mg6VkJ5"><s xml:id="_NbVdZcV">Columns [1] through [7], shows how the assumption of starts persistence is used to augment the CSD survey data.</s><s xml:id="_WnWgJjt">The 1961-91 quarterly survey pattern, augmented by planning lags, is reproduced in Column [2].</s><s xml:id="_HrDZCV6">It is lagged a quarter three times in succession, generating three quarters of "starts persistence" (Columns [3] through [5]).</s><s xml:id="_qTMQbH4">Summing Columns [2] through [5] horizontally month-by-month generates Column [6].</s><s xml:id="_zFg9B8r">Converting Column [6] to percent form in Column [7], a new pattern is generated that incorporates, (a) the 1961-91 CSD survey pattern, (b) planning lags, and (c) three quarters of starts persistence.</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc><div><p xml:id="_p6aFdqM"><s xml:id="_RhG2GT5">Figure</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 8 Fig. 9</head><label>89</label><figDesc><div><p xml:id="_87W6NMs"><s xml:id="_Yctef4u">Fig. 8 Adding three quarters of starts persistence to the survey-based progress pattern</s></p></div></figDesc><graphic coords="17,55.93,57.14,338.15,200.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 10</head><label>10</label><figDesc><div><p xml:id="_PgseWwj"><s xml:id="_uTCPUQw">Fig. 10 Augmented NRS survey patterns with starts persistence of -(0, 3, 4, 7) quarters, versus NRFI benchmark pattern</s></p></div></figDesc><graphic coords="18,47.91,57.36,337.67,194.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 11 "</head><label>11</label><figDesc><div><p xml:id="_AHERmvx"><s xml:id="_X8NhGaG">Fig. 11 "Neoclassical" NRFI survey patterns, starts persistence of -(0, 3, 5, 6, 7) QTRS, vs. NRFI benchmark</s></p></div></figDesc><graphic coords="20,43.85,56.81,342.72,212.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head></head><label></label><figDesc><div><p xml:id="_xJM8zDe"><s xml:id="_DkkRfuH">6]: It shows the sum form of the 1961-91 structures progress pattern, where the pattern is augmented by both planning lags and an assumed three quarters of starts persistence.</s><s xml:id="_Mvn2RNB">Under the CCH, each of the assumed three quarters of structures starts persistence generates a long sequence of equipment shipments (expenditures) over subsequent quarters as structures are completed.</s><s xml:id="_BdANnKP">Implied PDE equipment shipments are shown in Columns [3] through [6] of Table</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Fig. 12</head><label>12</label><figDesc><div><p xml:id="_n7wwVWS"><s xml:id="_KEdJNcT">Fig. 12 CCH NRFI survey pattern, starts persistence of -(0, 1, 2, 3) quarters, versus NRFI benchmark pattern</s></p></div></figDesc><graphic coords="24,48.86,57.13,335.26,211.93" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head></head><label></label><figDesc><div><p xml:id="_BEvRKQx"><s xml:id="_unvnSwn">"Structures" (NRS) Real Expenditures on Nonresidential Structures "Equipment" (PDE) Real Expenditures on Producers' Durable Equipment CSD Construction Statistics Division, U.S. Department of Commerce NIPA</s></p></div></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc><div><p xml:id="_NUTkcna"></p></div></figDesc><graphic coords="11,58.31,57.06,333.82,218.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc><div><p xml:id="_qfxn7YN"><s xml:id="_qgC96Km">Generation of augmented progress patterns in figures 9, 10, and 11, illustrated for case of three quarters of starts persistence NRS Starts Persistence Alone</s></p></div></figDesc><table /><note><p><s xml:id="_h38p9yK">PDE Added to NRS Pattern Using "Neoclassical" (Compare with Figures 9 and 10)</s></p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc><div><p><s xml:id="_C8gKr7N">Generation of augmented CCH progress patterns in figure12, illustrated for case of three quarters of starts persistence</s></p></div></figDesc><table><row><cell>[1]</cell><cell>[2]</cell><cell>[3]</cell><cell>[4]</cell><cell>[5]</cell><cell>[6]</cell><cell>[7]</cell><cell>[8]</cell></row><row><cell>Number</cell><cell>NRS sum</cell><cell cols="4">Value-weighted average</cell><cell>Weighted</cell><cell>Percent</cell></row><row><cell>of QTRS</cell><cell>progress</cell><cell cols="4">completion pattern, 1961-1991</cell><cell>sum</cell><cell>sum {([7]/924)</cell></row><row><cell>after</cell><cell>pattern</cell><cell></cell><cell cols="2">Quarters of</cell><cell></cell><cell>{[2] + 1.32</cell><cell>*  100}),</cell></row><row><cell>change in</cell><cell>3 QTRS</cell><cell cols="4">starts persistence assumed</cell><cell>*  ([3] + [4]</cell><cell>Row</cell></row><row><cell>determinants</cell><cell>starts</cell><cell>0</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>+[5] + [6])}.</cell><cell>b yr o w</cell></row><row><cell>of investment</cell><cell>persistence</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Row</cell><cell></cell></row><row><cell></cell><cell>(from) Table 1,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>by row</cell><cell></cell></row><row><cell></cell><cell>col. [6])</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>8.86</cell><cell>4.19</cell><cell></cell><cell></cell><cell></cell><cell>14.40</cell><cell>1.56</cell></row><row><cell>1</cell><cell>20.98</cell><cell cols="2">6.29 4.19</cell><cell></cell><cell></cell><cell>34.83</cell><cell>3.77</cell></row><row><cell>2</cell><cell>36.87</cell><cell cols="3">7.68 6.29 4.19</cell><cell></cell><cell>60.87</cell><cell>6.59</cell></row><row><cell>3</cell><cell>51.60</cell><cell cols="3">9.65 7.68 6.29</cell><cell>4.19</cell><cell>88.35</cell><cell>9.56</cell></row><row><cell>4</cell><cell>55.55</cell><cell cols="3">8.95 9.65 7.68</cell><cell>6.29</cell><cell>98.58</cell><cell>10.67</cell></row><row><cell>5</cell><cell>53.85</cell><cell cols="3">8.87 8.95 9.65</cell><cell>7.68</cell><cell>100.29</cell><cell>10.86</cell></row><row><cell>6</cell><cell>45.82</cell><cell cols="3">9.78 8.87 8.95</cell><cell>9.65</cell><cell>95.04</cell><cell>10.29</cell></row><row><cell>7</cell><cell>36.53</cell><cell cols="3">8.93 9.78 8.87</cell><cell>8.95</cell><cell>84.80</cell><cell>9.18</cell></row><row><cell>8</cell><cell>27.49</cell><cell cols="3">7.94 8.93 9.78</cell><cell>8.87</cell><cell>74.42</cell><cell>8.06</cell></row><row><cell>9</cell><cell>19.63</cell><cell cols="3">6.61 7.94 8.93</cell><cell>9.78</cell><cell>63.58</cell><cell>6.88</cell></row><row><cell>10</cell><cell>13.55</cell><cell cols="3">6.05 6.61 7.94</cell><cell>8.93</cell><cell>52.57</cell><cell>5.69</cell></row><row><cell>11</cell><cell>9.35</cell><cell cols="3">4.56 6.05 6.61</cell><cell>7.94</cell><cell>42.59</cell><cell>4.61</cell></row><row><cell>12</cell><cell>6.31</cell><cell cols="3">3.66 4.56 6.05</cell><cell>6.61</cell><cell>33.89</cell><cell>3.67</cell></row><row><cell>13</cell><cell>4.13</cell><cell cols="3">2.79 3.66 4.56</cell><cell>6.05</cell><cell>26.67</cell><cell>2.89</cell></row><row><cell>14</cell><cell>2.55</cell><cell cols="3">2.07 2.79 3.66</cell><cell>4.56</cell><cell>19.84</cell><cell>2.15</cell></row><row><cell>15</cell><cell>1.49</cell><cell cols="3">1.33 2.07 2.79</cell><cell>3.66</cell><cell>14.51</cell><cell>1.57</cell></row><row><cell>16</cell><cell>0.76</cell><cell cols="3">0.09 1.33 2.07</cell><cell>2.79</cell><cell>9.06</cell><cell>0.98</cell></row><row><cell>17</cell><cell>0.38</cell><cell cols="3">0.09 0.09 1.33</cell><cell>2.07</cell><cell>5.11</cell><cell>0.55</cell></row><row><cell>18</cell><cell>0.18</cell><cell cols="3">0.09 0.09 0.09</cell><cell>1.33</cell><cell>2.30</cell><cell>0.25</cell></row><row><cell>19</cell><cell>0.00</cell><cell cols="3">0.09 0.09 0.09</cell><cell>0.09</cell><cell>0.48</cell><cell>0.05</cell></row><row><cell>20</cell><cell>0.00</cell><cell cols="3">0.09 0.09 0.09</cell><cell>0.09</cell><cell>0.48</cell><cell>0.05</cell></row><row><cell>21</cell><cell>0.00</cell><cell cols="3">0.09 0.09 0.09</cell><cell>0.09</cell><cell>0.48</cell><cell>0.05</cell></row><row><cell>22</cell><cell>0.00</cell><cell cols="3">0.00 0.09 0.09</cell><cell>0.09</cell><cell>0.36</cell><cell>0.04</cell></row><row><cell>23</cell><cell>0.00</cell><cell cols="3">0.00 0.00 0.09</cell><cell>0.09</cell><cell>0.24</cell><cell>0.03</cell></row><row><cell>24</cell><cell>0.00</cell><cell cols="3">0.00 0.00 0.00</cell><cell>0.09</cell><cell>0.12</cell><cell>0.01</cell></row><row><cell>Column</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>sum-&gt;</cell><cell>396</cell><cell>100</cell><cell>100</cell><cell>100</cell><cell>100</cell><cell>924</cell><cell>100</cell></row><row><cell cols="2">Note: See notes to Table 1.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 ,</head><label>2</label><figDesc><div><p><s xml:id="_CBhXn7S">Column[2]repeats Table1, Column [</s></p></div></figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 ,</head><label>2</label><figDesc><div><p><s xml:id="_WMvQJQg">Column [3]is the equipment shipments pattern generated by the buildings represented by the progress pattern in Table 1, Column [2]; Table 2, Column [4] is the equipment shipments pattern generated by the buildings represented by the progress pattern in Table 1, Column [3], etc.</s></p></div></figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p xml:id="_tKE8nrD"><s xml:id="_nKTYawY">"K * " is the first of a number of symbols and acronyms utilized in this paper.</s><s xml:id="_ABCnPwu">For convenience of the reader, an appendix at the end of the paper summarizes them.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_1"><p xml:id="_Jkh2da8"><s xml:id="_YNtZHTQ">This simplifies a bit.</s><s xml:id="_3yy8ErF">In fact, Jorgenson and many of his followers estimated the lag subject to "Koyck," "Almon," or "rational distributed lag" restrictions requiring the lag to take a hump-shaped form and be in a certain range of length.</s><s xml:id="_vmmkSky">Also, sometimes the restriction was arbitrarily imposed that contemporaneous and "recent" K * values did not affect investment spending (e.g.,<ref type="bibr" target="#b20">Jorgenson and Stephenson 1967)</ref>.</s><s xml:id="_8athYPA">These strategies were adopted as one way to lower the number of parameters needing to be estimated so as to prevent problems arising with degrees of freedom.</s><s xml:id="_GfaaFfs">Unfortunately, they also helped researchers impose their subjective "priors" on the data.</s><s xml:id="_86p8fhj">They account in part for the very lengthy investment spending lags sometimes estimated by earlier studies.</s><s xml:id="_eXjVr7B">In more recent years the "priors" issue as well as technical questions concerning the Koyck/Almon approach have led to a cessation of studies using this procedure.</s><s xml:id="_DGABBG7">Instead, equations are estimated by truncating the lag after a certain point-an alternative approach to addressing the degrees of freedom issue that is likely to import fewer biases of researchers into the econometric modeling.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_2"><p xml:id="_wQDQjxZ"><s xml:id="_sprNgpY">The lag might be due to "time-to-build" effects, or to backlogging and resulting queues of projects, or delaying strategies to handle investment's "irreversibility" (cf.</s><s xml:id="_HMwWrEZ">Hubbard 1994), or "Austrian" theories involving complex interactions between different capital goods, or some combination of some or all of the above and, perhaps, still other causes.</s><s xml:id="_RQ9RknP">The lag also might be picking up expectational effects, where past values of K* have provided [information-constrained, "boundedly" rational] firms with information that increases their optimism about future profit opportunities.</s><s xml:id="_hE3fPhk">(These need not conflict with orthodox views of "rational" expectations.</s><s xml:id="_VQKfMaW">For example, a firm might require a sequence of favorable past K * values before responding with plans for increased investment-a just-revealed K * value might interact with past K * values in a way that, statistically, would show up in the Jorgenson model as a statistically significant lagged K * value.)</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_3"><p xml:id="_BazDAf2"><s xml:id="_QWq8RpE">The modified-neoclassical model also differs from the Jorgenson model in that Jorgenson's model is a "putty-putty" model, where it is implicitly assumed that the firm's capital stock is as easy to alter after it has been installed as it is before acquisition.</s><s xml:id="_Gt4Tvqh">The modified neoclassical model dispenses with this counterintuitive assumption, replacing it with a "putty-clay" assumption where the firm's capital stock cannot be substantially varied after its installation.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_4"><p xml:id="_auCBxy2"><s xml:id="_tATw8Ts">For more details, see<ref type="bibr" target="#b31">Montgomery (1995,</ref></s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p xml:id="_XQSubVG"><s xml:id="_TzPFKkf">1996), or pertinent articles in the CSD publication Current Construction Reports: Value of New Construction Put in Place (Series C-30).</s><s xml:id="_5CE4msK">The raw data discussed in this paper can be found in the occasional appendices (dates are listed in the references).19</s><s xml:id="_QtP97Cq">An illustrative example may be useful.</s><s xml:id="_uPPvjvC">Suppose there are just two projects in a size-category.</s><s xml:id="_qKnpCKF">Project A produces 50% of its value in Month 0, and 50% in Month 1. Project B produces 100% of its value in Month 1.</s><s xml:id="_xk278Dw">If the two projects are weighted equally, the percent progress in Month 0 is (50+0)/200=0.25,</s><s xml:id="_qJ9X2WC">or 25% of the total value of all (here, two) projects.</s><s xml:id="_gkxBsZz">The progress in Month 1 is (50+100)/200=0.75,</s><s xml:id="_RfFkZe6">or 75%.</s><s xml:id="_bmD8y4R">CSD does some weighting within size-categories, ignored in this example.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_6"><p xml:id="_5BhTuCP"><s xml:id="_bny65E4">If "bounded rationality" refers to rational actors striving to make the best of situations where some needed knowledge is, and will always be, unavailable, then the idea has long been embraced by Austrians.</s><s xml:id="_ptfHNdG">A useful discussion isGarrison (2001, Ch. 2).</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_7"><p xml:id="_S964xCk"><s xml:id="_PR9wt3J">Extensive experimentation with plausible asymmetric patterns (e.g., more projects started in, say, Quarter 1, than in other quarters) failed to turn up improvement in overall results.</s><s xml:id="_vMt4CwN">"Front-loading" an asymmetric pattern</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_8"><p xml:id="_gHsEgcJ"><s xml:id="_RybJUy2">The equipment/structures weighting ratio used here equals 1.32 for the 1961-91 period.</s><s xml:id="_JnB7nps">The ratio's value is explained in Footnote 34.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_9"><p xml:id="_WhKNHU8"><s xml:id="_4MCYjv3">A four-quarter progress pattern (25% of value spread equally through Quarters 0 through 3) is outperformed by the text pattern.</s><s xml:id="_K5Yyd7V">A two-quarter progress pattern (50% of value spread equally between Quarters 0 and 1) actually outperforms the 33/33/33 text pattern at 6 quarters, but deteriorates more rapidly when less levels of starts persistence are assumed.</s><s xml:id="_fnNXMMu">Plausible asymmetric patterns did not alter text conclusions.</s><s xml:id="_PgNbbu7">(These results were generated using methods described in Section 9 of the paper.)</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="32" xml:id="foot_10"><p xml:id="_v72HDxB"><s xml:id="_MCkTwYt">Under the CCH, "time-to-build" for equipment is, in essence, irrelevant.</s><s xml:id="_UnrwybZ">The production schedule for most equipment is set by anticipated completion dates of structures currently under construction into which that equipment will be placed.</s><s xml:id="_qWw9dqT">A structure's construction period almost always will be longer than that of its complementary equipment.</s><s xml:id="_sX7rejF">Hence a structure's completion date will determine the complementary equipment's shipment date, and through this, the equipment production schedule.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="35" xml:id="foot_11"><p xml:id="_yGzPpyV"><s xml:id="_7kNBcuZ">An example may be useful.</s><s xml:id="_cbz2npF">Consider a comparison of the econometric benchmark pattern with the "3 Quarters" CCH survey pattern in Figure12.</s><s xml:id="_5VeGekz">At Quarter 0 along the horizontal axis, the "3 Quarters" pattern equals 1.55, while the econometric benchmark equals 3.0.</s><s xml:id="_U9frswV">The absolute value of this gap, 1.45, is the contribution to</s></p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xml:id="_exepaFz"><p xml:id="_8hg3H4M"><s xml:id="_BVZR2vf">Acknowledgements I thank <rs type="person">Roger W. Garrison</rs>, who helped provide the intuition for this paper in numerous conversations over the years, and <rs type="person">Thomas Mayer</rs>, who provided helpful comments and encouragement.</s><s xml:id="_vtq52PU">I thank also <rs type="person">Allan B. Meyer</rs>, former Chief, <rs type="affiliation">Construction Progress Branch</rs>, <rs type="person">Barry A. Rappaport</rs>, Assistant Chief for Industry Surveys, <rs type="person">David W. Cartwright</rs>, Investment Branch, and <rs type="person">Joe Huesman</rs>, research specialist; all presently or formerly of the <rs type="institution">Construction Statistics Division, Bureau of the Census, U.S. Department of Commerce</rs>, for supplying unpublished data and other information pertaining to this project.</s><s xml:id="_sH7J5pF">Responsibility for any errors is, of course, mine.</s></p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_3Sx65wx"><p xml:id="_hnwTuTW"><s xml:id="_EGf6wMC">benchmark than in previous figures, both in shape and height.</s><s xml:id="_WYctjzh">Particularly good matches are obtained by the curves corresponding to zero, one, and two quarters of starts persistence, with the best match visually being generated by the one-quarter case.</s><s xml:id="_CJnFfkz">The fact that the three best CCH matches in Figure <ref type="figure">12</ref> involve far less starts persistence than was found in previous sections is a significant development.</s><s xml:id="_WpgKv57">As previous sections have emphasized, starts persistence beyond a certain point is ad hoc and counterintuitive, and the less of it needed to maximize the match with the benchmark pattern, the better.</s><s xml:id="_uGqavK7">The CCH does not rely on questionable amounts of exogenously-imposed starts persistence in order to generate good results.</s><s xml:id="_SEGXgqs">This is because the CCH endogenizes starts persistence, by recognizing how structures started today will generate long series of equipment shipments (expenditures) in subsequent quarters.</s></p><p xml:id="_nMEwWSm"><s xml:id="_tRwvp24">When comparing Figures 9 through 12, it is useful to have a quantitative standard of comparison.</s><s xml:id="_JkWGcRu">Table <ref type="table">3</ref> measures the tightness of the "fit" in the figures between the survey patterns and the econometric benchmarks, for zero-through-seven quarters of starts persistence.</s><s xml:id="_zfAjK4k">Numbers in the table are sums of absolute values of deviations [SAVD], and sums of squared deviations [SSD] (the SSD formula penalizes larger deviations disproportionately).</s><s xml:id="_77eXDza">Sums are calculated over Quarters 0 through 8, moving from left to right along a figure's horizontal axis.</s><s xml:id="_QgVvVjM">Results change numerically but conclusions are not altered when the summation range is extended through Quarter 11. <ref type="bibr">35</ref></s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_fXpcev4">Investment and sales: some empirical evidence</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">B</forename><surname>Abel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olivier</forename><forename type="middle">J</forename><surname>Blanchard</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/cbo9780511664342.014</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_kn58cb2">Dynamic Econometric Modeling</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Barnett</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Berndt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>White</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1988-06-24">1988</date>
+			<biblScope unit="page" from="269" to="296" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abel, A. B. and Blanchard, O. J. (1988). &quot;Investment and Sales: Some Empirical Evidence.&quot; In Barnett, W. A., Berndt, E. R., and White, H. (Eds.), Dynamic Econometric Modeling (Proceedings of the Third International Symposium in Economic Theory and Econometrics). Cambridge, England: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main" xml:id="_TEA4TrV">Setting Up a Built-In Evaluation System When Sample Design Uses an Imperfect Frame</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Asanuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Newman-Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Commerce, Construction Statistics Division</orgName>
+		</respStmt>
+	</monogr>
+	<note>Working paper</note>
+	<note type="raw_reference">Asanuma, M. and Newman-Smith, A. (1993). &quot;Setting Up a Built-In Evaluation System When Sample Design Uses an Imperfect Frame.&quot; U.S. Department of Commerce, Construction Statistics Division. Working paper.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_hp9SXVU">Alternative non-nested specification tests of time-series investment models</title>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Bernanke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Henning</forename><surname>Bohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">C</forename><surname>Reiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0304-4076(88)90008-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_97sacPJ">Journal of Econometrics</title>
+		<title level="j" type="abbrev">Journal of Econometrics</title>
+		<idno type="ISSN">0304-4076</idno>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="293" to="326" />
+			<date type="published" when="1988-03">1988</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bernanke, B., Bohn, H. and Reiss, P. (1988). &quot;Alternative Non-Nested Specification Tests of Time-Series Investment Models.&quot; Journal of Econometrics 37, 293-326.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_UKSnxGx">Business Investment in the 1970s: A Comparison of Models</title>
+		<author>
+			<persName><forename type="first">Charles</forename><forename type="middle">W</forename><surname>Bischoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Bosworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2534213</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dxSu3ec">Brookings Papers on Economic Activity</title>
+		<title level="j" type="abbrev">Brookings Papers on Economic Activity</title>
+		<idno type="ISSN">0007-2303</idno>
+		<imprint>
+			<biblScope unit="volume">1971</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="1971">1971</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bischoff, C. (1971). &quot;Business Investment in the 1970s: A Comparison of Models.&quot; Brookings Papers on Economic Activity 1, 13-58.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_w6xbq6Y">Does austrian business cycle theory help explain the dot-com boom and bust?</title>
+		<author>
+			<persName><forename type="first">Gene</forename><surname>Callahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Garrison</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12113-003-1019-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_4ehmunM">The Quarterly Journal of Austrian Economics</title>
+		<title level="j" type="abbrev">Quart J Austrian Econ</title>
+		<idno type="ISSN">1098-3708</idno>
+		<idno type="ISSNe">1936-4806</idno>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="67" to="98" />
+			<date type="published" when="2003-06">2003</date>
+			<publisher>Mises Institute</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Callahan, G. and Garrison, R. W. (2003). &quot;Does Austrian Business Cycle Theory Help Explain the Dot-Com Boom and Bust?&quot; Quarterly Journal of Austrian Economics 6(2), 67-98.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_h25PPM7">Investment in the 1970s: Theory, Performance, and Prediction</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">K</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Greenspan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">M</forename><surname>Goldfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Clark</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2534305</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_7yt568v">Brookings Papers on Economic Activity</title>
+		<title level="j" type="abbrev">Brookings Papers on Economic Activity</title>
+		<idno type="ISSN">0007-2303</idno>
+		<imprint>
+			<biblScope unit="volume">1979</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">73</biblScope>
+			<date type="published" when="1979">1979</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clark, P. K. (1979a). &quot;Investment in the 1970s: Theory, Performance, and Prediction.&quot; Brookings Papers on Economic Activity, 73-113.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_Cvc8yyh">Comments and Discussion</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Clark</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/eca.2017.0024</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WDjKX3n">Brookings Papers on Economic Activity</title>
+		<title level="j" type="abbrev">Brookings Papers on Economic Activity</title>
+		<idno type="ISSNe">1533-4465</idno>
+		<imprint>
+			<biblScope unit="volume">2017</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="545" to="565" />
+			<date type="published" when="1979">1979</date>
+			<publisher>Project MUSE</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clark, P. K. (1979b). &quot;Comments and Discussion.&quot; Brookings Papers on Economic Activity, 120-121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_VNJSAfX">The role of monetary policy American Economic Review (1968) 58, March, pp. 1–17</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Friedman</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203443965-15</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_yjnJnx6">A Macroeconomics Reader</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="176" to="191" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Friedman, M. (1968). &quot;The Role of Monetary Policy.&quot; American Economic Review 58, 1-17.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main" xml:id="_WzNPHwf">M. Friedman The Optimum Quantity of Money and other Essays. Chicago, Aldine Publishing Company, 1969, VII p. 296 p., $6.95.</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Friedman</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0770451800024386</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_hfvhmBt">Recherches économiques de Louvain</title>
+		<title level="j" type="abbrev">Rech. écon. Louvain (Imprimé)</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Friedman</surname></persName>
+		</editor>
+		<idno type="ISSN">0770-4518</idno>
+		<idno type="ISSNe">1782-1495</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="443" to="443" />
+			<date type="published" when="1969-12">1969</date>
+			<publisher>CAIRN</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Friedman, M. (1969). &quot;The Lag in Effect of Monetary Policy.&quot; In Friedman, M., The Optimum Quantity of Money and Other Essays, 237-260. Chicago: Aldine Publishing Company.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main" xml:id="_kBQaBn8">Time and Money</title>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">W</forename><surname>Garrison</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203208083</idno>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Garrison, R. W. (2001). Time and Money: The Macroeconomics of Capital Structure. London: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_vRuqknM">Costs of Adjustment, the Aggregation Problem and Investment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gordon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_j5E2GyJ">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="422" to="429" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gordon, S. (1992). &quot;Costs of Adjustment, the Aggregation Problem and Investment.&quot; Review of Economics and Statistics 74, 422-429.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_3MCGJ3n">Comments and Discussion: The Bosworth and Gordon Papers</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Greenspan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Solow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Otto</forename><surname>Eckstein</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2534183</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QtHywkf">Brookings Papers on Economic Activity</title>
+		<title level="j" type="abbrev">Brookings Papers on Economic Activity</title>
+		<idno type="ISSN">0007-2303</idno>
+		<imprint>
+			<biblScope unit="volume">1972</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">422</biblScope>
+			<date type="published" when="1979">1979</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Greenspan, A. (1979). &quot;Comments and Discussion.&quot; Brookings Papers on Economic Activity, 114-117.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main" xml:id="_xmXMJPu">Prices and Production</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1932">1932</date>
+			<publisher>The MacMillan Company</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hayek, F. (1932). Prices and Production. New York: The MacMillan Company.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_r8cvHmW">Investment That Raises the Demand for Capital</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_KRuWMKG">Profits, Interest and Investment</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Augustus</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Kelley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Hayek</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Augustus M. Kelley</publisher>
+			<date type="published" when="1933">1975. 1933. 1975. 1937</date>
+			<biblScope unit="page" from="73" to="82" />
+		</imprint>
+	</monogr>
+	<note>Monetary Theory and the Trade Cycle</note>
+	<note type="raw_reference">Hayek, F. (1975a [1933]). Monetary Theory and the Trade Cycle. New York: Augustus M. Kelley. Hayek, F. (1975b [1937]). &quot;Investment That Raises the Demand for Capital.&quot; In Profits, Interest and Investment. New York: Augustus M. Kelley, pp. 73-82.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main" xml:id="_xZbHcjt">Investment under Uncertainty: Keeping One&apos;s Options Open</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Hubbard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_a4RWHXv">Journal of Economic Literature</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1816" to="1831" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hubbard, R. G. (1994). &quot;Investment under Uncertainty: Keeping One&apos;s Options Open.&quot; Journal of Economic Literature 32, 1816-1831.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_uFKvcxZ">The Recession of 1990: An Austrian Explanation</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hughes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_98zYzX8">Review of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="107" to="123" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hughes, A. M. (1997). &quot;The Recession of 1990: An Austrian Explanation.&quot; Review of Austrian Economics 10, 107-123.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_89t5JY8">‘Economic policy and private investment since the oil crisis’ by Artus et al.</title>
+		<author>
+			<persName><forename type="first">Dale</forename><forename type="middle">W</forename><surname>Jorgenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0014-2921(81)90047-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ay2Yqv9">European Economic Review</title>
+		<title level="j" type="abbrev">European Economic Review</title>
+		<idno type="ISSN">0014-2921</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="53" to="56" />
+			<date type="published" when="1963-05">1963. May</date>
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jorgenson, D. W. (1963). &quot;Capital Theory and Investment Behavior.&quot; American Economic Review 53 (May: Supplement), 247-259.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_PhAkmFz">Anticipations and Investment Behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Jorgenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_7n9xztf">The Brookings Quarterly Econometric Model of the United States</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Duesenberry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Fromm</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Klein</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Kuh</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rand McNally</publisher>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page" from="34" to="92" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jorgenson, D. W. (1965). &quot;Anticipations and Investment Behavior.&quot; In Duesenberry, J. S., Fromm, G., Klein, L. R., and Kuh, E. (Eds.), The Brookings Quarterly Econometric Model of the United States. Chicago: Rand McNally, pp. 34-92.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_KaSNXJt">Determinants of Investment Behavior. A Conference of the Universities-National Bureau Committee for Economic Research. Edited by R. Ferber Universities-National Bureau Conference Series, no. 18. New York, National Bureau of Economic Research, New York, London, Columbia University Press, 1967, XI p. 611 p., $15.00.</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Jorgenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0770451800042007</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_YFTyYWg">Recherches économiques de Louvain</title>
+		<title level="j" type="abbrev">Rech. écon. Louvain (Imprimé)</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Ferber</surname></persName>
+		</editor>
+		<idno type="ISSN">0770-4518</idno>
+		<idno type="ISSNe">1782-1495</idno>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="222" to="222" />
+			<date type="published" when="1967">1967</date>
+			<publisher>CAIRN</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jorgenson, D. W. (1967). &quot;The Theory of Investment Behavior.&quot; In Ferber, R. (Ed.), Determinants of Investment Behavior. New York: National Bureau of Economic Research, pp. 129-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_rbgmMbX">Econometric Studies of Investment Behavior: A Survey</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Jorgenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gvsfsv3">Journal of Economic Literature</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1111" to="1147" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jorgenson, D. W. (1971). &quot;Econometric Studies of Investment Behavior: A Survey.&quot; Journal of Economic Literature 9, 1111-1147.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main" xml:id="_Rt8Xunn">The Time Structure of Investment Behavior in United States Manufacturing, 1947-1960</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Jorgenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">A</forename><surname>Stephenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Wj9fF4H">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="16" to="27" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jorgenson, D. W. and James A. Stephenson (1967). &quot;The Time Structure of Investment Behavior in United States Manufacturing, 1947-1960.&quot; Review of Economics and Statistics 49, 16-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_9PbgC5J">Empirical Evidence on the Austrian Business Cycle Theory</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Keeler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_N6S2cer">The Review of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="331" to="351" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Keeler, J. P. (2001a). &quot;Empirical Evidence on the Austrian Business Cycle Theory.&quot; The Review of Austrian Economics 14, 331-351.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main" xml:id="_GvHd3yJ">Relative Prices and the Business Cycle</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Keeler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001b</date>
+		</imprint>
+	</monogr>
+	<note>Unpublished manuscript</note>
+	<note type="raw_reference">Keeler, J. P. (2001b). &quot;Relative Prices and the Business Cycle.&quot; Unpublished manuscript.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_spa9bVe">The Determinants of Investment Spending</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Kopcke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_DMaWhM8">New England Economic Review</title>
+		<imprint>
+			<biblScope unit="page" from="19" to="35" />
+			<date type="published" when="1985-07">1985. July/August</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kopcke, R. W. (1985a). &quot;The Determinants of Investment Spending.&quot; New England Economic Review (July/August), 19-35.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_kbjxXkZ">Investment Spending and the Federal Taxation of Business Income</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Kopcke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_ehUH2gx">New England Economic Review</title>
+		<imprint>
+			<biblScope unit="page" from="9" to="33" />
+			<date type="published" when="1985-09">1985b. September/October</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kopcke, R. W. (1985b). &quot;Investment Spending and the Federal Taxation of Business Income.&quot; New England Economic Review (September/October), 9-33.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_2NhAQJz">The Determinants of Business Investment: Has Capital Spending Been Surprisingly Low?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Kopcke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_TmAJZRQ">New England Economic Review</title>
+		<imprint>
+			<biblScope unit="page" from="3" to="31" />
+			<date type="published" when="1993-01">1993. January/February</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kopcke, R. W. (1993). &quot;The Determinants of Business Investment: Has Capital Spending Been Surprisingly Low?&quot; New England Economic Review (January/February), 3-31.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main" xml:id="_Nk79SdC">A Reconsideration of the Austrian Theory of Industrial Fluctuations</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2548695</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6XnVaBW">Economica</title>
+		<title level="j" type="abbrev">Economica</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachman</surname></persName>
+		</editor>
+		<idno type="ISSN">0013-0427</idno>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">26</biblScope>
+			<biblScope unit="page">179</biblScope>
+			<date type="published" when="1940-05">1977. 1940. 1977</date>
+			<publisher>JSTOR</publisher>
+			<pubPlace>Kansas City, Missouri</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lachmann, L. M. (1977 [1940]). &quot;A Reconsideration of the Austrian Theory of Industrial Fluctuations.&quot; In Lachman, L. M., Capital, Expectations, and the Market Process: Essays on the Theory of the Market Economy. Kansas City, Missouri: Sheed Andrews and McMeel, Inc., 1977, pp. 267-288.&quot; Originally published in Economica 7, 179-196.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main" xml:id="_Ww4RTs6">Complementarity and Substitution in the Theory of Capital</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_5aR2d36">Capital, Expectations, and the Market Process: Essays on the Theory of the Market Economy</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Lachmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>City, Missouri</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sheed Andrews and McMeel, Inc</publisher>
+			<date type="published" when="1947">1977. 1947</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="108" to="119" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lachmann, L. M. (1977 [1947]). &quot;Complementarity and Substitution in the Theory of Capital.&quot; In Lachmann, L. M., Capital, Expectations, and the Market Process: Essays on the Theory of the Market Economy. City, Missouri: Sheed Andrews and McMeel, Inc., pp. 197-213. Originally published in Economica 14, 108-119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_s2DFJaa">The Inflexibility of Monetary Policy</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Mayer</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1926339</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fxt4nkw">The Review of Economics and Statistics</title>
+		<title level="j" type="abbrev">The Review of Economics and Statistics</title>
+		<idno type="ISSN">0034-6535</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">358</biblScope>
+			<date type="published" when="1958-11">1958</date>
+			<publisher>JSTOR</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mayer, T. (1958). &quot;The Inflexibility of Monetary Policy.&quot; Review of Economics and Statistics 40, 358-74</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_9DfM9Qf">Plant and Equiptment Lead Times</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Mayer</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/294329</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WgrkuTH">The Journal of Business</title>
+		<title level="j" type="abbrev">J BUS</title>
+		<idno type="ISSN">0021-9398</idno>
+		<idno type="ISSNe">1537-5374</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">127</biblScope>
+			<date type="published" when="1960-01">1960</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mayer, T. (1960). &quot;Plant and Equipment Lead Times.&quot; Journal of Business 33, 127-132.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main" xml:id="_XqvPanS">Human Action: A Treatise on Economics</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Mises</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1966. 1949</date>
+			<publisher>Contemporary Books</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises, L.V. (1966 [1949]). Human Action: A Treatise on Economics. Chicago, IL: Contemporary Books.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_jEay548">Time-To-Build&apos; Completion Patterns for Nonresidential Structures, 1961-1991</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Montgomery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_acmbatN">Economics Letters</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="155" to="163" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Montgomery, M. R. (1995) &quot;&apos;Time-To-Build&apos; Completion Patterns for Nonresidential Structures, 1961-1991,&quot; Economics Letters, 48(2), 155-163.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_Wn9dVPV">Time-To-Build&apos; Progress Patterns for Nonresidential Structures, 1961-1991</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Montgomery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uUzPkrB">Rivista Internazionale di Scienze Economiche e Commerciali</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="62" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Montgomery, M. R. (1996). &quot;&apos;Time-To-Build&apos; Progress Patterns for Nonresidential Structures, 1961-1991,&quot; Rivista Internazionale di Scienze Economiche e Commerciali 43(1): 41-62.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_24xgAzB">The Persistence of Producer Durables: &apos;Own&apos; Time-To-Build or Capital Complementarity?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Montgomery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_h4CSsUQ">Rivista Internazionale di Scienze Economiche e Commerciali</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="360" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Montgomery, M. R. (1997). &quot;The Persistence of Producer Durables: &apos;Own&apos; Time-To-Build or Capital Com- plementarity?&quot; Rivista Internazionale di Scienze Economiche e Commerciali 44(2), 339-360.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_nQzy6VA">A Hayekian Analysis of the Term Structure of Production</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Mulligan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_zr2uSa3">The Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="17" to="33" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mulligan, R. F. (2002). &quot;A Hayekian Analysis of the Term Structure of Production.&quot; The Quarterly Journal of Austrian Economics 5(2), 17-33.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_BrKt3bn">A Survey of Post-1970 Empirical Studies of Investment Expenditures</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Naylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_RGrnsrW">Modern Concepts in Macroeconomics</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Havrilesky</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Arlington Heights, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harlan Davidson Inc</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="27" to="55" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Naylor, J. A. (1985). &quot;A Survey of Post-1970 Empirical Studies of Investment Expenditures.&quot; In Modern Concepts in Macroeconomics, T. M. Havrilesky (Ed.), Arlington Heights, IL: Harlan Davidson Inc., pp. 27-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main" xml:id="_Zn3sB2D">New and Old Models of Business Investment: A Comparison of Forecasting Performance</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oliner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rudebusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sichel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_RHJCTVc">Journal of Money, Credit and Banking</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="806" to="826" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Purchasing, various issues</note>
+	<note type="raw_reference">Oliner, S., Rudebusch, G. and Sichel, D. (1995). &quot;New and Old Models of Business Investment: A Comparison of Forecasting Performance.&quot; Journal of Money, Credit and Banking 27(3), 806-826. &quot;Purchasing&apos;s Leadtimes.&quot; Purchasing, various issues.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_syJMKTW">Fertilizer producers see break-even year</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rottenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Donahoe</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/cen-v049n006.p018</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uQJh7QS">Chemical &amp; Engineering News Archive</title>
+		<title level="j" type="abbrev">Chem. Eng. News Archive</title>
+		<idno type="ISSN">0009-2347</idno>
+		<idno type="ISSNe">2157-4936</idno>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="18" to="20" />
+			<date type="published" when="1971-02-08">1971. 28</date>
+			<publisher>American Chemical Society (ACS)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rottenberg, I. and Donahoe, G. (1971). &quot;Improved Deflation of Producers&apos; Durable Equipment.&quot; Survey of Current Business 55: 20-23, 28.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main" xml:id="_PMJX8rf">Bounded Rationality in Macroeconomics</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">J</forename><surname>Sargent</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oso/9780198288640.001.0001</idno>
+		<imprint>
+			<date type="published" when="1993-03-21">1993</date>
+			<publisher>Oxford University PressOxford</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sargent, T. J. (1993). Bounded Rationality in Macroeconomics. Oxford: Clarendon Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main" xml:id="_zkW5X8N">Towards a Unifying Methodological Framework for Econometric Modelling</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spanos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_SfeT7A8">Modeling Economic Series: Readings in Econometric Methodology</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Granger</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, U.K.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="335" to="364" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spanos, A. (1990). &quot;Towards a Unifying Methodological Framework for Econometric Modelling.&quot; In Modeling Economic Series: Readings in Econometric Methodology, Granger, C. (Ed.), Oxford, U.K.: Clarendon Press, pp. 335-364.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_HxmvKAJ">Current Population Survey: Annual Demographic File, 1996</title>
+		<idno type="DOI">10.3886/icpsr06907</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jCC3rQx">Economic Report of the President</title>
+		<imprint>
+			<publisher>Inter-university Consortium for Political and Social Research (ICPSR)</publisher>
+			<date type="published" when="1996">1997. 1996</date>
+		</imprint>
+	</monogr>
+	<note>Data Appendix</note>
+	<note type="raw_reference">U.S. Department of Commerce (1997). Economic Report of the President, 1996. Data Appendix.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_PCaxMGg">Head Office - Construction of new premises - 27 August 1915</title>
+		<idno type="DOI">10.47688/rba_archives_pn-000712</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_j2n4qtM">Construction Reports: Value of New Construction Put in Place (Series C30)</title>
+		<imprint>
+			<publisher>Reserve Bank of Australia</publisher>
+			<date type="published" when="1970-01">January 1970. October 1971. December 1978. August 1979. August 1980. August 1981. August 1984</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Commerce, Construction Statistics Division</orgName>
+		</respStmt>
+	</monogr>
+	<note>various issues</note>
+	<note type="raw_reference">U.S. Department of Commerce, Construction Statistics Division (various issues). Construction Reports: Value of New Construction Put in Place (Series C30). January 1970, October 1971, December 1978, August 1979, August 1980, August 1981, August 1984.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_9TX8Y6q">Perth - Construction of new premises, Forrest Place - Commencement of steelwork - 2 October 1930</title>
+		<idno type="DOI">10.47688/rba_archives_pn-000408</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_cre9mxC">Current Construction Reports: Value of New Construction Put in Place (Series C30)</title>
+		<imprint>
+			<publisher>Reserve Bank of Australia</publisher>
+			<date type="published" when="1992-10">1992. October</date>
+		</imprint>
+		<respStmt>
+			<orgName>U.S. Department of Commerce, Construction Statistics Division</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">U.S. Department of Commerce, Construction Statistics Division (1992). Current Construction Reports: Value of New Construction Put in Place (Series C30), October.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_68gUxmJ">Hayek&apos;s Theory of the Trade Cycle</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Wainhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_3nhHNKu">The Evidence from the Time Series</title>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+		<respStmt>
+			<orgName>New York University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. dissertation</note>
+	<note type="raw_reference">Wainhouse, C. E. (1984a). Hayek&apos;s Theory of the Trade Cycle. The Evidence from the Time Series. Ph.D. dissertation, New York University.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_u3xRSQQ">Empirical Evidence for Hayek&apos;s Theory of Economic Fluctuations</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Wainhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_cqwdNDA">Money in Crisis: The Federal Reserve, the Economy, and Monetary Reform</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Siegel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>San Francisco, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pacific Institute for Public Policy Research</publisher>
+			<date type="published" when="1984">1984b</date>
+			<biblScope unit="page" from="37" to="71" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wainhouse, C. E. (1984b). &quot;Empirical Evidence for Hayek&apos;s Theory of Economic Fluctuations.&quot; In Money in Crisis: The Federal Reserve, the Economy, and Monetary Reform, Siegel, B. N. (Ed.). San Francisco, CA: Pacific Institute for Public Policy Research, pp. 37-71.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main" xml:id="_g9pxrcQ">Orders, Production, and Investment-A Cyclical and Structural Analysis</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Zarnowitz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>National Bureau of Economic Research</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zarnowitz, V. (1973). Orders, Production, and Investment-A Cyclical and Structural Analysis. New York: National Bureau of Economic Research.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
