@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_cfhAvEH">Otto Neurath&apos;s Scientific Utopianism Revisited-A Refined Model for Utopias in Thought Experiments</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-03-23">23 March 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Alexander</forename><surname>Linsbichler</surname></persName>
+							<email>alexander.linsbichler@univie.ac.at</email>
+							<idno type="ORCID">0000-0003-4302-1357</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Economics and Department of Philosophy</orgName>
+								<orgName type="institution">University of Vienna</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ivan</forename><surname>Ferreira Da Cunha</surname></persName>
+							<email>ivan.fc@ufsc.br</email>
+							<idno type="ORCID">0000-0002-2060-2493</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Philosophy</orgName>
+								<orgName type="institution">Federal University of Santa Catarina</orgName>
+								<address>
+									<settlement>Florianópolis</settlement>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main" xml:id="_2dU5CUF">Otto Neurath&apos;s Scientific Utopianism Revisited-A Refined Model for Utopias in Thought Experiments</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2023-03-23">23 March 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5E8348523391585BED190D82CFFC17D5</idno>
+					<idno type="DOI">10.1007/s10838-022-09630-5</idno>
+					<note type="submission">Accepted: 29 July 2022 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term xml:id="_EkNr8QZ">Otto Neurath</term>
+					<term xml:id="_ESjG2eH">Utopia</term>
+					<term xml:id="_jGskcN9">Thought experiment</term>
+					<term xml:id="_MKZeGWx">Argument view</term>
+					<term xml:id="_ZVSmJdd">Platonism</term>
+					<term xml:id="_3X72HMA">Policy advice</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_zYZVx4M"><p xml:id="_erAPpxV"><s xml:id="_mfx4Z5X">Otto Neurath's empiricist methodology of economics and his contributions to political economy have gained increasing attention in recent years.</s><s xml:id="_RpmcN4u">We connect this research with contemporary debates regarding the epistemological status of thought experiments by reconstructing Neurath's utopias as linchpins of thought experiments.</s><s xml:id="_yty3zwv">In our three reconstructed examples of different uses of utopias/dystopias in thought experiments we employ a reformulation of Häggqvist's model for thought experiments and we argue that: (1) Our reformulation of Häggqvist's model more adequately complies with many uses of thought experiments, especially with the open-ended discussions of utopias and dystopias in thought experiments.</s><s xml:id="_BPmAsBQ">(2) As a strict logical empiricist, Neurath is committed to a strictly empiricist account of thought experiments.</s><s xml:id="_Yguxqee">John Norton's empiricist argument view can indeed account for the justifications of empirical beliefs and genuine discoveries targeted by scientific utopianism in three distinct (yet connected) ways, all of which Neurath already contemplated: (2.I) Dealing with utopias and thought experiments on a regular basis increases creativity and inventiveness.</s><s xml:id="_j3XYw48">(2.II) Particular ways of presenting knowledge facilitate scientific discovery and social progress.</s></p><p xml:id="_mgnSfBn"><s xml:id="_7tPYQ6Z">(2.III) The use of utopias in thought experiments can prompt conceptual change and allow access to new phenomena.</s><s xml:id="_XUKduz9">We conclude by highlighting that, even though thought experiments support a positive attitude for exploring new social possibilities, Neurath points out that active decisions are unavoidable.</s><s xml:id="_xrskHXG">The exploration of alternatives and the awareness of a need for decisions in policy discussion avert a technocratic outlook in social science.</s></p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1" xml:id="_CVt79ZV">Introduction</head><p xml:id="_VxMpDmf"><s xml:id="_hUVgBgd">Can we learn about the world just by exercising our imagination?</s><s xml:id="_Aw4r67U">One might answer negatively straight away.</s><s xml:id="_XR33avM">After all, our imagination can (at best) only provide knowledge of our own mental states.</s><s xml:id="_YPtrZF6">However, the use of thought experiments in investigations of domains as diverse as subatomic entities, consumer behavior, viral spread, personal identity, and moral responsibility seems to indicate otherwise.</s><s xml:id="_UxVUfqG">In the lively debate on "how can we learn about reality <ref type="bibr">[…]</ref> just by thinking?"</s><s xml:id="_bxV4wVC"><ref type="bibr" target="#b7">(Brown and Fehige 2017)</ref>, two seemingly extreme positions regarding thought experiments are in evidence: James Robert Brown's Platonism, according to which some thought experiments provide intuition of universals, and John Norton's empiricist stance sustaining that thought experiments are simply picturesque forms of arguments or, at least, that they are rationally reconstructible as such. <ref type="foot" target="#foot_0">1</ref> The debate developed as attempts to find a middle ground between the two extremes were devised.</s><s xml:id="_uG8y2Eb">A perspective that acquired relevance in this context is the view that thought experiments are operations with mental models (see <ref type="bibr" target="#b37">Miščević 1992;</ref><ref type="bibr" target="#b46">Nersessian 2018)</ref>.</s><s xml:id="_h5Ssgdx">At the same time, attention partially shifted towards the question of what can be reliably asserted in counterfactual scenarios (see e.g.</s><s xml:id="_eAxAuuW"><ref type="bibr" target="#b79">Williamson 2007;</ref><ref type="bibr" target="#b23">Häggqvist 2019)</ref>.</s><s xml:id="_AvVUEG4">Nevertheless, the worry about how to learn about reality just by imagining remains, as well as Brown's and Norton's outposts in the search for an account of how knowledge or understanding of the world can be obtained from an investigation in which no new empirical information has been introduced.</s><s xml:id="_qnfrRz4">This paper invokes Otto Neurath's scientific utopianism to understand how novelty arises in thought experiments.</s><s xml:id="_hDUt5nd">We maintain that Neurath's utopias can be understood as centerpieces of thought experiments.</s><s xml:id="_jvKYQh8">Indeed, not only Neurath's logical empiricist philosophy but expressly his economic theorizing was strongly influenced by a pioneer in the philosophy of thought experiments, Ernst Mach (see <ref type="bibr" target="#b42">Nemeth 2007)</ref>.</s><s xml:id="_MaSUKPF">There are at least three disciplinary approaches to analyze the use of utopias as part of thought experiments.</s><s xml:id="_DFnFbYn">The first is by considering utopias in (thought) experiments in political philosophy (see e.g.</s><s xml:id="_8ywxFx9"><ref type="bibr" target="#b38">Miščević 2018</ref>).</s><s xml:id="_r48M8bC">The second is to consider that utopias are part of thought experiments because, as Catherine <ref type="bibr" target="#b18">Elgin (2014)</ref> shows, many works of fiction and art can be so considered.</s><s xml:id="_yEHPNY2">This would emphasize the literary character of utopias.</s><s xml:id="_kbMEFrt">But utopias are not only pieces of political philosophy and of literature, as Neurath reminds us, so a third way is to conceive utopias as part of thought experiments in social science and technology.</s><s xml:id="_KKZRVGw">Each of these three disciplinary approaches can be carried out in different ways, according to the conception one assumes in regard to thought experiments.</s><s xml:id="_WF6ME7A">One can, for instance, consider that utopias are fictional narratives and so they can be understood as parts of thought experiments conceived in the context of mental modeling.</s><s xml:id="_XkexXNv">This approach can be employed to understand the use of utopias in social science and technology and so to account for the uses of fiction in scientific contexts.</s><s xml:id="_g4hUa2G">However, although interesting and fruitful, such an outlook does not exclude the possibility of rationally reconstructing utopian thought experiments as arguments, as Norton proposes <ref type="bibr" target="#b5">(Brendel 2018)</ref>.</s><s xml:id="_88QagJc">Whatever the merits of conceiving of thought experiments as fictional narratives are, this paper focuses on the approach which rationally reconstructs thought experiments as arguments.</s></p><p xml:id="_PGV6ehH"><s xml:id="_RWbqshU">The next section presents Neurath's utopianism.</s><s xml:id="_w9dt6ZT">Section 3 briefly presents the debate between Brown and Norton and refines Sören Häggqvist's model of thought experiments.</s></p><p xml:id="_npCkBj2"><s xml:id="_nnN7nvA">By the application of our reformulation of Häggqvist's model to one utopian and one dystopian example we will obtain insights on utopianism and on the argument view of thought experiments.</s><s xml:id="_urAz4b4">Finally, Sect. 4 provides a third example and a Neurathian answer to the question as to how we can learn about the world just by using our imagination.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2" xml:id="_4rb3jpw">Neurath's Utopias</head><p xml:id="_TbrjKGh"><s xml:id="_nn572Xz">It is much more sensible to describe as utopias all orders of life which exist only in thought and image but not in reality, and not to use the word 'utopias' as expressing anything about their possibility or otherwise.</s><s xml:id="_4hH9hYn">Utopias could thus be set alongside the constructions of engineers, and one might with full justice call them social technological constructions <ref type="bibr" target="#b56">(Neurath 1919</ref><ref type="bibr">(Neurath /1979, 235), 235)</ref>.</s></p><p xml:id="_6CvetK3"><s xml:id="_YS58Vbj">Otto Neurath wrote these words in a text published over a century ago.</s><s xml:id="_Zz6ax82">His perspective is that social-scientific research can contribute to shaping the social order of the future.</s><s xml:id="_xJhFJtM">Accordingly, Neurath proposes that social science should inquire into different, imaginative social arrangements regardless of their practicability at the current technological and economic status and regardless of the likelihood of actualization of such new arrangements.</s><s xml:id="_QCbuwqC">By calling these exercises of creativity in social thought not only "conceived constructions" <ref type="bibr">(Neurath 1922, 55</ref>), but also "utopias", Neurath seeks to link this proposed scientific effort to the literary tradition of Thomas More, Étienne Cabet, Edward Bellamy, and others <ref type="bibr" target="#b56">(Neurath 1919</ref><ref type="bibr">(Neurath /1979, 236) , 236)</ref> in order to establish a scientific utopianism <ref type="bibr" target="#b66">(Neurath 1944</ref><ref type="bibr" target="#b66">(Neurath /1970))</ref>.</s><s xml:id="_UWGxrPG">The task of utopianist scientific research, as Elisabeth <ref type="bibr" target="#b45">Nemeth (1982</ref><ref type="bibr">Nemeth ( /1991, 285-286) , 285-286)</ref> explains, is "to develop 'groups of utopias' and to make transparent the differences between these models in a 'comparative utopistics'". 2</s><s xml:id="_uNYe7P4"> In Neurath's case, any reproach of logical positivism as an apologetics of the (politically) given is entirely misplaced.</s><s xml:id="_zsppG9B">Neurath believes that "utopias as social engineering constructions <ref type="bibr">[…]</ref> can make the mind flexible and free it from accidental notions" <ref type="bibr" target="#b56">(Neurath 1919</ref><ref type="bibr">(Neurath /1979, 239), 239)</ref>.</s><s xml:id="_dJbbc46">Comparative utopistics can contribute to a broad debate on how to shape the social order of the future by presenting and comparing a variety of alternatives to the existing social order.</s><s xml:id="_5N2rupP">Hence, Neurath projects that social scientific research will acquire a technological orientation towards new arrangements and institutions.</s><s xml:id="_erHXbG2">The scientific study of utopias, Neurath continues, "would serve our young people better than traditional economic theory and sociology, which, being restricted to the past and the accidental present, were in no way able to cope with the tremendous upheavals of war and revolution" <ref type="bibr" target="#b56">(Neurath 1919</ref><ref type="bibr">(Neurath /1979, 240), 240)</ref>.</s></p><p xml:id="_DgsKsGQ"><s xml:id="_7D2BZVJ">Contemporary technological and social-scientific efforts directed at establishing public policies notwithstanding, we are far from a Neurathian comparative utopistics.</s><s xml:id="_44d6myy">By stressing a continuity between technological, scientific, and literary or philosophical efforts to enhance social order, Neurath's proposal concentrates efforts on social thought and highlights a methodological feature of the utopian tradition, that of taking into account the 2 Neurath's conception of utopia not only diverges significantly from our standard view but also from influential conceptions of his own time.</s><s xml:id="_nGRc3MP">For instance, <ref type="bibr" target="#b61">Neurath (1930</ref><ref type="bibr" target="#b61">Neurath ( /1981) )</ref> heavily criticizes <ref type="bibr" target="#b36">Mannheim (1929</ref><ref type="bibr" target="#b36">Mannheim ( /1936</ref>) for neglecting the scientific potential of utopian literature.</s><s xml:id="_GMV3j22">An exhaustive presentation of scientific utopianism in the context of Neurath's thought is beyond the aims of this article.</s><s xml:id="_SJEqFTv">Thorough discussions can be found in <ref type="bibr" target="#b77">Uebel 2008;</ref><ref type="bibr">Nemeth &amp; Stadler 1996;</ref><ref type="bibr" target="#b9">Cartwright et al. 1996.</ref></s><s xml:id="_Us8SW5G">consequences that small social reforms entail in many parts of a community.</s><s xml:id="_wMhJHpZ">Neurath's scientific utopianism is neither restricted to comparing comprehensive social orders nor to full socialization, but amenable to piecemeal engineering as well.</s><s xml:id="_wZYcFvV">Some of his respective thought experiments compare how different wind directions <ref type="bibr">(1917/2004, 317)</ref> or different actions on part of the gardener <ref type="bibr">(1910/2004, 289)</ref> affect fruit trees and thus human wellbeing.</s><s xml:id="_WTe7NbD">As a more customary example, a utopian approach considers that installing a public health center can only represent an improvement in a community's living conditions if accompanied by adjustments in the systems of sanitation, public transportation, and even in the electric power transmission-moreover, people must be informed of the potentials and limitations of the now-available medical care.</s><s xml:id="_qeQPcSC">As proposals of alternative social devices, utopias account for the fact that social situations are Ballungen (aggregates or clusters) of many interwoven aspects that can only be properly studied by a plurality of disciplines.</s><s xml:id="_q3hTRuw">In short, the work with utopias constitutes an interdisciplinary approach that looks into social problems from a wider perspective-even if in relation to a small community.</s></p><p xml:id="_GPTzVQp"><s xml:id="_QCv8BPG">In considering comparative utopistics, that is, the establishment of a debate in which utopias are created and compared, we are dealing with investigations that use imaginary tools.</s><s xml:id="_yQS2Td4">A fruitful way to account for that is by characterizing utopias as centerpieces of thought experiments.</s><s xml:id="_n4weqn6">As a matter of fact, such use is already discernible in Neurath's perspective, although, obviously not in this contemporary terminology.</s><s xml:id="_SUjzqWR">Neurath claims that in utopias "individual elements […] are endowed with qualities which do not occur in real life or with real-life qualities, but in connections and in relation to transfers that so far have not occurred" <ref type="bibr" target="#b55">(Neurath 1917</ref><ref type="bibr">(Neurath /2004, 319-320), 319-320)</ref>.</s><s xml:id="_wwDXfCW">That is, scientific utopianism is to deal with counterfactual situations by elaborating groups of models which do not aim at a faithful representation of existing aspects of society but imagine counterfactual social systems in which for instance certain policies are implemented.</s><s xml:id="_8hw8dkZ">Nevertheless, Neurath conceives a way to obtain knowledge of concrete situations, as he continues: "while possible worlds are thus admitted, it is also advisable to see to it that the system of models contains some [such models] from which conclusions about reality can be drawn" (Neurath 1917/2004, 320). 3</s><s xml:id="_JTMyXZb">  3 Utopias as the Linchpin of Thought Experiments</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1" xml:id="_nwVdSSH">Thought Experiments as Arguments</head><p xml:id="_tVRHeg8"><s xml:id="_AGpnMyk">A divisive problem of contemporary philosophy is to give an epistemological account of thought experiments.</s><s xml:id="_8eqJXQj">How can their conclusions be justified?</s><s xml:id="_AVZFWw8">And if such a justification appeals to new data allegedly provided by thought experiments, then how can thought experiments produce new data?</s><s xml:id="_S6HJ5E5">More generally, "how can we learn about reality […] just by thinking?"</s><s xml:id="_T9F3yWQ"><ref type="bibr" target="#b7">(Brown &amp; Fehige 2017)</ref>.</s><s xml:id="_3my3Xb3">As briefly stated in the introduction, the current debate revolves around two focal points.</s><s xml:id="_Vet3anV">The first is James Robert Brown's stance that thought experiments, in certain special cases, work similarly to (one account of) mathematical intuition by "allowing us to grasp the relevant universals" <ref type="bibr" target="#b8">(Brown 1991</ref><ref type="bibr">(Brown /2011, 107), 107)</ref>.</s><s xml:id="_n7b2beq">By accessing this Platonic realm, we allegedly have the possibility of obtaining intuited data from a plurality of sources and, hence, we are supposed to be able to justify conclusions from thought experiments, particularly in physics and philosophy (see Grundmann 2018 for a presentation and critical discussion).</s></p><p xml:id="_A5gMx2c"><s xml:id="_NcMZ3SC">The second is John Norton's empiricist position of taking thought experiments to be arguments.</s><s xml:id="_VhfjmyG">By "reducing" thought experiments to arguments, he purports to explain the justification of contingent propositions which a successful thought experiment appears to provide.</s><s xml:id="_BvMGQAs">As Elke <ref type="bibr" target="#b5">Brendel (2018)</ref> explains, this claim of "reducibility" can have at least five meanings: (i) that thought experiments are type-identical with arguments; (ii) that thought experiments can be rationally reconstructed as arguments that yield the same outcome; (iii) that thought experiments have the same epistemic power as arguments; (iv) that the conduction of a thought experiment is the execution of an argument; (v) that the outcomes of thought experiments result from procedures that preserve truth or probability, as in arguments.</s><s xml:id="_QCpzJX7">Based on <ref type="bibr">Brendel's and Gendler's (2000, 34-39)</ref> further analyses of the reconstruction thesis, we can identify different interpretations of the reconstruction thesis (ii): one that includes the claim (ii-a) that the justificatory force provided by a thought experiment stems from and can only be explained by the justificatory force provided by a reconstructed non-thought-experimental argument.</s><s xml:id="_WjQn7nQ">Hence, "a thought experiment is a 'reliable mode of inquiry' only if the argument into which it can be reconstructed justifies its conclusion" <ref type="bibr">(Brendel 2018, 283)</ref> and, therefore, thought experiments can arguably be eliminated.</s><s xml:id="_aEphzyH">Another interpretation of (ii) is limited to (ii-b) that a thought experiment can be reconstructed as a (non-thought-experimental) argument that yields the same outcome, regardless of justificatory force.</s><s xml:id="_y8YH8zQ">For the purpose of this paper, we will focus mainly on the rather weak thesis (ii-b). <ref type="foot" target="#foot_2">4</ref></s><s xml:id="_emR7kMj">We will also draw on a weaker variant of the execution thesis (iv), namely that the conduction of a thought experiment can be reconstructed and understood as the conduction of an argument.</s><s xml:id="_u9CtTyN">We do not intend further commitment to stronger theses, such as the identity claim (i) that thought experiments are identical to arguments.</s><s xml:id="_MKQKSWb">While Brown's Platonism accounts for the discovery of new data and for the justification of conclusions obtained by a thought experiment by means of abstract intuition, <ref type="bibr" target="#b69">Norton's (1996;</ref><ref type="bibr">2004a)</ref> proposal focuses on the reconstruction of definitions, of descriptions of (possible) experience, and of other presuppositions of a thought experiment.</s><s xml:id="_nQBuUZu">They all enter a deductive or inductive argument to be reconstructed from the thought experiment as premises.</s><s xml:id="_vu5WrPB">The conclusion of the argument then becomes justified relative to the premises (and the rules of inference).</s><s xml:id="_mjm4983">The empiricist tone of Norton's argument view seems to be most suitable for engaging thought experiments involving Neurath's utopias.</s><s xml:id="_utUduRB">Accordingly, we will characterize Neurath's utopias as centerpieces of arguments and, as such, as parts of processes of reasoning in Sect.</s><s xml:id="_Uz9vbeD">3. As our discussion in Sect. 4 will show, the further exploration and reorganization of theoretical structures, as well as the new descriptions of previously known data, can lead thought experimenters to establish new knowledge.</s><s xml:id="_a4a4fEp">Freshly devised or already held beliefs are justified by inferring them from known or hypothetical premises.</s><s xml:id="_tCBWhvE">Section 4 will also convey Neurath's claim that the attitude and practice of scientific utopianism facilitates genuine discoveries.</s></p><p xml:id="_y3BmUeK"><s xml:id="_QH7KpAP">We will build upon an important development close to Norton's weaker reconstruction thesis (ii-b) of thought experiments, obtained by Sören <ref type="bibr" target="#b22">Häggqvist (2009)</ref>.</s><s xml:id="_fUSV5vH">His perspective emphasizes similarities of thought experiments with "actual" experiments for tests of hypotheses and theories-in contrast to other uses such as thought experiments as illustrations or explanations.</s><s xml:id="_k2j6C6u">In Häggqvist's view, many thought experiments can be regimented in the following schema <ref type="bibr">(Häggqvist 2009, 63)</ref>. in which C is the counterfactual scenario that the thought experiment describes as possible (first line); T, the theory to be tested, implies that if C were the case, then a state of affairs W would be the case (second line).</s><s xml:id="_RYGnJsY">However, the thought experiment shows that if C were the case, then it would not be the case that W (third line).</s><s xml:id="_Cm2rwBX">Since T is committed to W, and since W is shown to be false in the counterfactual scenario, the thought experiment concludes that T is false (fourth line).</s><s xml:id="_sK5MsEE">Instances of this argument schema are valid arguments for usual semantics of counterfactuals.</s></p><p xml:id="_ukXStJ7"><s xml:id="_r5UsFxU">It is common that defendants of a theory argue against a thought experiment.</s><s xml:id="_FjBK5dX">Häggqvist's schema takes into account the argumentative possibility of rejecting the thought experiment.</s><s xml:id="_QPrAzVM">That is, the proponents of a thought experiment argue that the theory T is false.</s><s xml:id="_C6e776u">But their opponents, of course, might wish to save the theory T. So they may argue that concluding that it is not the case that if C were the case, then non-W would be the case.</s><s xml:id="_4e7EmXA">They may also argue that the theory T is not committed to (W, if C were the case).</s><s xml:id="_HvRNmFY">Another possibility, still according to <ref type="bibr">Häggqvist (2009, 65-68)</ref>, is to claim that the counterfactual state C is not possible:</s></p><p xml:id="_eAbg2Da"><s xml:id="_hhQT468">One way of looking at Häggqvist's model for thought experiments is that each thought experiment is linked to four possible types of arguments.</s><s xml:id="_fNQRQrF">Indeed, since the argument view would suggest that each thought experiment is linked to exactly one argument type, <ref type="bibr">Häggqvist (2009, 61)</ref> concludes that the identity thesis (i) of the argument view of thought experiments is not quite correct.<ref type="foot" target="#foot_3">foot_3</ref></s><s xml:id="_uAdfYJg">However, a one-to-one correspondence between thought experiments and argument types could be upheld by slightly reformulating Häggqvist's model for thought experiments. <ref type="foot" target="#foot_4">6</ref></s><s xml:id="_rnQnwHf">Moreover, we maintain that the reformulation adequately complies with many uses of thought experiments, especially with the open-ended discussions of utopias and dystopias.</s></p><p xml:id="_96wVyzW"><s xml:id="_BQmpKeq">Häggqvist expounds how one thought experiment can be reconstructed as one of four argument types, each of which negates one of the claims T, ◊ C, T → (C □ → W), or C □ → ¬ W. We propose another way of putting this, namely that one thought experiment can be reconstructed as one (meta-)argument to the effect that the set of claims {T, ◊ C, T → (C □ → W), C □ → ¬ W} is inconsistent.</s><s xml:id="_vkVNAmX">The meta-argument for inconsistency can be specified as an argument with premises and a contradictory conclusion (see also Sect.</s><s xml:id="_3DRxg5T">4.3 for a specific example):</s></p><p xml:id="_H9Rqt6A"><s xml:id="_TUfdBSR">Since an inconsistency allows the inference of any sentence and its negation, this poses a problem.</s><s xml:id="_7mf5fCU">After all, we do not want to collapse the system of our descriptive beliefs or of our evaluations. <ref type="foot" target="#foot_5">7</ref></s><s xml:id="_mKanamc">From this perspective, a thought experiment exhibits an inconsistency and urges the addressee to reject at least one of the four claims T, ◊ C, T → (C □ → W), or C □ → ¬W.<ref type="foot" target="#foot_6">foot_6</ref></s><s xml:id="_DmvWU9H">However, the decision which of the four claims to discard is not logically determined by the thought experiment.</s></p><p xml:id="_qrhwbkC"><s xml:id="_YuMtWfH">Our approach is partially in line with <ref type="bibr">Gendler's (2000, 59-62)</ref> criticism of Norton (and Brown) insofar as both of them sometimes pay insufficient attention to different alternatives how to resolve the inconsistency revealed by a thought experiment.</s><s xml:id="_5MDksaf">In their discussions of the paradigm example of Galileo's falling objects and perhaps also in the case of Russell's antinomy Norton and Brown typically present only one solution to the inconsistency although "the reductio tells us that something is wrong […] but it does not tell us what is wrong" <ref type="bibr">(Gendler 2000, 62)</ref>.</s><s xml:id="_EgUQ64W">Notwithstanding some amendable presentations, <ref type="bibr">Norton (2004a, 59</ref>) (and arguably Brown) fully acknowledge that in reductio arguments, "[i]n principle, any of the premises of the argument-tacit or explicit-may be taken to have been refuted" and embrace this as a property of the argument view.</s><s xml:id="_4EkYhph">Merely relying on intuition can be misleading; further arguments are necessary to support a decision how to resolve a revealed inconsistency.</s><s xml:id="_bC9yRSW">By contrast, Gendler's constructivism purports to offer an account of how the scenario of a thought experiment correctly guides the contemplation of a constructively participating reader to specific insights on how to reconfigure her internal conceptual space, which premise to drop, or how to adapt her inconsistent beliefs.</s><s xml:id="_VEMJz8Q">Yet, if the epistemic force of this guide to the correct response cannot be reconstructed as an argument, it is not clear why it would be credible or reliable (see <ref type="bibr">Gendler 2000, 33-63;</ref><ref type="bibr">Norton 2004a, 58-59;</ref><ref type="bibr">2004b</ref><ref type="bibr">, 1148</ref><ref type="bibr">-1149)</ref>.</s><s xml:id="_tyBxa9K">Moreover, from Neurath's anti-Kantian perspective, Gendler's constructivism would likely have to be rejected for not being strictly empiricist.</s><s xml:id="_YFdu7hh">Accordingly, <ref type="bibr">Gendler (2000, 151)</ref> refers to Norton's argument view as "immoderate empiricism".</s></p><p xml:id="_cVdpyS3"><s xml:id="_7uzCqmD">In any case, we would like to highlight one consensus between Gendler, Norton, and our reformulation of Häggqvist's model: a thought experiment does not logically determine a unique course of action.</s><s xml:id="_h2ZCBHF">We maintain that this openness adequately reflects the ubiquitous disagreements about the conclusions to be drawn from many thought experiments in literature, philosophy, and the sciences.</s><s xml:id="_2cXyu7E">In fact, many thought experiments elicit quite different reactions to the revealed inconsistency.</s><s xml:id="_EKPjS5y">While Häggqvist reconstructs the four types of reactions as arguments, our perspective treats them as four types of decisions in light of one (meta-)argument.</s><s xml:id="_E93yWeS">All our examples could easily be reconstructed using Häggqvists original perspective as well; <ref type="bibr">Häggqvist (2009, 65)</ref> even uses the phrase four "ways of resolving the inconsistency".</s><s xml:id="_5jAh38W">Yet, it is very much in Neurath's spirit to accentuate the indispensable and oftentimes hidden role of decisions in science.</s><s xml:id="_2UVGjR3">In <ref type="bibr">Sects. 3.3,</ref><ref type="bibr">3.4,</ref><ref type="bibr">and 4</ref>.3, we exemplify how the use of utopias in thought experiments fits our reformulation of Häggqvist's model.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2" xml:id="_DWH95ve">Neurath and Thought Experiments</head><p xml:id="_ggAvVKq"><s xml:id="_ESSPhmu">As stated above, Neurath's scientific utopianism proposes that utopian thought experiments can and should be used in social scientific research and policy debate.</s><s xml:id="_xKZ55M4">We will apply our reformulation of Häggqvist's model of thought experiments to utopias and dystopias.</s><s xml:id="_cmtsKBB">Firstly, this demonstrates the fruitfulness of the model; secondly, we gain insights on Neurath's utopianism. <ref type="foot" target="#foot_7">9</ref></s><s xml:id="_BhkBz5c">t is important to remark that a utopia is to be regarded as the linchpin of a thought experiment, albeit not the entire thought experiment.</s><s xml:id="_hNvkkrf">Utopias are merely presentations of counterfactual (and hence logically possible) situations.</s><s xml:id="_5ZbhQRj">A thought experiment considers a usually stronger, e.g.</s><s xml:id="_Q3U24ET">physical, claim of possibility for said utopia (◊C in Häggqvist's formulation), in an inquiry together with other claims involving this stronger sense of possibility, such as T, T → (C □ → W), and C □ → ¬W.</s><s xml:id="_bbV7AyW">It is the combination of these three elements and ◊C which amounts to a full thought experiment in Häggqvist's model and in our reformulation thereof.</s><s xml:id="_emvuwhe">Besides, while utopias can be used in thought experiments, that is not their only application, and not even the main or most frequent context in which people reflect about them.</s></p><p xml:id="_TtG76Cb"><s xml:id="_PnBqmn5">Oftentimes, utopists try to show particular outcomes of implementing plans and that the outcome is not what our prevalent understanding of society regards as a typical or necessary consequence of C. Therefore, many utopists not only present ◊C, but also argue that C □ → ¬W.</s><s xml:id="_7a4JHDU">More precisely, utopists illustrate that if a counterfactual situation C were 1 3 the case, it would have some particular state of affairs as an outcome, part of which is described by ¬W.</s><s xml:id="_XzWVRTg">However, especially in literary utopias, the likelihood of the described outcome and what to conclude from the general understanding of society are sketchy at best.</s></p><p xml:id="_ZcCvGrB"><s xml:id="_yKY29g4">Utopian narratives do not typically include a presentation of T, that is, of our (theoretical or common) understanding of how social arrangements work.</s><s xml:id="_4Za9tnu">To mention some famous examples, Thomas More does not explain the underlying theories of state and economy of his time, neither does Aldous Huxley enter into much detail of the social science behind the Brave New World (see <ref type="bibr">Berneri 1950</ref><ref type="bibr">Berneri /1971</ref>).</s><s xml:id="_M3qz8hy">In addition, utopian narratives do not usually present the implication T → (C □ → W) that the assumed theory entails that, if the utopian scheme were the case, some particular state of affairs would follow.</s><s xml:id="_kq8g3nU">These two implicit elements (T, as well as the implication T → (C □ → W)) are fundamental for readers to have an experience of the utopia as part of a thought experiment.</s><s xml:id="_a2sz4PB">In short, utopias can be regarded as works of art, and then their presuppositions may or may not be of consequence, but they can also be regarded as pieces of social philosophy or of social science (see <ref type="bibr" target="#b78">Vieira 2010)</ref>.</s><s xml:id="_FyQ4vQp">In this latter use, utopias are centerpieces of thought experiments-and according to Norton's argument view, these thought experiments can be reconstructed as arguments. <ref type="foot" target="#foot_8">10</ref></s><s xml:id="_UzVjGA3">he role of utopias in thought experiments will become clearer with the following examples: Sect.</s><s xml:id="_XdxUW6v">3.3 presents the use of a Neurathian utopia in a thought experiment in its simplest form.</s><s xml:id="_KKv4MmJ">A more sophisticated version will come up in Sect. 4. The dystopian example in Sect.</s><s xml:id="_hdSSjpd">3.4 showcases the advantages of our reformulation of Häggqvist's model and hints at some intricacies of the role of evaluations in thought experiments.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3" xml:id="_x3C3wre">Example U: Neurathian Utopia, Simple Case</head><p xml:id="_UcWCv4x"><s xml:id="_7utuvRf">Our first example reconstructs the use of a Neurathian utopia in a thought experiment as an argument that makes it explicit that the set {T U , ◊C U , T U → (C U □ → W U ), C U □ → ¬W U } is inconsistent.</s><s xml:id="_TgyD5yg">An explication of the four components T U , ◊C U , T U → (C U □ → W U ), and C U □ → ¬W U will be sufficient to apprehend the inconsistency.</s></p><p xml:id="_nmHn6cX"><s xml:id="_Dr2DqdG">T U : T U is the political and economic background theory Neurath perceives to be dominant at his time.</s><s xml:id="_qpd9eSB">According to T U , private property of the means of production and capitalistic profit calculation bring about optimal overall outcome.</s><s xml:id="_dSYJWbQ">For the sake of argument, we follow Neurath in roughly identifying such a capitalistic state of affairs with the actual situation A in his time.</s></p><p xml:id="_cu3t7Ea"><s xml:id="_4W6sHhz">◊C U : The counterfactual situation C U is one of Neurath's utopias, i.e. an outline of one of several possible ways of socialization (see e.g.</s><s xml:id="_8B3Vx8q"><ref type="bibr" target="#b57">Neurath 1920</ref><ref type="bibr">Neurath /2004, 347-356), 347-356)</ref>.</s><s xml:id="_bsjay4m">Subsequently, the typical outcome of this communizing or socializing of the means of production is scientifically investigated. <ref type="foot" target="#foot_9">11</ref></s><s xml:id="_W3SzEp5">Neurath's scientific utopias stand out due to their comparatively elaborated analysis of the outcome in utopian social orders.</s><s xml:id="_eeshD7U">From Neurath's perspective, the inquiry of the outcome has to encompass many different, irreducible dimensions, which he called "conditions of life".</s><s xml:id="_9fDv4WH">They may for instance include housing conditions, infant mortality, illiteracy, leisure hours, likelihood of illness, hygiene, the use of radio sets, opportunities for amusement, and nutrition.</s><s xml:id="_YqVg54W">Prospected effects on these "conditions of life" are investigated and presented in Neurath's "universal statistics" <ref type="bibr" target="#b58">(Neurath 1921</ref><ref type="bibr">(Neurath /2004))</ref>.</s></p><p xml:id="_epaNVud"><s xml:id="_GgzcDUc">T U → (C U □ → W U ): Let W U be the sentence that any typical overall outcome of adopting the social order C U is inferior to (the predicted future outcome of) the actual situation A. Then it holds trivially that if private property of the means of production brings about optimal overall outcome, then (if the socialization schema C U were implemented then its typical overall outcome would be inferior to the capitalistic A).</s></p><p xml:id="_wS6cPnv"><s xml:id="_8eWBrvw">C U □ →¬W U : A careful study of C U along many dimensions of welfare shows that living conditions in the utopia are overall not inferior to living conditions in A. Note that Neurath insists on a subjective element here.</s><s xml:id="_8V6JvcM">The many dimensions of welfare should not be weighed to allow for an algorithmic decision, but rather reflected and deliberated upon in a democratic process <ref type="bibr" target="#b44">(Nemeth 2019;</ref><ref type="bibr">Neurath 1996, 249-261;</ref><ref type="bibr">O'Neill 2007, 188-195)</ref>.</s><s xml:id="_XHzCNfG">However, the appraisal of a vast majority preferring the overall outcome of reasonable planning schemata to the overall outcome of capitalism seemed obvious to Neurath. 12  While logically all other possibilities to dissolve the inconsistency of {T U , ◊C U , T U → (C U □ → W U ), C U → ¬W U } are available, example U neatly represents the standard case in Häg- gqvist's schema, i.e. an attack on the theory T U .</s><s xml:id="_s6sUJDY">Part of T U is the sentence that capitalism is the most "efficient" and welfare-benefiting arrangement, which Neurath challenged in imaginary and also in real-life experiments during his time in the Munich Soviet Republics.</s><s xml:id="_FBU4WbS">One main function of Neurath's scientific utopias is to challenge and ultimately reject those parts of the political and economic theory T U which maintain that private property of the means of production and capitalistic profit calculation bring about optimal overall outcome.</s><s xml:id="_MDrTstS">According to Neurath, the ensuing political consequence would be to implement the planning schema C U (while continually considering alternative planning schemata): "He who deduces an order which provides more pleasure than our present one becomes a scientific utopian.</s><s xml:id="_XXBFTzf">His views can stimulate himself or others to actualize that order" <ref type="bibr" target="#b52">(Neurath 1911</ref><ref type="bibr">(Neurath /1998, 517), 517)</ref>.</s></p><p xml:id="_vRzXjgV"><s xml:id="_zXJZ5jr">Thought experiment U does not establish an unconditional imperative to implement socialism-arguably, neither does any other thought experiment in regard to any topic or socio-economic order. 13</s><s xml:id="_4uE7SFb">The logical structure of thought experiment U does not even imply which specific part of T U to drop or whether T U has to be changed in the first place.</s><s xml:id="_9c5XEWx">Alternatively, the truth of any other premise can be challenged, with the empirical claim C U □ → ¬W U being a plausible candidate for a false premise; i.e. one could argue that the liv- ing conditions in the socialist utopia would actually be inferior to the actual living conditions.</s><s xml:id="_3EqU4EC">Our next example explores different options of how to deal with the inconsistency revealed by dystopian thought experiments.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4" xml:id="_aXKMH2b">Example D: Dystopian Novels</head><p xml:id="_RQXzt5Q"><s xml:id="_Z5bKSN2">Dystopian novels contain or trigger another group of thought experiments. 14</s><s xml:id="_CV89M7n">The epistemic value of literary dystopias is comparable to that of scientific utopias as Cunha (2015, 12 Neurath attacked capitalistic production mostly for being chaotic and unplanned (see <ref type="bibr" target="#b59">Neurath 1925</ref><ref type="bibr">Neurath /2004</ref>).</s><s xml:id="_6PVz24V">One might wonder whether Neurath considered these traits as inherently negative or restricted his judgment on the allegedly ensuing effects on social welfare and well-being.</s><s xml:id="_SgkHTVa">Likewise, it could be disputed whether authors on the opposing side of the debate, like Hayek, esteem the unplanned, spontaneous order of the market only for its effects or also partly for its own sake. 13</s><s xml:id="_nE3WAzN">Cf.</s><s xml:id="_C7PQSfT"><ref type="bibr" target="#b62">Neurath (1931</ref><ref type="bibr">Neurath ( /1983, 89), 89)</ref>: "A command can never be deduced from a system of statements". 14</s><s xml:id="_m8cxG6E">Note that Neurath uses the term "utopia" idiosyncratically without evaluative connotations: "[W]e suggest using the term 'utopia' for any kind of invented order, pleasant or unpleasant, plausible or implausible, for maker and reader" <ref type="bibr" target="#b66">(Neurath 1944</ref><ref type="bibr">(Neurath /1970, 31), 31)</ref>.</s><s xml:id="_eMJEXnP">Hence, in Neurath's nomenclature, dystopias are utopias as well.</s><s xml:id="_KR52FZr">Other famous examples include Orwell's Animal Farm, Rand's Anthem or Le Guin's The Dispossessed.</s><s xml:id="_MbbhAm2">Typically, a dystopian novel starts by outlining a counterfactual social system which prima facie appears desirable.</s><s xml:id="_9cMJQMw">However, as the story unfolds, the protagonists face hitherto neglected aspects of that social system.</s><s xml:id="_pE4qQJk">These unintended developments of the dystopian system urge the reader to reevaluate her initially positive appraisal of the situation. 15</s><s xml:id="_aB6YAPS"> Our reformulation of Häggqvist's model for thought experiments allows for a viable reconstruction of the typical overarching argument of a dystopian novel as an argument that makes the inconsistency of the set {T D , ◊C D , T D → (C D □ → W D ), C D □ → ¬W D } explicit.</s><s xml:id="_q2T2CKM">Our perspective remains faithful to the startling experience which some dystopian novels provoke.</s><s xml:id="_5WBxexj">In many dystopian novels, the author does not prescribe an obvious conclusion but stimulates reflection and discussion.</s><s xml:id="_gjM5GSp">The reader realizes that her beliefs or evaluations are challenged, but it is up to her which ones to adapt or discard.</s><s xml:id="_hm5Tc2Z">We will discuss reactions to dystopian novels along Häggqvist's four options, but let us start with a brief reconstruction of the four premises of the argument:</s></p><p xml:id="_JmJ5U6w"><s xml:id="_mrpCJPj">T D : The background theory T D includes the sentence that certain technological, legislative, organizational, or ethical principles p 1 , p 2 , p 3 and their typical consequences are overall desirable (according to a given group of persons). 16</s><s xml:id="_PQT8PEN">In Huxley's Brave New World, to use a widely famous example, some readers and arguably many of the fictional inhabitants may initially hold such a background theory T D , including the belief that a better society would be obtained by implementing scientific techniques, such as genetic engineering, psychological conditioning, and treatments with psychoactive drugs.</s><s xml:id="_KwcPDyt">A resulting society is regarded as "better" because it warrants that every citizen has a job, social life, and entertainment-and also that everyone is happy about it.</s><s xml:id="_kEVcQ6k">If a reader neither contemplates any such background theory T D nor interprets the fictional characters as contemplating parts of T D , thought experiment D does not enrich her perusal of the novel (see <ref type="bibr">Huxley 1932</ref><ref type="bibr">Huxley /2006))</ref>.</s></p><p xml:id="_nX2c9VA"><s xml:id="_2CSMGFP">◊C D : In the counterfactual, but possible situation C D the principles p 1 , p 2 , p 3 are implemented in the social order.</s><s xml:id="_4jHwD9T">Huxley's imaginary Brave New World presents a whole aggregate of many different kinds of technology.</s><s xml:id="_qmybSMw">From videophones and flying machines to educational, psychological and pharmacological technology-besides the pivotal genetic engineering.</s></p><p xml:id="_ukgCH6a"><s xml:id="_hmQecTY">T D → (C D □ → W D ): Let W D be the sentence that any typical overall outcome of implementing the principles p 1 , p 2 , p 3 is desirable.</s><s xml:id="_ak5gBsz">Then the full sentence states: If the typical 15 Some utopian novels like Smith's The probability broach work inversely: pleasant surprises challenge initially gloomy suppositions. 16</s><s xml:id="_ERCMgJc">Throughout the paper, "desirability" is relativized to a group of persons.</s><s xml:id="_KNbKgGs">Thereby, all the sentences in our thought experiments remain descriptive and we bypass the many ensuing difficulties of normative sentences in arguments.</s><s xml:id="_wcZ5fWA">Indeed, one person's utopia may be another's dystopia as H.G. Wells' A Modern Utopia explores (see also <ref type="bibr" target="#b74">Stadler &amp; Neurath 2021)</ref>.</s><s xml:id="_sh7XFAd"><ref type="bibr" target="#b68">Neurath (1945</ref><ref type="bibr">Neurath ( /2004, 548, 548</ref>) also acknowledges the relativity of valuation to persons, for instance when he contemplates people's expected choices between full employment in a system of "dictatorial planning, based on totalitarian fascism" on the one hand and "painful market society" with "the usual booms and slumps" on the other.</s><s xml:id="_Db4Zxz9">The methodological, epistemological, and ontological difficulties of dealing with individual and aggregate valuations, as well as with the logic of normative statements, are beyond the scope of this paper.</s><s xml:id="_e3Z96Na">consequences of p 1 , p 2 , p 3 are desirable, then (if p 1 , p 2 , p 3 were implemented, then any typical overall outcome of p 1 , p 2 , p 3 would be desirable).</s><s xml:id="_p3pRfNM">Note that T D implies W D , hence T D also implies C D □ → W D for usual semantics of counterfactuals.</s><s xml:id="_RraNFe3">So, if scientific techniques in social planning produce a desirable society, then Brave New World's society would be desirable.</s></p><p xml:id="_CHD9QqR"><s xml:id="_uuPZvUn">C D □ → ¬W D : As the dystopian novel unfolds, a hitherto unheeded typical outcome O D of the counterfactual situation C D is revealed.</s><s xml:id="_tf4u7yH">Taking into account the hitherto unforeseen developments warrants the claim that, surprisingly, the typical outcome O D would not be desirable.</s><s xml:id="_FMUa3sP">Therefore, if the principles p 1 , p 2 , p 3 were implemented in the social order, it would not be the case that all the typical outcomes would be desirable.</s><s xml:id="_7YCmHVS">Huxley's story depicts most main characters as unhappy about the outcome of their situation.</s><s xml:id="_UA8Mq33">They genuinely experience great suffering.</s><s xml:id="_stKW4yk">The reader might interpret some protagonists, particularly Helmholtz Watson, as changing their appraisal of the desirability of the brave new world (for a given group of persons) over the course of the novel.</s><s xml:id="_Ac9aX9e">On top of that, many readers might ponder whether they themselves would like to live in that world and whether their friends and neighbors would enjoy it.</s><s xml:id="_zrTDC6a">Arguably, the novel at the very least indicates that for some fictional and for some real persons, on closer scrutiny such a society is not desirable at all. 17</s><s xml:id="_46h6xwv"> Several strategies for resolving the ensuing inconsistency of the set {T D , ◊C D , T D → (C D □ → W D ), C D □ → ¬W D } are possible.</s><s xml:id="_2PSy74e">Ultimately, this final step involves a decision.</s><s xml:id="_DwpvgBp">Such a decision "is no longer the task of science, strictly speaking, which points out possibilities and determines the facts of the past, present, and future" <ref type="bibr" target="#b58">(Neurath 1921</ref><ref type="bibr">(Neurath /2004, 370), 370)</ref>.</s><s xml:id="_F6Mkzq5">Indeed, following Neurath, we could award his label of pseudorationalism to the sentiment that such decisions can ultimately be justified by logical or empirical means in each case (see <ref type="bibr" target="#b54">Neurath 1913</ref><ref type="bibr">Neurath /1983;;</ref><ref type="bibr" target="#b68">1945</ref><ref type="bibr">/2004</ref>). 18</s><s xml:id="_UQV9nxM">The inconsistency brought about by our reformulation of Häggqvist's model for thought experiments resembles the inconsistency brought about by experiments.</s><s xml:id="_9aJJnzw">Logic does not compel the experimenter to a particular decision (see also <ref type="bibr">Duhem 1906</ref><ref type="bibr">Duhem /2007))</ref>.</s><s xml:id="_tgn3sFC">One can either reject a part of the theory, or one of the boundary conditions, or the auxiliary theories, or the protocol describing the outcome of the experiment.</s><s xml:id="_7J8gshq">Among the possible decisions for resolving the inconsistency in our dystopian example D are the following:</s></p><p xml:id="_gEcfGxJ"><s xml:id="_4jH2Gs6">1.a.</s><s xml:id="_CyGGeKM">Challenge T D .</s><s xml:id="_6K3CkqE">Contrary to a first impression, the technological, legislative, organizational, or ethical principles p 1 , p 2 , p 3 and their typical consequences are not overall desirable.</s><s xml:id="_mfhgHx2">Similarly as for scientific and philosophical thought experiments, challenging the underlying theory usually seems to be the intention of dystopian novels.</s><s xml:id="_nDydTda">Huxley's Brave New World can reasonably be read this way as the author himself suggests <ref type="bibr">(Huxley 1958</ref><ref type="bibr">(Huxley /2006</ref>; also see <ref type="bibr">Huxley 1932</ref><ref type="bibr">Huxley /2006</ref>). 17</s><s xml:id="_QwqsPZ5">For atypical readers and atypical protagonists, see strategies 3a and 3b below. 18</s><s xml:id="_KEmFJXp">If a specific goal or value judgment is revisably presupposed, finding the best decision relative to that goal might become a logical or empirical question.</s><s xml:id="_nGWGhPn">Thus, factual knowledge can and should inform value judgments, particularly for an axiological non-cognitivist like Neurath, "[whose] scientific utopianism remains value-free in that […] sense of refusing to mask value judgments as factual ones.</s><s xml:id="_JxqKkAM">Accordingly, scientific utopianism pursues but instrumental rationality: with certain aims (values) specified, various ways of their implementation are indicated given certain initial conditions" <ref type="bibr">(Uebel 2008, 478)</ref>.</s><s xml:id="_JKrwJDy">The value-freedom of Neurath's utopianism notwithstanding, he understands the potential impact of the utopianist's creative and predictive activities: "[I]f the picture of the future which we design becomes a cause of its own realization, we can justifiably speak of the deliberate shaping of the future" <ref type="bibr" target="#b57">(Neurath 1920</ref><ref type="bibr">(Neurath /2004, 393-394), 393-394)</ref>.</s></p><p xml:id="_56WxmBm"><s xml:id="_g35HFpG">1.b De-ontologize T D .</s><s xml:id="_qK3TbS8">The motto of this solution is "Let justice be done, though the world perish."</s><s xml:id="_pG55g65">If a champion of the technological, legislative, organizational, or ethical principles p 1 , p 2 , p 3 accepts the argument that their consequences are undesirable, she can revert to an immunizing strategy.</s><s xml:id="_kD62Rsj">The new T D * only states that p 1 , p 2 , p 3 are desirable-no matter what the consequences are.</s></p><p xml:id="_N7z2RtJ"><s xml:id="_aSyKWvD">2. Shrug off C D .</s><s xml:id="_4k9FgFc">The counterfactual social situation C D described in the dystopian novel can be judged as impossible or irrelevant.</s><s xml:id="_U8P6aBT">If those authors who impose stricter standards of conceivability, possibility, or relevance for applied contexts are correct, 19 then arguments against conceivability, possibility, or relevance are particularly pressing for utopianism.</s></p><p xml:id="_wgp3m52"><s xml:id="_4qsgsqs">Instructive examples of "shrugging off" can be found in the thought experiments of Ludwig Mises, Neurath's main intellectual sparring partner in the socialist calculation debates and in comparative economic systems <ref type="bibr" target="#b31">(Linsbichler 2015;</ref><ref type="bibr">2022a)</ref>.</s><s xml:id="_nnSFSNA"><ref type="bibr" target="#b39">Mises (1949</ref><ref type="bibr">Mises ( /1998, 202) , 202)</ref> and other Austrian economists 20 regularly employ thought experiments involving "imaginary constructions to which nothing corresponds in reality" as "an indispensable tool of thinking" and ultimately conclude that social states depicted in these imaginary constructions are impossible. 21</s><s xml:id="_Yranzbk"> 3.a.</s><s xml:id="_5MbpzkR">Exceptional case.</s><s xml:id="_X5XH9ps">One could challenge whether the dystopian novel actually portrays a typical development or whether the main characters are representative of any relevant groups of persons in the real world.</s><s xml:id="_ZJAywjz">If O D is not a typical outcome of implementing p 1 , p 2 , p 3 , then it does not matter whether O D is undesirable.</s><s xml:id="_Nhd5sUx">Note however that even relatively improbable consequences might be crucial if they are extremely undesirable.</s></p><p xml:id="_DuqUxb9"><s xml:id="_hfdRy9C">3.b.</s><s xml:id="_hFGmEWX">Sugarcoat O D .</s><s xml:id="_eynRaGH"><ref type="bibr">Häggqvist (2009, 66)</ref> refers to this solution as "biting the bullet", i.e. accepting and embracing the typical outcome O D in spite of some aspects (perhaps not only initially) being perceived as negative.</s><s xml:id="_ESn9ZuY">Although this seems to be an ad hoc solution, the overall desirability of the typical outcome O D can certainly be reconsidered.</s><s xml:id="_qqsSRKH">Even after becoming aware of all the drawbacks of a Brave New World, some readers might reason that a guaranteed job, sexual freedom, and socially accepted drugs that cause no hangover do after all outweigh permanent shallowness.</s><s xml:id="_ntUxGrS">That is, readers might not empathize with the main characters but instead agree with Mustapha Mond, the only character in the novel who clearly understands the trade-off and after careful consideration unflinchingly bites the bullet that "community, identity, and stability" are worthwhile sacrificing art and individuality.</s><s xml:id="_sY5SPtw">One could perhaps interpret the ending of Orwell's 1984 as an even more drastic 19 For instance, <ref type="bibr">Archard (2017, 24-26)</ref> refers to the use of any thought experiments in applied philosophy as prima facie "odd".</s><s xml:id="_NpSJqA3">A generalized requirement for different standards of impossibility and irrelevance in applied contexts is not justified, provided that the primary concern is the validity of the argument reconstructible from the thought experiment and not the persuasive power of the presentation to a particular audience.</s><s xml:id="_Q8tfzpR">We will return to rhetorics in Sect.</s><s xml:id="_a6Wpa7p">4.2. 20</s><s xml:id="_YzQHYVj">In contrast to Mises, fellow Austrian economist Friedrich Wieser defends an epistemological status for thought experiments closer to Brown's Platonism (see <ref type="bibr">Tokumaru 2016, 133-153)</ref>.</s><s xml:id="_mGWY6ka">In any case, Wieser gave prominence to the method of variation in (Austrian) economics.</s><s xml:id="_FhPbbeY">The importance of the method of variation in the work of Mach, the doyen of thought experiments and a forceful influence on Neurath and Austrian economist Hayek, is well known (see e.g.</s><s xml:id="_vx66Xdx"><ref type="bibr" target="#b35">Mach 1906</ref><ref type="bibr">Mach /1917, 183-201), 183-201)</ref>. 21</s><s xml:id="_85fXmwp">For several imaginary constructions including the evenly rotating economy (ERE), a kind of equilibrium model, Mises argues that in the light of (Austrian) economic theory, they cannot be thought through to their "ultimate logical consequences" <ref type="bibr" target="#b39">(Mises 1949</ref><ref type="bibr" target="#b39">(Mises /1998))</ref>.</s><s xml:id="_HTEDTqF">Mises emphasizes and acknowledges the contradictory nature of ERE, but still stresses its usefulness in arguments <ref type="bibr" target="#b11">(Cowen and Fink 1985)</ref>.</s><s xml:id="_JY73ykG">One of the crucial inferences Mises aims to draw is that "the conditions under which the final state of rest is supposed to be established-namely stable conditions-can never be given."</s><s xml:id="_HXXa7we"><ref type="bibr">(Hülsmann 2000, 40)</ref>.</s><s xml:id="_VswSypB">In terms of Häggqvist's model, Mises resolves the discovered inconsistency by maintaining ¬◊C ERE .</s><s xml:id="_9PXAtUH">example of sugarcoating: although most readers likely find the fictitious totalitarian state Oceania atrocious and its leadership symbol Big Brother repulsive, after "re-education" in the Ministry of Love, (disputedly) the protagonist Winston loves Big Brother.</s></p><p xml:id="_DZhnvUA"><s xml:id="_2zMPHJy">To be clear, what is to be reconsidered is the descriptive sentences describing the subjective desires and preferences of a given group of people.</s></p><p xml:id="_8afqGcA"><s xml:id="_Stuadk4">Hitherto, we have reconstructed possible resolutions of the inconsistency of {T D , ◊C D , T D → (C D □ → W D ), C D □ → ¬W D } from the perspective of a social scientist who analyses a dystopian novel and theorizes about how a given group of persons evaluates the principles p 1 , p 2 , p 3 and their typical outcome O D .</s><s xml:id="_xyUa8nD">The dystopian thought experiment presents an inconsistency that urges the social scientist to adapt her beliefs regarding valuations, i.e. reconsider the descriptive sentences about subjective desires and preferences of a given group of people (solutions 1.a, 1.b, and 3.b).</s><s xml:id="_FpvJdBW">Whereas this perspective fits the format of logical derivations in arguments reconstructed from the thought experiment, perhaps the format of a novel or of a filigreed presentation of a thought experiment is more akin to a different perspective: instead of challenging beliefs about other persons' evaluations, a dystopian novel might be primarily viewed as a challenge to the reader's own evaluations.</s><s xml:id="_GEYAQNb">From this perspective, the dystopian novel is not primarily concerned with consistency of beliefs but prompts the reader to reflect upon inconsistencies in her evaluations-and eventually re-calibrate her preferences and desires so as to act in a certain way.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4" xml:id="_NrRfnYy">Is Neurath a Good Empiricist?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1" xml:id="_3QY8b6B">The Tension between Platonism and (Neurath's) Scientific Utopianism</head><p xml:id="_Azq6nkN"><s xml:id="_yGCVfNS">So far, we argued that Neurath's utopias can be considered as linchpins of thought experiments, and we exemplified how Häggqvist's refined model can be used in order to reconstruct the use of a utopia in an argument.</s><s xml:id="_rJNRuR9">In Sect.</s><s xml:id="_4aDybxQ">4, we argue that Neurath's scientific utopianism avoids Platonism and helps to comprehend novelty in the argument view of thought experiments.</s></p><p xml:id="_F8BgrJs"><s xml:id="_Tzq5MkU">Norton's argument view faces criticism for purportedly not being able to account for justifications of empirical beliefs and genuine discoveries obtained by thought experiments (see e.g.</s><s xml:id="_veEkq9W"><ref type="bibr">French and Murphy 2021, Sect. 3</ref>).</s><s xml:id="_3HbMyKH">After all, if thought experiments are merely arguments, the conclusions obtained are already contained in the premises (and the rules of inference). <ref type="foot" target="#foot_10">22</ref></s><s xml:id="_KandwHd">Since the possibility of novel justifications, connections, and discoveries is a crucial component of Neurath's scientific utopianism, there is a potential problem: Neurath's strict empiricism commits him to a position very close to the argument view but it is prima facie questionable whether the argument view can provide novelty as required. <ref type="foot" target="#foot_11">23</ref></s><s xml:id="_G7J9qSV">dmittedly, there are quite mundane ways in which Neurath's scientific utopianism can expand scientific knowledge.</s><s xml:id="_sCnVXYR">"New" knowledge, i.e. knowledge contained in the premises (and the rules of inference) but hitherto not recognized, can be produced either by conceptual exploration or by considering new, possible boundary conditions and applying the latest social scientific theory to them.</s><s xml:id="_6ks34fh">Ideally, this is what happens when the conditions of life in a given utopia are explored and depicted.</s><s xml:id="_tRdnbM5">While "new" knowledge generated that way may sometimes be relevant for its own sake, it is not really what scientific utopianism aims for, but merely a means, an intermediate step, before arriving at fundamentally new insights.</s></p><p xml:id="_kCaV5m6"><s xml:id="_XVbxb2F">Apart from these mundane ways, how can the use of utopias in thought experiments foster fundamentally new discoveries?</s><s xml:id="_3wXe55m">Trying to make sense of Neurath's quest for novelty, we are cast back to the contemporary dispute about the epistemology of thought experiments touched upon in Sect.</s><s xml:id="_tKpqKAt">3.1.</s></p><p xml:id="_CZgadzu"><s xml:id="_M7qnhcy">Brown's Platonistic view of thought experiments explains the obtainment of fundamentally new insights quite straightforwardly.</s><s xml:id="_6VaHNwS">According to Brown, at least some thought experiments grant access to "objects whose nature, as normally conceived, places them beyond the reach of the better understood means of human cognition (e.g., sense perception and the like)" <ref type="bibr">(Benacerraf 1973, 667-668)</ref>.</s><s xml:id="_MSeerBQ">Consequently, these special thought experiments trigger experience of a special kind and thereby fundamentally new insights.</s><s xml:id="_xrmu47D">The Platonistic assumptions underlying Brown's account of the discovery and justification of new knowledge by means of thought experiments are most controversial from an empiricist stance.</s><s xml:id="_sKMsnDu">How can a strict empiricist like Neurath account for new insights through thought experiments?</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2" xml:id="_2nqfZkd">The Argument View, Utopianism, and Novelty</head><p xml:id="_d2FNszf"><s xml:id="_GmTJXJH">Whatever the merits of the Platonistic view are, Neurath's strictly empiristic oeuvre obviously conflicts with Brown's (and any other) Platonism since empiricism rejects the possibility of acquiring empirical knowledge without sense perception.</s><s xml:id="_kjkrk3m">As a good empiricist, Neurath's use of utopias in thought experiments should be explicable in terms of Norton's argument view or some other strictly empiricist view. <ref type="foot" target="#foot_12">24</ref></s><s xml:id="_mGrSXwt">Over and above clarifying Neurath's ideas, such an explication contributes to a more comprehensive view of novelty in the argument view of thought experiments, acknowledging that utopias are hybrid imaginary constructions of literature, science, and philosophy.</s><s xml:id="_CTjwTUE">Indeed, scientific utopianism contemplates the quest for novelty within the argument view in three distinct (yet connected) ways, all of which Neurath already contemplated: (I) Dealing with utopias and thought experiments on a regular basis increases creativity and inventiveness.</s><s xml:id="_SKa8qbZ">(II) Particular ways of presenting knowledge facilitate scientific discovery and social progress.</s><s xml:id="_s9zSRTg">(III) The use of utopias in thought experiments can prompt conceptual change and hence allows access to new phenomena.</s></p><p xml:id="_rvVZNxX"><s xml:id="_gDZsSKh">Our example N in Sect.</s><s xml:id="_hwXk9gj">4.3 below highlights how Norton's argument view elucidates a case of (III).</s><s xml:id="_2whJ87G">In particular, Häggqvist's model of thought experiments and our reformulation of it ideally suit the context of testing claims (and definitions of concepts in these claims).</s><s xml:id="_vDbxqRW">In comparison, (I) and (II) are not directly concerned with testing or with epistemic novelty, but rather with psychological prerequisites of quests for novelty.</s><s xml:id="_Tr9Zyhh">In-depth studies of (I) and (II) would require understanding thought experiments by means of other approaches than Norton's and Häggqvist's. 25</s><s xml:id="_fr63r6s">The main purpose of this section is firstly to indicate Neurath's awareness of (I) and (II) and secondly to clarify that contrary to some misrepresentations, Norton's argument view is compatible with in-depth studies of (I) and (II).</s></p><p xml:id="_Cvba6mv"><s xml:id="_GEmpDjR">(I) Scientific utopianism plays an eminent role in social engineering.</s><s xml:id="_CQtA8kg">While scientific mechanics imagine new machines, some of which will be materialized by mechanical engineers, "utopianists" contribute to social engineering.</s><s xml:id="_Uzh6PQQ">Neurath conjectures that the gravest obstacle to technological and social improvements might be limitations in "finding and handling possible solutions" <ref type="bibr" target="#b66">(Neurath 1944</ref><ref type="bibr">(Neurath /1970, 31), 31)</ref>.</s><s xml:id="_Mta23wc">As a remedy, scientific utopianism encourages involvement with utopias, thought experiments, and counterfactual scenarios in general as a means to instill a habit of constantly imagining alternatives to the status quo.</s><s xml:id="_ykxtCba">This experimental habit is ideal-typically manifested in utopian and dystopian novelists.</s><s xml:id="_yRjQcpP">For social scientific purposes, such a "sense of possibility" (Robert Musil) should be combined with the analytic attitude to investigate and compare outcomes scientifically.</s></p><p xml:id="_9AKShxh"><s xml:id="_nJDTKnK">We construe Neurath as maintaining that dealing with utopias and thought experiments on a regular basis increases creativity and inventiveness, both among social scientists and among a more general public.</s><s xml:id="_2kq2CFW">Ultimately, utopianism can help to bring about groundbreaking technological inventions, improved social orders, new scientific knowledge, and a willingness to embrace these novelties <ref type="bibr" target="#b66">(Neurath 1944</ref><ref type="bibr" target="#b66">(Neurath /1970))</ref>.</s><s xml:id="_2KmbT7n">Expressed in terms of the arguments reconstructible from the thought experiments, an attitude and practice of scientific utopianism motivates searches, creations, and discoveries of new potential premises, new arguments, new possible conclusions, new descriptions of possibly new counterfactual scenarios, and new hypotheses about properties of hypothetical scenarios.</s><s xml:id="_XSeNf3U">To the extent to which new arguments are devised or premises can be further justified, scientific utopianism also induces new justifications.</s></p><p xml:id="_jzBW7kR"><s xml:id="_VN6pqmF">(II) Neurath is fully aware that the way knowledge is presented impacts the ability to grasp it, reason independently about it, and discover new connections in it.</s><s xml:id="_FNvnRbV">Regarding his activities in picture statistics and museum design, the "challenge was to create special tools for discovering and revealing social facts" so that laymen but also scientists "could learn to look at social issues in a new way" <ref type="bibr">(Nemeth 2019, 126)</ref>.</s><s xml:id="_P6A2UaG">Utopias and thought experiments can be considered tools with a similar purpose. <ref type="foot" target="#foot_14">26</ref></s><s xml:id="_zfU3CD9">owever, the idea that inventors and audience of thought experiments are, perhaps due to some psychological mechanism, more likely to elicit scientific discoveries and social progress prima facie seems to conflict with Norton's argument view.</s><s xml:id="_Fagpcsq">If all that matters about a thought experiment is the logical structure of the reconstructible argument type, then picturesque, emotional, or performative aspects of a thought experiment are just decorative accessories.</s><s xml:id="_k3tt7xy">Nonetheless, a thought experiment can be extremely convincing or stimulating for a particular crowd just because of its artful presentation and in spite of a flawed logical structure of the reconstructible underlying argument.</s><s xml:id="_F3EQzGy">Neurath distinctly affirms the importance of the mode of presentation, as he notices that "with their attractive descriptions, horror stories and social poetry in the form of novels the early utopians prepared people's emotions and their will to shape their lives deliberately" <ref type="bibr" target="#b57">(Neurath 1920</ref><ref type="bibr">(Neurath /2004, 394), 394)</ref>.</s><s xml:id="_K9vvwJX">At a first glance, this seems to contradict the argument view.</s></p><p xml:id="_D3c9qGA"><s xml:id="_MR7E9WX">Contrary to some of its portrayals (see e.g. the otherwise laudable <ref type="bibr">Brown &amp; Fehige 2017, Sect. 3.2;</ref><ref type="bibr">and Islas Mondragón 2020, 60-62)</ref>, however, the argument view of thought experiments is not restricted to the more famous reconstruction thesis that every thought experiment can be logically reconstructed as an argument.</s><s xml:id="_YUrc2tx">Norton fully acknowledges the importance of presentation and also advocates the execution thesis according to which "the actual conduct of a thought experiment consists of the execution of an argument", even if in disguised form <ref type="bibr">(Norton 2004b</ref><ref type="bibr">(Norton , 1142</ref><ref type="bibr">(Norton -1143))</ref>.</s><s xml:id="_whnFtSm">For our purposes, it is even sufficient to settle for being able to reconstruct or understand the execution of a thought experiment as the execution of an argument.</s><s xml:id="_rFmEZVB">By understanding the execution of a thought experiment as the execution of an argument, we are able to investigate not only the logical structure of an argument, but also rhetoric, performative, psychological, or pragmatic aspects of thought experiments just like in the case of (other) arguments.</s><s xml:id="_fhudPsd">Even though in principle one cannot justify or learn more from a thought experiment than from its associated argument, oftentimes what people actually do discover, learn, or believe to learn depends on how the argument is presented (see also <ref type="bibr">Brendel 2018, 283)</ref>. 27</s><s xml:id="_tNVcRZY">An argument can successfully exhibit an inconsistency but whether an audience is convinced of the inconsistency and is motivated to readjust its beliefs depends on the presentation of the argument.</s><s xml:id="_YhjcfYx">Due to the somewhat neglected execution thesis, the argument view can account for the claim that the rhetoric of a thought experiment might play a psychological role in its inventor or audience.</s></p><p xml:id="_9Ac3T8k"><s xml:id="_Bh2rpBw">A related but more cognitivistic demur to the argument view states that some thought experiments yield conclusions by mobilizing further cognitive resources including prior empirical knowledge (see e.g.</s><s xml:id="_maX6C84"><ref type="bibr" target="#b15">Davies 2018;</ref><ref type="bibr" target="#b18">Elgin 2014;</ref><ref type="bibr" target="#b38">Miščević 2018;</ref><ref type="bibr" target="#b46">Nersessian 2018</ref>).</s><s xml:id="_MKbpJV5">These resources are activated when the (mental) model of the counterfactual scenario is appropriately manipulated.</s><s xml:id="_XARXQqV">So far, this is perfectly compatible with the reconstruction thesis of the argument view.</s><s xml:id="_kvaJxcf">In an attempt to construct a sound argument, attempted arguments may be supplemented by additional premises and additional rules of inference.</s><s xml:id="_WnFghaH">In some cases, recognizing that these additional premises are necessary to arrive at the desired conclusion constitutes a valuable insight.</s><s xml:id="_2ryTDgD">The reconstruction of a thought experiment can make implicit assumptions explicit, as already <ref type="bibr" target="#b35">Mach (1906</ref><ref type="bibr" target="#b35">Mach ( /1917) )</ref></s></p><formula xml:id="formula_0">indicated.</formula><p xml:id="_skZMfP4"><s xml:id="_fFmYnuW">However, proponents of an inflationist view of thought experiments maintain that some of these further cognitive resources and some manipulations of (mental) models cannot be articulated explicitly in propositional form <ref type="bibr" target="#b15">(Davies 2018)</ref>.</s><s xml:id="_aZ8MavT">Hence, purportedly no adequate reconstruction in deductive, inductive, or abductive argument form is possible.</s><s xml:id="_zNtzC6W">Defenders of the argument view can reply that communication about a thought experiment almost 27 What people actually do discover or how they actually revise their beliefs, refers to psychological processes.</s><s xml:id="_GWNFdkr">Judged from Neurath's strictly logical-empiricist stance, these psychological processes or any intuitions "pumped" by a thought experiment do not play a permissible role in justifying conclusions of thought experiments.</s><s xml:id="_pqp574f">Since inflationists and constructivists may disagree, it becomes crucial whether Neurath's scientific utopianism is explicable and viable in terms of the argument view of thought experiments.</s><s xml:id="_KyeF8Nk">always assumes propositional form when the counterfactual scenario, the background theory, and alleged outcomes are described.</s><s xml:id="_pYDB6De">These descriptions can be construed as premises and a desired conclusion of an argument.</s><s xml:id="_CSe99Zx">Norton's reconstruction thesis then prompts an assessment whether the desired conclusion is justified by the premises and which rules of inference are deployed in the justification: That is not to say that all thought experiments are instances of perfect deductive or inductive inference.</s><s xml:id="_mxPxYmu">Thought experiments can be bungled, just as arguments can.</s><s xml:id="_ju8JV7w">Rather, when we evaluate thought experiments as epistemological devices, the point is that we should evaluate them as arguments.</s><s xml:id="_3rJ2kST">A good thought experiment is a good argument; a bad thought experiment is a bad argument <ref type="bibr">(Norton 1996, 335</ref>; see also <ref type="bibr">Norton 2004a, 58-59)</ref>.</s></p><p xml:id="_baxUAgC"><s xml:id="_KCKATcd">If some intermediate steps in the thought experiment cannot be adequately articulated in propositional form, the reconstruction of the thought experiment will turn out as an argument with gaps.</s><s xml:id="_xx9yK7k">The desired conclusion might be a fascinating hypothesis worth further exploration but remains unjustified by the premises-given a notion of justification that is somehow explicable as rule-following. 28</s><s xml:id="_s8v9N89">The execution thesis then invites us to study how and why the desired conclusion was discovered or intuitively regarded plausible in spite of the lack of justification. 29</s><s xml:id="_dwD6ZBW"> (III) Finally, we encounter the most fundamental variant of Neurath's quest for novelty via utopianism.</s><s xml:id="_zEsNK5d">Inspired by Mach's ideas in physics, Neurath aims at a reconstruction of the conceptual basis of the social sciences (see <ref type="bibr" target="#b42">Nemeth 2007;</ref><ref type="bibr" target="#b43">2013)</ref>.</s><s xml:id="_Th6UDKe">If successful, this facilitates an expansion of experience, access to new phenomena, and innovative insights both for a scientific discipline and for our everyday outlook on the social world. 30</s><s xml:id="_bGfhcrN"> Neurath <ref type="bibr">(1935/1987, 103</ref>) perceived a "deep-seated false orientation" of economics.</s><s xml:id="_TgvDW8t">He proposed a revision of an overly constricted subject matter of economics by extending its "conceptual structure" <ref type="bibr" target="#b55">(Neurath 1917</ref><ref type="bibr">(Neurath /2004, title), title)</ref>.</s><s xml:id="_SgSvWP9">Among other things, Neurath advocates a recollection and advancement of the broad notions of "wealth" and "happiness" common to classical economists and Carl Menger <ref type="bibr" target="#b52">(Neurath 1911</ref><ref type="bibr">(Neurath /1998, 500), 500)</ref>, but foreign to 28 Note that the wide conception of 'logic' employed by Norton in this context does not strictly require propositional form but merely some type of objects to which rules of inference are applicable <ref type="bibr">(Norton 2004a;</ref><ref type="bibr" target="#b75">Stuart 2016)</ref>.</s><s xml:id="_wmr44RF">Other objects than sentences, e.g.</s><s xml:id="_BbAwRPu">models, could be subject to some rules of inference.</s><s xml:id="_ZrkFNq3">Most inflationists presumably do not accept any conclusion whatsoever, without caring at all how the (mental) models were manipulated to arrive at the putative conclusion.</s><s xml:id="_GK5M35p">Yet, as soon as some manipulations of (mental) models are deemed flawed, a reconstruction of the "logical rules for manipulating models" can be attempted and the inflationists' demur against the argument view is weakened. 29</s><s xml:id="_GAugsWh">A response along those lines by champions of the argument view might be regarded as ad hoc by inflationists (e.g., <ref type="bibr" target="#b20">Gendler 2000)</ref>.</s><s xml:id="_CBfadhY">Instead, inflationists interpret gaps in reconstructed arguments as evidence against the argument view.</s><s xml:id="_bgagbkn">Some crucial cognitive or constructive operations in the thought experiment allegedly cannot be faithfully reconstructed in arguments, thus generating the mentioned gaps. 30</s><s xml:id="_YRQrNnt">Neurath pursues a conscious effort to use scientific utopianism as a means to engender a richer conceptual apparatus in order to lead political economy out of a perceived impasse.</s><s xml:id="_MTj2pt9">In that sense, aspect (III) predates an important feature of the later debates on thought experiments.</s><s xml:id="_PBcy5Ns">In his seminal "A Function for Thought Experiments", Thomas <ref type="bibr" target="#b29">Kuhn (1964</ref><ref type="bibr" target="#b29">Kuhn ( /1977) )</ref> advances that thought experiments are particularly relevant in paradigmatic crises, when scientific communities are looking for creative ways to solve problems without a necessary commitment to the conservation of any well-established standard.</s><s xml:id="_uQ7DU8R">This perspective resonates more recently in the works of Tamar Szabó Gendler, who claims that thought experiments promote a reconfiguration of conceptual commitments, directing the attention of thought experimenters to inadequacies in their conceptual schemes and leading them to see exceptional cases through "a different lens" <ref type="bibr">(Gendler 2000, 150-159)</ref>.</s><s xml:id="_FbgTpBz">Admittedly, it is not prima facie obvious whether Neurath's proposal is the homo economicus.</s><s xml:id="_NcNHKwg">Accordingly, Neurath has been portrayed as consciously attempting to "regain a scientific object" <ref type="bibr">(Nemeth 1999, title, emphasis added)</ref>.</s><s xml:id="_rPWSmFs">Partially anticipating ideas of Kuhn, Gendler, and Hacking, he considers utopias and thought experiments as particularly apt for his aim to "dislodge a person from a certain way of describing the world" <ref type="bibr">(Hacking 1992, 307)</ref>.</s></p><p xml:id="_PPS33Cc"><s xml:id="_WCkqxfr">Similar accusations that economics has unduly narrowed its conceptual basis and subject matter have been widely shared in public discourse and in academia in recent years.</s><s xml:id="_M5yjSEc">Not only are attempts to broaden the conceptual basis of economics a highly controversial topic in the twenty-first century; likewise, the historical origins of utopianism can be read as primarily concerned with an extension of possible thought and argument.</s><s xml:id="_N7KmDrm">Thomas More's eponymous Utopia has been interpreted as aiming for a broadening of the discursive space for discussions about desirable social states.</s><s xml:id="_eaVW24N"><ref type="bibr" target="#b1">Arnswald (2019)</ref> argues that More's objective was not to construct an ideal society, but to provoke critical thinking and trigger discussions about the status quo and alternatives to it in a wider space of possible discourse.</s><s xml:id="_8t5HeVK">Furthermore, Arnswald explicitly pursues the connection between utopias and thought experiments in <ref type="bibr">Mach and Neurath.</ref></s><s xml:id="_ADqh7DB">In the next section, we use our reformulation of Häggqvist's model for thought experiments to rationally reconstruct how Neurath employs utopias as parts of thought experiments in order to broaden the conceptual structure of economics.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3" xml:id="_trFaF37">Example N: Neurathian Utopia, Harder Case</head><p xml:id="_UjjESan"><s xml:id="_EQ6QTGu">For a few decades now, debates on how to compare social orders have been gaining currency again.</s><s xml:id="_xTUHf7F">In particular, the notions of well-being, welfare, and flourishing have been disputed with regards to their definitions and to the methods of their assessment.</s><s xml:id="_CJ4Dtqc">While Neurath pioneered the propagation of irreducibly multidimensional notions of well-being, it was Amartya Sen who played a key role in making them highly topical, particularly in poverty research (see <ref type="bibr" target="#b30">Leßmann 2007)</ref>.</s><s xml:id="_VGncBRS">More generally speaking, however, gross national product still plays a predominant role as a single criterion in comparisons of social states.</s><s xml:id="_STFMyuD">Our example N in this section reconstructs how Neurath challenges the prevalence of a single dimension of comparison.</s></p><p xml:id="_ZRBqUQe"><s xml:id="_UnSpW6s">In a simple application of utopias, like example U in Sect.</s><s xml:id="_S6EYMRr">3.3, different social situations are compared and ranked.</s><s xml:id="_gAAFnqz">A (simplified) outcome could be that planning schema modest or revolutionary.</s><s xml:id="_4et855v">On a modest interpretation, he merely advocates a richer conceptual apparatus but endorses the maintenance of the traditional concepts of monetary calculation for certain niche problems (see e.g.</s><s xml:id="_5r3VtHX"><ref type="bibr" target="#b52">Neurath 1911</ref><ref type="bibr">Neurath /1998, 487-489), 487-489)</ref>.</s><s xml:id="_gY28sQ9">On a more revolutionary reading, thought experiment N below aims to provoke a reconceptualization after which "some aspects [of the traditional conceptual structure and theory] could only be used after adaptation and augmentation, some had to be eliminated altogether" <ref type="bibr" target="#b55">(Neurath 1917</ref><ref type="bibr">(Neurath /2004, 312-313), 312-313)</ref>.</s><s xml:id="_KYwVRDc">According to <ref type="bibr" target="#b29">Kuhn (1964</ref><ref type="bibr" target="#b29">Kuhn ( /1977))</ref>, a successful revolutionary thought experiment enables "the scientist to use as an integral part of his knowledge what that knowledge had previously made inaccessible to him" <ref type="bibr" target="#b29">(Kuhn 1964</ref><ref type="bibr">(Kuhn /1977, 263) , 263)</ref> and thereby "learn about the world as well as about his concepts" (261, see also 253).</s><s xml:id="_XeYMrP8">As a strict logical empiricist, Neurath would arguably reject any justificatory role for intuitions "pumped" by the revolutionary thought experiment, but he would, firstly, welcome new conclusions as hypotheses for further logical and empirical investigations, and, secondly, embrace any new arguments as justifications relative to premises and rules of inference.</s><s xml:id="_YyXEzCV">Understanding in further detail how Neurath's view can be related to Kuhn's and Gendler's is a matter for another paper (see <ref type="bibr" target="#b14">Cunha 2022)</ref>.</s><s xml:id="_rd32XVu">For now, it suffices as an indication that scientific utopianism can contribute to the contemporary outlook on thought experiments, even in approaches different from the argument view.</s></p><p xml:id="_mT4yNuz"><s xml:id="_5G7Nsbp">Footnote 30 (continued) C 2 is superior to capitalism, which is in turn superior to planning schema C 1 .</s><s xml:id="_kQa9xTW">By contrast, example N investigates the very notion of "superiority" underlying such comparisons.</s><s xml:id="_buCDz2x">As <ref type="bibr" target="#b52">Neurath (1911</ref><ref type="bibr">Neurath ( /1998, 503-504) , 503-504)</ref> stresses, utopianism as an inquiry in the theory of wealth appertains to theoretical, not practical political economy.</s></p><p xml:id="_5CxyZSG"><s xml:id="_K2m2KT6">For a start, consider the following analogue of these different perspectives in another context: when <ref type="bibr">Neurath (1939, 43-62)</ref> outlines trends towards modernization, he admittedly compares different countries and their historical development.</s><s xml:id="_B2j2W4Q">However, he also reflects upon different aspects of "modernization" and demonstrates that these aspects are not always correlated.</s><s xml:id="_e3hDjkH">For instance, comparing France and Germany between 1914 and 1937, Neurath shows that, relatively speaking, France's modernization manifested itself much more strongly in terms of automobiles per capita as opposed to Germany's more rapid modernization in terms of telephones per capita <ref type="bibr">(Neurath 1939, 59</ref>).</s><s xml:id="_qh2gvQZ">In his words,</s></p><p xml:id="_nh3gk4u"><s xml:id="_TVPZ4nh">[i]f a country is more 'modern' in one field, it is not necessarily 'modern' in all the others.</s><s xml:id="_Uza4KxS">A general or average 'index of modernity' conceals certain peculiarities which are important not only in technologically appraising single countries but in appraising the whole process of modernization <ref type="bibr">(Neurath 1939, 59)</ref>.</s></p><p xml:id="_TZ3ZZAM"><s xml:id="_FjdUSsj">Transcending "modernization", any useful comparison between two social states should, according to Neurath, recognize and incorporate different dimensions.</s><s xml:id="_EevKhWE">This becomes even more crucial when a comparison is taken as a basis for a decision which social state to strive for to improve human well-being.</s><s xml:id="_dZxdKdT">We reconstruct such a reflection upon the notion of "superiority of a social state" by highlighting the inconsistency of the set {T N , ◊C N , T N → (C N □ → W N ), C N □ → ¬W N }.</s><s xml:id="_Atte7jH">Thereby, we roughly follow the main ambition Neu- rath indicates in the original German title of his monograph (1935/1987): how and with which conceptual framework to look at the economy.</s></p><p xml:id="_eCt7t2z"><s xml:id="_6Pz62A4">The elements of the inconsistent set are: T N : Just like T U , the theory T N includes the political and economic background theory Neurath perceives to be dominant.</s><s xml:id="_NUYJNyX">In particular, T N provides an operational definition of the orthodox and dominant notion of superiority, taken to be superiority in terms of monetary calculation (S M ).</s><s xml:id="_28gAFtX">Moreover, according to the standard theory T N , human well-being and systems of social organization are most fruitfully and adequately evaluated by monetary calculation (S M ) at the conceptual basis of economics.</s><s xml:id="_YNyjmP5">For relevant cases, well-being in terms of monetary calculation ranks social organizations identically with a more intuitive, pre-scientific notion of superior well-being S I .</s><s xml:id="_F2R65Km"><ref type="bibr" target="#b59">Neurath (1925</ref><ref type="bibr">Neurath ( /2004</ref>) reads the standard theory T N to imply extensional interchangeability between superior well-being in terms of monetary calculation S M and superior well-being as adopted in everyday language S I . <ref type="foot" target="#foot_15">31</ref></s><s xml:id="_9rTcJd3">C N : As in example U, we have a counterfactual, yet possible, scenario.</s><s xml:id="_ycNWDtV">The properties of this utopian scenario C N and its predicted progression are explored scientifically with a particular focus on the phenomena directly relevant for the notion of superiority S M .</s><s xml:id="_MVRUujY">The outcome O of the utopian scenario is compared to the actual state of affairs A. Let us suppose we confirm the standard theory to the effect that the actual state of affairs A is superior to the utopian outcome O according to the default criterion of monetary calculation S M .</s></p><p xml:id="_JCPGPQY"><s xml:id="_dFfWG6T">T N → (C N □ → W N ): Let W N be the sentence proclaiming that human well-being is worse in comparison to the actual state of affairs A. Then we can infer: If T N, then (if C N were implemented, human well-being would deteriorate (relatively)).</s><s xml:id="_a32BFMw">Note that the sentence in italics holds because firstly A is S M -superior to the utopian outcome O and secondly the background theory T N states that monetary calculation S M is the most fruitful and adequate concept for evaluating human well-being in different social states.</s></p><p xml:id="_zcq3anN"><s xml:id="_SRkTEcP">C N □ → ¬W N : Finally, we mentally explore the utopian scenario described by C N .</s><s xml:id="_sq2CzWt">Unlike before, we do not focus solely on phenomena directly relevant to S M but broaden the scope of the investigation.</s><s xml:id="_pYmxpMm">This mental exploration might involve some pre-scientific, everyday language concepts and ideas about well-being.</s><s xml:id="_MTEMhtm">Suppose we discover that the utopian outcome O enhances human well-being as compared to the actual state of affairs A. Due to the proclaimed interchangeability of S M with the more intuitive notion of superiority S I , closer to everyday language, this yields the inconsistency of {T N , ◊C N , T N → (C N □ → W N ), C N □ → ¬W N }.</s><s xml:id="_edASk9X">The crux of the meta-argument for inconsistency could be expli- cated like this:</s></p><p xml:id="_PqD8YH3"><s xml:id="_BS6MfeH">The formulation in first-order predicate logic on the left-hand side allows for a straightforward derivation of the desired conclusion:</s></p><p xml:id="_pePGDJP"><s xml:id="_ajwqbCz">Among the many possibilities of overcoming the inconsistency discussed in example D above, we are most interested in Neurath's intended conclusion.</s><s xml:id="_cgkMcq8">He would prompt to take the discovery of C N □ → ¬W N seriously and to elaborate on its pre-scientific components.</s><s xml:id="_5E7KGgn">Several alternative notions of superiority (S K1 , S K2 , S K3 , …) should be defined by building upon the pre-scientific, everyday-language concepts and ideas used in the thought experiment.</s><s xml:id="_3YcfybZ">S K1 , S K2 , S K3 , … allow for a more thorough investigation of the utopian scenario and a more informative comparison with the actual state of affairs.</s><s xml:id="_BxV7kzU">The precept underlying Neurath's criticism of the fixation on monetary calculation has been described thus:</s></p><p xml:id="_BAqUaW4"><s xml:id="_s9ycQFs">Neurath's methodological axiom was: construct the subject matter you are dealing with in economics-"wealth", "quality of life"-as an ensemble of heterogeneous elements; do not presume that its heterogeneity might on a deeper level be reduced to one single element <ref type="bibr">(Nemeth 2013, 345-346)</ref>.</s></p><p xml:id="_6FWT8Uj"><s xml:id="_9T8tqQD">The irreducibility of at least some elements of S K1 , S K2 , S K3 , etc. indicates one last point we want to accentuate: the deliberative aspect of Neurath's utopianism.</s><s xml:id="_CphS4jR">Given a multitude of notions of superiority of social states S K1 , S K2 , S K3 , etc., these criteria will rank two social states O and A unanimously only in very rare exceptional cases.</s><s xml:id="_pxrpc5B">In most practically relevant instances, different notions of superiority will point in different directions.</s><s xml:id="_Tq9EVYH">For example, O will be superior to A in some respects, say longevity (S K1 ) and leisure hours (S K4 ), while A will be superior to O in other respects, say child mortality (S K2 ) and variety of cultural offers (S K3 ).</s><s xml:id="_DXpUt4b">According to Neurath, a deliberative and democratic process ought to bring about the decision which social state to implement.</s><s xml:id="_WGeNTYY">There will always be a subjective volitional act involved in the weighting of notions of superiority by an individual. 32</s><s xml:id="_Q3jspc8">It is only the fixation on one single notion of superiority which triggers the technocratic illusion that science allows a society to dispense with deliberations and decisions.</s></p><p xml:id="_2PPWCgn"><s xml:id="_e9YWbfR">Neurath's utopianism is less technocratic than it is sometimes conceived as.</s><s xml:id="_zm7Xy9P">He bids the social scientist and the utopianist to contrive various ways of comparison, scientifically apply them to a wide range of different utopias, and present the results.</s><s xml:id="_urWzyPq">The ideal Neurathian utopianist is not an expert with the authority for deciding on a most "efficient" course of action, but rather an expert for expanding experience to new phenomena and for enlightening the public with adequately presented knowledge for well-informed deliberation.</s><s xml:id="_AmrBtWb">New notions of comparison, like calculation in kind, are conceptual tools for such deliberations <ref type="bibr" target="#b77">(Uebel 2008</ref>; see also <ref type="bibr" target="#b32">Linsbichler 2021;</ref><ref type="bibr">2022b)</ref>.</s></p><p xml:id="_YXX8J6R"><s xml:id="_ASm6Wwn">We argued and illustrated that utopias play a crucial role in many thought experiments and that thought experiments involving Neurath's utopias can-contrary to first doubtsbe read as providing arguments.</s><s xml:id="_PT72t9b">Rest assured, Neurath is no Platonist but a good empiricist.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5" xml:id="_jqpmhPZ">Outlook: The Pseudorational Myth of Policies Without Alternatives</head><p xml:id="_KQYPtvr"><s xml:id="_UKaAEFF">What role can thought experiments play in the discovery and justification of new knowledge?</s><s xml:id="_QxWWAcD">This question is particularly pressing for thought experiments in Otto Neurath's scientific utopianism.</s><s xml:id="_CAFFhTR">In line with Neurath's logical empiricist stance, we offered a three-fold answer within the boundaries of the empiricist argument view of thought experiments. 33</s><s xml:id="_8sUNj3j"> Arguments, including arguments which reconstruct the logical structure of a thought experiment, can certainly reveal hitherto unforeseen consequences contained in the premises (and the rules of inference).</s><s xml:id="_4xxNc3z">However, the potential of thought experiments reaches much further.</s><s xml:id="_PwbhBhh">First, regular exercise of imagination and analysis of counterfactual scenarios increase creativity, instil a willingness to question the inevitability of the status quo, and trigger the design and contemplation of new alternative scenarios.</s><s xml:id="_FRTh8CW">Second, the picturesque and vivid mode of presentation of a thought experiment can reinforce its impact and sometimes even induce the construction of new enhanced arguments.</s><s xml:id="_mbRMb67">Third, utopian thought experiments can challenge the conceptual basis of a scientific discipline.</s><s xml:id="_VdWGarE">The prompted invention of a new conceptual basis grants access to new phenomena and opens the way to new research questions, genuine discoveries, new knowledge, and in the case of "wellbeing" perhaps to new policies.</s></p><p xml:id="_FCP94Q8"><s xml:id="_pQTyuCc">The argument view, especially our reformulation of Häggqvist's model, accentuates that the logical structure of thought experiments renders them tools which shake our beliefs, our evaluations, and our concepts, including our standards for comparing social systems 32 Prior to that, there is another volitional act involved in the choice of which notions of superiority to define and deploy in different social states.</s><s xml:id="_Kf5MzRV">We hold that this volitional act must be guided by interest and pragmatic consideration; albeit, an extreme Platonist might object. 33</s><s xml:id="_EYqfHGD">The reconstruction thesis of the argument view focuses on the logical structure reconstructible from thought experiments, yet by no means excludes the investigation of psychological, performative, and rhetorical aspects of thought experimental practices.</s></p><p xml:id="_jQy6DJs"><s xml:id="_x3t4Nhn">(see example N in Sect.</s><s xml:id="_G36jqss">4.3).</s><s xml:id="_ZBd52Fa">The refined model encourages us to assume and embrace the active role of decision-makers and of architects and explorers of alternative routes, sometimes against common wisdom, embedded cultural practices, or conventions. 34</s><s xml:id="_rxFSv9T"> Neurath emphasizes that active decisions are unavoidable anyway and that science, for instance, usually cannot uniquely determine which change of a social order is better or more adequate in a given problematic situation, especially if more than one person is involved in the social system (see <ref type="bibr" target="#b52">Neurath 1911</ref><ref type="bibr" target="#b52">Neurath /1998;;</ref><ref type="bibr" target="#b53">1912</ref><ref type="bibr">/1973)</ref>.</s><s xml:id="_C8KYmP8">So, we start with a decision problem and after some thought experiments end up with a decision problem yet again.</s><s xml:id="_jVudcfT">Nevertheless, scientific utopianism and its thought experiments are not in vain.</s><s xml:id="_eEGWnb6">They can inform and improve deliberations and decisions in various ways: expected consequences of possible policies are investigated and presented in an accessible manner; search for further alternatives and a broader range of available choices is encouraged; and when a thought experiment exposes an inconsistency, all conceived optional reactions can be arrayed in four classes obtainable from our refined version of Häggqvist's model.</s></p><p xml:id="_acjm8he"><s xml:id="_n8WAuFM">A standard format of four classes of reactions as provided by our refined model could expressly benefit scientific policy advice when it aspires to conform to an ideal of value freedom or when it heeds Neurath's premonitions against the pseudorational myth of policies without alternatives.</s><s xml:id="_xQZG8ek">Instead of "scientifically" advocating a particular course of action as some commissioned research tends to, proper scientific policy advice in the spirit of Neurath should display the expected consequences of various alternatives.</s><s xml:id="_c6XVmFv">Vivid presentations in the form of thought experiments might be particularly apt for engaging wider audiences to participate in the respective political debates, as long as intuition pumps and other pitfalls are curbed.</s></p><p xml:id="_zTBB9ga"><s xml:id="_cKsnBY9">In conclusion, by showing how Neurath's work provides a distinctive perspective to thought experiments which-sometimes sketchily or implicitly-anticipates more meticulous and targeted deliberations by Kuhn, Norton, Gendler, and others, we hope to have shown that scientific utopianism provides tools that can be used in connection with other, more recent tools of philosophical analysis so as to offer new insights into current problems.</s><s xml:id="_ZT8rEBf">In other words, this paper attests Neurath's great significance for current debates in the philosophy of the social sciences, particularly in the philosophy of economics.</s></p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc><div><p xml:id="_3AvV9gy"><s xml:id="_T6Z8qrc">argued for the examples of Huxley's Brave New World and Zamyatin's We.</s></p></div></figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p xml:id="_Tw6aHTu"><s xml:id="_Bg68QDp">Note that Norton does not maintain that an appeal to rational reconstruction alone solves all epistemological problems for thought experiments.</s><s xml:id="_zP9BKtT">In Sect.</s><s xml:id="_mG947fx">3.1, we distinguish at least five versions of the claim that thought experiments are "reducible" to arguments.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p xml:id="_hYnGtbr"><s xml:id="_aW98qep">According to Neurath, some-but not all-counterfactual scenarios allow for conclusions about reality.</s><s xml:id="_gVFyUX5">Unfortunately, he does not specify any criteria to determine from which models these conclusions can allegedly be drawn or care to elaborate on the detailed workings of such inferences.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p xml:id="_2VVd8vW"><s xml:id="_TVtFp3u">On the one hand, (ii-b) is weak enough that some authors includingBrendel (2018, 291)  and<ref type="bibr" target="#b6">Brown (1992)</ref> characterize it as running "the risk of amounting to an almost trivially true thesis".</s><s xml:id="_HdPcuuX">On the other hand,Gendler (2000, 37-38, 47-49)  discards the "dispensability thesis" as false, i.e. she negates that any good scientific thought experiment can, without loss of demonstrative force, be replaced by a non-thoughtexperimental argument.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p xml:id="_bnkAmuh"><s xml:id="_jkxJ8E8"><ref type="bibr" target="#b22">Häggqvist (2009)</ref> rejects the identity thesis (i) for other reasons as well.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p xml:id="_A7UMyRt"><s xml:id="_utXUzJU">The question whether one thought experiment corresponds to four argument types or to just one presupposes a well-defined notion of identity for thought experiments, about which there is no consensus (see<ref type="bibr" target="#b4">Bokulich &amp; Frappier 2018)</ref>.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p xml:id="_tf6eVyz"><s xml:id="_4G68gvG">Cf. Neurath (1932/1983, 94): "In unified science we try […] to create a consistent system of protocol sentences and non-protocol sentences (including laws)".</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p xml:id="_tXkQRsA"><s xml:id="_udj86Eh">Alternatively, a suitable paraconsistent logic could be adopted or the strive for consistent beliefs could be questioned otherwise.</s><s xml:id="_ZFt4mpD">This paper does not consider these hitherto unexplored strategies.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p xml:id="_9xkAVuK"><s xml:id="_AXZScUK">Any tool has limited purposes.</s><s xml:id="_v2qJ5yn">For other aspects of Neurath's scientific utopianism, or for the narrative character of utopias (see the Introduction above), Häggqvist's model might be of no avail.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p xml:id="_YDF7Kb3"><s xml:id="_rSHkk9d">Admittedly, for complex literary works, these reconstructions of utopias, underlying theories, and arguments require countless insertions of intermediate steps and of implicit premises or, alternatively, a very high level of abstraction.</s><s xml:id="_X8XgsPK">Nonetheless, our examples showcase how even sketches of the arguments can reveal the inconsistencies.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_9"><p xml:id="_jYwTCVn"><s xml:id="_EFb4xzN">Variations of the argument might aim at a necessary, possible, or probable instead of a typical outcome.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_10"><p xml:id="_K99gUpq"><s xml:id="_t34ZnZp">Note that this holds not only for deductive, but also for inductive rules of inferences.</s><s xml:id="_Ubn2dfZ">In a non-formal, but material theory of induction, like<ref type="bibr" target="#b72">Norton's (2021)</ref>, the dichotomy between premises and rules of inference may disappear.</s><s xml:id="_uZAtzDm">If the justification provided by a thought experiment is regarded as relative to the premises and the rules of inference,<ref type="bibr" target="#b75">Stuart's (2016)</ref> worries about a tension between the argument view and a material theory of induction are nevertheless mitigated.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_11"><p xml:id="_MkgZCYs"><s xml:id="_yhxHbEp">One could argue that scientific utopianism is merely a form of engineering, a form of intervening in the world, not of learning about it.</s><s xml:id="_2VMdC7r">Such a view ignores that by playing with possibilities, technological research often leads to the acquisition of new, pure knowledge.</s><s xml:id="_v97vquk">Neurath clearly embraces this feature of comparative utopistics in his accounts of the "Foundations of Social Science"<ref type="bibr" target="#b66">(Neurath 1944</ref>(Neurath  /1970, 30-32)  , 30-32)   and of his explicitly theoretical (instead of practical) economics<ref type="bibr" target="#b52">(Neurath 1911</ref>(Neurath  /1998, 503-504), 503-504).</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_12"><p xml:id="_uAmFFKZ"><s xml:id="_vvtExEa">At the University of Vienna Summer School 2018, Scientific World Conceptions: Thought Experiments, both Norton and Brown suggested that an interpreter of thought experiments ultimately must decide between the argument view and concessions to Platonism.</s><s xml:id="_egjnJH5">Yet, other authors maintain that strictly empiricist alternatives to the argument view exist<ref type="bibr" target="#b38">(Miščević 2018;</ref><ref type="bibr" target="#b46">Nersessian 2018</ref>).</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_13"><p xml:id="_EPB95G9"><s xml:id="_yEewaTT">Emphasizing that utopias are fictional narratives would perhaps be helpful for such studies.</s><s xml:id="_7C5Dpnt">But, as stated in the introduction, this is a matter for another paper.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_14"><p xml:id="_aHCyP8F"><s xml:id="_yp3By54">Guidelines for particular ways of presentation in Neurath's ISOTYPE are not solely motivated by psychological arguments about new ways of looking at social issues, but also by methodological considerations like worries about continuous graphs representing discrete phenomena and the demand to depict the quantity of objects by the quantity of signs instead of increasing the size of one sign.</s></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31" xml:id="foot_15"><p xml:id="_drvfT7k"><s xml:id="_BKucPMj">Actually, the unusual step of explicitly stating that S M is the most fruitful notion of superiority, thereby acknowledging the existence of different notions, is already an approach towards Neurath's concern-his ever-present criticism of pseudorationalism, the supposition that there is exactly one rational solution to each problem (see also<ref type="bibr" target="#b32">Linsbichler 2021)</ref>.</s></p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head xml:id="_QuEHYup">Acknowledgements</head><p xml:id="_8ErQ2Y7"><s xml:id="_d5UYrMv">The authors are grateful to <rs type="person">Theo Anders</rs>, <rs type="person">James Robert Brown</rs>, <rs type="person">Robert Frühstückl</rs>, <rs type="person">Rainer Hegselmann</rs>, <rs type="person">Cezar Mortari</rs>, <rs type="person">Elisabeth Nemeth</rs>, <rs type="person">John Norton</rs>, <rs type="person">Luana Nyland</rs>, <rs type="person">Scott Scheall</rs>, <rs type="person">Alan Scott</rs>, <rs type="person">Friedrich Stadler</rs>, <rs type="person">Bastian Stoppelkamp</rs>, <rs type="person">Thomas Uebel</rs>, and others for their helpful comments.</s><s xml:id="_V2Eg8gk">The authors also convey special thanks to the anonymous reviewers and the editors who urged clarifications, amendments, and a much more explicit outlook.</s><s xml:id="_wYzVRdg">Form and content of the paper benefited greatly from all these inputs.</s></p></div>
+			</div>
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_YUtzqtr"><p xml:id="_NtBXxy5"><s xml:id="_A4Sq4DH">Data Availability Not applicable.</s></p><p xml:id="_BhufCra"><s xml:id="_TQ6u8fQ">Code Availability Not applicable. 34</s><s xml:id="_MzjAYnM"> We are grateful to the anonymous reviewers for encouraging us to highlight this point.</s><s xml:id="_NGVmVzA">See also <ref type="bibr" target="#b10">Carrier (2022)</ref>.</s></p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_2szAVP5">Author Contributions</head><p xml:id="_4dBAvrM"><s xml:id="_XKvxfKF">The authors have contributed equally to the production of the article.</s><s xml:id="_PZ9ayYv">They have read and approved the final manuscript.</s></p><p xml:id="_btebaMH"><s xml:id="_wrMKZ2b">Funding Open access funding provided by Austrian Science Fund (FWF).</s><s xml:id="_CgFdAK6">Alexander Linsbichler received partial funding from the Austrian Academy of Sciences and from the Austrian Science Fund (FWF): W 1228-G18.</s><s xml:id="_BvEAj5v">Ivan Ferreira da Cunha received partial funding from CAPES/PROEX.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_sybUbau">Declarations</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_YxMtW4E">Conflicts of interest</head><p xml:id="_9JqpfmB"><s xml:id="_K9HzcbK">The authors declare that they have no conflict of interest.</s></p><p xml:id="_brfAEb2"><s xml:id="_6j5kdFS">Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.</s><s xml:id="_fTkwwFy">The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material.</s><s xml:id="_2GT7mYd">If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.</s><s xml:id="_D75k44Z">To view a copy of this licence, visit <ref type="url" target="http://creat">http:// creat</ref> iveco mmons.</s><s xml:id="_smuaCYW">org/ licen ses/ by/4.</s><s xml:id="_bYr9jyc">0/.</s></p><p xml:id="_NBpMhbW"><s xml:id="_eSZzn2K">Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</s></p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_qqtftph">The Methodology of Applied Philosophy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Archard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_xxmFCVS">A Companion to Applied Philosophy</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Lippert-Rasmussen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Brownlee</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Coady</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley Blackwell</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="18" to="33" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Archard, D. 2017. The Methodology of Applied Philosophy. In A Companion to Applied Philosophy, ed. K. Lippert-Rasmussen, K. Brownlee, and D. Coady, 18-33. Chichester: Wiley Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_kuaQ6B6">Die Verbindung des Utopismus von Morus über Mach bis zum Wiener Kreis: Ernst Machs &apos;Gedankenexperiment als Utopie</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Arnswald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_6ESYb62">Der Wiener Kreis -Aktualität in Wissenschaft, Literatur, Architektur und Kunst</title>
+		<editor>
+			<persName><forename type="first">U</forename><surname>Arnswald</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Stadler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Weibel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>LIT-Verlag</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="11" to="31" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arnswald, U. 2019. Die Verbindung des Utopismus von Morus über Mach bis zum Wiener Kreis: Ernst Machs &apos;Gedankenexperiment als Utopie.&apos; In Der Wiener Kreis -Aktualität in Wissenschaft, Literatur, Architektur und Kunst, ed. U. Arnswald, F. Stadler, and P. Weibel, 11-31. Wien: LIT-Verlag.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main" xml:id="_msZ5QKX">Mathematical Truth</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Benacerraf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FkwqznU">The Journal of Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="661" to="679" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benacerraf, P. 1973. Mathematical Truth. The Journal of Philosophy 70 (19): 661-679.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Berneri</surname></persName>
+		</author>
+		<title level="m" xml:id="_ZzyhgME">A Journey through Utopia</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Schocken</publisher>
+			<date type="published" when="1950">1950/1971</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berneri, M.L. 1950/1971. A Journey through Utopia. New York: Schocken.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_mmdrw9N">On the Identity of Thought Experiments</title>
+		<author>
+			<persName><forename type="first">Alisa</forename><surname>Bokulich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mélanie</forename><surname>Frappier</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315175027-32</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_4E5nbup">The Routledge Companion to Thought Experiments</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="545" to="557" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bokulich, A., and M. Frappier. 2018. On the Identity of Thought Experiments: Thought Experiments Rethought. In The Routledge Companion to Thought Experiments, ed. M.T. Stuart, Y. Fehige, and J.R. Brown, 545-585. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main" xml:id="_zAzqxUK">The Argument View</title>
+		<author>
+			<persName><forename type="first">Elke</forename><surname>Brendel</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315175027-16</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_96TR5DM">The Routledge Companion to Thought Experiments</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="281" to="292" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brendel, E. 2018. The Argument View: Are Thought Experiments Mere Picturesque Arguments? In The Routledge Companion to Thought Experiments, ed. M.T. Stuart, Y. Fehige, and J.R. Brown, 281-292. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main" xml:id="_zA4YNb3">Why Empiricism Won&apos;t Work</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/psaprocbienmeetp.1992.2.192841</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_M7dR8CK">PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</title>
+		<title level="j" type="abbrev">PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</title>
+		<idno type="ISSN">0270-8647</idno>
+		<imprint>
+			<biblScope unit="volume">1992</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="271" to="279" />
+			<date type="published" when="1992-01">1992. 1992</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brown, J.R. 1992. Why Empiricism Won&apos;t Work. Proceedings of the Biennial Meeting of the Philosophy of Science Association 1992 (2): 271-279.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main" xml:id="_fEYC9u7">Thought Experiments</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</author>
+		<ptr target="https://plato.stanford.edu/archives/sum2017/entries/thought-experiment/" />
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jtNqUre">The Stanford Encyclopedia of Philosophy</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Zalta</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Summer</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017-09-13">2017. 2017. 13 September 2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brown, J.R., and Y. Fehige 2017. Thought Experiments. In E.N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Summer 2017 Edition). https:// plato. stanf ord. edu/ archi ves/ sum20 17/ entri es/ thoug ht-exper iment/. Accessed 13 September 2019</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main" xml:id="_EXQHssZ">The Laboratory of the Mind: Thought Experiments in the Natural Sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991. 2011</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd Edition</note>
+	<note type="raw_reference">Brown, J.R. 1991/2011. The Laboratory of the Mind: Thought Experiments in the Natural Sciences. 2nd Edition. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fleck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</author>
+		<title level="m" xml:id="_vxCMZfH">Otto Neurath: Philosophy Between Science and Politics</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cartwright, N., J. Cat, L. Fleck, and T. Uebel. 1996. Otto Neurath: Philosophy Between Science and Poli- tics. Cambridge: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main" xml:id="_evjGgBB">What Does Good Science-Based Advice to Politics Look Like?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carrier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fNxjhaW">Journal for General Philosophy of Science</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="21" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carrier, M. 2022. What Does Good Science-Based Advice to Politics Look Like? Journal for General Phi- losophy of Science 53 (1): 5-21.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_mCbTVqn">Inconsistent Equilibrium Constructs: The Evenly Rotating Economy of Mises and Rothbard</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_QUyJFen">The American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="866" to="869" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cowen, T., and H. Fink. 1985. Inconsistent Equilibrium Constructs: The Evenly Rotating Economy of Mises and Rothbard. The American Economic Review 75 (4): 866-869.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_hKBawsk">Utopias and Dystopias as Models of Social Technology</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Cunha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Uhm6a9F">Principia</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="363" to="377" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cunha, I.F. 2015. Utopias and Dystopias as Models of Social Technology. Principia 19 (3): 363-377.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main" xml:id="_syphYGe">Constructing Dystopian Experience: A Neurath-Cartwrightian Approach to the Philosophy of Social Technology</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Cunha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_5Tatj2J">Studies in History and Philosophy of Science Part A</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="41" to="48" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cunha, I.F. 2018. Constructing Dystopian Experience: A Neurath-Cartwrightian Approach to the Philoso- phy of Social Technology. Studies in History and Philosophy of Science Part A 72: 41-48.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main" xml:id="_v24HbpN">Experimentos de Pensamento na Crise das Ciências Humanas e Sociais: articulando duas ideias de Kuhn e o utopianismo de Neurath</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Cunha</surname></persName>
+		</author>
+		<idno type="DOI">10.12957/emconstrucao.2022.65663</idno>
+		<ptr target="https://doi.org/10.12957/emconstrucao.2022.65663" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Em Construção, forthcoming</note>
+	<note type="raw_reference">Cunha, I.F. 2022. Experimentos de Pensamento na Crise das Ciências Humanas e Sociais: articulando duas ideias de Kuhn e o utopianismo de Neurath. Em Construção, forthcoming. https:// doi. org/ 10. 12957/ emcon struc ao. 2022. 65663</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_MNAengB">Art and Thought Experiments</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Davies</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315175027-30</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jANs6EQ">The Routledge Companion to Thought Experiments</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="512" to="525" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Davies, D. 2018. Art and Thought Experiments. In The Routledge Companion to Thought Experiments, ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="512" to="525" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.T. Stuart, Y. Fehige, and J.R. Brown, 512-525. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Duhem</surname></persName>
+		</author>
+		<title level="m" xml:id="_cnhgeq6">La théorie physique: son objet, sa structure</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vrin</publisher>
+			<date type="published" when="1906">1906/2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duhem, P. 1906/2007. La théorie physique: son objet, sa structure. Paris: Vrin.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_abSvNnr">Fiction as Thought Experiment</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Elgin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10670-021-00410-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_rssBXRP">Perspectives on Science</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="221" to="241" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Elgin, C. 2014. Fiction as Thought Experiment. Perspectives on Science 22 (2): 221-241.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main" xml:id="_XuGC3Vb">The Value of Surprise in Science</title>
+		<author>
+			<persName><forename type="first">Steven</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Murphy</surname></persName>
+			<idno type="ORCID">0000-0002-3707-6872</idno>
+		</author>
+		<idno type="DOI">10.1007/s10670-021-00410-z</idno>
+		<ptr target="https://doi.org/10.1007/s10670-021-00410-z" />
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9P9WUu6">Erkenntnis</title>
+		<title level="j" type="abbrev">Erkenn</title>
+		<idno type="ISSN">0165-0106</idno>
+		<idno type="ISSNe">1572-8420</idno>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1447" to="1466" />
+			<date type="published" when="2021-07-30">2021</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">French, S., and A. Murphy. 2021. The Value of Surprise in Science. Erkenntnis. https:// doi. org/ 10. 1007/ s10670-021-00410-z.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Gendler</surname></persName>
+		</author>
+		<title level="m" xml:id="_sucB7UZ">Thought Experiment: On the Powers and Limits of Imaginary Cases</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Garland</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gendler, T.S. 2000. Thought Experiment: On the Powers and Limits of Imaginary Cases. New York: Garland.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_XuyrWRF">Platonism and the A Priori in Thought Experiments</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Grundmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ZrMkjsa">The Routledge Companion to Thought Experiments</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="293" to="308" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grundmann, T. 2018. Platonism and the A Priori in Thought Experiments. In The Routledge Companion to Thought Experiments, ed. M.T. Stuart, Y. Fehige, and J.R. Brown, 293-308. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_v2cAFmD">A Model for Thought Experiments</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Häggqvist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_dhChY78">Canadian Journal of Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="76" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Häggqvist, S. 2009. A Model for Thought Experiments. Canadian Journal of Philosophy 39 (1): 55-76.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main" xml:id="_3t3VV7c">Thought Experiments, Formalization, and Disagreement</title>
+		<author>
+			<persName><forename type="first">Sören</forename><surname>Häggqvist</surname></persName>
+			<idno type="ORCID">0000-0002-8170-598X</idno>
+		</author>
+		<idno type="DOI">10.1007/s11245-017-9491-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_pX3mMnR">Topoi</title>
+		<title level="j" type="abbrev">Topoi</title>
+		<idno type="ISSN">0167-7411</idno>
+		<idno type="ISSNe">1572-8749</idno>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="801" to="810" />
+			<date type="published" when="2019">2019</date>
+			<publisher>Springer Science and Business Media LLC</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Häggqvist, S. 2019. Thought Experiments, Formalization, and Disagreement. Topoi 38: 801-810.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main" xml:id="_c84St43">Do Thought Experiments Have a Life of Their Own? Comments on James Brown, Nancy Nersessian and David Gooding</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Hacking</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/psaprocbienmeetp.1992.2.192844</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_EaqQngC">PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</title>
+		<title level="j" type="abbrev">PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</title>
+		<idno type="ISSN">0270-8647</idno>
+		<imprint>
+			<biblScope unit="volume">1992</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="302" to="308" />
+			<date type="published" when="1992-01">1992. 1992</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hacking, I. 1992. Do Thought Experiments Have a Life of Their Own? Comments on James Brown, Nancy Nersessian and David Gooding. Proceedings of the Biennial Meeting of the Philosophy of Science Association 1992 (2): 302-308.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main" xml:id="_nBZXr7t">A Realist Approach to Equilibrium Analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Hülsmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_WCCZGHH">The Quarterly Journal of Austrian Economics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="3" to="51" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hülsmann, J.G. 2000. A Realist Approach to Equilibrium Analysis. The Quarterly Journal of Austrian Eco- nomics 3 (4): 3-51.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huxley</surname></persName>
+		</author>
+		<title level="m" xml:id="_8BjJmHj">Brave New World</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>HarperCollins</publisher>
+			<date type="published" when="1932">1932/2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huxley, A. 1932/2006. Brave New World. New York: HarperCollins.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huxley</surname></persName>
+		</author>
+		<title level="m" xml:id="_4gV2pYv">Brave New World Revisited</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>HarperCollins</publisher>
+			<date type="published" when="1958">1958/2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huxley, A. 1958/2006. Brave New World Revisited. New York: HarperCollins.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main" xml:id="_96BR33A">Naturaleza y alcance de los experimentos mentales en las ciencias naturales</title>
+		<author>
+			<persName><forename type="first">Braulio</forename><forename type="middle">Andrés</forename><surname>Rodríguez Pachón</surname></persName>
+		</author>
+		<idno type="DOI">10.11144/javeriana.10554.58108</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_apdpeYc">Experimentos Mentales en Ciencias Naturales</title>
+		<meeting><address><addrLine>Mérida</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editorial Pontificia Universidad Javeriana</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Islas Mondragón, D. 2020. Experimentos Mentales en Ciencias Naturales. Mérida: UNAM.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main" xml:id="_4PSMzAR">A Function for Thought Experiments</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Kuhn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_g2WyvRt">The Essential Tension</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Chicago Press</publisher>
+			<date type="published" when="1964">1964. 1977</date>
+			<biblScope unit="page" from="240" to="265" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kuhn, T.S. 1964/1977. A Function for Thought Experiments. In The Essential Tension, 240-265. Chicago: The University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main" xml:id="_vbA9kRE">A Similar Line of Thought in Neurath and Sen: Interpersonal Comparison</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Leßmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_BVBPyk2">Otto Neurath&apos;s Economics in Context</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Schmitz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="115" to="130" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leßmann, O. 2007. A Similar Line of Thought in Neurath and Sen: Interpersonal Comparison. In Otto Neurath&apos;s Economics in Context, ed. E. Nemeth, S. Schmitz, and T. Uebel, 115-130. Wien: Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main" xml:id="_VtdAYUF">Otto Neurath and Ludwig von Mises</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Linsbichler</surname></persName>
+		</author>
+		<idno type="DOI">10.23941/ejpe.v14i2.623</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_PDzXay5">Erasmus Journal for Philosophy and Economics</title>
+		<title level="j" type="abbrev">EJPE</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Ercan</surname></persName>
+		</editor>
+		<idno type="ISSNe">1876-9098</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="311" to="324" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Erasmus Journal for Philosophy and Economics</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Linsbichler, A. 2015. Otto Neurath and Ludwig von Mises -The Socialist Calculation Debates and Beyond. In Interactions in the History of Philosophy II, ed. B. Ercan, 311-324. Istanbul: Delta Publishing.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main" xml:id="_cqrG3Uv">Rationalities and Their Limits: Reconstructing Neurath’s and Mises’s Prerequisites in the Early Socialist Calculation Debates</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Linsbichler</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/s0743-41542021000039b008</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_6Qb7Y6Y">Research in the History of Economic Thought and Methodology</title>
+		<imprint>
+			<publisher>Emerald Publishing Limited</publisher>
+			<date type="published" when="2021-08-25">2021</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="95" to="128" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Linsbichler, A. 2021. Rationalities and their Limits: Reconstructing Neurath&apos;s and Mises&apos;s Prerequisites in the Early Socialist Calculation Debates. Research in the History of Economic Thought and Methodol- ogy 39B: 95-128.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q5acvVe">Otto Neurath and Ludwig von Mises</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Linsbichler</surname></persName>
+		</author>
+		<idno type="DOI">10.23941/ejpe.v14i2.623</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_raeeHWv">Erasmus Journal for Philosophy and Economics</title>
+		<title level="j" type="abbrev">EJPE</title>
+		<idno type="ISSNe">1876-9098</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="202" to="208" />
+			<date type="published" when="2022-01-13">2022</date>
+			<publisher>Erasmus Journal for Philosophy and Economics</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Linsbichler, A. 2022a. Otto Neurath and Ludwig Mises: Philosophy, Politics, and Economics in Viennese Late Enlightenment. Erasmus Journal for Philosophy and Economics 14 (2): 202-208.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main" xml:id="_R8gs6cz">Jan Tinbergen and the Rise of Technocracy</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Linsbichler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_TzcBzeG">Wittgenstein and the Vienna Circle. 100 Years After the &apos;Tractatus Logico-Philosophicus</title>
+		<title level="s" xml:id="_EsZ2rEa">Vienna Circle Institute Yearbook</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Stadler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">28</biblScope>
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+	<note type="raw_reference">Linsbichler, A. 2022b. Jan Tinbergen and the Rise of Technocracy. In: F. Stadler (Ed.), Wittgenstein and the Vienna Circle. 100 Years After the &apos;Tractatus Logico-Philosophicus&apos;. Vienna Circle Institute Yearbook 28. Wien: Springer Nature, forthcoming.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q2UmU5Z">Erkenntnis und Irrtum</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s" xml:id="_VZUQNVy">Skizzen zur Psychologie der Forschung</title>
+		<imprint>
+			<date type="published" when="1906">1906. 1917</date>
+			<publisher>Barth</publisher>
+			<pubPlace>Leipzig</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mach, E. 1906/1917. Erkenntnis und Irrtum. Skizzen zur Psychologie der Forschung. Leipzig: Barth.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mannheim</surname></persName>
+		</author>
+		<title level="m" xml:id="_C2ZRd8D">Ideology and Utopia</title>
+		<editor>
+			<persName><forename type="middle">L</forename><surname>Trans</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Wirth</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Shils</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harcourt</publisher>
+			<date type="published" when="1929">1929. 1936</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mannheim, K. 1929/1936. Ideology and Utopia. Trans. L. Wirth &amp; E. Shils. New York: Harcourt.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main" xml:id="_v3uBm7T">Mental Models and Thought Experiments</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Miščević</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_JC6pqQd">International Studies in the Philosophy of Science</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="215" to="226" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miščević, N. 1992. Mental Models and Thought Experiments. International Studies in the Philosophy of Science 6: 215-226.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main" xml:id="_QcGVPZD">Thought Experiments in Political Philosophy</title>
+		<author>
+			<persName><forename type="first">Nenad</forename><surname>Miščević</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315175027-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_6JCaEJK">The Routledge Companion to Thought Experiments</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="153" to="170" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Miščević, N. 2018. Thought Experiments in Political Philosophy. In The Routledge Companion to Thought Experiments, ed. M.T. Stuart, Y. Fehige, and J.R. Brown, 153-170. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main" xml:id="_UwqTWeE">Human Action: A Treatise on Economics</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mises</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1949. 1998</date>
+			<publisher>Ludwig von Mises Institute</publisher>
+			<pubPlace>Auburn</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises, L. 1949/1998. Human Action: A Treatise on Economics. Auburn: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main" xml:id="_fj6HYDD">EINLEITUNG</title>
+		<author>
+			<persName><forename type="first">Elisabeth</forename><surname>Nemeth</surname></persName>
+		</author>
+		<idno type="DOI">10.7767/9783205159735-002</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ec5fH4G">Otto Neurath: Rationalität, Planung, Vielfalt</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Stadler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Böhlau Verlag</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nemeth, E., and F. Stadler, eds. 1996. Encyclopedia and Utopia: The Life and Work of Otto Neurath. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main" xml:id="_wRUm645">Auf dem Weg zur Wiedergewinnung eines wissenschaftlichen Gegenstands</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qsZ59AU">Otto Neurath: Rationalität</title>
+		<editor>
+			<persName><surname>Planung</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ed</forename><forename type="middle">E</forename><surname>Vielfalt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Nemeth</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Heinrich</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>R. Oldenbourg Verlag</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="146" to="166" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nemeth, E. 1999. Auf dem Weg zur Wiedergewinnung eines wissenschaftlichen Gegenstands. In Otto Neu- rath: Rationalität, Planung, Vielfalt, ed. E. Nemeth and R. Heinrich, 146-166. Wien: R. Oldenbourg Verlag.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main" xml:id="_V9YfzqS">Freeing up One&apos;s Point of View&apos;: Neurath&apos;s Machian Heritage Compared with Schumpeter&apos;s</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_TjYshVN">Otto Neurath&apos;s Economics in Context</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Schmitz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="13" to="36" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nemeth, E. 2007. &apos;Freeing up One&apos;s Point of View&apos;: Neurath&apos;s Machian Heritage Compared with Schum- peter&apos;s. In Otto Neurath&apos;s Economics in Context, ed. E. Nemeth, S. Schmitz, and T. Uebel, 13-36. Wien: Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main" xml:id="_7uS3TAR">The Philosophy of the &apos;Other Austrian Economics</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_XC2bm3U">New Challenges to Philosophy of Science</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Andersen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Dieks</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Gonzalez</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Wheeler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="339" to="350" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nemeth, E. 2013. The Philosophy of the &apos;Other Austrian Economics.&apos; In New Challenges to Philosophy of Science, ed. H. Andersen, D. Dieks, W.J. Gonzalez, T. Uebel, and G. Wheeler, 339-350. Dordrecht: Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main" xml:id="_RqXSegC">Visualizing Relations in Society and Economics: Otto Neurath’s Isotype-Method Against the Background of his Economic Thought</title>
+		<author>
+			<persName><forename type="first">Elisabeth</forename><surname>Nemeth</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-02128-3_6</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_cjRxnxS">Boston Studies in the Philosophy and History of Science</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Cat</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Tuboly</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="117" to="140" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nemeth, E. 2019. Visualizing Relations in Society and Economics: Otto Neurath&apos;s Isotype-Method Against the Background of his Economic Thought. In Neurath Reconsidered: New Sources and Perspectives, ed. J. Cat and A.T. Tuboly, 117-140. Cham: Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main" xml:id="_4uVcFX6">Otto Neurath&apos;s Utopias: The Will to Hope</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nemeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_f9rC7nt">Rediscovering the Forgotten Vienna Circle</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer</publisher>
+			<date type="published" when="1982">1982. 1991</date>
+			<biblScope unit="page" from="285" to="292" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nemeth, E. 1982/1991. Otto Neurath&apos;s Utopias: The Will to Hope. Trans. Thomas Uebel. In Rediscovering the Forgotten Vienna Circle, ed. T. Uebel, 285-292. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main" xml:id="_aHCgjx7">Cognitive Science, Mental Modeling, and Thought Experiments</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">J</forename><surname>Nersessian</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315175027-18</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ZDRhdcp">The Routledge Companion to Thought Experiments</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Fehige</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="309" to="326" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nersessian, N. 2018. Cognitive Science, Mental Modeling, and Thought Experiments. In The Routledge Companion to Thought Experiments, ed. M.T. Stuart, Y. Fehige, and J.R. Brown, 309-326. New York: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main" xml:id="_V9hrshT">Betriebsräte, Fachräte, Kontrollrat und die Vorbereitung der Vollsozialisierung</title>
+		<author>
+			<persName><forename type="first">Otto</forename><surname>Neurath</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-322-86336-2_9</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_MCRmWfx">Theorie und Praxis der direkten Demokratie</title>
+		<imprint>
+			<publisher>VS Verlag für Sozialwissenschaften</publisher>
+			<date type="published" when="1922">1922</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="103" to="123" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1922. Vollsozialisierung und gemeinwirtschaftliche Anstalten. Der Kampf 15: 54-60.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+		<title level="m" xml:id="_uCBcjwW">Modern Man in the Making</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Secker &amp; Warburg</publisher>
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1939. Modern Man in the Making. London: Secker &amp; Warburg.</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main" xml:id="_7TXw38R">Visual Education. In Encyclopedia and Utopia: The Life and Work of Otto Neurath</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+		<editor>E. Nemeth and F. Stadler</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Kluwer</publisher>
+			<biblScope unit="page" from="245" to="355" />
+			<pubPlace>Dordrecht</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1996. Visual Education. In Encyclopedia and Utopia: The Life and Work of Otto Neurath, ed. E. Nemeth and F. Stadler, 245-355. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main" xml:id="_7jyTt38">On the Theory of Social Science</title>
+		<author>
+			<persName><forename type="first">Otto</forename><surname>Neurath</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/1-4020-2274-3_8</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_pAHV7FT">Vienna Circle Collection</title>
+		<editor>
+			<persName><forename type="first">Otto</forename><surname>Neurath</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="1910">1910. 2004</date>
+			<biblScope unit="page" from="265" to="291" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1910/2004. On the Theory of Social Science. In Otto Neurath. Economic Writings: Selections 1904-1945, ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Kluwer</publisher>
+			<biblScope unit="page" from="265" to="291" />
+			<pubPlace>Dordrecht</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Uebel and R. Cohen, 265-291. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main" xml:id="_7UAAZ9J">Nationalökonomie und Wertlehre</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_Ve6x5d2">Gesammelte ökonomische, soziologische und sozialpolitische Schriften</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Haller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">U</forename><surname>Höfer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hölder-Pichler-Tempsky</publisher>
+			<date type="published" when="1911">1911. 1998</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="470" to="519" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1911/1998. Nationalökonomie und Wertlehre. In Gesammelte ökonomische, sozi- ologische und sozialpolitische Schriften, Band 1, ed. R. Haller and U. Höfer, 470-519. Wien: Hölder-Pichler-Tempsky.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main" xml:id="_VYZurCp">The Problem of the Pleasure Maximum</title>
+		<author>
+			<persName><forename type="first">Otto</forename><surname>Neurath</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-94-010-2525-6_4</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_jyBETmc">Empiricism and Sociology</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Neurath</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Cohen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Netherlands</publisher>
+			<date type="published" when="1912">1912. 1973</date>
+			<biblScope unit="page" from="113" to="122" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1912/1973. The Problem of the Pleasure Maximum. In Empiricism and Sociology, ed. M. Neur- ath and R. S. Cohen, 113-122. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main" xml:id="_SdNeqcm">The Lost Wanderers of Descartes and the Auxiliary Motive</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tgXys9y">Philosophical Papers 1913-1946</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Neurath</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>D. Reidel</publisher>
+			<date type="published" when="1913">1913. 1983</date>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1913/1983. The Lost Wanderers of Descartes and the Auxiliary Motive. In Otto Neurath. Philo- sophical Papers 1913-1946, ed. R. Cohen and M. Neurath, 1-12. Dordrecht: D. Reidel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main" xml:id="_Stv3gdU">The Conceptual Structure of Economic Theory and its Foundations</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/1-4020-2274-3_11</idno>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_2UeKvT4">Vienna Circle Collection</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer Academic Publishers</publisher>
+			<date type="published" when="1917">1917. 2004</date>
+			<biblScope unit="page" from="312" to="341" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1917/2004. The Conceptual Structure of Economic Theory and its Foundations. In Otto Neu- rath. Economic Writings: Selections 1904-1945, ed. T. Uebel and R. Cohen, 312-341. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main" xml:id="_KbdvZMG">Die Utopie als gesellschaftstechnische Konstruktion</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_meST3t4">Wissenschaftliche Weltauffassung, Sozialismus und logischer Empirismus</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Hegselmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Frankfurt am Main</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suhrkamp</publisher>
+			<date type="published" when="1919">1919. 1979</date>
+			<biblScope unit="page" from="235" to="241" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1919/1979. Die Utopie als gesellschaftstechnische Konstruktion. In Wissenschaftliche Weltauf- fassung, Sozialismus und logischer Empirismus, ed. R. Hegselmann, 235-241. Frankfurt am Main: Suhrkamp.</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main" xml:id="_tHaz8aD">Total Socialization: of the Two Stages of the Future to Come</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_ku26mVN">Economic Writings: Selections 1904-1945</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer</publisher>
+			<date type="published" when="1920">1920. 2004</date>
+			<biblScope unit="page" from="371" to="404" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1920/2004. Total Socialization: of the Two Stages of the Future to Come. In Otto Neurath. Economic Writings: Selections 1904-1945, ed. T. Uebel and R. Cohen, 371-404. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main" xml:id="_r2cHC6D">A System of Socialisation</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_QZ4P5Je">Economic Writings: Selections 1904-1945</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer</publisher>
+			<date type="published" when="1921">1921. 2004</date>
+			<biblScope unit="page" from="345" to="370" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1921/2004. A System of Socialisation. In Otto Neurath. Economic Writings: Selections 1904- 1945, ed. T. Uebel and R. Cohen, 345-370. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main" xml:id="_HCxxMn2">Economic Plan and Calculation in Kind</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_d54HerM">Economic Writings: Selections 1904-1945</title>
+		<editor>
+			<persName><forename type="first">Otto</forename><surname>Neurath</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1925">1925. 2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1925/2004. Economic Plan and Calculation in Kind. In Otto Neurath. Economic Writings: Selections 1904-1945, ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Kluwer</publisher>
+			<biblScope unit="page" from="405" to="465" />
+			<pubPlace>Dordrecht</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Uebel and R. Cohen, 405-465. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main" xml:id="_ZMbjbXv">Bürgerlicher Marxismus</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_tmtf6VP">Gesammelte philosophische und methodologische Schriften</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Haller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Rutte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hölder Pichler Tempsky</publisher>
+			<date type="published" when="1930">1930. 1981</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="349" to="356" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1930/1981. Bürgerlicher Marxismus. In Gesammelte philosophische und methodologische Schriften, Band 1, ed. R. Haller and H. Rutte, 349-356. Wien: Hölder Pichler Tempsky.</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main" xml:id="_3GszKb5">Sociology in the Framework of Physicalism</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_2nmDnDp">Philosophical Papers 1913-1946</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Neurath</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>D. Reidel</publisher>
+			<date type="published" when="1931">1931. 1983</date>
+			<biblScope unit="page" from="58" to="90" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1931/1983. Sociology in the Framework of Physicalism. In Otto Neurath. Philosophical Papers 1913-1946, ed. R. Cohen and M. Neurath, 58-90. Dordrecht: D. Reidel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main" xml:id="_Q7p9DKa">Protocol Statements</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_UAavgDe">Philosophical Papers</title>
+		<editor>
+			<persName><forename type="first">Otto</forename><surname>Neurath</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1913">1932. 1983. 1913-1946</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1932/1983. Protocol Statements. In Otto Neurath. Philosophical Papers 1913-1946, ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main" xml:id="_kT3bXpB">Otto Neurath – Philosophical Papers 1913–1946. Edited by R. S. Cohen and M. Neurath. (Pp. 270; $65.00.) D. Reidel: Dordrecht. 1983.</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Neurath</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0033291700015695</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_juskSQk">Psychological Medicine</title>
+		<title level="j" type="abbrev">Psychol. Med.</title>
+		<idno type="ISSN">0033-2917</idno>
+		<idno type="ISSNe">1469-8978</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="721" to="721" />
+			<date type="published" when="1984-08" />
+			<publisher>Cambridge University Press (CUP)</publisher>
+			<pubPlace>Dordrecht</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Cohen and M. Neurath, 91-99. Dordrecht: D. Reidel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main" xml:id="_hrVEU2P">What is Meant by a Rational Economic Theory?</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_JmMyzvb">Unified Science. The Vienna Circle Monograph Series originally</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Mcguiness</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>D. Reidel</publisher>
+			<date type="published" when="1935">1935. 1987</date>
+			<biblScope unit="page" from="67" to="109" />
+		</imprint>
+	</monogr>
+	<note>now in an English translation</note>
+	<note type="raw_reference">Neurath, O. 1935/1987. What is Meant by a Rational Economic Theory?. In Unified Science. The Vienna Circle Monograph Series originally edited by Otto Neurath, now in an English translation, ed. B. McGuiness,67-109. Dordrecht: D. Reidel.</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main" xml:id="_RCknYj3">Foundations of the Social Sciences</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_qtwRQew">Foundations of the Unity of Science: Towards an International Encyclopedia of Unified Science</title>
+		<imprint>
+			<date type="published" when="1944">1944. 1970</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1944/1970. Foundations of the Social Sciences. In Foundations of the Unity of Science: Towards an International Encyclopedia of Unified Science, Volume 2, ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carnap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morris</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Chicago University Press</publisher>
+			<biblScope unit="page" from="1" to="47" />
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O. Neurath, R. Carnap, and C. Morris, 1-47. Chicago: Chicago University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main" xml:id="_7QgmxjY">Alternatives to Market Competition</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_9pncFV7">Economic Writings: Selections 1904-1945</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Cohen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kluwer</publisher>
+			<date type="published" when="1945">1945. 2004</date>
+			<biblScope unit="page" from="546" to="548" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neurath, O. 1945/2004. Alternatives to Market Competition. In Otto Neurath. Economic Writings: Selec- tions 1904-1945, ed. T. Uebel and R. Cohen, 546-548. Dordrecht: Kluwer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main" xml:id="_6uwAtk7">Are Thought Experiments Just What you Thought?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Norton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_tFMmfvm">Canadian Journal of Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="333" to="366" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Norton, J. 1996. Are Thought Experiments Just What you Thought? Canadian Journal of Philosophy 26 (3): 333-366.</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main" xml:id="_tTCmA8S">Why Thought Experiments Do Not Transcend Empiricism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Norton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_X3RmdsQ">Contemporary Debates in the Philosophy of Science</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Hitchcock</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="44" to="66" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Norton, J. 2004a. Why Thought Experiments Do Not Transcend Empiricism. In Contemporary Debates in the Philosophy of Science, ed. C. Hitchcock, 44-66. Oxford: Blackwell.</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main" xml:id="_QmbTN9h">On Thought Experiments: Is There More to the Argument?</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Norton</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/425238</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_A29Wrde">Philosophy of Science</title>
+		<title level="j" type="abbrev">Philos. of Sci.</title>
+		<idno type="ISSN">0031-8248</idno>
+		<idno type="ISSNe">1539-767X</idno>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1139" to="1151" />
+			<date type="published" when="2004-12">2004</date>
+			<publisher>Cambridge University Press (CUP)</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Norton, J. 2004b. On Thought Experiments: Is There More to the Argument? Philosophy of Science 71: 1139-1151.</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Norton</surname></persName>
+		</author>
+		<title level="m" xml:id="_FM9Gwwk">The Material Theory of Induction</title>
+		<meeting><address><addrLine>Calgary</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Calgary Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Norton, J. 2021. The Material Theory of Induction. Calgary: University of Calgary Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main" xml:id="_w7R8tak">Markets, Deliberation and Environment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>O'neill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Oxon</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O&apos;Neill, J. 2007. Markets, Deliberation and Environment. Oxon: Routledge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main" xml:id="_EwtXzvr">Otto Neurath liest Stefan Zweigs &apos;Die Welt von Gestern</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Stadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Neurath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Otto Neurath Und</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wells</surname></persName>
+		</author>
+		<editor>A. Larcati and F. Stadler</editor>
+		<imprint>
+			<date type="published" when="1932">2021. 1932</date>
+			<publisher>LIT</publisher>
+			<biblScope unit="page" from="221" to="244" />
+			<pubPlace>Wien</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Arbeit, Wohlstand und das Glück der Menschheit</note>
+	<note type="raw_reference">Stadler, F., and O. Neurath. 2021. Otto Neurath und H.G. Wells. 20 Bildstatistiken von Otto Neurath in H.G. Wells, &apos;Arbeit, Wohlstand und das Glück der Menschheit&apos; (1932). In Otto Neurath liest Stefan Zweigs &apos;Die Welt von Gestern&apos;, ed. A. Larcati and F. Stadler, 221-244. Wien: LIT.</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main" xml:id="_RBDtuNq">Norton and the Logic of Thought Experiments</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Stuart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_R8VgAAp">Axiomathes</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="451" to="466" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stuart, M.T. 2016. Norton and the Logic of Thought Experiments. Axiomathes 26: 451-466.</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main" xml:id="_h48Sakr">Social Preference, Institution, and Distribution: An Experimental and Philosophical Approach</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tokumaru</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Singapore</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tokumaru, N. 2016. Social Preference, Institution, and Distribution: An Experimental and Philosophical Approach. Singapore: Springer.</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main" xml:id="_kT3CFTf">Calculation in Kind and Marketless Socialism: On Otto Neurath&apos;s Utopian Economics</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Uebel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_kvn9Hzn">European Journal of the History of Economic Thought</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="475" to="501" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Uebel, T. 2008. Calculation in Kind and Marketless Socialism: On Otto Neurath&apos;s Utopian Economics. European Journal of the History of Economic Thought 15 (3): 475-501.</note>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main" xml:id="_7MtvGV4">The Concept of Utopia</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vieira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m" xml:id="_zfDpMVv">The Cambridge Companion to Utopian Literature</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Claeys</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="3" to="27" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vieira, F. 2010. The Concept of Utopia. In The Cambridge Companion to Utopian Literature, ed. G. Claeys, 3-27. Cambridge: Cambridge University Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main" xml:id="_XS3GgMX">The Philosophy of Philosophy</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Williamson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Blackwell</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williamson, T. 2007. The Philosophy of Philosophy. Oxford: Blackwell.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

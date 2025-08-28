@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main" xml:id="_Z5pfbHH"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C0330FF8C349281E31B51AF3D478DB98</idno>
+					<idno type="DOI">10.1080/13604813.2018.1484634</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-08-28T13:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="_Ugv53GU"><p xml:id="_YMY8a2z"><s xml:id="_VVYp4j5">Editorial: Private is profit and the public is dead?</s><s xml:id="_QUCFhYf">S ome say we live in 'post-political' times <ref type="bibr" target="#b22">(Swyngedouw 2009)</ref>, that the demise of political choice has resulted in a technocratic dictatorship which tightly circumscribes social possibilities (Z ˇiz ˇek 2011).</s><s xml:id="_Mz63CR8">This technocratic dystopia is defined by the neoliberal hegemony, where private interests dominate politics and exclude all forms of collectivism <ref type="bibr" target="#b15">(Peck 2012)</ref>.</s><s xml:id="_ttxZEva">The idea of the public-public interest, public space, public good-can, under this postpolitical lens, therefore seem anachronistic.</s><s xml:id="_B5P6feM">Where publicness still survives, in health care, parks or intellectual property, it is simply waiting for its turn to be drown by the unstoppable tide of privatization <ref type="bibr" target="#b3">(Crabtree 2017)</ref>.</s></p><p xml:id="_sMkYptx"><s xml:id="_hkt4qfU">While any such 'post-political' diagnosis certainly pushes the idea of an ascendant privatism crushing all the remnants of prior socializations too far, the line of thought provides a useful heuristic.</s><s xml:id="_2WNtTRB">And perhaps not in the most obvious way.</s><s xml:id="_ZF3aCG6">We are now all too familiar with the idea of public interests and public property being under persistent neoliberal attack <ref type="bibr" target="#b18">(Raco 2012)</ref>.</s><s xml:id="_asfbeFz">However, we often overlook how we conceptualize 'private' within the critical frameworks used to understand this neoliberal onslaught.</s><s xml:id="_QGFtdue">All too often we encounter the concept of 'private' subsumed within a narration of neoliberal hegemony.</s><s xml:id="_4UqhzUx">After all, privatization became a hallmark of Thatcherite neoliberal state reform <ref type="bibr" target="#b11">(Marsh 1991)</ref> and scholarly definitions of neoliberalism often describe it as a process of private interests trumping public interests:</s></p><p xml:id="_kP7bj64"><s xml:id="_taFzkZk">'Neoliberalism is the defining political economic paradigm of our time-it refers to the policies and processes whereby a relative handful of private interests are permitted to control as much as possible of social life in order to maximize their personal profit.' <ref type="bibr" target="#b12">(McChesney 1999)</ref> If we accept <ref type="bibr" target="#b8">Lefebvre's (2003)</ref> theoretical wager that capitalist industrialization has become urbanization, and that this urbanization is indeed a planetary phenomenon <ref type="bibr" target="#b0">(Brenner and Schmid 2015)</ref>, then we can quite easily conclude that social life is now organized at the global scale for the benefit of private interests (see <ref type="bibr" target="#b1">Catterall [2016]</ref> on 'planetary urbanization').</s><s xml:id="_xshvevZ">Appeals to collective interests are then, almost by definition, always going to be counterposed with private interests.</s></p><p xml:id="_KzRSVFR"><s xml:id="_MK9jpW9">This position has become stock-in-trade for right-wing thinkers.</s><s xml:id="_yu8t3Fs">von <ref type="bibr" target="#b13">Mises (2010)</ref> himself wrote of the 'fallacy of collectivism' and that any preference of the collective over the individual necessarily involves authoritarianism:</s></p><p xml:id="_HayBapq"><s xml:id="_Ww2Eqf3">'Then one cannot evade the question whose ends take precedence whenever an antagonism arises, those of the state or society or those of the individual.</s><s xml:id="_tBZby92">The answer to this question is already implied in the very concept of state or society as conceived by collectivism and universalism.</s><s xml:id="_rAbTvXj">If one postulates the existence of an entity which ex definitione [sic] is higher, nobler, and better than the individuals, then there cannot be any doubt that the aims of this eminent being must tower above those of the wretched individuals . . .</s><s xml:id="_fyBJpuU"><ref type="bibr">' (151)</ref> This characterization of private/public and individual/collective distinctions has served as an effective discursive strategy for neoliberal reformers on both sides of the Atlantic.</s><s xml:id="_wq3Hv9e">The conceptualization of the individual/ subject also aligns with those embedded within neoclassical economic models <ref type="bibr" target="#b21">(Rogers 1982)</ref>, the subject being that whose freedoms must be protected against the authoritarian impulses of state and socialists alike.</s><s xml:id="_GsDmSQW">Anything but small-scale voluntarist collectivism can therefore be rejected based on infringements to individual liberty and the always-creeping authoritarian tendency of the state <ref type="bibr" target="#b6">(Hayek 2007)</ref>.</s></p><p xml:id="_dGPcFaX"><s xml:id="_S7aBXss">The world around us bears witness to the effectiveness of this strategy.</s><s xml:id="_DSdF44s">But this type of framework also impacts the work of critical scholars and activists.</s><s xml:id="_TBtVBmm">Using the conceptualizations of private and public that are deployed by the likes of von Mises can serve to obscure some of the distinctions that enable us to understand what it means to be a citizen in today's global urban society (see Pe ´rez 2017).</s><s xml:id="_hMEnsvH">We should not accept the grammar of the question put to us by the peddlers of neoliberal doctrine.</s><s xml:id="_GbMPHhd">Today when we are presented with a choice of private over public interests, too often a deeply problematic distinction is unwittingly accepted.</s><s xml:id="_xfrCfn4">Rewind two centuries and we can begin to see the problem more clearly.</s><s xml:id="_SZjRpEX">Benjamin Constant's famous 1816 essay 'The Liberty of the Ancients compared with the Liberty of the Moderns' is particularly instructive.</s><s xml:id="_z9MWfm9">Constant, a Swiss liberal who looked to industrializing Britain rather than Ancient Rome for political models, separated liberty into classic republican and modern liberal types.</s><s xml:id="_mcWUz9K">Modern liberal rights come from Roman roots and are derivations of a rights-based approach to citizenship that made possible the governing of conquered peoples.</s><s xml:id="_3sZC4jT">Protecting the private interests of citizens from public authority (i.e.</s><s xml:id="_CcHtase">Roman power) became the core concern.</s><s xml:id="_TWD8WV5">The Athenian roots of democracy stand in contrast, since civic self-rule was about the citizenbased rule of the collective.</s><s xml:id="_KfzjnXz">As Constant argued, Athenian liberty is dominated by the public interest: 'But while the ancients called this liberty, they saw no inconsistency between this collective freedom and the complete subjection of the individual to the authority of the group' (np).</s><s xml:id="_Cr3dWb5">Constant was clear in his appreciation of modern liberalism's protection against collective impositions.</s><s xml:id="_7hD39Ad">But he also warned of what we might call today its inherent 'post-political' dangers (see Rancie `re 2004):</s></p><p xml:id="_QmhYMsz"><s xml:id="_xRR2tm3">'The danger for modern liberty is that we, absorbed in the enjoyment of our private independence and the pursuit of our particular interests, might surrender too easily our right to share in political power.</s><s xml:id="_gcasm22">The holders of authority encourage us to do just that.</s><s xml:id="_6bre7MR">They are so ready to spare us every sort of trouble except the trouble of obeying and paying!</s><s xml:id="_FAXuqSQ">[. .</s><s xml:id="_A6dE3FS">.]</s><s xml:id="_5ZhB4pc">No, we must not leave it to them.' (np)</s></p><p xml:id="_SH33b8B"><s xml:id="_TZZsGSb">Constant emphasizes the importance of political participation.</s><s xml:id="_xbzkUzu">Enjoying modern liberties, that is having private interests that are protected from authority, necessitates a vibrant public life.</s><s xml:id="_YGffN5G">The two are, as it were, dialectically related.</s><s xml:id="_4yYwS9G">What guards against authoritarianism is not a fetishistic elevation of private interests.</s><s xml:id="_avN5Bdt">Rather we require a vibrant and accessible public sphere.</s><s xml:id="_ebnZMQY">In Constant's careful formulation, the contrasting of private versus public interests is to be rejected, since the eclipse of either promises authoritarianism of one form or another.</s></p><p xml:id="_8uXVkjB"><s xml:id="_JPYtWPa">We can find echoes of Constant's thinking in contemporary critical theory.</s><s xml:id="_duTGY79">For Jacques Rancie `re ( <ref type="formula">2004</ref>), today's western democracies have become dominated by technocrats, what he describes as rule by necessity through an order of experts.</s><s xml:id="_XS2QgWn">Democratic societies are impoverished by them being denied the vibrant public sphere required to enact politics.</s><s xml:id="_JFxuYTA">In Rancie `re's (2009) attempt to retrain our attention onto what is required in properly democratic politics, he urges us to think about citizenship in the republican tradition.</s><s xml:id="_DkGTw46">The pivotal idea here is that equalitythe political logic of democracy-must continually act on the social order.</s><s xml:id="_aRkeTV3">The identification of inequality (i.e.</s><s xml:id="_zXeuy7e">anti-democratic social ordering) must be accompanied by the staging of a political conflict:</s></p><p xml:id="_DbXB5hA"><s xml:id="_zzgPbqk">'Either equality has no effect on the social order or it has an effect in the specific form of wrong.</s><s xml:id="_2H7UUZM">The empty "freedom" that makes the poor of Athens the political subject, demos, is nothing more than the meeting of these two logics.</s><s xml:id="_RmcBK35">It is nothing more than the wrong that institutes the community as a community based on conflict.</s><s xml:id="_nZavUTt">Politics in the practice whereby the logic of the characteristic of equality takes the form of the processing of a wrong, in which politics becomes the argument of a basic wrong that ties in with some established dispute in the distribution of jobs, roles and places.</s><s xml:id="_fH53wEr"><ref type="bibr">' (2004, 35)</ref> In this conceptualization of democracy subjects are passively actively engaged in public life.</s><s xml:id="_UN8A5Aq">Democratic demands are political claims that are listened to.</s><s xml:id="_Tg3pr8Q">Democracy therefore requires an always latent commitment to equality, and citizens are expected to enact politics when inequality is made visible by political claims.</s><s xml:id="_TgyaN7M">This is a demanding theory of citizenship.</s><s xml:id="_ATg89AH">Within a context defined by, and constructed within, political liberalism, Rancie `re requires citizens to present political claims where they find themselves 'non-citizens' (i.e.</s><s xml:id="_68vMBqy">unequal) and, consequently, demands the existing citizenry be willing and able to engage with those types of claims.</s><s xml:id="_TFaGfdh">Democracy, at least for Rancie `re, involves an injunction to be engaged with, and collectively responsible for, the public interest.</s></p><p xml:id="_4WRH3EF"><s xml:id="_uHXUeXP">What then of the distinction between private interests and public interests-between individualism and collectivism-that has underpinned many of the political conflicts that define the neoliberal era?</s><s xml:id="_mzAGUPZ">Two points are worth raising.</s><s xml:id="_4xYkm7s">First, the same modern liberal ideas that are used by neoliberals to defend the individual against the perceived totalitarian creep of the state are founded on a recognition that, as Constant saw it, private interests can only be meaningful when public life is democratically vibrant.</s><s xml:id="_TXvCzfh">Liberty, when conceptualized by enlightenment thinkers like Constant, is not simply a matter of maximizing private interests and minimizing collectivity.</s><s xml:id="_RJuSKM3">Second, and related, to have a democratic society we must be able to identify our collective obligations to democracy (i.e.</s><s xml:id="_sFVMqfR">our role and responsibilities as citizens) and have a space to enact them.</s><s xml:id="_Th9U39F">The fate of private and public spaces in our cities is therefore intertwined; meaningful privatism necessitates a democratic public.</s><s xml:id="_Mkdms87">The papers in this issue of CITY provide insightful contemporary explorations of these themes, first in terms how gentrification plays out in Beirut and second with regards to public space and public life in the city.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_7KEfzcg">Privatization, power and the gentrification of Beirut</head><p xml:id="_fxCZdpY"><s xml:id="_ZaV4wqU">The term 'gentrification' has become ubiquitous.</s><s xml:id="_vXdJXEn">Once a term used to describe the renovation of modest mews houses in London <ref type="bibr" target="#b5">(Glass 1964)</ref>, it is now vernacular used to describe any number of cultural transformations with apparent class dimensions.</s><s xml:id="_BeTj8QP">Ironically, within urban studies an extended application of gentrification theory has been actively resisted.</s><s xml:id="_PpbwjDG">In this journal, <ref type="bibr" target="#b4">Ghertner (2015)</ref> argued that gentrification theory fails in much of the world, its conceptual basis being firmly planted in a particular regulatory and political context.</s><s xml:id="_UcZM4aj">While Ghertner's position is has been criticized (Lo ´pez-Morales 2015), his arguments are part of a wider move to make gentrification theory compatible with postcolonial scholarship <ref type="bibr" target="#b7">(Lees, Shin, and Lo ´pez-Morales 2016)</ref>.</s><s xml:id="_zxB8EsM">This issue's special feature examines Beirut's recent redevelopment and asks what parts of gentrification theory we might be able to use in this distinctive urban setting.</s><s xml:id="_xWKeNGU">For Ashkar, the distinction that Ghertner (2015) introduces is dispensed with, the argument being that we must look beyond a Global North/Global South distinction to see the fundamental political and economic processes that generate a rent gap.</s><s xml:id="_N75M3kh">Fawaz et al. and Marot argue this does not mean overlooking the regulatory and legal structures within which the political and economic processes of the rent gap operate.</s><s xml:id="_wAnrr8X">Rather they claim we must seek to understand the ways in which regulatory and legal structures condition rent gap formation, seeing them as actively conditioning conjunctural (see Peck 2017) land and property market processes.</s></p><p xml:id="_6p29YNG"><s xml:id="_XwZ3MqT">This nuanced analysis of conjunctural urban processes is a critical contribution made collectively by the four papers on Beirut's gentrification.</s><s xml:id="_Bpd5Svu">The papers show the ways regulatory and legal structures shape the city's gentrification.</s><s xml:id="_5SNve4y">Furthermore, by exploring how gentrification in Beirut emerges from a particular context, the papers offer an important commentary on the Lebanese state's role in fostering the relationship between private and public domains and how actually-existing practices involve little meaningful commitment to democratic politics.</s></p><p xml:id="_meX5AWE"><s xml:id="_KHaz5MA">Across all four papers, the close relationship between real estate developers and investors and the city's political elite is central.</s><s xml:id="_CvGqC4W">The state, controlled by the political elite, has been drawn into a relationship that facilitates the interests of capital seeking to profit from the exploitation of Beirut's rent gaps.</s><s xml:id="_FpE9B9s">This facilitation is multi-faceted.</s><s xml:id="_e7B6dyw">Ashkar describes how Lebanese law has been used to enable appropriation, dispossession and the removal of counter-claims.</s><s xml:id="_mZTyVkN">Famaz et al. follow a similar line of inquiry, showing how systems of property exchange create the conditions for forcible acquisition and the removal of tenant organizations.</s><s xml:id="_m8FhakW">For Khechen, these manipulations of state power are indicative of deeper social inequalities, gentrification demonstrating the concentrations of power that have long shaped Lebanon and Beirut.</s><s xml:id="_ubxQrfB">The collection of papers therefore urge us to read Beirut's gentrification as a reflection of embedded, historically-located economic and political processes.</s><s xml:id="_vrNM3Gr">In this framing, gentrification is an outcome of state power being used and manipulated for a specific set of private interests.</s><s xml:id="_7f2YTz5">The commodification of housing in Beirut is then not only problematic because it displaces and evicts poor and working-class communities.</s><s xml:id="_qhM5uSM">We must also extend our critique to encompass an appreciation of how commodification serves, in a completely unambiguous way, undemocratic ends.</s><s xml:id="_6gRrrCm">Public and private interests are not organized to facilitate a democratic social order.</s></p><p xml:id="_wgNDpjH"><s xml:id="_NN4Qh4Q">One might then be tempted to understand Beirut's gentrification as being caused, at least in part, by a 'weak state' that is unable to control the city's capitalist interests.</s><s xml:id="_uSewjt7">Yet the papers' other common theme, the lack of mechanisms to enable representation and contestation, provides pause for thought.</s><s xml:id="_UNFAA42">Marot describes a core contradiction in Beirut's political structure.</s><s xml:id="_kk6UqUN">The Lebanese state has been unable to provide citizens with basic social services, yet it has successfully directed vast amounts of foreign investment into Beirut's property markets.</s><s xml:id="_rsgkeXa">Despite Beirut's turbulent past and regional volatilities, the promised returns from real estate investment in Lebanon have attracted huge capital inflows.</s><s xml:id="_F82FmBK">Old, low-rise buildings have been ripped down and replaced with hastily constructed high-rise condos.</s><s xml:id="_tEWnRFh">Where residents have contested this disruptive gentrification, the state has conditioned legal and political processes to limit resident protest movements.</s><s xml:id="_3xr27kG">The papers describe Beirut's gentrification as necessitating a coordinated process of disenfranchisement, where displaced and excluded residents are actively engineered out of the city's political process.</s><s xml:id="_JQkyCHj">We again find a state forcibly pushing citizens out of the institutions intended to facilitate democratic public life.</s></p><p xml:id="_kxfnD7h"><s xml:id="_3hMxVwZ">We can certainly describe this as yet more privatization of the public realm; a locallyconditioned neoliberal transformation where the reconstruction of the urban process provides a foundation for accumulation.</s><s xml:id="_AyVWxeg">Yet something else might need to be said.</s><s xml:id="_B4EUPYT">In particular, and reflecting on Constant and Rancie `re's thoughts, we might argue that the trend toward an elevated private and diminished public is not key here.</s><s xml:id="_NdjCwmT">Rather, any pretense to the fine balance between public and private interests that democracy entails has been dropped.</s><s xml:id="_kt5S4aK">We are therefore dealing with coercive power, not politics.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_J35WEbQ">Public space/public life</head><p xml:id="_Wh2AxZZ"><s xml:id="_KyCf38y">Kevin Robins' paper on Gezi Park and democracy provides further insight into these necessary distinctions.</s><s xml:id="_4rSSrNc">Robins places the public protest aimed against Gezi Park's redevelopment in the context of a broader realization that Turkey's government had become increasingly authoritarian.</s><s xml:id="_HWc3uxa">The Gezi Park protests are therefore read as being a product of the intersection of real estate investment, state power and the assertion of democratic desires.</s><s xml:id="_6WukzWA">Robins explains how democratic desires necessitated that Gezi function, using Arendt's words, as a space of plurality.</s><s xml:id="_QgRGhUg">The response of an authoritarian state was predictably ruthless.</s><s xml:id="_pzQePs3">Protests, and the space of protest, was shut down, the situation demanding, as Robins' describes it, that civil principles be totally abandoned.</s></p><p xml:id="_xzsC5zP"><s xml:id="_ZhXPq5H">The Gezi Park protests are therefore to be read within the context of declining democracy in Turkey, and the related loss of the ideological and political principles that are necessary to sustain it.</s><s xml:id="_x5ZMGmA">A properly democratic culture, Robins argues, requires an embrace of transformation.</s><s xml:id="_eECAyeN">Echoing Rancie `re (2004), Robins identifies democracy with societies that can change themselves.</s><s xml:id="_rG5X2sd">Democratic societies are those that can identify and rectify apparent social ills.</s><s xml:id="_6GRzX8G">For Robins, two facets of Turkey's democratic society therefore became extinguished in Gezi Park.</s><s xml:id="_bJZcKQK">First, democracies require spaces where political demands can be made: a public sphere.</s><s xml:id="_XBPXsPN">For Benjamin Constant, this might have been a place where public life can be engaged in.</s><s xml:id="_qUb65qG">For <ref type="bibr" target="#b19">Rancie `re (2004)</ref>, it is a space where political demands are made and, crucially, heard.</s><s xml:id="_mCJShFG">This act of hearing relates to Robins' second point, that democratic societies require virtue.</s><s xml:id="_CkMaNYq">Drawing on Machiavelli, Robins argues that democracy mirrors artistic practices, in that they both require imagination.</s><s xml:id="_TPJU94q">Democracy is always emergent and, consequently, the enabling of both private and public spheres is continually weighed and explored.</s></p><p xml:id="_rHscq37"><s xml:id="_9rbZuRK">In the issue's remaining paper, Anguelovski et al. bring together a collection of studies on urban green space to the concern with public life and public space.</s><s xml:id="_qfX2MCz">They argue that although green spaces are often justified by appeals to public life and the associated social benefits, most often they serve profit-maximizing redevelopment interests.</s><s xml:id="_prtHdJ9">Green and sustainability agendas are found to be commonly used to support the channeling of redevelopment funds into processes that deepen the urban social inequalities that have come to define social change over the past 40 years.</s><s xml:id="_FnzhhGD">Although environmental justice agendas might appear to promise a democratic windfall in terms of more green public spaces, the opposite appears true.</s><s xml:id="_sh9zu9c">Under pressure to ensure redevelopment profits are realized, the suppression of democratic activities in public spaces becomes a priority for many city governments.</s></p><p xml:id="_gnnXsVQ"><s xml:id="_fQhtgbj">Robins and Anguelovski et al. therefore both identify the centrality of public space to public life.</s><s xml:id="_N5cJdse">Both papers argue that the realization of democracy seems impossible without a vibrant public sphere where politics can play out.</s><s xml:id="_BT4xDWb">Just as in Beirut, the nexus of state and private capital has served to stem democratic politics in order that profit can be maximized.</s></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head xml:id="_3Y2DT6X">Democratic conclusions</head><p xml:id="_9N9H7fW"><s xml:id="_PUch6RV">As the pages of this journal frequently and often emphatically demonstrate, the idea of democracy is far from extinguished.</s><s xml:id="_sEGGA7m">Indeed, the tortured lengths with which authoritarian regimes go to so that they can play out the pretense of democratic governance is testament to the idea's enduring appeal.</s><s xml:id="_CtpZWUC">Should the project of enacting democracy therefore be one of simply pushing for the reinvigoration of public life/space?</s><s xml:id="_tMmCTKj">In some sense, yes.</s><s xml:id="_BGNHKvb">Years of privatization and technocratic governance have diminished the importance and meaning of public life.</s><s xml:id="_njmCksH">In contrast to <ref type="bibr" target="#b2">Constant's (1816)</ref> claim that we might be enjoying private pursuits too much, what we have witnessed is a systematic elevation of the importance of private interests.</s><s xml:id="_sA22ygv">For most, this has been far from enjoyable.</s><s xml:id="_d5KMq47">And yet, I think Constant was right about the importance of private and public life to democracy.</s><s xml:id="_QX4BXPJ">Much of this issue's discussion about gentrification in Beirut highlights not only the protection of private life and property, but the extension of state power to diminish the ability of the poor and working classes to hold and maintain these things.</s><s xml:id="_6C7kkd9">Not only does the protection of the poor and working classes require a properly democratic public sphere, it also requires a private sphere that is compatible with democracy.</s><s xml:id="_eusbNzD">In other words, achieving democracy, at least in its modern incarnation, requires us to work on that most necessary democratic project of striking a delicate balance of private and public.</s></p><p xml:id="_ZwC9svV"><s xml:id="_baHK8j9">What the papers in this issue demonstrate is how difficult it has become to keep in mind this democratic relationship under increasingly authoritarian conditions.</s><s xml:id="_evHSZGQ">Both the private and public spheres required for democratic practices have been diminished by dangerously authoritarian conflagrations of state and capital.</s><s xml:id="_7z7ANFv">This cannot be purely described as the primacy of the private over public.</s><s xml:id="_E6MfQpb">Instead we might look to Beirut, Gezi Park or innumerable urban green spaces as examples of urban places that are increasingly devoid of the private/public distinction most relevant to critical democratic thought.</s><s xml:id="_8bwyfGe">In these scenarios, we might need basic conceptual approaches that enable us to identify abuses of power and the associated delegitimate use of democratic state institutions.</s></p><p xml:id="_XkN66wF"><s xml:id="_ZgK4QW7">Machiavelli famously wrote that 'Since there cannot be good laws without good arms, I will not consider laws but speak of arms' <ref type="bibr">(Machiavelli 1965, 47)</ref>.</s><s xml:id="_tjvh9k7">Coercion precedes the law, and so politics pivot around the establishment of power over others.</s><s xml:id="_qa6kmQs">Democracy represents our best attempt at transcending Machiavelli's world of subjectification.</s><s xml:id="_ScBrWSx">Democracy is a social order founded on legitimate moral principles (see <ref type="bibr" target="#b19">Rancie `re 2004)</ref>.</s><s xml:id="_vMbHDD5">The papers in this issue of CITY demonstrate how contemporary forms of urban transformation move us further and further from the realization of a democratic city.</s><s xml:id="_x2Tt7gU">Whether it is gentrification being driven by the manipulation of democratic institutions, urban green space being cynically used for profit maximization, or protesters being forced out of a culturally symbolic public space, each of these state actions relies on the illegitimate use of power.</s><s xml:id="_V3RFMZm">We may have to go back to the 1800s before we move forward again.</s></p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main" xml:id="_F2G9CDd">Towards a new epistemology of the urban?</title>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Schmid</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2015.1014712</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_g7pw4yr">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="151" to="182" />
+			<date type="published" when="2015-04-01">2015</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brenner, N., and C. Schmid. 2015. &quot;Towards a New Epis- temology of the Urban?&quot; City 19 (2-3): 151-182.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main" xml:id="_YvAaD2m">Editorial: ‘Planetary’ urbanisation: insecure foundations, the commodification of knowledge, and paradigm shift</title>
+		<author>
+			<persName><forename type="first">Bob</forename><surname>Catterall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2016.1146009</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_Hdch3Db">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2016-01-02">2016</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Catterall, B. 2016. &quot;Editorial: &apos;Planetary&apos; Urbanisation: Insecure Foundations, the Commodification of Knowledge, and Paradigm Shift.&quot; City 20 (1): 1 -9.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main" xml:id="_bvCAfxw">Liberty of Ancients and Moderns</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Constant</surname></persName>
+		</author>
+		<ptr target="http://www.indiana.edu/b356/texts/Constant.htm" />
+		<imprint>
+			<date type="published" when="1816-05-17">1816. May 17, 2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Constant, B. 1816. Liberty of Ancients and Moderns. Accessed May 17, 2018. http://www.indiana.edu/b 356/texts/Constant.htm.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main" xml:id="_jCfnRwG">Transitioning around the elephant in the room</title>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Crabtree</surname></persName>
+			<idno type="ORCID">0000-0001-8167-3976</idno>
+		</author>
+		<idno type="DOI">10.1080/13604813.2017.1407583</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_prNr34j">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="883" to="893" />
+			<date type="published" when="2017-11-02">2017</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Crabtree, L. 2017. &quot;Transitioning Around the Elephant in the Room.&quot; City 21 (6): 883-893.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main" xml:id="_Dn6CQ2S">Why gentrification theory fails in ‘much of the world’</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Ghertner</surname></persName>
+			<idno type="ORCID">0000-0003-4871-2456</idno>
+		</author>
+		<idno type="DOI">10.1080/13604813.2015.1051745</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_g2UgpT6">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="552" to="563" />
+			<date type="published" when="2015-07-04">2015</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ghertner, D. A. 2015. &quot;Why Gentrification Theory Fails in &apos;Much of the World&apos;.&quot; City 19 (4): 552-563.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main" xml:id="_AtS8CjX">Glass, Ruth, (30 June 1912–7 March 1990), Director, Centre for Urban Studies, University College London, since 1958</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Glass</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ww/9780199540884.013.u164559</idno>
+		<imprint>
+			<date type="published" when="1964">1964</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>London, UK</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University College London Centre for Urban Studies</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Glass, R. 1964. London: Aspects of Change. London, UK: University College London Centre for Urban Studies.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main" xml:id="_dcQDTRA">The Road to Serfdom</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Hayek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Caldwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Caldwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Caldwell</surname></persName>
+		</author>
+		<idno type="DOI">10.7208/chicago/9780226320533.001.0001</idno>
+		<editor>B. Caldwell</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note>1st ed</note>
+	<note type="raw_reference">Hayek, F. A. 2007. The Road to Serfdom: Text and Docu- ments-The Definitive Edition. Edited by B. Caldwell, 1st ed. Chicago: University of Chicago Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lo ´pez-Morales</surname></persName>
+		</author>
+		<title level="m" xml:id="_anfhg2c">Planetary Gentrification</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lees, L., H. B. Shin, and E. Lo ´pez-Morales. 2016. Plane- tary Gentrification. Cambridge: Polity.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lefebvre</surname></persName>
+		</author>
+		<title level="m" xml:id="_AzGEQd7">The Urban Revolution</title>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>Univ of Minnesota Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lefebvre, H. 2003. The Urban Revolution. Minneapolis: Univ of Minnesota Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main" xml:id="_pzbrsXr">Gentrification in the global South</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lo ´pez-Morales</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2015.1051746</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_uUgVrnY">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="564" to="573" />
+			<date type="published" when="2015-07-04">2015</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lo ´pez-Morales, E. 2015. &quot;Gentrification in the Global South.&quot; City 19 (4): 564-573.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Machiavelli</surname></persName>
+		</author>
+		<title level="m" xml:id="_8PbDMvf">The Chief Works and Others</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Gilbert</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Machiavelli, N. 1965. The Chief Works and Others. Translated by A. Gilbert. Durham, NC: Duke Univer- sity Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main" xml:id="_en7SyMZ">PRIVATIZATION UNDER MRS. THATCHER: A REVIEW OF THE LITERATURE</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Marsh</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9299.1991.tb00915.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_fGWMSYM">Public Administration</title>
+		<title level="j" type="abbrev">Public Administration</title>
+		<idno type="ISSN">0033-3298</idno>
+		<idno type="ISSNe">1467-9299</idno>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="459" to="480" />
+			<date type="published" when="1991-12">1991</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marsh, D. 1991. &quot;Privatization Under Mrs. Thatcher: A Review of the Literature.&quot; Public Administration 69 (4): 459-480.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main" xml:id="_aUu5mpt">Noam Chomsky and the Struggle Against Neoliberalism</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">W</forename><surname>Mcchesney</surname></persName>
+		</author>
+		<idno type="DOI">10.14452/mr-050-11-1999-04_4</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_3K5nPve">Monthly Review</title>
+		<title level="j" type="abbrev">Mon. Rev.</title>
+		<idno type="ISSN">0027-0520</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">40</biblScope>
+			<date type="published" when="1999-04-04">1999</date>
+			<publisher>Monthly Review Foundation</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McChesney, R. W. 1999. &quot;Noam Chomsky and the Struggle Against Neoliberalism.&quot; Monthly Review 50 (11): 40-47.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main" xml:id="_sXfV4nf">Human Action: The Scholar&apos;s Edition</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mises</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Von</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mises, L. von. 2010. Human Action: The Scholar&apos;s Edition.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Auburn</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Ludwig von Mises Institute</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Auburn, AL: Ludwig von Mises Institute.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main" xml:id="_aQeT2Tw">Austerity urbanism</title>
+		<author>
+			<persName><forename type="first">Jamie</forename><surname>Peck</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2012.734071</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_VdqAtZb">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="626" to="655" />
+			<date type="published" when="2012-12">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peck, J. 2012. &quot;Austerity Urbanism.&quot; City 16 (6): 626-655.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main" xml:id="_8RvSput">Transatlantic city, part 1: Conjunctural urbanism</title>
+		<author>
+			<persName><forename type="first">Jamie</forename><surname>Peck</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0042098016679355</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_nPE6Bp6">Urban Studies</title>
+		<title level="j" type="abbrev">Urban Studies</title>
+		<idno type="ISSN">0042-0980</idno>
+		<idno type="ISSNe">1360-063X</idno>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="30" />
+			<date type="published" when="2017">2017</date>
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peck, J. 2017. &quot;Transatlantic City, Part 1: Conjunctural Urbanism.&quot; Urban Studies 54 (1): 4 -30.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main" xml:id="_WvTHx4p">Reframing Housing Struggles</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pe ´rez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_9252XNg">City</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="530" to="549" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pe ´rez, M. 2017. &quot;Reframing Housing Struggles.&quot; City 21 (5): 530-549.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main" xml:id="_x7VtDHM">The privatisation of urban development and the London Olympics 2012</title>
+		<author>
+			<persName><forename type="first">Mike</forename><surname>Raco</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2012.696903</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_gWsXYRU">City</title>
+		<title level="j" type="abbrev">City</title>
+		<idno type="ISSN">1360-4813</idno>
+		<idno type="ISSNe">1470-3629</idno>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="452" to="460" />
+			<date type="published" when="2012-08">2012</date>
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Raco, M. 2012. &quot;The Privatisation of Urban Development and the London Olympics 2012.&quot; City 16 (4): 452-460.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rancie `re</surname></persName>
+		</author>
+		<title level="m" xml:id="_2NcdXQf">Disagreement: Politics and Philosophy</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Rose</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rancie `re, J. 2004. Disagreement: Politics and Philosophy. Translated by J. Rose. Minneapolis: University of Minnesota Press.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main" xml:id="_gGgSH7Y">Hatred of Democracy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rancie `re</surname></persName>
+		</author>
+		<editor>S. Corcoran</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd ed</note>
+	<note type="raw_reference">Rancie `re, J. 2009. Hatred of Democracy. Translated by S. Corcoran, 2nd ed. London: Verso.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main" xml:id="_eb3J92C">Rational Expectations and Neoclassical Economics: The Methodology of the New Classical Macroeconomics</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rogers</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1813-6982.1982.tb00769.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_6nVXAQp">South African Journal of Economics</title>
+		<title level="j" type="abbrev">South African J Economics</title>
+		<idno type="ISSN">0038-2280</idno>
+		<idno type="ISSNe">1813-6982</idno>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="212" to="225" />
+			<date type="published" when="1982-12">1982</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rogers, C. 1982. &quot;Rational Expectations and Neoclassical Economics: The Methodology of the New Classical Macroeconomics.&quot; The South African Journal of Economics 50 (4): 212-225.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main" xml:id="_XDmdFVk">The Antinomies of the Postpolitical City: In Search of a Democratic Politics of Environmental Production</title>
+		<author>
+			<persName><forename type="first">Erik</forename><surname>Swyngedouw</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2427.2009.00859.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j" xml:id="_FFe292X">International Journal of Urban and Regional Research</title>
+		<title level="j" type="abbrev">Int J Urban Regional Res</title>
+		<idno type="ISSN">0309-1317</idno>
+		<idno type="ISSNe">1468-2427</idno>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="601" to="620" />
+			<date type="published" when="2009-09">2009</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Swyngedouw, E. 2009. &quot;The Antinomies of the Postpoliti- cal City: In Search of a Democratic Politics of Environmental Production.&quot; International Journal of Urban and Regional Research 33 (3): 601-620.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main" xml:id="_N7jdBuE">Living in the End Times</title>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Verso</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z ˇiz ˇek, S. 2011. Living in the End Times. New York: Verso.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
